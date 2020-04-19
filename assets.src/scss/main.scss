@@ -1,0 +1,20 @@
+/*!
+ * Kode Wilayah WebApp v1.0.0
+ * Copyright 2020 Muhammad Afifudin
+ * https://github.com/afiiif/
+ *
+ */
+
+
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+@import 'vendors/bootstrap';
+@import 'vendors/bootstrap-select';
+@import 'vendors/dataTables';
+
+// @import 'components/dropzone';
+
+@import 'themes/theme';
+
+@import 'utilities';
