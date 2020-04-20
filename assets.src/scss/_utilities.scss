@@ -14,7 +14,7 @@
 
 // Line Height
 .lh {
-	@each $a in ( 100,125,135,150,175,200 ) {
+	@each $a in ( 100,110,120,125,135,150,175,200 ) {
 		&-#{$a} { line-height: #{$a/100} !important; }
 	}
 }
@@ -65,6 +65,7 @@
 // Margin
 .m {
 	@each $i,$a in $spacing {
+		&-#{$i} { margin: #{$a} !important; }
 		@each $j,$b in ( t:top, b:bottom, l:left, r:right ) {
 			&#{$j}-#{$i} { margin-#{$b}: #{$a} !important; }
 			@if ($i!=0) {
@@ -83,6 +84,7 @@
 // Padding
 .p {
 	@each $i,$a in $spacing {
+		&-#{$i} { padding: #{$a} !important; }
 		@each $j,$b in ( t:top, b:bottom, l:left, r:right ) {
 			&#{$j}-#{$i} { padding-#{$b}: #{$a} !important; }
 		}
@@ -138,6 +140,7 @@
 		// Margin
 		.m {
 			@each $i,$a in $spacing {
+				&-#{$x}-#{$i} { margin: #{$a} !important; }
 				@each $j,$b in ( t:top, b:bottom, l:left, r:right ) {
 					&#{$j}-#{$x}-#{$i} { margin-#{$b}: #{$a} !important; }
 					@if ($i!=0) {
@@ -156,6 +159,7 @@
 		// Padding
 		.p {
 			@each $i,$a in $spacing {
+				&-#{$x}-#{$i} { padding: #{$a} !important; }
 				@each $j,$b in ( t:top, b:bottom, l:left, r:right ) {
 					&#{$j}-#{$x}-#{$i} { padding-#{$b}: #{$a} !important; }
 				}

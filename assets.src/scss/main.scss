@@ -10,11 +10,12 @@
 @import 'abstracts/mixins';
 
 @import 'vendors/bootstrap';
-@import 'vendors/bootstrap-select';
-@import 'vendors/dataTables';
 
-// @import 'components/dropzone';
+@import 'layout/header';
 
+@import 'components/search-form';
+
+@import 'themes/animation';
 @import 'themes/theme';
 
 @import 'utilities';

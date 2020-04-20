@@ -1,0 +1,66 @@
+header {
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    transition: height .5s ease-in-out;
+
+    // >.arrow-down {
+    //     position: absolute;
+    //     cursor: pointer;
+    //     animation: bounce 2s infinite;
+    //     bottom: .75rem;
+    //     left: calc(50% - 7.5rem);
+    //     width: 15rem;
+    //     text-align: center;
+    //     opacity: .4;
+
+    //     &:hover {
+    //         opacity: 1;
+    //     }
+
+    //     >svg {
+    //         width: 2.75rem;
+    //         fill: #fff;
+    //     }
+    // }
+
+    >nav {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        display: flex;
+
+        #nav-brand {
+            font-size: 26px;
+            color: #fff;
+            transition: all .5s ease-in-out;
+
+            &:hover,
+            &:focus {
+                color: #fff;
+                text-decoration: none;
+            }
+        }
+    }
+}
+
+.search-active header {
+    height: 0;
+
+    #nav-brand {
+        font-size: 14px;
+
+        @media (min-width: $breakpoint-sm) {
+            font-size: 20px;
+
+            >.fw-3 {
+                display: block;
+            }
+        }
+    }
+
+}

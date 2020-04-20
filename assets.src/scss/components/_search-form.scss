@@ -1,0 +1,140 @@
+.search-form {
+
+    &-wrapper {
+        display: flex;
+        font-size: 20px;
+        color: #fff;
+        border-bottom: 2px solid #fff;
+        width: 320px;
+        max-width: calc(100vw - 30px);
+        position: relative;
+        transition: all .5s ease-in-out;
+    }
+
+    &-input {
+        font-size: 18px;
+        background-color: transparent;
+        border: none;
+        color: #fff;
+        padding: 8px 14px 8px 0;
+        width: 100%;
+        min-width: 50px;
+        font-weight: 300;
+    }
+
+    &-btn {
+        font-size: 18px;
+        background-color: transparent;
+        border: none;
+        padding: 8px;
+        color: #fff;
+    }
+
+    &-setting {
+        &-wrapper {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            transition: all .5s ease-in-out;
+        }
+
+        &-btn {
+            font-size: 18px;
+            background-color: transparent;
+            border: none;
+            padding: 8px;
+            color: #fff;
+            position: absolute;
+            right: 0;
+            top: 4px;
+        }
+    }
+
+    @media (min-width: $breakpoint-sm) {
+
+        &-wrapper {
+            width: 420px;
+        }
+
+        &-input {
+            font-size: 24px;
+            padding: 10px 18px 10px 0;
+        }
+
+        &-btn {
+            font-size: 24px;
+            padding: 10px;
+        }
+
+        &-setting {
+            &-btn {
+                font-size: 24px;
+                padding: 10px;
+            }
+        }
+
+    }
+
+}
+
+.search-active .search-form {
+
+    &-wrapper-outer {
+        width: 100%;
+        padding: 15px 0;
+        margin-top: 1.25rem;
+    }
+
+    &-wrapper {
+        padding: 0 15px;
+        width: 100%;
+        max-width: 100%;
+        border-bottom-color: var(--blue);
+    }
+
+    &-input {
+        font-size: 16px;
+    }
+
+    &-setting {
+        &-wrapper {
+            position: relative;
+            top: unset;
+            left: unset;
+            right: unset;
+        }
+
+        &-btn {
+            position: relative;
+            top: unset;
+        }
+    }
+
+    @media (min-width: $breakpoint-sm) {
+
+        &-wrapper-outer {
+            margin-top: 0;
+            padding: 11px 64px 11px 136px;
+            max-width: 660px;
+        }
+
+        &-wrapper {
+            padding: 0;
+        }
+
+        &-input {
+            font-size: 24px;
+        }
+
+        &-setting {
+            &-wrapper {
+                position: absolute;
+                top: 0;
+                left: unset;
+                right: -50px;
+            }
+        }
+    }
+
+}
