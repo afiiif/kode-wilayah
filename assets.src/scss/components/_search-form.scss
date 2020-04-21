@@ -1,5 +1,9 @@
 .search-form {
 
+    &-wrapper-outer {
+        transition: all .5s ease-in-out;
+    }
+
     &-wrapper {
         display: flex;
         font-size: 20px;
@@ -51,7 +55,7 @@
         }
     }
 
-    @media (min-width: $breakpoint-sm) {
+    @media (min-width: $breakpoint-md) {
 
         &-wrapper {
             width: 420px;
@@ -82,12 +86,11 @@
 
     &-wrapper-outer {
         width: 100%;
-        padding: 15px 0;
-        margin-top: 1.25rem;
+        padding: 50px 0 0 0;
     }
 
     &-wrapper {
-        padding: 0 15px;
+        padding: 0 15px 2px;
         width: 100%;
         max-width: 100%;
         border-bottom-color: var(--blue);
@@ -111,16 +114,16 @@
         }
     }
 
-    @media (min-width: $breakpoint-sm) {
+    @media (min-width: $breakpoint-md) {
 
         &-wrapper-outer {
-            margin-top: 0;
-            padding: 11px 64px 11px 136px;
-            max-width: 660px;
+            padding: 11px 10px 11px 0;
+            max-width: 440px;
         }
 
         &-wrapper {
             padding: 0;
+            border-bottom-color: #fff;
         }
 
         &-input {
@@ -135,6 +138,15 @@
                 right: -50px;
             }
         }
+    }
+
+    @media (min-width: $breakpoint-lg) {
+
+        &-wrapper-outer {
+            padding: 11px 60px 11px 0;
+            max-width: 500px;
+        }
+
     }
 
 }

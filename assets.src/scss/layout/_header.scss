@@ -1,5 +1,6 @@
 header {
     height: 100vh;
+    overflow: hidden;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -7,31 +8,11 @@ header {
     position: relative;
     transition: height .5s ease-in-out;
 
-    // >.arrow-down {
-    //     position: absolute;
-    //     cursor: pointer;
-    //     animation: bounce 2s infinite;
-    //     bottom: .75rem;
-    //     left: calc(50% - 7.5rem);
-    //     width: 15rem;
-    //     text-align: center;
-    //     opacity: .4;
-
-    //     &:hover {
-    //         opacity: 1;
-    //     }
-
-    //     >svg {
-    //         width: 2.75rem;
-    //         fill: #fff;
-    //     }
-    // }
-
     >nav {
         position: absolute;
+        z-index: 3;
         top: 0;
         left: 0;
-        right: 0;
         display: flex;
 
         #nav-brand {
@@ -46,21 +27,81 @@ header {
             }
         }
     }
+
+    .explore-wrapper {
+        position: absolute;
+        bottom: 18px;
+        right: 15px;
+        font-size: 18px;
+        transition: all .5s ease-in-out;
+
+        >.btn {
+            font-size: inherit;
+            opacity: .7;
+            >i {
+                margin-right: 12px;
+            }
+
+            &:hover {
+                opacity: 1;
+            }
+        }
+    }
 }
 
 .search-active header {
-    height: 0;
+    height: 97px;
 
     #nav-brand {
+        margin-top: 1px;
         font-size: 14px;
 
-        @media (min-width: $breakpoint-sm) {
+        @media (min-width: $breakpoint-md) {
             font-size: 20px;
 
             >.fw-3 {
                 display: block;
             }
         }
+    }
+
+    .explore-wrapper {
+        bottom: 54px;
+        font-size: 12px;
+    }
+
+    @media (min-width: $breakpoint-md) {
+
+        height: 80px;
+
+        .explore-wrapper {
+            bottom: 14px;
+            font-size: 24px;
+
+            >.btn {
+                >i {
+                    margin-right: 0;
+                }
+                >span {
+                    display: none;
+                }
+            }
+        }
+    }
+
+    @media (min-width: $breakpoint-lg) {
+
+        .explore-wrapper {
+            bottom: 7px;
+            >.btn {
+                line-height: 1.35;
+                >span {
+                    display: block;
+                    font-size: 13px;
+                }
+            }
+        }
+
     }
 
 }
