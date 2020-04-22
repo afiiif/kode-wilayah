@@ -12,7 +12,7 @@
         width: 320px;
         max-width: calc(100vw - 30px);
         position: relative;
-        transition: all .5s ease-in-out;
+        transition: all .5s ease-in-out, padding-left 0s linear;
     }
 
     &-input {
@@ -32,6 +32,16 @@
         border: none;
         padding: 8px;
         color: #fff;
+
+        >i {
+            display: inline-block;
+        }
+
+        &:hover>i {
+            animation-name: tada;
+            animation-duration: 1s;
+            animation-fill-mode: both;
+        }
     }
 
     &-setting {
@@ -52,6 +62,14 @@
             position: absolute;
             right: 0;
             top: 4px;
+
+            >i {
+                display: inline-block;
+            }
+
+            &:hover>i {
+                animation: fa-spin 2s infinite linear;
+            }
         }
     }
 

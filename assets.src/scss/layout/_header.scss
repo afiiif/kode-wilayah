@@ -20,10 +20,20 @@ header {
             color: #fff;
             transition: all .5s ease-in-out;
 
+            >.icon-location-pin {
+                display: inline-block;
+            }
+
             &:hover,
             &:focus {
                 color: #fff;
                 text-decoration: none;
+            }
+
+            &:hover>.icon-location-pin {
+                animation-name: rubberBand;
+                animation-duration: 1s;
+                animation-fill-mode: both;
             }
         }
     }
@@ -38,12 +48,20 @@ header {
         >.btn {
             font-size: inherit;
             opacity: .7;
+
             >i {
+                display: inline-block;
                 margin-right: 12px;
             }
 
             &:hover {
                 opacity: 1;
+
+                &>i {
+                    animation-name: tada;
+                    animation-duration: 1s;
+                    animation-fill-mode: both;
+                }
             }
         }
     }
@@ -82,6 +100,7 @@ header {
                 >i {
                     margin-right: 0;
                 }
+
                 >span {
                     display: none;
                 }
@@ -93,8 +112,10 @@ header {
 
         .explore-wrapper {
             bottom: 7px;
+
             >.btn {
                 line-height: 1.35;
+
                 >span {
                     display: block;
                     font-size: 13px;

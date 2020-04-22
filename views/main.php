@@ -23,7 +23,7 @@
 <body>
 
 	<header class="bg-primary-gradient pb-6">
-		<nav class="p-a p-sm-3">
+		<nav class="p-a p-md-3">
 			<a id="nav-brand" href="" class="d-block lh-120 animated animated-1s bounceInDown">
 				<i class="icon-location-pin mr-1"></i>
 				<span class="fw-8">KODE</span>
@@ -48,19 +48,39 @@
 	</header>
 
 	<main>
-		<div id="result" class="p-5" style="display: none;">
-			<h1>Lorem Ipsum</h1>
-			<hr>
-			<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta obcaecati deleniti, voluptate, impedit atque aut sint itaque, enim minus eligendi suscipit adipisci? Nisi id accusantium asperiores amet ducimus voluptate illo.</p>
-			<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta obcaecati deleniti, voluptate, impedit atque aut sint itaque, enim minus eligendi suscipit adipisci? Nisi id accusantium asperiores amet ducimus voluptate illo.</p>
-			<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta obcaecati deleniti, voluptate, impedit atque aut sint itaque, enim minus eligendi suscipit adipisci? Nisi id accusantium asperiores amet ducimus voluptate illo.</p>
-			<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta obcaecati deleniti, voluptate, impedit atque aut sint itaque, enim minus eligendi suscipit adipisci? Nisi id accusantium asperiores amet ducimus voluptate illo.</p>
-			<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta obcaecati deleniti, voluptate, impedit atque aut sint itaque, enim minus eligendi suscipit adipisci? Nisi id accusantium asperiores amet ducimus voluptate illo.</p>
-			<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta obcaecati deleniti, voluptate, impedit atque aut sint itaque, enim minus eligendi suscipit adipisci? Nisi id accusantium asperiores amet ducimus voluptate illo.</p>
-			<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta obcaecati deleniti, voluptate, impedit atque aut sint itaque, enim minus eligendi suscipit adipisci? Nisi id accusantium asperiores amet ducimus voluptate illo.</p>
-			<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta obcaecati deleniti, voluptate, impedit atque aut sint itaque, enim minus eligendi suscipit adipisci? Nisi id accusantium asperiores amet ducimus voluptate illo.</p>
-			<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta obcaecati deleniti, voluptate, impedit atque aut sint itaque, enim minus eligendi suscipit adipisci? Nisi id accusantium asperiores amet ducimus voluptate illo.</p>
-			<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta obcaecati deleniti, voluptate, impedit atque aut sint itaque, enim minus eligendi suscipit adipisci? Nisi id accusantium asperiores amet ducimus voluptate illo.</p>
+		<div id="result" class="px-a pl-md-0 pr-md-6 pr-lg-7 py-4 py-md-45" style="display: none;">
+			<section id="result-summary">
+				<div>Menemukan 2 Provinsi, 6 Kabupaten/Kota, dan 28 Kecamatan.</div>
+			</section>
+			<section id="result-table">
+				<div class="table-tree-wrapper">
+					<table class="table-tree">
+						<thead>
+							<tr><th>Kode</th><th>Nama Wilayah</th></tr>
+						</thead>
+						<tbody>
+							<tr class="lv-0 toggle"><td><b>33</b></td><td>Jawa Tengah</tr>
+							<tr class="lv-1 toggle toggle-collapse"><td>33<b>08</b></td><td>Kabupaten Magelang</tr>
+							<tr class="lv-0 toggle"><td><b>61</b></td><td>Kalimantan Barat</tr>
+							<tr class="lv-1 toggle"><td>61<b>01</b></td><td>Kabupaten Sambas</tr>
+							<tr class="lv-2"><td>6101<b>020</b></td><td>Kecamatan Pemangkat</tr>
+							<tr class="lv-2 toggle"><td>6101<b>030</b></td><td>Kecamatan Tebas</tr>
+							<tr class="lv-1"><td>61<b>02</b></td><td>Kabupaten Bengkayang</tr>
+							<tr class="lv-1 toggle"><td>61<b>06</b></td><td>Kabupaten Ketapang</tr>
+							<tr class="lv-1 toggle"><td>61<b>11</b></td><td>Kabupaten Kayong Utara</tr>
+							<tr class="lv-2"><td>6111<b>020</b></td><td>Kecamatan Sukadana</tr>
+							<tr class="lv-3"><td>6111020<b>004</b></td><td>Desa Sutera</tr>
+							<tr class="lv-3 toggle toggle-collapse"><td>6111020<b>004</b></td><td>Desa Sutera</tr>
+							<tr class="lv-0 toggle toggle-collapse"><td><b>62</b></td><td>Kalimantan Tengah</tr>
+							<tr class="lv-0 toggle toggle-collapse"><td><b>63</b></td><td>Kalimantan Selatan</tr>
+							<tr class="lv-0 toggle toggle-collapse"><td><b>64</b></td><td>Kalimantan Timur</tr>
+							<tr class="lv-0 toggle toggle-collapse"><td><b>65</b></td><td>Kalimantan Utara</tr>
+							<tr class="lv-0 toggle toggle-collapse"><td><b>71</b></td><td>Sulawesi Utara</tr>
+							<tr class="lv-0 toggle toggle-collapse"><td><b>72</b></td><td>Sulawesi Tengah</tr>
+						</tbody>
+					</table>
+				</div>
+			</section>
 		</div>
 	</main>
 
@@ -71,6 +91,9 @@
 	<script src="assets/js/main.js?v=<?php include 'views/partials/_version.php'; ?>"></script>
 	<script>
 		const DEV = <?= json_encode(SITE === 'http://localhost') ?>;
+		$('.table-tree .toggle td').click(function() {
+			$(this).parent().toggleClass('toggle-collapse');
+		});
 	</script>
 
 </body>
