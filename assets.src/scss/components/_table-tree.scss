@@ -4,7 +4,8 @@
         white-space: nowrap;
         margin: 0 -8px;
         width: calc(100% + 16px);
-        overflow-y: auto;
+        overflow-x: auto;
+        overflow-y: hidden;
 
         .table-tree {
             width: 100%;
@@ -74,6 +75,10 @@
                     }
                 }
 
+                mark {
+                    color: $color;
+                }
+
                 >td:first-child {
                     padding-left: 18px * ($x+1);
 
@@ -89,18 +94,18 @@
 
                 &.toggle>td:first-child {
                     &::before {
-                        @include font-awesome("\f078");
+                        @include font-awesome("\f054");
                         font-size: 12px;
                         top: $top;
                         left: 18px * $x;
                         transform: rotate(0);
-                        transition: transform .3s ease-in-out;
+                        transition: transform .15s ease-in-out;
                     }
                 }
 
-                &.toggle-collapse>td:first-child {
+                &.toggle-expanded>td:first-child {
                     &::before {
-                        transform: rotate(-90deg);
+                        transform: rotate(90deg);
                     }
                 }
 
