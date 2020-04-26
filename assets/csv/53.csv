@@ -1,0 +1,5808 @@
+5301,Sumba Barat
+5301021,Lamboya
+5301021021,Lamboya
+5301021022,Wanokaka
+5301021023,Laboya Barat
+5301021050,Loli
+5301021060,Kota Waikabubak
+5301021072,Tana Righu
+5301022,Wanokaka
+5301022021,Lamboya
+5301022022,Wanokaka
+5301022023,Laboya Barat
+5301022050,Loli
+5301022060,Kota Waikabubak
+5301022072,Tana Righu
+5301023,Laboya Barat
+5301023021,Lamboya
+5301023022,Wanokaka
+5301023023,Laboya Barat
+5301023050,Loli
+5301023060,Kota Waikabubak
+5301023072,Tana Righu
+5301050,Loli
+5301050021,Lamboya
+5301050022,Wanokaka
+5301050023,Laboya Barat
+5301050050,Loli
+5301050060,Kota Waikabubak
+5301050072,Tana Righu
+5301060,Kota Waikabubak
+5301060021,Lamboya
+5301060022,Wanokaka
+5301060023,Laboya Barat
+5301060050,Loli
+5301060060,Kota Waikabubak
+5301060072,Tana Righu
+5301072,Tana Righu
+5301072021,Lamboya
+5301072022,Wanokaka
+5301072023,Laboya Barat
+5301072050,Loli
+5301072060,Kota Waikabubak
+5301072072,Tana Righu
+5302,Sumba Timur
+5302010,Lewa
+5302010010,Lewa
+5302010011,Nggaha Oriangu
+5302010012,Lewa Tidahu
+5302010013,Katala Hamu Lingu
+5302010020,Tabundung
+5302010021,Pinupahar
+5302010030,Paberiwai
+5302010031,Karera
+5302010032,Matawai La Pawu
+5302010033,Kahaungu Eti
+5302010034,Mahu
+5302010035,Ngadu Ngala
+5302010040,Pahunga Lodu
+5302010041,Wula Waijelu
+5302010051,Rindi
+5302010052,Umalulu
+5302010060,Pandawai
+5302010061,Kambata Mapambuhang
+5302010070,Kota Waingapu
+5302010071,Kambera
+5302010080,Haharu
+5302010081,Kanatang
+5302011,Nggaha Oriangu
+5302011010,Lewa
+5302011011,Nggaha Oriangu
+5302011012,Lewa Tidahu
+5302011013,Katala Hamu Lingu
+5302011020,Tabundung
+5302011021,Pinupahar
+5302011030,Paberiwai
+5302011031,Karera
+5302011032,Matawai La Pawu
+5302011033,Kahaungu Eti
+5302011034,Mahu
+5302011035,Ngadu Ngala
+5302011040,Pahunga Lodu
+5302011041,Wula Waijelu
+5302011051,Rindi
+5302011052,Umalulu
+5302011060,Pandawai
+5302011061,Kambata Mapambuhang
+5302011070,Kota Waingapu
+5302011071,Kambera
+5302011080,Haharu
+5302011081,Kanatang
+5302012,Lewa Tidahu
+5302012010,Lewa
+5302012011,Nggaha Oriangu
+5302012012,Lewa Tidahu
+5302012013,Katala Hamu Lingu
+5302012020,Tabundung
+5302012021,Pinupahar
+5302012030,Paberiwai
+5302012031,Karera
+5302012032,Matawai La Pawu
+5302012033,Kahaungu Eti
+5302012034,Mahu
+5302012035,Ngadu Ngala
+5302012040,Pahunga Lodu
+5302012041,Wula Waijelu
+5302012051,Rindi
+5302012052,Umalulu
+5302012060,Pandawai
+5302012061,Kambata Mapambuhang
+5302012070,Kota Waingapu
+5302012071,Kambera
+5302012080,Haharu
+5302012081,Kanatang
+5302013,Katala Hamu Lingu
+5302013010,Lewa
+5302013011,Nggaha Oriangu
+5302013012,Lewa Tidahu
+5302013013,Katala Hamu Lingu
+5302013020,Tabundung
+5302013021,Pinupahar
+5302013030,Paberiwai
+5302013031,Karera
+5302013032,Matawai La Pawu
+5302013033,Kahaungu Eti
+5302013034,Mahu
+5302013035,Ngadu Ngala
+5302013040,Pahunga Lodu
+5302013041,Wula Waijelu
+5302013051,Rindi
+5302013052,Umalulu
+5302013060,Pandawai
+5302013061,Kambata Mapambuhang
+5302013070,Kota Waingapu
+5302013071,Kambera
+5302013080,Haharu
+5302013081,Kanatang
+5302020,Tabundung
+5302020010,Lewa
+5302020011,Nggaha Oriangu
+5302020012,Lewa Tidahu
+5302020013,Katala Hamu Lingu
+5302020020,Tabundung
+5302020021,Pinupahar
+5302020030,Paberiwai
+5302020031,Karera
+5302020032,Matawai La Pawu
+5302020033,Kahaungu Eti
+5302020034,Mahu
+5302020035,Ngadu Ngala
+5302020040,Pahunga Lodu
+5302020041,Wula Waijelu
+5302020051,Rindi
+5302020052,Umalulu
+5302020060,Pandawai
+5302020061,Kambata Mapambuhang
+5302020070,Kota Waingapu
+5302020071,Kambera
+5302020080,Haharu
+5302020081,Kanatang
+5302021,Pinupahar
+5302021010,Lewa
+5302021011,Nggaha Oriangu
+5302021012,Lewa Tidahu
+5302021013,Katala Hamu Lingu
+5302021020,Tabundung
+5302021021,Pinupahar
+5302021030,Paberiwai
+5302021031,Karera
+5302021032,Matawai La Pawu
+5302021033,Kahaungu Eti
+5302021034,Mahu
+5302021035,Ngadu Ngala
+5302021040,Pahunga Lodu
+5302021041,Wula Waijelu
+5302021051,Rindi
+5302021052,Umalulu
+5302021060,Pandawai
+5302021061,Kambata Mapambuhang
+5302021070,Kota Waingapu
+5302021071,Kambera
+5302021080,Haharu
+5302021081,Kanatang
+5302030,Paberiwai
+5302030010,Lewa
+5302030011,Nggaha Oriangu
+5302030012,Lewa Tidahu
+5302030013,Katala Hamu Lingu
+5302030020,Tabundung
+5302030021,Pinupahar
+5302030030,Paberiwai
+5302030031,Karera
+5302030032,Matawai La Pawu
+5302030033,Kahaungu Eti
+5302030034,Mahu
+5302030035,Ngadu Ngala
+5302030040,Pahunga Lodu
+5302030041,Wula Waijelu
+5302030051,Rindi
+5302030052,Umalulu
+5302030060,Pandawai
+5302030061,Kambata Mapambuhang
+5302030070,Kota Waingapu
+5302030071,Kambera
+5302030080,Haharu
+5302030081,Kanatang
+5302031,Karera
+5302031010,Lewa
+5302031011,Nggaha Oriangu
+5302031012,Lewa Tidahu
+5302031013,Katala Hamu Lingu
+5302031020,Tabundung
+5302031021,Pinupahar
+5302031030,Paberiwai
+5302031031,Karera
+5302031032,Matawai La Pawu
+5302031033,Kahaungu Eti
+5302031034,Mahu
+5302031035,Ngadu Ngala
+5302031040,Pahunga Lodu
+5302031041,Wula Waijelu
+5302031051,Rindi
+5302031052,Umalulu
+5302031060,Pandawai
+5302031061,Kambata Mapambuhang
+5302031070,Kota Waingapu
+5302031071,Kambera
+5302031080,Haharu
+5302031081,Kanatang
+5302032,Matawai La Pawu
+5302032010,Lewa
+5302032011,Nggaha Oriangu
+5302032012,Lewa Tidahu
+5302032013,Katala Hamu Lingu
+5302032020,Tabundung
+5302032021,Pinupahar
+5302032030,Paberiwai
+5302032031,Karera
+5302032032,Matawai La Pawu
+5302032033,Kahaungu Eti
+5302032034,Mahu
+5302032035,Ngadu Ngala
+5302032040,Pahunga Lodu
+5302032041,Wula Waijelu
+5302032051,Rindi
+5302032052,Umalulu
+5302032060,Pandawai
+5302032061,Kambata Mapambuhang
+5302032070,Kota Waingapu
+5302032071,Kambera
+5302032080,Haharu
+5302032081,Kanatang
+5302033,Kahaungu Eti
+5302033010,Lewa
+5302033011,Nggaha Oriangu
+5302033012,Lewa Tidahu
+5302033013,Katala Hamu Lingu
+5302033020,Tabundung
+5302033021,Pinupahar
+5302033030,Paberiwai
+5302033031,Karera
+5302033032,Matawai La Pawu
+5302033033,Kahaungu Eti
+5302033034,Mahu
+5302033035,Ngadu Ngala
+5302033040,Pahunga Lodu
+5302033041,Wula Waijelu
+5302033051,Rindi
+5302033052,Umalulu
+5302033060,Pandawai
+5302033061,Kambata Mapambuhang
+5302033070,Kota Waingapu
+5302033071,Kambera
+5302033080,Haharu
+5302033081,Kanatang
+5302034,Mahu
+5302034010,Lewa
+5302034011,Nggaha Oriangu
+5302034012,Lewa Tidahu
+5302034013,Katala Hamu Lingu
+5302034020,Tabundung
+5302034021,Pinupahar
+5302034030,Paberiwai
+5302034031,Karera
+5302034032,Matawai La Pawu
+5302034033,Kahaungu Eti
+5302034034,Mahu
+5302034035,Ngadu Ngala
+5302034040,Pahunga Lodu
+5302034041,Wula Waijelu
+5302034051,Rindi
+5302034052,Umalulu
+5302034060,Pandawai
+5302034061,Kambata Mapambuhang
+5302034070,Kota Waingapu
+5302034071,Kambera
+5302034080,Haharu
+5302034081,Kanatang
+5302035,Ngadu Ngala
+5302035010,Lewa
+5302035011,Nggaha Oriangu
+5302035012,Lewa Tidahu
+5302035013,Katala Hamu Lingu
+5302035020,Tabundung
+5302035021,Pinupahar
+5302035030,Paberiwai
+5302035031,Karera
+5302035032,Matawai La Pawu
+5302035033,Kahaungu Eti
+5302035034,Mahu
+5302035035,Ngadu Ngala
+5302035040,Pahunga Lodu
+5302035041,Wula Waijelu
+5302035051,Rindi
+5302035052,Umalulu
+5302035060,Pandawai
+5302035061,Kambata Mapambuhang
+5302035070,Kota Waingapu
+5302035071,Kambera
+5302035080,Haharu
+5302035081,Kanatang
+5302040,Pahunga Lodu
+5302040010,Lewa
+5302040011,Nggaha Oriangu
+5302040012,Lewa Tidahu
+5302040013,Katala Hamu Lingu
+5302040020,Tabundung
+5302040021,Pinupahar
+5302040030,Paberiwai
+5302040031,Karera
+5302040032,Matawai La Pawu
+5302040033,Kahaungu Eti
+5302040034,Mahu
+5302040035,Ngadu Ngala
+5302040040,Pahunga Lodu
+5302040041,Wula Waijelu
+5302040051,Rindi
+5302040052,Umalulu
+5302040060,Pandawai
+5302040061,Kambata Mapambuhang
+5302040070,Kota Waingapu
+5302040071,Kambera
+5302040080,Haharu
+5302040081,Kanatang
+5302041,Wula Waijelu
+5302041010,Lewa
+5302041011,Nggaha Oriangu
+5302041012,Lewa Tidahu
+5302041013,Katala Hamu Lingu
+5302041020,Tabundung
+5302041021,Pinupahar
+5302041030,Paberiwai
+5302041031,Karera
+5302041032,Matawai La Pawu
+5302041033,Kahaungu Eti
+5302041034,Mahu
+5302041035,Ngadu Ngala
+5302041040,Pahunga Lodu
+5302041041,Wula Waijelu
+5302041051,Rindi
+5302041052,Umalulu
+5302041060,Pandawai
+5302041061,Kambata Mapambuhang
+5302041070,Kota Waingapu
+5302041071,Kambera
+5302041080,Haharu
+5302041081,Kanatang
+5302051,Rindi
+5302051010,Lewa
+5302051011,Nggaha Oriangu
+5302051012,Lewa Tidahu
+5302051013,Katala Hamu Lingu
+5302051020,Tabundung
+5302051021,Pinupahar
+5302051030,Paberiwai
+5302051031,Karera
+5302051032,Matawai La Pawu
+5302051033,Kahaungu Eti
+5302051034,Mahu
+5302051035,Ngadu Ngala
+5302051040,Pahunga Lodu
+5302051041,Wula Waijelu
+5302051051,Rindi
+5302051052,Umalulu
+5302051060,Pandawai
+5302051061,Kambata Mapambuhang
+5302051070,Kota Waingapu
+5302051071,Kambera
+5302051080,Haharu
+5302051081,Kanatang
+5302052,Umalulu
+5302052010,Lewa
+5302052011,Nggaha Oriangu
+5302052012,Lewa Tidahu
+5302052013,Katala Hamu Lingu
+5302052020,Tabundung
+5302052021,Pinupahar
+5302052030,Paberiwai
+5302052031,Karera
+5302052032,Matawai La Pawu
+5302052033,Kahaungu Eti
+5302052034,Mahu
+5302052035,Ngadu Ngala
+5302052040,Pahunga Lodu
+5302052041,Wula Waijelu
+5302052051,Rindi
+5302052052,Umalulu
+5302052060,Pandawai
+5302052061,Kambata Mapambuhang
+5302052070,Kota Waingapu
+5302052071,Kambera
+5302052080,Haharu
+5302052081,Kanatang
+5302060,Pandawai
+5302060010,Lewa
+5302060011,Nggaha Oriangu
+5302060012,Lewa Tidahu
+5302060013,Katala Hamu Lingu
+5302060020,Tabundung
+5302060021,Pinupahar
+5302060030,Paberiwai
+5302060031,Karera
+5302060032,Matawai La Pawu
+5302060033,Kahaungu Eti
+5302060034,Mahu
+5302060035,Ngadu Ngala
+5302060040,Pahunga Lodu
+5302060041,Wula Waijelu
+5302060051,Rindi
+5302060052,Umalulu
+5302060060,Pandawai
+5302060061,Kambata Mapambuhang
+5302060070,Kota Waingapu
+5302060071,Kambera
+5302060080,Haharu
+5302060081,Kanatang
+5302061,Kambata Mapambuhang
+5302061010,Lewa
+5302061011,Nggaha Oriangu
+5302061012,Lewa Tidahu
+5302061013,Katala Hamu Lingu
+5302061020,Tabundung
+5302061021,Pinupahar
+5302061030,Paberiwai
+5302061031,Karera
+5302061032,Matawai La Pawu
+5302061033,Kahaungu Eti
+5302061034,Mahu
+5302061035,Ngadu Ngala
+5302061040,Pahunga Lodu
+5302061041,Wula Waijelu
+5302061051,Rindi
+5302061052,Umalulu
+5302061060,Pandawai
+5302061061,Kambata Mapambuhang
+5302061070,Kota Waingapu
+5302061071,Kambera
+5302061080,Haharu
+5302061081,Kanatang
+5302070,Kota Waingapu
+5302070010,Lewa
+5302070011,Nggaha Oriangu
+5302070012,Lewa Tidahu
+5302070013,Katala Hamu Lingu
+5302070020,Tabundung
+5302070021,Pinupahar
+5302070030,Paberiwai
+5302070031,Karera
+5302070032,Matawai La Pawu
+5302070033,Kahaungu Eti
+5302070034,Mahu
+5302070035,Ngadu Ngala
+5302070040,Pahunga Lodu
+5302070041,Wula Waijelu
+5302070051,Rindi
+5302070052,Umalulu
+5302070060,Pandawai
+5302070061,Kambata Mapambuhang
+5302070070,Kota Waingapu
+5302070071,Kambera
+5302070080,Haharu
+5302070081,Kanatang
+5302071,Kambera
+5302071010,Lewa
+5302071011,Nggaha Oriangu
+5302071012,Lewa Tidahu
+5302071013,Katala Hamu Lingu
+5302071020,Tabundung
+5302071021,Pinupahar
+5302071030,Paberiwai
+5302071031,Karera
+5302071032,Matawai La Pawu
+5302071033,Kahaungu Eti
+5302071034,Mahu
+5302071035,Ngadu Ngala
+5302071040,Pahunga Lodu
+5302071041,Wula Waijelu
+5302071051,Rindi
+5302071052,Umalulu
+5302071060,Pandawai
+5302071061,Kambata Mapambuhang
+5302071070,Kota Waingapu
+5302071071,Kambera
+5302071080,Haharu
+5302071081,Kanatang
+5302080,Haharu
+5302080010,Lewa
+5302080011,Nggaha Oriangu
+5302080012,Lewa Tidahu
+5302080013,Katala Hamu Lingu
+5302080020,Tabundung
+5302080021,Pinupahar
+5302080030,Paberiwai
+5302080031,Karera
+5302080032,Matawai La Pawu
+5302080033,Kahaungu Eti
+5302080034,Mahu
+5302080035,Ngadu Ngala
+5302080040,Pahunga Lodu
+5302080041,Wula Waijelu
+5302080051,Rindi
+5302080052,Umalulu
+5302080060,Pandawai
+5302080061,Kambata Mapambuhang
+5302080070,Kota Waingapu
+5302080071,Kambera
+5302080080,Haharu
+5302080081,Kanatang
+5302081,Kanatang
+5302081010,Lewa
+5302081011,Nggaha Oriangu
+5302081012,Lewa Tidahu
+5302081013,Katala Hamu Lingu
+5302081020,Tabundung
+5302081021,Pinupahar
+5302081030,Paberiwai
+5302081031,Karera
+5302081032,Matawai La Pawu
+5302081033,Kahaungu Eti
+5302081034,Mahu
+5302081035,Ngadu Ngala
+5302081040,Pahunga Lodu
+5302081041,Wula Waijelu
+5302081051,Rindi
+5302081052,Umalulu
+5302081060,Pandawai
+5302081061,Kambata Mapambuhang
+5302081070,Kota Waingapu
+5302081071,Kambera
+5302081080,Haharu
+5302081081,Kanatang
+5303,Kupang
+5303100,Semau
+5303100100,Semau
+5303100101,Semau Selatan
+5303100110,Kupang Barat
+5303100111,Nekamese
+5303100120,Kupang Tengah
+5303100121,Taebenu
+5303100130,Amarasi
+5303100131,Amarasi Barat
+5303100132,Amarasi Selatan
+5303100133,Amarasi Timur
+5303100140,Kupang Timur
+5303100141,Amabi Oefeto Timur
+5303100142,Amabi Oefeto
+5303100150,Sulamu
+5303100160,Fatuleu
+5303100161,Fatuleu Tengah
+5303100162,Fatuleu Barat
+5303100170,Takari
+5303100180,Amfoang Selatan
+5303100181,Amfoang Barat Daya
+5303100182,Amfoang Tengah
+5303100190,Amfoang Utara
+5303100191,Amfoang Barat Laut
+5303100192,Amfoang Timur
+5303101,Semau Selatan
+5303101100,Semau
+5303101101,Semau Selatan
+5303101110,Kupang Barat
+5303101111,Nekamese
+5303101120,Kupang Tengah
+5303101121,Taebenu
+5303101130,Amarasi
+5303101131,Amarasi Barat
+5303101132,Amarasi Selatan
+5303101133,Amarasi Timur
+5303101140,Kupang Timur
+5303101141,Amabi Oefeto Timur
+5303101142,Amabi Oefeto
+5303101150,Sulamu
+5303101160,Fatuleu
+5303101161,Fatuleu Tengah
+5303101162,Fatuleu Barat
+5303101170,Takari
+5303101180,Amfoang Selatan
+5303101181,Amfoang Barat Daya
+5303101182,Amfoang Tengah
+5303101190,Amfoang Utara
+5303101191,Amfoang Barat Laut
+5303101192,Amfoang Timur
+5303110,Kupang Barat
+5303110100,Semau
+5303110101,Semau Selatan
+5303110110,Kupang Barat
+5303110111,Nekamese
+5303110120,Kupang Tengah
+5303110121,Taebenu
+5303110130,Amarasi
+5303110131,Amarasi Barat
+5303110132,Amarasi Selatan
+5303110133,Amarasi Timur
+5303110140,Kupang Timur
+5303110141,Amabi Oefeto Timur
+5303110142,Amabi Oefeto
+5303110150,Sulamu
+5303110160,Fatuleu
+5303110161,Fatuleu Tengah
+5303110162,Fatuleu Barat
+5303110170,Takari
+5303110180,Amfoang Selatan
+5303110181,Amfoang Barat Daya
+5303110182,Amfoang Tengah
+5303110190,Amfoang Utara
+5303110191,Amfoang Barat Laut
+5303110192,Amfoang Timur
+5303111,Nekamese
+5303111100,Semau
+5303111101,Semau Selatan
+5303111110,Kupang Barat
+5303111111,Nekamese
+5303111120,Kupang Tengah
+5303111121,Taebenu
+5303111130,Amarasi
+5303111131,Amarasi Barat
+5303111132,Amarasi Selatan
+5303111133,Amarasi Timur
+5303111140,Kupang Timur
+5303111141,Amabi Oefeto Timur
+5303111142,Amabi Oefeto
+5303111150,Sulamu
+5303111160,Fatuleu
+5303111161,Fatuleu Tengah
+5303111162,Fatuleu Barat
+5303111170,Takari
+5303111180,Amfoang Selatan
+5303111181,Amfoang Barat Daya
+5303111182,Amfoang Tengah
+5303111190,Amfoang Utara
+5303111191,Amfoang Barat Laut
+5303111192,Amfoang Timur
+5303120,Kupang Tengah
+5303120100,Semau
+5303120101,Semau Selatan
+5303120110,Kupang Barat
+5303120111,Nekamese
+5303120120,Kupang Tengah
+5303120121,Taebenu
+5303120130,Amarasi
+5303120131,Amarasi Barat
+5303120132,Amarasi Selatan
+5303120133,Amarasi Timur
+5303120140,Kupang Timur
+5303120141,Amabi Oefeto Timur
+5303120142,Amabi Oefeto
+5303120150,Sulamu
+5303120160,Fatuleu
+5303120161,Fatuleu Tengah
+5303120162,Fatuleu Barat
+5303120170,Takari
+5303120180,Amfoang Selatan
+5303120181,Amfoang Barat Daya
+5303120182,Amfoang Tengah
+5303120190,Amfoang Utara
+5303120191,Amfoang Barat Laut
+5303120192,Amfoang Timur
+5303121,Taebenu
+5303121100,Semau
+5303121101,Semau Selatan
+5303121110,Kupang Barat
+5303121111,Nekamese
+5303121120,Kupang Tengah
+5303121121,Taebenu
+5303121130,Amarasi
+5303121131,Amarasi Barat
+5303121132,Amarasi Selatan
+5303121133,Amarasi Timur
+5303121140,Kupang Timur
+5303121141,Amabi Oefeto Timur
+5303121142,Amabi Oefeto
+5303121150,Sulamu
+5303121160,Fatuleu
+5303121161,Fatuleu Tengah
+5303121162,Fatuleu Barat
+5303121170,Takari
+5303121180,Amfoang Selatan
+5303121181,Amfoang Barat Daya
+5303121182,Amfoang Tengah
+5303121190,Amfoang Utara
+5303121191,Amfoang Barat Laut
+5303121192,Amfoang Timur
+5303130,Amarasi
+5303130100,Semau
+5303130101,Semau Selatan
+5303130110,Kupang Barat
+5303130111,Nekamese
+5303130120,Kupang Tengah
+5303130121,Taebenu
+5303130130,Amarasi
+5303130131,Amarasi Barat
+5303130132,Amarasi Selatan
+5303130133,Amarasi Timur
+5303130140,Kupang Timur
+5303130141,Amabi Oefeto Timur
+5303130142,Amabi Oefeto
+5303130150,Sulamu
+5303130160,Fatuleu
+5303130161,Fatuleu Tengah
+5303130162,Fatuleu Barat
+5303130170,Takari
+5303130180,Amfoang Selatan
+5303130181,Amfoang Barat Daya
+5303130182,Amfoang Tengah
+5303130190,Amfoang Utara
+5303130191,Amfoang Barat Laut
+5303130192,Amfoang Timur
+5303131,Amarasi Barat
+5303131100,Semau
+5303131101,Semau Selatan
+5303131110,Kupang Barat
+5303131111,Nekamese
+5303131120,Kupang Tengah
+5303131121,Taebenu
+5303131130,Amarasi
+5303131131,Amarasi Barat
+5303131132,Amarasi Selatan
+5303131133,Amarasi Timur
+5303131140,Kupang Timur
+5303131141,Amabi Oefeto Timur
+5303131142,Amabi Oefeto
+5303131150,Sulamu
+5303131160,Fatuleu
+5303131161,Fatuleu Tengah
+5303131162,Fatuleu Barat
+5303131170,Takari
+5303131180,Amfoang Selatan
+5303131181,Amfoang Barat Daya
+5303131182,Amfoang Tengah
+5303131190,Amfoang Utara
+5303131191,Amfoang Barat Laut
+5303131192,Amfoang Timur
+5303132,Amarasi Selatan
+5303132100,Semau
+5303132101,Semau Selatan
+5303132110,Kupang Barat
+5303132111,Nekamese
+5303132120,Kupang Tengah
+5303132121,Taebenu
+5303132130,Amarasi
+5303132131,Amarasi Barat
+5303132132,Amarasi Selatan
+5303132133,Amarasi Timur
+5303132140,Kupang Timur
+5303132141,Amabi Oefeto Timur
+5303132142,Amabi Oefeto
+5303132150,Sulamu
+5303132160,Fatuleu
+5303132161,Fatuleu Tengah
+5303132162,Fatuleu Barat
+5303132170,Takari
+5303132180,Amfoang Selatan
+5303132181,Amfoang Barat Daya
+5303132182,Amfoang Tengah
+5303132190,Amfoang Utara
+5303132191,Amfoang Barat Laut
+5303132192,Amfoang Timur
+5303133,Amarasi Timur
+5303133100,Semau
+5303133101,Semau Selatan
+5303133110,Kupang Barat
+5303133111,Nekamese
+5303133120,Kupang Tengah
+5303133121,Taebenu
+5303133130,Amarasi
+5303133131,Amarasi Barat
+5303133132,Amarasi Selatan
+5303133133,Amarasi Timur
+5303133140,Kupang Timur
+5303133141,Amabi Oefeto Timur
+5303133142,Amabi Oefeto
+5303133150,Sulamu
+5303133160,Fatuleu
+5303133161,Fatuleu Tengah
+5303133162,Fatuleu Barat
+5303133170,Takari
+5303133180,Amfoang Selatan
+5303133181,Amfoang Barat Daya
+5303133182,Amfoang Tengah
+5303133190,Amfoang Utara
+5303133191,Amfoang Barat Laut
+5303133192,Amfoang Timur
+5303140,Kupang Timur
+5303140100,Semau
+5303140101,Semau Selatan
+5303140110,Kupang Barat
+5303140111,Nekamese
+5303140120,Kupang Tengah
+5303140121,Taebenu
+5303140130,Amarasi
+5303140131,Amarasi Barat
+5303140132,Amarasi Selatan
+5303140133,Amarasi Timur
+5303140140,Kupang Timur
+5303140141,Amabi Oefeto Timur
+5303140142,Amabi Oefeto
+5303140150,Sulamu
+5303140160,Fatuleu
+5303140161,Fatuleu Tengah
+5303140162,Fatuleu Barat
+5303140170,Takari
+5303140180,Amfoang Selatan
+5303140181,Amfoang Barat Daya
+5303140182,Amfoang Tengah
+5303140190,Amfoang Utara
+5303140191,Amfoang Barat Laut
+5303140192,Amfoang Timur
+5303141,Amabi Oefeto Timur
+5303141100,Semau
+5303141101,Semau Selatan
+5303141110,Kupang Barat
+5303141111,Nekamese
+5303141120,Kupang Tengah
+5303141121,Taebenu
+5303141130,Amarasi
+5303141131,Amarasi Barat
+5303141132,Amarasi Selatan
+5303141133,Amarasi Timur
+5303141140,Kupang Timur
+5303141141,Amabi Oefeto Timur
+5303141142,Amabi Oefeto
+5303141150,Sulamu
+5303141160,Fatuleu
+5303141161,Fatuleu Tengah
+5303141162,Fatuleu Barat
+5303141170,Takari
+5303141180,Amfoang Selatan
+5303141181,Amfoang Barat Daya
+5303141182,Amfoang Tengah
+5303141190,Amfoang Utara
+5303141191,Amfoang Barat Laut
+5303141192,Amfoang Timur
+5303142,Amabi Oefeto
+5303142100,Semau
+5303142101,Semau Selatan
+5303142110,Kupang Barat
+5303142111,Nekamese
+5303142120,Kupang Tengah
+5303142121,Taebenu
+5303142130,Amarasi
+5303142131,Amarasi Barat
+5303142132,Amarasi Selatan
+5303142133,Amarasi Timur
+5303142140,Kupang Timur
+5303142141,Amabi Oefeto Timur
+5303142142,Amabi Oefeto
+5303142150,Sulamu
+5303142160,Fatuleu
+5303142161,Fatuleu Tengah
+5303142162,Fatuleu Barat
+5303142170,Takari
+5303142180,Amfoang Selatan
+5303142181,Amfoang Barat Daya
+5303142182,Amfoang Tengah
+5303142190,Amfoang Utara
+5303142191,Amfoang Barat Laut
+5303142192,Amfoang Timur
+5303150,Sulamu
+5303150100,Semau
+5303150101,Semau Selatan
+5303150110,Kupang Barat
+5303150111,Nekamese
+5303150120,Kupang Tengah
+5303150121,Taebenu
+5303150130,Amarasi
+5303150131,Amarasi Barat
+5303150132,Amarasi Selatan
+5303150133,Amarasi Timur
+5303150140,Kupang Timur
+5303150141,Amabi Oefeto Timur
+5303150142,Amabi Oefeto
+5303150150,Sulamu
+5303150160,Fatuleu
+5303150161,Fatuleu Tengah
+5303150162,Fatuleu Barat
+5303150170,Takari
+5303150180,Amfoang Selatan
+5303150181,Amfoang Barat Daya
+5303150182,Amfoang Tengah
+5303150190,Amfoang Utara
+5303150191,Amfoang Barat Laut
+5303150192,Amfoang Timur
+5303160,Fatuleu
+5303160100,Semau
+5303160101,Semau Selatan
+5303160110,Kupang Barat
+5303160111,Nekamese
+5303160120,Kupang Tengah
+5303160121,Taebenu
+5303160130,Amarasi
+5303160131,Amarasi Barat
+5303160132,Amarasi Selatan
+5303160133,Amarasi Timur
+5303160140,Kupang Timur
+5303160141,Amabi Oefeto Timur
+5303160142,Amabi Oefeto
+5303160150,Sulamu
+5303160160,Fatuleu
+5303160161,Fatuleu Tengah
+5303160162,Fatuleu Barat
+5303160170,Takari
+5303160180,Amfoang Selatan
+5303160181,Amfoang Barat Daya
+5303160182,Amfoang Tengah
+5303160190,Amfoang Utara
+5303160191,Amfoang Barat Laut
+5303160192,Amfoang Timur
+5303161,Fatuleu Tengah
+5303161100,Semau
+5303161101,Semau Selatan
+5303161110,Kupang Barat
+5303161111,Nekamese
+5303161120,Kupang Tengah
+5303161121,Taebenu
+5303161130,Amarasi
+5303161131,Amarasi Barat
+5303161132,Amarasi Selatan
+5303161133,Amarasi Timur
+5303161140,Kupang Timur
+5303161141,Amabi Oefeto Timur
+5303161142,Amabi Oefeto
+5303161150,Sulamu
+5303161160,Fatuleu
+5303161161,Fatuleu Tengah
+5303161162,Fatuleu Barat
+5303161170,Takari
+5303161180,Amfoang Selatan
+5303161181,Amfoang Barat Daya
+5303161182,Amfoang Tengah
+5303161190,Amfoang Utara
+5303161191,Amfoang Barat Laut
+5303161192,Amfoang Timur
+5303162,Fatuleu Barat
+5303162100,Semau
+5303162101,Semau Selatan
+5303162110,Kupang Barat
+5303162111,Nekamese
+5303162120,Kupang Tengah
+5303162121,Taebenu
+5303162130,Amarasi
+5303162131,Amarasi Barat
+5303162132,Amarasi Selatan
+5303162133,Amarasi Timur
+5303162140,Kupang Timur
+5303162141,Amabi Oefeto Timur
+5303162142,Amabi Oefeto
+5303162150,Sulamu
+5303162160,Fatuleu
+5303162161,Fatuleu Tengah
+5303162162,Fatuleu Barat
+5303162170,Takari
+5303162180,Amfoang Selatan
+5303162181,Amfoang Barat Daya
+5303162182,Amfoang Tengah
+5303162190,Amfoang Utara
+5303162191,Amfoang Barat Laut
+5303162192,Amfoang Timur
+5303170,Takari
+5303170100,Semau
+5303170101,Semau Selatan
+5303170110,Kupang Barat
+5303170111,Nekamese
+5303170120,Kupang Tengah
+5303170121,Taebenu
+5303170130,Amarasi
+5303170131,Amarasi Barat
+5303170132,Amarasi Selatan
+5303170133,Amarasi Timur
+5303170140,Kupang Timur
+5303170141,Amabi Oefeto Timur
+5303170142,Amabi Oefeto
+5303170150,Sulamu
+5303170160,Fatuleu
+5303170161,Fatuleu Tengah
+5303170162,Fatuleu Barat
+5303170170,Takari
+5303170180,Amfoang Selatan
+5303170181,Amfoang Barat Daya
+5303170182,Amfoang Tengah
+5303170190,Amfoang Utara
+5303170191,Amfoang Barat Laut
+5303170192,Amfoang Timur
+5303180,Amfoang Selatan
+5303180100,Semau
+5303180101,Semau Selatan
+5303180110,Kupang Barat
+5303180111,Nekamese
+5303180120,Kupang Tengah
+5303180121,Taebenu
+5303180130,Amarasi
+5303180131,Amarasi Barat
+5303180132,Amarasi Selatan
+5303180133,Amarasi Timur
+5303180140,Kupang Timur
+5303180141,Amabi Oefeto Timur
+5303180142,Amabi Oefeto
+5303180150,Sulamu
+5303180160,Fatuleu
+5303180161,Fatuleu Tengah
+5303180162,Fatuleu Barat
+5303180170,Takari
+5303180180,Amfoang Selatan
+5303180181,Amfoang Barat Daya
+5303180182,Amfoang Tengah
+5303180190,Amfoang Utara
+5303180191,Amfoang Barat Laut
+5303180192,Amfoang Timur
+5303181,Amfoang Barat Daya
+5303181100,Semau
+5303181101,Semau Selatan
+5303181110,Kupang Barat
+5303181111,Nekamese
+5303181120,Kupang Tengah
+5303181121,Taebenu
+5303181130,Amarasi
+5303181131,Amarasi Barat
+5303181132,Amarasi Selatan
+5303181133,Amarasi Timur
+5303181140,Kupang Timur
+5303181141,Amabi Oefeto Timur
+5303181142,Amabi Oefeto
+5303181150,Sulamu
+5303181160,Fatuleu
+5303181161,Fatuleu Tengah
+5303181162,Fatuleu Barat
+5303181170,Takari
+5303181180,Amfoang Selatan
+5303181181,Amfoang Barat Daya
+5303181182,Amfoang Tengah
+5303181190,Amfoang Utara
+5303181191,Amfoang Barat Laut
+5303181192,Amfoang Timur
+5303182,Amfoang Tengah
+5303182100,Semau
+5303182101,Semau Selatan
+5303182110,Kupang Barat
+5303182111,Nekamese
+5303182120,Kupang Tengah
+5303182121,Taebenu
+5303182130,Amarasi
+5303182131,Amarasi Barat
+5303182132,Amarasi Selatan
+5303182133,Amarasi Timur
+5303182140,Kupang Timur
+5303182141,Amabi Oefeto Timur
+5303182142,Amabi Oefeto
+5303182150,Sulamu
+5303182160,Fatuleu
+5303182161,Fatuleu Tengah
+5303182162,Fatuleu Barat
+5303182170,Takari
+5303182180,Amfoang Selatan
+5303182181,Amfoang Barat Daya
+5303182182,Amfoang Tengah
+5303182190,Amfoang Utara
+5303182191,Amfoang Barat Laut
+5303182192,Amfoang Timur
+5303190,Amfoang Utara
+5303190100,Semau
+5303190101,Semau Selatan
+5303190110,Kupang Barat
+5303190111,Nekamese
+5303190120,Kupang Tengah
+5303190121,Taebenu
+5303190130,Amarasi
+5303190131,Amarasi Barat
+5303190132,Amarasi Selatan
+5303190133,Amarasi Timur
+5303190140,Kupang Timur
+5303190141,Amabi Oefeto Timur
+5303190142,Amabi Oefeto
+5303190150,Sulamu
+5303190160,Fatuleu
+5303190161,Fatuleu Tengah
+5303190162,Fatuleu Barat
+5303190170,Takari
+5303190180,Amfoang Selatan
+5303190181,Amfoang Barat Daya
+5303190182,Amfoang Tengah
+5303190190,Amfoang Utara
+5303190191,Amfoang Barat Laut
+5303190192,Amfoang Timur
+5303191,Amfoang Barat Laut
+5303191100,Semau
+5303191101,Semau Selatan
+5303191110,Kupang Barat
+5303191111,Nekamese
+5303191120,Kupang Tengah
+5303191121,Taebenu
+5303191130,Amarasi
+5303191131,Amarasi Barat
+5303191132,Amarasi Selatan
+5303191133,Amarasi Timur
+5303191140,Kupang Timur
+5303191141,Amabi Oefeto Timur
+5303191142,Amabi Oefeto
+5303191150,Sulamu
+5303191160,Fatuleu
+5303191161,Fatuleu Tengah
+5303191162,Fatuleu Barat
+5303191170,Takari
+5303191180,Amfoang Selatan
+5303191181,Amfoang Barat Daya
+5303191182,Amfoang Tengah
+5303191190,Amfoang Utara
+5303191191,Amfoang Barat Laut
+5303191192,Amfoang Timur
+5303192,Amfoang Timur
+5303192100,Semau
+5303192101,Semau Selatan
+5303192110,Kupang Barat
+5303192111,Nekamese
+5303192120,Kupang Tengah
+5303192121,Taebenu
+5303192130,Amarasi
+5303192131,Amarasi Barat
+5303192132,Amarasi Selatan
+5303192133,Amarasi Timur
+5303192140,Kupang Timur
+5303192141,Amabi Oefeto Timur
+5303192142,Amabi Oefeto
+5303192150,Sulamu
+5303192160,Fatuleu
+5303192161,Fatuleu Tengah
+5303192162,Fatuleu Barat
+5303192170,Takari
+5303192180,Amfoang Selatan
+5303192181,Amfoang Barat Daya
+5303192182,Amfoang Tengah
+5303192190,Amfoang Utara
+5303192191,Amfoang Barat Laut
+5303192192,Amfoang Timur
+5304,Timor Tengah Selatan
+5304010,Mollo Utara
+5304010010,Mollo Utara
+5304010011,Fatumnasi
+5304010012,Tobu
+5304010013,Nunbena
+5304010020,Mollo Selatan
+5304010021,Polen
+5304010022,Mollo Barat
+5304010023,Mollo Tengah
+5304010030,Kota Soe
+5304010040,Amanuban Barat
+5304010041,Batu Putih
+5304010042,Kuatnana
+5304010050,Amanuban Selatan
+5304010051,Noebeba
+5304010060,Kuan Fatu
+5304010061,Kualin
+5304010070,Amanuban Tengah
+5304010071,Kolbano
+5304010072,Oenino
+5304010080,Amanuban Timur
+5304010081,Fautmolo
+5304010082,Fatukopa
+5304010090,Kie
+5304010091,Kot'olin
+5304010100,Amanatun Selatan
+5304010101,Boking
+5304010102,Nunkolo
+5304010103,Noebana
+5304010104,Santian
+5304010110,Amanatun Utara
+5304010111,Toianas
+5304010112,Kokbaun
+5304011,Fatumnasi
+5304011010,Mollo Utara
+5304011011,Fatumnasi
+5304011012,Tobu
+5304011013,Nunbena
+5304011020,Mollo Selatan
+5304011021,Polen
+5304011022,Mollo Barat
+5304011023,Mollo Tengah
+5304011030,Kota Soe
+5304011040,Amanuban Barat
+5304011041,Batu Putih
+5304011042,Kuatnana
+5304011050,Amanuban Selatan
+5304011051,Noebeba
+5304011060,Kuan Fatu
+5304011061,Kualin
+5304011070,Amanuban Tengah
+5304011071,Kolbano
+5304011072,Oenino
+5304011080,Amanuban Timur
+5304011081,Fautmolo
+5304011082,Fatukopa
+5304011090,Kie
+5304011091,Kot'olin
+5304011100,Amanatun Selatan
+5304011101,Boking
+5304011102,Nunkolo
+5304011103,Noebana
+5304011104,Santian
+5304011110,Amanatun Utara
+5304011111,Toianas
+5304011112,Kokbaun
+5304012,Tobu
+5304012010,Mollo Utara
+5304012011,Fatumnasi
+5304012012,Tobu
+5304012013,Nunbena
+5304012020,Mollo Selatan
+5304012021,Polen
+5304012022,Mollo Barat
+5304012023,Mollo Tengah
+5304012030,Kota Soe
+5304012040,Amanuban Barat
+5304012041,Batu Putih
+5304012042,Kuatnana
+5304012050,Amanuban Selatan
+5304012051,Noebeba
+5304012060,Kuan Fatu
+5304012061,Kualin
+5304012070,Amanuban Tengah
+5304012071,Kolbano
+5304012072,Oenino
+5304012080,Amanuban Timur
+5304012081,Fautmolo
+5304012082,Fatukopa
+5304012090,Kie
+5304012091,Kot'olin
+5304012100,Amanatun Selatan
+5304012101,Boking
+5304012102,Nunkolo
+5304012103,Noebana
+5304012104,Santian
+5304012110,Amanatun Utara
+5304012111,Toianas
+5304012112,Kokbaun
+5304013,Nunbena
+5304013010,Mollo Utara
+5304013011,Fatumnasi
+5304013012,Tobu
+5304013013,Nunbena
+5304013020,Mollo Selatan
+5304013021,Polen
+5304013022,Mollo Barat
+5304013023,Mollo Tengah
+5304013030,Kota Soe
+5304013040,Amanuban Barat
+5304013041,Batu Putih
+5304013042,Kuatnana
+5304013050,Amanuban Selatan
+5304013051,Noebeba
+5304013060,Kuan Fatu
+5304013061,Kualin
+5304013070,Amanuban Tengah
+5304013071,Kolbano
+5304013072,Oenino
+5304013080,Amanuban Timur
+5304013081,Fautmolo
+5304013082,Fatukopa
+5304013090,Kie
+5304013091,Kot'olin
+5304013100,Amanatun Selatan
+5304013101,Boking
+5304013102,Nunkolo
+5304013103,Noebana
+5304013104,Santian
+5304013110,Amanatun Utara
+5304013111,Toianas
+5304013112,Kokbaun
+5304020,Mollo Selatan
+5304020010,Mollo Utara
+5304020011,Fatumnasi
+5304020012,Tobu
+5304020013,Nunbena
+5304020020,Mollo Selatan
+5304020021,Polen
+5304020022,Mollo Barat
+5304020023,Mollo Tengah
+5304020030,Kota Soe
+5304020040,Amanuban Barat
+5304020041,Batu Putih
+5304020042,Kuatnana
+5304020050,Amanuban Selatan
+5304020051,Noebeba
+5304020060,Kuan Fatu
+5304020061,Kualin
+5304020070,Amanuban Tengah
+5304020071,Kolbano
+5304020072,Oenino
+5304020080,Amanuban Timur
+5304020081,Fautmolo
+5304020082,Fatukopa
+5304020090,Kie
+5304020091,Kot'olin
+5304020100,Amanatun Selatan
+5304020101,Boking
+5304020102,Nunkolo
+5304020103,Noebana
+5304020104,Santian
+5304020110,Amanatun Utara
+5304020111,Toianas
+5304020112,Kokbaun
+5304021,Polen
+5304021010,Mollo Utara
+5304021011,Fatumnasi
+5304021012,Tobu
+5304021013,Nunbena
+5304021020,Mollo Selatan
+5304021021,Polen
+5304021022,Mollo Barat
+5304021023,Mollo Tengah
+5304021030,Kota Soe
+5304021040,Amanuban Barat
+5304021041,Batu Putih
+5304021042,Kuatnana
+5304021050,Amanuban Selatan
+5304021051,Noebeba
+5304021060,Kuan Fatu
+5304021061,Kualin
+5304021070,Amanuban Tengah
+5304021071,Kolbano
+5304021072,Oenino
+5304021080,Amanuban Timur
+5304021081,Fautmolo
+5304021082,Fatukopa
+5304021090,Kie
+5304021091,Kot'olin
+5304021100,Amanatun Selatan
+5304021101,Boking
+5304021102,Nunkolo
+5304021103,Noebana
+5304021104,Santian
+5304021110,Amanatun Utara
+5304021111,Toianas
+5304021112,Kokbaun
+5304022,Mollo Barat
+5304022010,Mollo Utara
+5304022011,Fatumnasi
+5304022012,Tobu
+5304022013,Nunbena
+5304022020,Mollo Selatan
+5304022021,Polen
+5304022022,Mollo Barat
+5304022023,Mollo Tengah
+5304022030,Kota Soe
+5304022040,Amanuban Barat
+5304022041,Batu Putih
+5304022042,Kuatnana
+5304022050,Amanuban Selatan
+5304022051,Noebeba
+5304022060,Kuan Fatu
+5304022061,Kualin
+5304022070,Amanuban Tengah
+5304022071,Kolbano
+5304022072,Oenino
+5304022080,Amanuban Timur
+5304022081,Fautmolo
+5304022082,Fatukopa
+5304022090,Kie
+5304022091,Kot'olin
+5304022100,Amanatun Selatan
+5304022101,Boking
+5304022102,Nunkolo
+5304022103,Noebana
+5304022104,Santian
+5304022110,Amanatun Utara
+5304022111,Toianas
+5304022112,Kokbaun
+5304023,Mollo Tengah
+5304023010,Mollo Utara
+5304023011,Fatumnasi
+5304023012,Tobu
+5304023013,Nunbena
+5304023020,Mollo Selatan
+5304023021,Polen
+5304023022,Mollo Barat
+5304023023,Mollo Tengah
+5304023030,Kota Soe
+5304023040,Amanuban Barat
+5304023041,Batu Putih
+5304023042,Kuatnana
+5304023050,Amanuban Selatan
+5304023051,Noebeba
+5304023060,Kuan Fatu
+5304023061,Kualin
+5304023070,Amanuban Tengah
+5304023071,Kolbano
+5304023072,Oenino
+5304023080,Amanuban Timur
+5304023081,Fautmolo
+5304023082,Fatukopa
+5304023090,Kie
+5304023091,Kot'olin
+5304023100,Amanatun Selatan
+5304023101,Boking
+5304023102,Nunkolo
+5304023103,Noebana
+5304023104,Santian
+5304023110,Amanatun Utara
+5304023111,Toianas
+5304023112,Kokbaun
+5304030,Kota Soe
+5304030010,Mollo Utara
+5304030011,Fatumnasi
+5304030012,Tobu
+5304030013,Nunbena
+5304030020,Mollo Selatan
+5304030021,Polen
+5304030022,Mollo Barat
+5304030023,Mollo Tengah
+5304030030,Kota Soe
+5304030040,Amanuban Barat
+5304030041,Batu Putih
+5304030042,Kuatnana
+5304030050,Amanuban Selatan
+5304030051,Noebeba
+5304030060,Kuan Fatu
+5304030061,Kualin
+5304030070,Amanuban Tengah
+5304030071,Kolbano
+5304030072,Oenino
+5304030080,Amanuban Timur
+5304030081,Fautmolo
+5304030082,Fatukopa
+5304030090,Kie
+5304030091,Kot'olin
+5304030100,Amanatun Selatan
+5304030101,Boking
+5304030102,Nunkolo
+5304030103,Noebana
+5304030104,Santian
+5304030110,Amanatun Utara
+5304030111,Toianas
+5304030112,Kokbaun
+5304040,Amanuban Barat
+5304040010,Mollo Utara
+5304040011,Fatumnasi
+5304040012,Tobu
+5304040013,Nunbena
+5304040020,Mollo Selatan
+5304040021,Polen
+5304040022,Mollo Barat
+5304040023,Mollo Tengah
+5304040030,Kota Soe
+5304040040,Amanuban Barat
+5304040041,Batu Putih
+5304040042,Kuatnana
+5304040050,Amanuban Selatan
+5304040051,Noebeba
+5304040060,Kuan Fatu
+5304040061,Kualin
+5304040070,Amanuban Tengah
+5304040071,Kolbano
+5304040072,Oenino
+5304040080,Amanuban Timur
+5304040081,Fautmolo
+5304040082,Fatukopa
+5304040090,Kie
+5304040091,Kot'olin
+5304040100,Amanatun Selatan
+5304040101,Boking
+5304040102,Nunkolo
+5304040103,Noebana
+5304040104,Santian
+5304040110,Amanatun Utara
+5304040111,Toianas
+5304040112,Kokbaun
+5304041,Batu Putih
+5304041010,Mollo Utara
+5304041011,Fatumnasi
+5304041012,Tobu
+5304041013,Nunbena
+5304041020,Mollo Selatan
+5304041021,Polen
+5304041022,Mollo Barat
+5304041023,Mollo Tengah
+5304041030,Kota Soe
+5304041040,Amanuban Barat
+5304041041,Batu Putih
+5304041042,Kuatnana
+5304041050,Amanuban Selatan
+5304041051,Noebeba
+5304041060,Kuan Fatu
+5304041061,Kualin
+5304041070,Amanuban Tengah
+5304041071,Kolbano
+5304041072,Oenino
+5304041080,Amanuban Timur
+5304041081,Fautmolo
+5304041082,Fatukopa
+5304041090,Kie
+5304041091,Kot'olin
+5304041100,Amanatun Selatan
+5304041101,Boking
+5304041102,Nunkolo
+5304041103,Noebana
+5304041104,Santian
+5304041110,Amanatun Utara
+5304041111,Toianas
+5304041112,Kokbaun
+5304042,Kuatnana
+5304042010,Mollo Utara
+5304042011,Fatumnasi
+5304042012,Tobu
+5304042013,Nunbena
+5304042020,Mollo Selatan
+5304042021,Polen
+5304042022,Mollo Barat
+5304042023,Mollo Tengah
+5304042030,Kota Soe
+5304042040,Amanuban Barat
+5304042041,Batu Putih
+5304042042,Kuatnana
+5304042050,Amanuban Selatan
+5304042051,Noebeba
+5304042060,Kuan Fatu
+5304042061,Kualin
+5304042070,Amanuban Tengah
+5304042071,Kolbano
+5304042072,Oenino
+5304042080,Amanuban Timur
+5304042081,Fautmolo
+5304042082,Fatukopa
+5304042090,Kie
+5304042091,Kot'olin
+5304042100,Amanatun Selatan
+5304042101,Boking
+5304042102,Nunkolo
+5304042103,Noebana
+5304042104,Santian
+5304042110,Amanatun Utara
+5304042111,Toianas
+5304042112,Kokbaun
+5304050,Amanuban Selatan
+5304050010,Mollo Utara
+5304050011,Fatumnasi
+5304050012,Tobu
+5304050013,Nunbena
+5304050020,Mollo Selatan
+5304050021,Polen
+5304050022,Mollo Barat
+5304050023,Mollo Tengah
+5304050030,Kota Soe
+5304050040,Amanuban Barat
+5304050041,Batu Putih
+5304050042,Kuatnana
+5304050050,Amanuban Selatan
+5304050051,Noebeba
+5304050060,Kuan Fatu
+5304050061,Kualin
+5304050070,Amanuban Tengah
+5304050071,Kolbano
+5304050072,Oenino
+5304050080,Amanuban Timur
+5304050081,Fautmolo
+5304050082,Fatukopa
+5304050090,Kie
+5304050091,Kot'olin
+5304050100,Amanatun Selatan
+5304050101,Boking
+5304050102,Nunkolo
+5304050103,Noebana
+5304050104,Santian
+5304050110,Amanatun Utara
+5304050111,Toianas
+5304050112,Kokbaun
+5304051,Noebeba
+5304051010,Mollo Utara
+5304051011,Fatumnasi
+5304051012,Tobu
+5304051013,Nunbena
+5304051020,Mollo Selatan
+5304051021,Polen
+5304051022,Mollo Barat
+5304051023,Mollo Tengah
+5304051030,Kota Soe
+5304051040,Amanuban Barat
+5304051041,Batu Putih
+5304051042,Kuatnana
+5304051050,Amanuban Selatan
+5304051051,Noebeba
+5304051060,Kuan Fatu
+5304051061,Kualin
+5304051070,Amanuban Tengah
+5304051071,Kolbano
+5304051072,Oenino
+5304051080,Amanuban Timur
+5304051081,Fautmolo
+5304051082,Fatukopa
+5304051090,Kie
+5304051091,Kot'olin
+5304051100,Amanatun Selatan
+5304051101,Boking
+5304051102,Nunkolo
+5304051103,Noebana
+5304051104,Santian
+5304051110,Amanatun Utara
+5304051111,Toianas
+5304051112,Kokbaun
+5304060,Kuan Fatu
+5304060010,Mollo Utara
+5304060011,Fatumnasi
+5304060012,Tobu
+5304060013,Nunbena
+5304060020,Mollo Selatan
+5304060021,Polen
+5304060022,Mollo Barat
+5304060023,Mollo Tengah
+5304060030,Kota Soe
+5304060040,Amanuban Barat
+5304060041,Batu Putih
+5304060042,Kuatnana
+5304060050,Amanuban Selatan
+5304060051,Noebeba
+5304060060,Kuan Fatu
+5304060061,Kualin
+5304060070,Amanuban Tengah
+5304060071,Kolbano
+5304060072,Oenino
+5304060080,Amanuban Timur
+5304060081,Fautmolo
+5304060082,Fatukopa
+5304060090,Kie
+5304060091,Kot'olin
+5304060100,Amanatun Selatan
+5304060101,Boking
+5304060102,Nunkolo
+5304060103,Noebana
+5304060104,Santian
+5304060110,Amanatun Utara
+5304060111,Toianas
+5304060112,Kokbaun
+5304061,Kualin
+5304061010,Mollo Utara
+5304061011,Fatumnasi
+5304061012,Tobu
+5304061013,Nunbena
+5304061020,Mollo Selatan
+5304061021,Polen
+5304061022,Mollo Barat
+5304061023,Mollo Tengah
+5304061030,Kota Soe
+5304061040,Amanuban Barat
+5304061041,Batu Putih
+5304061042,Kuatnana
+5304061050,Amanuban Selatan
+5304061051,Noebeba
+5304061060,Kuan Fatu
+5304061061,Kualin
+5304061070,Amanuban Tengah
+5304061071,Kolbano
+5304061072,Oenino
+5304061080,Amanuban Timur
+5304061081,Fautmolo
+5304061082,Fatukopa
+5304061090,Kie
+5304061091,Kot'olin
+5304061100,Amanatun Selatan
+5304061101,Boking
+5304061102,Nunkolo
+5304061103,Noebana
+5304061104,Santian
+5304061110,Amanatun Utara
+5304061111,Toianas
+5304061112,Kokbaun
+5304070,Amanuban Tengah
+5304070010,Mollo Utara
+5304070011,Fatumnasi
+5304070012,Tobu
+5304070013,Nunbena
+5304070020,Mollo Selatan
+5304070021,Polen
+5304070022,Mollo Barat
+5304070023,Mollo Tengah
+5304070030,Kota Soe
+5304070040,Amanuban Barat
+5304070041,Batu Putih
+5304070042,Kuatnana
+5304070050,Amanuban Selatan
+5304070051,Noebeba
+5304070060,Kuan Fatu
+5304070061,Kualin
+5304070070,Amanuban Tengah
+5304070071,Kolbano
+5304070072,Oenino
+5304070080,Amanuban Timur
+5304070081,Fautmolo
+5304070082,Fatukopa
+5304070090,Kie
+5304070091,Kot'olin
+5304070100,Amanatun Selatan
+5304070101,Boking
+5304070102,Nunkolo
+5304070103,Noebana
+5304070104,Santian
+5304070110,Amanatun Utara
+5304070111,Toianas
+5304070112,Kokbaun
+5304071,Kolbano
+5304071010,Mollo Utara
+5304071011,Fatumnasi
+5304071012,Tobu
+5304071013,Nunbena
+5304071020,Mollo Selatan
+5304071021,Polen
+5304071022,Mollo Barat
+5304071023,Mollo Tengah
+5304071030,Kota Soe
+5304071040,Amanuban Barat
+5304071041,Batu Putih
+5304071042,Kuatnana
+5304071050,Amanuban Selatan
+5304071051,Noebeba
+5304071060,Kuan Fatu
+5304071061,Kualin
+5304071070,Amanuban Tengah
+5304071071,Kolbano
+5304071072,Oenino
+5304071080,Amanuban Timur
+5304071081,Fautmolo
+5304071082,Fatukopa
+5304071090,Kie
+5304071091,Kot'olin
+5304071100,Amanatun Selatan
+5304071101,Boking
+5304071102,Nunkolo
+5304071103,Noebana
+5304071104,Santian
+5304071110,Amanatun Utara
+5304071111,Toianas
+5304071112,Kokbaun
+5304072,Oenino
+5304072010,Mollo Utara
+5304072011,Fatumnasi
+5304072012,Tobu
+5304072013,Nunbena
+5304072020,Mollo Selatan
+5304072021,Polen
+5304072022,Mollo Barat
+5304072023,Mollo Tengah
+5304072030,Kota Soe
+5304072040,Amanuban Barat
+5304072041,Batu Putih
+5304072042,Kuatnana
+5304072050,Amanuban Selatan
+5304072051,Noebeba
+5304072060,Kuan Fatu
+5304072061,Kualin
+5304072070,Amanuban Tengah
+5304072071,Kolbano
+5304072072,Oenino
+5304072080,Amanuban Timur
+5304072081,Fautmolo
+5304072082,Fatukopa
+5304072090,Kie
+5304072091,Kot'olin
+5304072100,Amanatun Selatan
+5304072101,Boking
+5304072102,Nunkolo
+5304072103,Noebana
+5304072104,Santian
+5304072110,Amanatun Utara
+5304072111,Toianas
+5304072112,Kokbaun
+5304080,Amanuban Timur
+5304080010,Mollo Utara
+5304080011,Fatumnasi
+5304080012,Tobu
+5304080013,Nunbena
+5304080020,Mollo Selatan
+5304080021,Polen
+5304080022,Mollo Barat
+5304080023,Mollo Tengah
+5304080030,Kota Soe
+5304080040,Amanuban Barat
+5304080041,Batu Putih
+5304080042,Kuatnana
+5304080050,Amanuban Selatan
+5304080051,Noebeba
+5304080060,Kuan Fatu
+5304080061,Kualin
+5304080070,Amanuban Tengah
+5304080071,Kolbano
+5304080072,Oenino
+5304080080,Amanuban Timur
+5304080081,Fautmolo
+5304080082,Fatukopa
+5304080090,Kie
+5304080091,Kot'olin
+5304080100,Amanatun Selatan
+5304080101,Boking
+5304080102,Nunkolo
+5304080103,Noebana
+5304080104,Santian
+5304080110,Amanatun Utara
+5304080111,Toianas
+5304080112,Kokbaun
+5304081,Fautmolo
+5304081010,Mollo Utara
+5304081011,Fatumnasi
+5304081012,Tobu
+5304081013,Nunbena
+5304081020,Mollo Selatan
+5304081021,Polen
+5304081022,Mollo Barat
+5304081023,Mollo Tengah
+5304081030,Kota Soe
+5304081040,Amanuban Barat
+5304081041,Batu Putih
+5304081042,Kuatnana
+5304081050,Amanuban Selatan
+5304081051,Noebeba
+5304081060,Kuan Fatu
+5304081061,Kualin
+5304081070,Amanuban Tengah
+5304081071,Kolbano
+5304081072,Oenino
+5304081080,Amanuban Timur
+5304081081,Fautmolo
+5304081082,Fatukopa
+5304081090,Kie
+5304081091,Kot'olin
+5304081100,Amanatun Selatan
+5304081101,Boking
+5304081102,Nunkolo
+5304081103,Noebana
+5304081104,Santian
+5304081110,Amanatun Utara
+5304081111,Toianas
+5304081112,Kokbaun
+5304082,Fatukopa
+5304082010,Mollo Utara
+5304082011,Fatumnasi
+5304082012,Tobu
+5304082013,Nunbena
+5304082020,Mollo Selatan
+5304082021,Polen
+5304082022,Mollo Barat
+5304082023,Mollo Tengah
+5304082030,Kota Soe
+5304082040,Amanuban Barat
+5304082041,Batu Putih
+5304082042,Kuatnana
+5304082050,Amanuban Selatan
+5304082051,Noebeba
+5304082060,Kuan Fatu
+5304082061,Kualin
+5304082070,Amanuban Tengah
+5304082071,Kolbano
+5304082072,Oenino
+5304082080,Amanuban Timur
+5304082081,Fautmolo
+5304082082,Fatukopa
+5304082090,Kie
+5304082091,Kot'olin
+5304082100,Amanatun Selatan
+5304082101,Boking
+5304082102,Nunkolo
+5304082103,Noebana
+5304082104,Santian
+5304082110,Amanatun Utara
+5304082111,Toianas
+5304082112,Kokbaun
+5304090,Kie
+5304090010,Mollo Utara
+5304090011,Fatumnasi
+5304090012,Tobu
+5304090013,Nunbena
+5304090020,Mollo Selatan
+5304090021,Polen
+5304090022,Mollo Barat
+5304090023,Mollo Tengah
+5304090030,Kota Soe
+5304090040,Amanuban Barat
+5304090041,Batu Putih
+5304090042,Kuatnana
+5304090050,Amanuban Selatan
+5304090051,Noebeba
+5304090060,Kuan Fatu
+5304090061,Kualin
+5304090070,Amanuban Tengah
+5304090071,Kolbano
+5304090072,Oenino
+5304090080,Amanuban Timur
+5304090081,Fautmolo
+5304090082,Fatukopa
+5304090090,Kie
+5304090091,Kot'olin
+5304090100,Amanatun Selatan
+5304090101,Boking
+5304090102,Nunkolo
+5304090103,Noebana
+5304090104,Santian
+5304090110,Amanatun Utara
+5304090111,Toianas
+5304090112,Kokbaun
+5304091,Kot'olin
+5304091010,Mollo Utara
+5304091011,Fatumnasi
+5304091012,Tobu
+5304091013,Nunbena
+5304091020,Mollo Selatan
+5304091021,Polen
+5304091022,Mollo Barat
+5304091023,Mollo Tengah
+5304091030,Kota Soe
+5304091040,Amanuban Barat
+5304091041,Batu Putih
+5304091042,Kuatnana
+5304091050,Amanuban Selatan
+5304091051,Noebeba
+5304091060,Kuan Fatu
+5304091061,Kualin
+5304091070,Amanuban Tengah
+5304091071,Kolbano
+5304091072,Oenino
+5304091080,Amanuban Timur
+5304091081,Fautmolo
+5304091082,Fatukopa
+5304091090,Kie
+5304091091,Kot'olin
+5304091100,Amanatun Selatan
+5304091101,Boking
+5304091102,Nunkolo
+5304091103,Noebana
+5304091104,Santian
+5304091110,Amanatun Utara
+5304091111,Toianas
+5304091112,Kokbaun
+5304100,Amanatun Selatan
+5304100010,Mollo Utara
+5304100011,Fatumnasi
+5304100012,Tobu
+5304100013,Nunbena
+5304100020,Mollo Selatan
+5304100021,Polen
+5304100022,Mollo Barat
+5304100023,Mollo Tengah
+5304100030,Kota Soe
+5304100040,Amanuban Barat
+5304100041,Batu Putih
+5304100042,Kuatnana
+5304100050,Amanuban Selatan
+5304100051,Noebeba
+5304100060,Kuan Fatu
+5304100061,Kualin
+5304100070,Amanuban Tengah
+5304100071,Kolbano
+5304100072,Oenino
+5304100080,Amanuban Timur
+5304100081,Fautmolo
+5304100082,Fatukopa
+5304100090,Kie
+5304100091,Kot'olin
+5304100100,Amanatun Selatan
+5304100101,Boking
+5304100102,Nunkolo
+5304100103,Noebana
+5304100104,Santian
+5304100110,Amanatun Utara
+5304100111,Toianas
+5304100112,Kokbaun
+5304101,Boking
+5304101010,Mollo Utara
+5304101011,Fatumnasi
+5304101012,Tobu
+5304101013,Nunbena
+5304101020,Mollo Selatan
+5304101021,Polen
+5304101022,Mollo Barat
+5304101023,Mollo Tengah
+5304101030,Kota Soe
+5304101040,Amanuban Barat
+5304101041,Batu Putih
+5304101042,Kuatnana
+5304101050,Amanuban Selatan
+5304101051,Noebeba
+5304101060,Kuan Fatu
+5304101061,Kualin
+5304101070,Amanuban Tengah
+5304101071,Kolbano
+5304101072,Oenino
+5304101080,Amanuban Timur
+5304101081,Fautmolo
+5304101082,Fatukopa
+5304101090,Kie
+5304101091,Kot'olin
+5304101100,Amanatun Selatan
+5304101101,Boking
+5304101102,Nunkolo
+5304101103,Noebana
+5304101104,Santian
+5304101110,Amanatun Utara
+5304101111,Toianas
+5304101112,Kokbaun
+5304102,Nunkolo
+5304102010,Mollo Utara
+5304102011,Fatumnasi
+5304102012,Tobu
+5304102013,Nunbena
+5304102020,Mollo Selatan
+5304102021,Polen
+5304102022,Mollo Barat
+5304102023,Mollo Tengah
+5304102030,Kota Soe
+5304102040,Amanuban Barat
+5304102041,Batu Putih
+5304102042,Kuatnana
+5304102050,Amanuban Selatan
+5304102051,Noebeba
+5304102060,Kuan Fatu
+5304102061,Kualin
+5304102070,Amanuban Tengah
+5304102071,Kolbano
+5304102072,Oenino
+5304102080,Amanuban Timur
+5304102081,Fautmolo
+5304102082,Fatukopa
+5304102090,Kie
+5304102091,Kot'olin
+5304102100,Amanatun Selatan
+5304102101,Boking
+5304102102,Nunkolo
+5304102103,Noebana
+5304102104,Santian
+5304102110,Amanatun Utara
+5304102111,Toianas
+5304102112,Kokbaun
+5304103,Noebana
+5304103010,Mollo Utara
+5304103011,Fatumnasi
+5304103012,Tobu
+5304103013,Nunbena
+5304103020,Mollo Selatan
+5304103021,Polen
+5304103022,Mollo Barat
+5304103023,Mollo Tengah
+5304103030,Kota Soe
+5304103040,Amanuban Barat
+5304103041,Batu Putih
+5304103042,Kuatnana
+5304103050,Amanuban Selatan
+5304103051,Noebeba
+5304103060,Kuan Fatu
+5304103061,Kualin
+5304103070,Amanuban Tengah
+5304103071,Kolbano
+5304103072,Oenino
+5304103080,Amanuban Timur
+5304103081,Fautmolo
+5304103082,Fatukopa
+5304103090,Kie
+5304103091,Kot'olin
+5304103100,Amanatun Selatan
+5304103101,Boking
+5304103102,Nunkolo
+5304103103,Noebana
+5304103104,Santian
+5304103110,Amanatun Utara
+5304103111,Toianas
+5304103112,Kokbaun
+5304104,Santian
+5304104010,Mollo Utara
+5304104011,Fatumnasi
+5304104012,Tobu
+5304104013,Nunbena
+5304104020,Mollo Selatan
+5304104021,Polen
+5304104022,Mollo Barat
+5304104023,Mollo Tengah
+5304104030,Kota Soe
+5304104040,Amanuban Barat
+5304104041,Batu Putih
+5304104042,Kuatnana
+5304104050,Amanuban Selatan
+5304104051,Noebeba
+5304104060,Kuan Fatu
+5304104061,Kualin
+5304104070,Amanuban Tengah
+5304104071,Kolbano
+5304104072,Oenino
+5304104080,Amanuban Timur
+5304104081,Fautmolo
+5304104082,Fatukopa
+5304104090,Kie
+5304104091,Kot'olin
+5304104100,Amanatun Selatan
+5304104101,Boking
+5304104102,Nunkolo
+5304104103,Noebana
+5304104104,Santian
+5304104110,Amanatun Utara
+5304104111,Toianas
+5304104112,Kokbaun
+5304110,Amanatun Utara
+5304110010,Mollo Utara
+5304110011,Fatumnasi
+5304110012,Tobu
+5304110013,Nunbena
+5304110020,Mollo Selatan
+5304110021,Polen
+5304110022,Mollo Barat
+5304110023,Mollo Tengah
+5304110030,Kota Soe
+5304110040,Amanuban Barat
+5304110041,Batu Putih
+5304110042,Kuatnana
+5304110050,Amanuban Selatan
+5304110051,Noebeba
+5304110060,Kuan Fatu
+5304110061,Kualin
+5304110070,Amanuban Tengah
+5304110071,Kolbano
+5304110072,Oenino
+5304110080,Amanuban Timur
+5304110081,Fautmolo
+5304110082,Fatukopa
+5304110090,Kie
+5304110091,Kot'olin
+5304110100,Amanatun Selatan
+5304110101,Boking
+5304110102,Nunkolo
+5304110103,Noebana
+5304110104,Santian
+5304110110,Amanatun Utara
+5304110111,Toianas
+5304110112,Kokbaun
+5304111,Toianas
+5304111010,Mollo Utara
+5304111011,Fatumnasi
+5304111012,Tobu
+5304111013,Nunbena
+5304111020,Mollo Selatan
+5304111021,Polen
+5304111022,Mollo Barat
+5304111023,Mollo Tengah
+5304111030,Kota Soe
+5304111040,Amanuban Barat
+5304111041,Batu Putih
+5304111042,Kuatnana
+5304111050,Amanuban Selatan
+5304111051,Noebeba
+5304111060,Kuan Fatu
+5304111061,Kualin
+5304111070,Amanuban Tengah
+5304111071,Kolbano
+5304111072,Oenino
+5304111080,Amanuban Timur
+5304111081,Fautmolo
+5304111082,Fatukopa
+5304111090,Kie
+5304111091,Kot'olin
+5304111100,Amanatun Selatan
+5304111101,Boking
+5304111102,Nunkolo
+5304111103,Noebana
+5304111104,Santian
+5304111110,Amanatun Utara
+5304111111,Toianas
+5304111112,Kokbaun
+5304112,Kokbaun
+5304112010,Mollo Utara
+5304112011,Fatumnasi
+5304112012,Tobu
+5304112013,Nunbena
+5304112020,Mollo Selatan
+5304112021,Polen
+5304112022,Mollo Barat
+5304112023,Mollo Tengah
+5304112030,Kota Soe
+5304112040,Amanuban Barat
+5304112041,Batu Putih
+5304112042,Kuatnana
+5304112050,Amanuban Selatan
+5304112051,Noebeba
+5304112060,Kuan Fatu
+5304112061,Kualin
+5304112070,Amanuban Tengah
+5304112071,Kolbano
+5304112072,Oenino
+5304112080,Amanuban Timur
+5304112081,Fautmolo
+5304112082,Fatukopa
+5304112090,Kie
+5304112091,Kot'olin
+5304112100,Amanatun Selatan
+5304112101,Boking
+5304112102,Nunkolo
+5304112103,Noebana
+5304112104,Santian
+5304112110,Amanatun Utara
+5304112111,Toianas
+5304112112,Kokbaun
+5305,Timor Tengah Utara
+5305010,Miomaffo Barat
+5305010010,Miomaffo Barat
+5305010011,Miomaffo Tengah
+5305010012,Musi
+5305010013,Mutis
+5305010020,Miomaffo Timur
+5305010021,Noemuti
+5305010022,Bikomi Selatan
+5305010023,Bikomi Tengah
+5305010024,Bikomi Nilulat
+5305010025,Bikomi Utara
+5305010026,Naibenu
+5305010027,Noemuti Timur
+5305010030,Kota Kefamenanu
+5305010040,Insana
+5305010041,Insana Utara
+5305010042,Insana Barat
+5305010043,Insana Tengah
+5305010044,Insana Fafinesu
+5305010050,Biboki Selatan
+5305010051,Biboki Tanpah
+5305010052,Biboki Moenleu
+5305010060,Biboki Utara
+5305010061,Biboki Anleu
+5305010062,Biboki Feotleu
+5305011,Miomaffo Tengah
+5305011010,Miomaffo Barat
+5305011011,Miomaffo Tengah
+5305011012,Musi
+5305011013,Mutis
+5305011020,Miomaffo Timur
+5305011021,Noemuti
+5305011022,Bikomi Selatan
+5305011023,Bikomi Tengah
+5305011024,Bikomi Nilulat
+5305011025,Bikomi Utara
+5305011026,Naibenu
+5305011027,Noemuti Timur
+5305011030,Kota Kefamenanu
+5305011040,Insana
+5305011041,Insana Utara
+5305011042,Insana Barat
+5305011043,Insana Tengah
+5305011044,Insana Fafinesu
+5305011050,Biboki Selatan
+5305011051,Biboki Tanpah
+5305011052,Biboki Moenleu
+5305011060,Biboki Utara
+5305011061,Biboki Anleu
+5305011062,Biboki Feotleu
+5305012,Musi
+5305012010,Miomaffo Barat
+5305012011,Miomaffo Tengah
+5305012012,Musi
+5305012013,Mutis
+5305012020,Miomaffo Timur
+5305012021,Noemuti
+5305012022,Bikomi Selatan
+5305012023,Bikomi Tengah
+5305012024,Bikomi Nilulat
+5305012025,Bikomi Utara
+5305012026,Naibenu
+5305012027,Noemuti Timur
+5305012030,Kota Kefamenanu
+5305012040,Insana
+5305012041,Insana Utara
+5305012042,Insana Barat
+5305012043,Insana Tengah
+5305012044,Insana Fafinesu
+5305012050,Biboki Selatan
+5305012051,Biboki Tanpah
+5305012052,Biboki Moenleu
+5305012060,Biboki Utara
+5305012061,Biboki Anleu
+5305012062,Biboki Feotleu
+5305013,Mutis
+5305013010,Miomaffo Barat
+5305013011,Miomaffo Tengah
+5305013012,Musi
+5305013013,Mutis
+5305013020,Miomaffo Timur
+5305013021,Noemuti
+5305013022,Bikomi Selatan
+5305013023,Bikomi Tengah
+5305013024,Bikomi Nilulat
+5305013025,Bikomi Utara
+5305013026,Naibenu
+5305013027,Noemuti Timur
+5305013030,Kota Kefamenanu
+5305013040,Insana
+5305013041,Insana Utara
+5305013042,Insana Barat
+5305013043,Insana Tengah
+5305013044,Insana Fafinesu
+5305013050,Biboki Selatan
+5305013051,Biboki Tanpah
+5305013052,Biboki Moenleu
+5305013060,Biboki Utara
+5305013061,Biboki Anleu
+5305013062,Biboki Feotleu
+5305020,Miomaffo Timur
+5305020010,Miomaffo Barat
+5305020011,Miomaffo Tengah
+5305020012,Musi
+5305020013,Mutis
+5305020020,Miomaffo Timur
+5305020021,Noemuti
+5305020022,Bikomi Selatan
+5305020023,Bikomi Tengah
+5305020024,Bikomi Nilulat
+5305020025,Bikomi Utara
+5305020026,Naibenu
+5305020027,Noemuti Timur
+5305020030,Kota Kefamenanu
+5305020040,Insana
+5305020041,Insana Utara
+5305020042,Insana Barat
+5305020043,Insana Tengah
+5305020044,Insana Fafinesu
+5305020050,Biboki Selatan
+5305020051,Biboki Tanpah
+5305020052,Biboki Moenleu
+5305020060,Biboki Utara
+5305020061,Biboki Anleu
+5305020062,Biboki Feotleu
+5305021,Noemuti
+5305021010,Miomaffo Barat
+5305021011,Miomaffo Tengah
+5305021012,Musi
+5305021013,Mutis
+5305021020,Miomaffo Timur
+5305021021,Noemuti
+5305021022,Bikomi Selatan
+5305021023,Bikomi Tengah
+5305021024,Bikomi Nilulat
+5305021025,Bikomi Utara
+5305021026,Naibenu
+5305021027,Noemuti Timur
+5305021030,Kota Kefamenanu
+5305021040,Insana
+5305021041,Insana Utara
+5305021042,Insana Barat
+5305021043,Insana Tengah
+5305021044,Insana Fafinesu
+5305021050,Biboki Selatan
+5305021051,Biboki Tanpah
+5305021052,Biboki Moenleu
+5305021060,Biboki Utara
+5305021061,Biboki Anleu
+5305021062,Biboki Feotleu
+5305022,Bikomi Selatan
+5305022010,Miomaffo Barat
+5305022011,Miomaffo Tengah
+5305022012,Musi
+5305022013,Mutis
+5305022020,Miomaffo Timur
+5305022021,Noemuti
+5305022022,Bikomi Selatan
+5305022023,Bikomi Tengah
+5305022024,Bikomi Nilulat
+5305022025,Bikomi Utara
+5305022026,Naibenu
+5305022027,Noemuti Timur
+5305022030,Kota Kefamenanu
+5305022040,Insana
+5305022041,Insana Utara
+5305022042,Insana Barat
+5305022043,Insana Tengah
+5305022044,Insana Fafinesu
+5305022050,Biboki Selatan
+5305022051,Biboki Tanpah
+5305022052,Biboki Moenleu
+5305022060,Biboki Utara
+5305022061,Biboki Anleu
+5305022062,Biboki Feotleu
+5305023,Bikomi Tengah
+5305023010,Miomaffo Barat
+5305023011,Miomaffo Tengah
+5305023012,Musi
+5305023013,Mutis
+5305023020,Miomaffo Timur
+5305023021,Noemuti
+5305023022,Bikomi Selatan
+5305023023,Bikomi Tengah
+5305023024,Bikomi Nilulat
+5305023025,Bikomi Utara
+5305023026,Naibenu
+5305023027,Noemuti Timur
+5305023030,Kota Kefamenanu
+5305023040,Insana
+5305023041,Insana Utara
+5305023042,Insana Barat
+5305023043,Insana Tengah
+5305023044,Insana Fafinesu
+5305023050,Biboki Selatan
+5305023051,Biboki Tanpah
+5305023052,Biboki Moenleu
+5305023060,Biboki Utara
+5305023061,Biboki Anleu
+5305023062,Biboki Feotleu
+5305024,Bikomi Nilulat
+5305024010,Miomaffo Barat
+5305024011,Miomaffo Tengah
+5305024012,Musi
+5305024013,Mutis
+5305024020,Miomaffo Timur
+5305024021,Noemuti
+5305024022,Bikomi Selatan
+5305024023,Bikomi Tengah
+5305024024,Bikomi Nilulat
+5305024025,Bikomi Utara
+5305024026,Naibenu
+5305024027,Noemuti Timur
+5305024030,Kota Kefamenanu
+5305024040,Insana
+5305024041,Insana Utara
+5305024042,Insana Barat
+5305024043,Insana Tengah
+5305024044,Insana Fafinesu
+5305024050,Biboki Selatan
+5305024051,Biboki Tanpah
+5305024052,Biboki Moenleu
+5305024060,Biboki Utara
+5305024061,Biboki Anleu
+5305024062,Biboki Feotleu
+5305025,Bikomi Utara
+5305025010,Miomaffo Barat
+5305025011,Miomaffo Tengah
+5305025012,Musi
+5305025013,Mutis
+5305025020,Miomaffo Timur
+5305025021,Noemuti
+5305025022,Bikomi Selatan
+5305025023,Bikomi Tengah
+5305025024,Bikomi Nilulat
+5305025025,Bikomi Utara
+5305025026,Naibenu
+5305025027,Noemuti Timur
+5305025030,Kota Kefamenanu
+5305025040,Insana
+5305025041,Insana Utara
+5305025042,Insana Barat
+5305025043,Insana Tengah
+5305025044,Insana Fafinesu
+5305025050,Biboki Selatan
+5305025051,Biboki Tanpah
+5305025052,Biboki Moenleu
+5305025060,Biboki Utara
+5305025061,Biboki Anleu
+5305025062,Biboki Feotleu
+5305026,Naibenu
+5305026010,Miomaffo Barat
+5305026011,Miomaffo Tengah
+5305026012,Musi
+5305026013,Mutis
+5305026020,Miomaffo Timur
+5305026021,Noemuti
+5305026022,Bikomi Selatan
+5305026023,Bikomi Tengah
+5305026024,Bikomi Nilulat
+5305026025,Bikomi Utara
+5305026026,Naibenu
+5305026027,Noemuti Timur
+5305026030,Kota Kefamenanu
+5305026040,Insana
+5305026041,Insana Utara
+5305026042,Insana Barat
+5305026043,Insana Tengah
+5305026044,Insana Fafinesu
+5305026050,Biboki Selatan
+5305026051,Biboki Tanpah
+5305026052,Biboki Moenleu
+5305026060,Biboki Utara
+5305026061,Biboki Anleu
+5305026062,Biboki Feotleu
+5305027,Noemuti Timur
+5305027010,Miomaffo Barat
+5305027011,Miomaffo Tengah
+5305027012,Musi
+5305027013,Mutis
+5305027020,Miomaffo Timur
+5305027021,Noemuti
+5305027022,Bikomi Selatan
+5305027023,Bikomi Tengah
+5305027024,Bikomi Nilulat
+5305027025,Bikomi Utara
+5305027026,Naibenu
+5305027027,Noemuti Timur
+5305027030,Kota Kefamenanu
+5305027040,Insana
+5305027041,Insana Utara
+5305027042,Insana Barat
+5305027043,Insana Tengah
+5305027044,Insana Fafinesu
+5305027050,Biboki Selatan
+5305027051,Biboki Tanpah
+5305027052,Biboki Moenleu
+5305027060,Biboki Utara
+5305027061,Biboki Anleu
+5305027062,Biboki Feotleu
+5305030,Kota Kefamenanu
+5305030010,Miomaffo Barat
+5305030011,Miomaffo Tengah
+5305030012,Musi
+5305030013,Mutis
+5305030020,Miomaffo Timur
+5305030021,Noemuti
+5305030022,Bikomi Selatan
+5305030023,Bikomi Tengah
+5305030024,Bikomi Nilulat
+5305030025,Bikomi Utara
+5305030026,Naibenu
+5305030027,Noemuti Timur
+5305030030,Kota Kefamenanu
+5305030040,Insana
+5305030041,Insana Utara
+5305030042,Insana Barat
+5305030043,Insana Tengah
+5305030044,Insana Fafinesu
+5305030050,Biboki Selatan
+5305030051,Biboki Tanpah
+5305030052,Biboki Moenleu
+5305030060,Biboki Utara
+5305030061,Biboki Anleu
+5305030062,Biboki Feotleu
+5305040,Insana
+5305040010,Miomaffo Barat
+5305040011,Miomaffo Tengah
+5305040012,Musi
+5305040013,Mutis
+5305040020,Miomaffo Timur
+5305040021,Noemuti
+5305040022,Bikomi Selatan
+5305040023,Bikomi Tengah
+5305040024,Bikomi Nilulat
+5305040025,Bikomi Utara
+5305040026,Naibenu
+5305040027,Noemuti Timur
+5305040030,Kota Kefamenanu
+5305040040,Insana
+5305040041,Insana Utara
+5305040042,Insana Barat
+5305040043,Insana Tengah
+5305040044,Insana Fafinesu
+5305040050,Biboki Selatan
+5305040051,Biboki Tanpah
+5305040052,Biboki Moenleu
+5305040060,Biboki Utara
+5305040061,Biboki Anleu
+5305040062,Biboki Feotleu
+5305041,Insana Utara
+5305041010,Miomaffo Barat
+5305041011,Miomaffo Tengah
+5305041012,Musi
+5305041013,Mutis
+5305041020,Miomaffo Timur
+5305041021,Noemuti
+5305041022,Bikomi Selatan
+5305041023,Bikomi Tengah
+5305041024,Bikomi Nilulat
+5305041025,Bikomi Utara
+5305041026,Naibenu
+5305041027,Noemuti Timur
+5305041030,Kota Kefamenanu
+5305041040,Insana
+5305041041,Insana Utara
+5305041042,Insana Barat
+5305041043,Insana Tengah
+5305041044,Insana Fafinesu
+5305041050,Biboki Selatan
+5305041051,Biboki Tanpah
+5305041052,Biboki Moenleu
+5305041060,Biboki Utara
+5305041061,Biboki Anleu
+5305041062,Biboki Feotleu
+5305042,Insana Barat
+5305042010,Miomaffo Barat
+5305042011,Miomaffo Tengah
+5305042012,Musi
+5305042013,Mutis
+5305042020,Miomaffo Timur
+5305042021,Noemuti
+5305042022,Bikomi Selatan
+5305042023,Bikomi Tengah
+5305042024,Bikomi Nilulat
+5305042025,Bikomi Utara
+5305042026,Naibenu
+5305042027,Noemuti Timur
+5305042030,Kota Kefamenanu
+5305042040,Insana
+5305042041,Insana Utara
+5305042042,Insana Barat
+5305042043,Insana Tengah
+5305042044,Insana Fafinesu
+5305042050,Biboki Selatan
+5305042051,Biboki Tanpah
+5305042052,Biboki Moenleu
+5305042060,Biboki Utara
+5305042061,Biboki Anleu
+5305042062,Biboki Feotleu
+5305043,Insana Tengah
+5305043010,Miomaffo Barat
+5305043011,Miomaffo Tengah
+5305043012,Musi
+5305043013,Mutis
+5305043020,Miomaffo Timur
+5305043021,Noemuti
+5305043022,Bikomi Selatan
+5305043023,Bikomi Tengah
+5305043024,Bikomi Nilulat
+5305043025,Bikomi Utara
+5305043026,Naibenu
+5305043027,Noemuti Timur
+5305043030,Kota Kefamenanu
+5305043040,Insana
+5305043041,Insana Utara
+5305043042,Insana Barat
+5305043043,Insana Tengah
+5305043044,Insana Fafinesu
+5305043050,Biboki Selatan
+5305043051,Biboki Tanpah
+5305043052,Biboki Moenleu
+5305043060,Biboki Utara
+5305043061,Biboki Anleu
+5305043062,Biboki Feotleu
+5305044,Insana Fafinesu
+5305044010,Miomaffo Barat
+5305044011,Miomaffo Tengah
+5305044012,Musi
+5305044013,Mutis
+5305044020,Miomaffo Timur
+5305044021,Noemuti
+5305044022,Bikomi Selatan
+5305044023,Bikomi Tengah
+5305044024,Bikomi Nilulat
+5305044025,Bikomi Utara
+5305044026,Naibenu
+5305044027,Noemuti Timur
+5305044030,Kota Kefamenanu
+5305044040,Insana
+5305044041,Insana Utara
+5305044042,Insana Barat
+5305044043,Insana Tengah
+5305044044,Insana Fafinesu
+5305044050,Biboki Selatan
+5305044051,Biboki Tanpah
+5305044052,Biboki Moenleu
+5305044060,Biboki Utara
+5305044061,Biboki Anleu
+5305044062,Biboki Feotleu
+5305050,Biboki Selatan
+5305050010,Miomaffo Barat
+5305050011,Miomaffo Tengah
+5305050012,Musi
+5305050013,Mutis
+5305050020,Miomaffo Timur
+5305050021,Noemuti
+5305050022,Bikomi Selatan
+5305050023,Bikomi Tengah
+5305050024,Bikomi Nilulat
+5305050025,Bikomi Utara
+5305050026,Naibenu
+5305050027,Noemuti Timur
+5305050030,Kota Kefamenanu
+5305050040,Insana
+5305050041,Insana Utara
+5305050042,Insana Barat
+5305050043,Insana Tengah
+5305050044,Insana Fafinesu
+5305050050,Biboki Selatan
+5305050051,Biboki Tanpah
+5305050052,Biboki Moenleu
+5305050060,Biboki Utara
+5305050061,Biboki Anleu
+5305050062,Biboki Feotleu
+5305051,Biboki Tanpah
+5305051010,Miomaffo Barat
+5305051011,Miomaffo Tengah
+5305051012,Musi
+5305051013,Mutis
+5305051020,Miomaffo Timur
+5305051021,Noemuti
+5305051022,Bikomi Selatan
+5305051023,Bikomi Tengah
+5305051024,Bikomi Nilulat
+5305051025,Bikomi Utara
+5305051026,Naibenu
+5305051027,Noemuti Timur
+5305051030,Kota Kefamenanu
+5305051040,Insana
+5305051041,Insana Utara
+5305051042,Insana Barat
+5305051043,Insana Tengah
+5305051044,Insana Fafinesu
+5305051050,Biboki Selatan
+5305051051,Biboki Tanpah
+5305051052,Biboki Moenleu
+5305051060,Biboki Utara
+5305051061,Biboki Anleu
+5305051062,Biboki Feotleu
+5305052,Biboki Moenleu
+5305052010,Miomaffo Barat
+5305052011,Miomaffo Tengah
+5305052012,Musi
+5305052013,Mutis
+5305052020,Miomaffo Timur
+5305052021,Noemuti
+5305052022,Bikomi Selatan
+5305052023,Bikomi Tengah
+5305052024,Bikomi Nilulat
+5305052025,Bikomi Utara
+5305052026,Naibenu
+5305052027,Noemuti Timur
+5305052030,Kota Kefamenanu
+5305052040,Insana
+5305052041,Insana Utara
+5305052042,Insana Barat
+5305052043,Insana Tengah
+5305052044,Insana Fafinesu
+5305052050,Biboki Selatan
+5305052051,Biboki Tanpah
+5305052052,Biboki Moenleu
+5305052060,Biboki Utara
+5305052061,Biboki Anleu
+5305052062,Biboki Feotleu
+5305060,Biboki Utara
+5305060010,Miomaffo Barat
+5305060011,Miomaffo Tengah
+5305060012,Musi
+5305060013,Mutis
+5305060020,Miomaffo Timur
+5305060021,Noemuti
+5305060022,Bikomi Selatan
+5305060023,Bikomi Tengah
+5305060024,Bikomi Nilulat
+5305060025,Bikomi Utara
+5305060026,Naibenu
+5305060027,Noemuti Timur
+5305060030,Kota Kefamenanu
+5305060040,Insana
+5305060041,Insana Utara
+5305060042,Insana Barat
+5305060043,Insana Tengah
+5305060044,Insana Fafinesu
+5305060050,Biboki Selatan
+5305060051,Biboki Tanpah
+5305060052,Biboki Moenleu
+5305060060,Biboki Utara
+5305060061,Biboki Anleu
+5305060062,Biboki Feotleu
+5305061,Biboki Anleu
+5305061010,Miomaffo Barat
+5305061011,Miomaffo Tengah
+5305061012,Musi
+5305061013,Mutis
+5305061020,Miomaffo Timur
+5305061021,Noemuti
+5305061022,Bikomi Selatan
+5305061023,Bikomi Tengah
+5305061024,Bikomi Nilulat
+5305061025,Bikomi Utara
+5305061026,Naibenu
+5305061027,Noemuti Timur
+5305061030,Kota Kefamenanu
+5305061040,Insana
+5305061041,Insana Utara
+5305061042,Insana Barat
+5305061043,Insana Tengah
+5305061044,Insana Fafinesu
+5305061050,Biboki Selatan
+5305061051,Biboki Tanpah
+5305061052,Biboki Moenleu
+5305061060,Biboki Utara
+5305061061,Biboki Anleu
+5305061062,Biboki Feotleu
+5305062,Biboki Feotleu
+5305062010,Miomaffo Barat
+5305062011,Miomaffo Tengah
+5305062012,Musi
+5305062013,Mutis
+5305062020,Miomaffo Timur
+5305062021,Noemuti
+5305062022,Bikomi Selatan
+5305062023,Bikomi Tengah
+5305062024,Bikomi Nilulat
+5305062025,Bikomi Utara
+5305062026,Naibenu
+5305062027,Noemuti Timur
+5305062030,Kota Kefamenanu
+5305062040,Insana
+5305062041,Insana Utara
+5305062042,Insana Barat
+5305062043,Insana Tengah
+5305062044,Insana Fafinesu
+5305062050,Biboki Selatan
+5305062051,Biboki Tanpah
+5305062052,Biboki Moenleu
+5305062060,Biboki Utara
+5305062061,Biboki Anleu
+5305062062,Biboki Feotleu
+5306,Belu
+5306032,Rai Manuk
+5306032032,Rai Manuk
+5306032050,Tasifeto Barat
+5306032051,Kakuluk Mesak
+5306032052,Nanaet Duabesi
+5306032060,Atambua
+5306032061,Atambua Barat
+5306032062,Atambua Selatan
+5306032070,Tasifeto Timur
+5306032071,Raihat
+5306032072,Lasiolat
+5306032080,Lamaknen
+5306032081,Lamaknen Selatan
+5306050,Tasifeto Barat
+5306050032,Rai Manuk
+5306050050,Tasifeto Barat
+5306050051,Kakuluk Mesak
+5306050052,Nanaet Duabesi
+5306050060,Atambua
+5306050061,Atambua Barat
+5306050062,Atambua Selatan
+5306050070,Tasifeto Timur
+5306050071,Raihat
+5306050072,Lasiolat
+5306050080,Lamaknen
+5306050081,Lamaknen Selatan
+5306051,Kakuluk Mesak
+5306051032,Rai Manuk
+5306051050,Tasifeto Barat
+5306051051,Kakuluk Mesak
+5306051052,Nanaet Duabesi
+5306051060,Atambua
+5306051061,Atambua Barat
+5306051062,Atambua Selatan
+5306051070,Tasifeto Timur
+5306051071,Raihat
+5306051072,Lasiolat
+5306051080,Lamaknen
+5306051081,Lamaknen Selatan
+5306052,Nanaet Duabesi
+5306052032,Rai Manuk
+5306052050,Tasifeto Barat
+5306052051,Kakuluk Mesak
+5306052052,Nanaet Duabesi
+5306052060,Atambua
+5306052061,Atambua Barat
+5306052062,Atambua Selatan
+5306052070,Tasifeto Timur
+5306052071,Raihat
+5306052072,Lasiolat
+5306052080,Lamaknen
+5306052081,Lamaknen Selatan
+5306060,Atambua
+5306060032,Rai Manuk
+5306060050,Tasifeto Barat
+5306060051,Kakuluk Mesak
+5306060052,Nanaet Duabesi
+5306060060,Atambua
+5306060061,Atambua Barat
+5306060062,Atambua Selatan
+5306060070,Tasifeto Timur
+5306060071,Raihat
+5306060072,Lasiolat
+5306060080,Lamaknen
+5306060081,Lamaknen Selatan
+5306061,Atambua Barat
+5306061032,Rai Manuk
+5306061050,Tasifeto Barat
+5306061051,Kakuluk Mesak
+5306061052,Nanaet Duabesi
+5306061060,Atambua
+5306061061,Atambua Barat
+5306061062,Atambua Selatan
+5306061070,Tasifeto Timur
+5306061071,Raihat
+5306061072,Lasiolat
+5306061080,Lamaknen
+5306061081,Lamaknen Selatan
+5306062,Atambua Selatan
+5306062032,Rai Manuk
+5306062050,Tasifeto Barat
+5306062051,Kakuluk Mesak
+5306062052,Nanaet Duabesi
+5306062060,Atambua
+5306062061,Atambua Barat
+5306062062,Atambua Selatan
+5306062070,Tasifeto Timur
+5306062071,Raihat
+5306062072,Lasiolat
+5306062080,Lamaknen
+5306062081,Lamaknen Selatan
+5306070,Tasifeto Timur
+5306070032,Rai Manuk
+5306070050,Tasifeto Barat
+5306070051,Kakuluk Mesak
+5306070052,Nanaet Duabesi
+5306070060,Atambua
+5306070061,Atambua Barat
+5306070062,Atambua Selatan
+5306070070,Tasifeto Timur
+5306070071,Raihat
+5306070072,Lasiolat
+5306070080,Lamaknen
+5306070081,Lamaknen Selatan
+5306071,Raihat
+5306071032,Rai Manuk
+5306071050,Tasifeto Barat
+5306071051,Kakuluk Mesak
+5306071052,Nanaet Duabesi
+5306071060,Atambua
+5306071061,Atambua Barat
+5306071062,Atambua Selatan
+5306071070,Tasifeto Timur
+5306071071,Raihat
+5306071072,Lasiolat
+5306071080,Lamaknen
+5306071081,Lamaknen Selatan
+5306072,Lasiolat
+5306072032,Rai Manuk
+5306072050,Tasifeto Barat
+5306072051,Kakuluk Mesak
+5306072052,Nanaet Duabesi
+5306072060,Atambua
+5306072061,Atambua Barat
+5306072062,Atambua Selatan
+5306072070,Tasifeto Timur
+5306072071,Raihat
+5306072072,Lasiolat
+5306072080,Lamaknen
+5306072081,Lamaknen Selatan
+5306080,Lamaknen
+5306080032,Rai Manuk
+5306080050,Tasifeto Barat
+5306080051,Kakuluk Mesak
+5306080052,Nanaet Duabesi
+5306080060,Atambua
+5306080061,Atambua Barat
+5306080062,Atambua Selatan
+5306080070,Tasifeto Timur
+5306080071,Raihat
+5306080072,Lasiolat
+5306080080,Lamaknen
+5306080081,Lamaknen Selatan
+5306081,Lamaknen Selatan
+5306081032,Rai Manuk
+5306081050,Tasifeto Barat
+5306081051,Kakuluk Mesak
+5306081052,Nanaet Duabesi
+5306081060,Atambua
+5306081061,Atambua Barat
+5306081062,Atambua Selatan
+5306081070,Tasifeto Timur
+5306081071,Raihat
+5306081072,Lasiolat
+5306081080,Lamaknen
+5306081081,Lamaknen Selatan
+5307,Alor
+5307010,Pantar
+5307010010,Pantar
+5307010011,Pantar Barat
+5307010012,Pantar Timur
+5307010013,Pantar Barat Laut
+5307010014,Pantar Tengah
+5307010020,Alor Barat Daya
+5307010021,Mataru
+5307010030,Alor Selatan
+5307010040,Alor Timur
+5307010041,Alor Timur Laut
+5307010042,Pureman
+5307010050,Teluk Mutiara
+5307010051,Kabola
+5307010060,Alor Barat Laut
+5307010061,Alor Tengah Utara
+5307010062,Pulau Pura
+5307010063,Lembur
+5307011,Pantar Barat
+5307011010,Pantar
+5307011011,Pantar Barat
+5307011012,Pantar Timur
+5307011013,Pantar Barat Laut
+5307011014,Pantar Tengah
+5307011020,Alor Barat Daya
+5307011021,Mataru
+5307011030,Alor Selatan
+5307011040,Alor Timur
+5307011041,Alor Timur Laut
+5307011042,Pureman
+5307011050,Teluk Mutiara
+5307011051,Kabola
+5307011060,Alor Barat Laut
+5307011061,Alor Tengah Utara
+5307011062,Pulau Pura
+5307011063,Lembur
+5307012,Pantar Timur
+5307012010,Pantar
+5307012011,Pantar Barat
+5307012012,Pantar Timur
+5307012013,Pantar Barat Laut
+5307012014,Pantar Tengah
+5307012020,Alor Barat Daya
+5307012021,Mataru
+5307012030,Alor Selatan
+5307012040,Alor Timur
+5307012041,Alor Timur Laut
+5307012042,Pureman
+5307012050,Teluk Mutiara
+5307012051,Kabola
+5307012060,Alor Barat Laut
+5307012061,Alor Tengah Utara
+5307012062,Pulau Pura
+5307012063,Lembur
+5307013,Pantar Barat Laut
+5307013010,Pantar
+5307013011,Pantar Barat
+5307013012,Pantar Timur
+5307013013,Pantar Barat Laut
+5307013014,Pantar Tengah
+5307013020,Alor Barat Daya
+5307013021,Mataru
+5307013030,Alor Selatan
+5307013040,Alor Timur
+5307013041,Alor Timur Laut
+5307013042,Pureman
+5307013050,Teluk Mutiara
+5307013051,Kabola
+5307013060,Alor Barat Laut
+5307013061,Alor Tengah Utara
+5307013062,Pulau Pura
+5307013063,Lembur
+5307014,Pantar Tengah
+5307014010,Pantar
+5307014011,Pantar Barat
+5307014012,Pantar Timur
+5307014013,Pantar Barat Laut
+5307014014,Pantar Tengah
+5307014020,Alor Barat Daya
+5307014021,Mataru
+5307014030,Alor Selatan
+5307014040,Alor Timur
+5307014041,Alor Timur Laut
+5307014042,Pureman
+5307014050,Teluk Mutiara
+5307014051,Kabola
+5307014060,Alor Barat Laut
+5307014061,Alor Tengah Utara
+5307014062,Pulau Pura
+5307014063,Lembur
+5307020,Alor Barat Daya
+5307020010,Pantar
+5307020011,Pantar Barat
+5307020012,Pantar Timur
+5307020013,Pantar Barat Laut
+5307020014,Pantar Tengah
+5307020020,Alor Barat Daya
+5307020021,Mataru
+5307020030,Alor Selatan
+5307020040,Alor Timur
+5307020041,Alor Timur Laut
+5307020042,Pureman
+5307020050,Teluk Mutiara
+5307020051,Kabola
+5307020060,Alor Barat Laut
+5307020061,Alor Tengah Utara
+5307020062,Pulau Pura
+5307020063,Lembur
+5307021,Mataru
+5307021010,Pantar
+5307021011,Pantar Barat
+5307021012,Pantar Timur
+5307021013,Pantar Barat Laut
+5307021014,Pantar Tengah
+5307021020,Alor Barat Daya
+5307021021,Mataru
+5307021030,Alor Selatan
+5307021040,Alor Timur
+5307021041,Alor Timur Laut
+5307021042,Pureman
+5307021050,Teluk Mutiara
+5307021051,Kabola
+5307021060,Alor Barat Laut
+5307021061,Alor Tengah Utara
+5307021062,Pulau Pura
+5307021063,Lembur
+5307030,Alor Selatan
+5307030010,Pantar
+5307030011,Pantar Barat
+5307030012,Pantar Timur
+5307030013,Pantar Barat Laut
+5307030014,Pantar Tengah
+5307030020,Alor Barat Daya
+5307030021,Mataru
+5307030030,Alor Selatan
+5307030040,Alor Timur
+5307030041,Alor Timur Laut
+5307030042,Pureman
+5307030050,Teluk Mutiara
+5307030051,Kabola
+5307030060,Alor Barat Laut
+5307030061,Alor Tengah Utara
+5307030062,Pulau Pura
+5307030063,Lembur
+5307040,Alor Timur
+5307040010,Pantar
+5307040011,Pantar Barat
+5307040012,Pantar Timur
+5307040013,Pantar Barat Laut
+5307040014,Pantar Tengah
+5307040020,Alor Barat Daya
+5307040021,Mataru
+5307040030,Alor Selatan
+5307040040,Alor Timur
+5307040041,Alor Timur Laut
+5307040042,Pureman
+5307040050,Teluk Mutiara
+5307040051,Kabola
+5307040060,Alor Barat Laut
+5307040061,Alor Tengah Utara
+5307040062,Pulau Pura
+5307040063,Lembur
+5307041,Alor Timur Laut
+5307041010,Pantar
+5307041011,Pantar Barat
+5307041012,Pantar Timur
+5307041013,Pantar Barat Laut
+5307041014,Pantar Tengah
+5307041020,Alor Barat Daya
+5307041021,Mataru
+5307041030,Alor Selatan
+5307041040,Alor Timur
+5307041041,Alor Timur Laut
+5307041042,Pureman
+5307041050,Teluk Mutiara
+5307041051,Kabola
+5307041060,Alor Barat Laut
+5307041061,Alor Tengah Utara
+5307041062,Pulau Pura
+5307041063,Lembur
+5307042,Pureman
+5307042010,Pantar
+5307042011,Pantar Barat
+5307042012,Pantar Timur
+5307042013,Pantar Barat Laut
+5307042014,Pantar Tengah
+5307042020,Alor Barat Daya
+5307042021,Mataru
+5307042030,Alor Selatan
+5307042040,Alor Timur
+5307042041,Alor Timur Laut
+5307042042,Pureman
+5307042050,Teluk Mutiara
+5307042051,Kabola
+5307042060,Alor Barat Laut
+5307042061,Alor Tengah Utara
+5307042062,Pulau Pura
+5307042063,Lembur
+5307050,Teluk Mutiara
+5307050010,Pantar
+5307050011,Pantar Barat
+5307050012,Pantar Timur
+5307050013,Pantar Barat Laut
+5307050014,Pantar Tengah
+5307050020,Alor Barat Daya
+5307050021,Mataru
+5307050030,Alor Selatan
+5307050040,Alor Timur
+5307050041,Alor Timur Laut
+5307050042,Pureman
+5307050050,Teluk Mutiara
+5307050051,Kabola
+5307050060,Alor Barat Laut
+5307050061,Alor Tengah Utara
+5307050062,Pulau Pura
+5307050063,Lembur
+5307051,Kabola
+5307051010,Pantar
+5307051011,Pantar Barat
+5307051012,Pantar Timur
+5307051013,Pantar Barat Laut
+5307051014,Pantar Tengah
+5307051020,Alor Barat Daya
+5307051021,Mataru
+5307051030,Alor Selatan
+5307051040,Alor Timur
+5307051041,Alor Timur Laut
+5307051042,Pureman
+5307051050,Teluk Mutiara
+5307051051,Kabola
+5307051060,Alor Barat Laut
+5307051061,Alor Tengah Utara
+5307051062,Pulau Pura
+5307051063,Lembur
+5307060,Alor Barat Laut
+5307060010,Pantar
+5307060011,Pantar Barat
+5307060012,Pantar Timur
+5307060013,Pantar Barat Laut
+5307060014,Pantar Tengah
+5307060020,Alor Barat Daya
+5307060021,Mataru
+5307060030,Alor Selatan
+5307060040,Alor Timur
+5307060041,Alor Timur Laut
+5307060042,Pureman
+5307060050,Teluk Mutiara
+5307060051,Kabola
+5307060060,Alor Barat Laut
+5307060061,Alor Tengah Utara
+5307060062,Pulau Pura
+5307060063,Lembur
+5307061,Alor Tengah Utara
+5307061010,Pantar
+5307061011,Pantar Barat
+5307061012,Pantar Timur
+5307061013,Pantar Barat Laut
+5307061014,Pantar Tengah
+5307061020,Alor Barat Daya
+5307061021,Mataru
+5307061030,Alor Selatan
+5307061040,Alor Timur
+5307061041,Alor Timur Laut
+5307061042,Pureman
+5307061050,Teluk Mutiara
+5307061051,Kabola
+5307061060,Alor Barat Laut
+5307061061,Alor Tengah Utara
+5307061062,Pulau Pura
+5307061063,Lembur
+5307062,Pulau Pura
+5307062010,Pantar
+5307062011,Pantar Barat
+5307062012,Pantar Timur
+5307062013,Pantar Barat Laut
+5307062014,Pantar Tengah
+5307062020,Alor Barat Daya
+5307062021,Mataru
+5307062030,Alor Selatan
+5307062040,Alor Timur
+5307062041,Alor Timur Laut
+5307062042,Pureman
+5307062050,Teluk Mutiara
+5307062051,Kabola
+5307062060,Alor Barat Laut
+5307062061,Alor Tengah Utara
+5307062062,Pulau Pura
+5307062063,Lembur
+5307063,Lembur
+5307063010,Pantar
+5307063011,Pantar Barat
+5307063012,Pantar Timur
+5307063013,Pantar Barat Laut
+5307063014,Pantar Tengah
+5307063020,Alor Barat Daya
+5307063021,Mataru
+5307063030,Alor Selatan
+5307063040,Alor Timur
+5307063041,Alor Timur Laut
+5307063042,Pureman
+5307063050,Teluk Mutiara
+5307063051,Kabola
+5307063060,Alor Barat Laut
+5307063061,Alor Tengah Utara
+5307063062,Pulau Pura
+5307063063,Lembur
+5308,Lembata
+5308010,Nagawutung
+5308010010,Nagawutung
+5308010011,Wulandoni
+5308010020,Atadei
+5308010030,Ile Ape
+5308010031,Ile Ape Timur
+5308010040,Lebatukan
+5308010050,Nubatukan
+5308010060,Omesuri
+5308010070,Buyasari
+5308011,Wulandoni
+5308011010,Nagawutung
+5308011011,Wulandoni
+5308011020,Atadei
+5308011030,Ile Ape
+5308011031,Ile Ape Timur
+5308011040,Lebatukan
+5308011050,Nubatukan
+5308011060,Omesuri
+5308011070,Buyasari
+5308020,Atadei
+5308020010,Nagawutung
+5308020011,Wulandoni
+5308020020,Atadei
+5308020030,Ile Ape
+5308020031,Ile Ape Timur
+5308020040,Lebatukan
+5308020050,Nubatukan
+5308020060,Omesuri
+5308020070,Buyasari
+5308030,Ile Ape
+5308030010,Nagawutung
+5308030011,Wulandoni
+5308030020,Atadei
+5308030030,Ile Ape
+5308030031,Ile Ape Timur
+5308030040,Lebatukan
+5308030050,Nubatukan
+5308030060,Omesuri
+5308030070,Buyasari
+5308031,Ile Ape Timur
+5308031010,Nagawutung
+5308031011,Wulandoni
+5308031020,Atadei
+5308031030,Ile Ape
+5308031031,Ile Ape Timur
+5308031040,Lebatukan
+5308031050,Nubatukan
+5308031060,Omesuri
+5308031070,Buyasari
+5308040,Lebatukan
+5308040010,Nagawutung
+5308040011,Wulandoni
+5308040020,Atadei
+5308040030,Ile Ape
+5308040031,Ile Ape Timur
+5308040040,Lebatukan
+5308040050,Nubatukan
+5308040060,Omesuri
+5308040070,Buyasari
+5308050,Nubatukan
+5308050010,Nagawutung
+5308050011,Wulandoni
+5308050020,Atadei
+5308050030,Ile Ape
+5308050031,Ile Ape Timur
+5308050040,Lebatukan
+5308050050,Nubatukan
+5308050060,Omesuri
+5308050070,Buyasari
+5308060,Omesuri
+5308060010,Nagawutung
+5308060011,Wulandoni
+5308060020,Atadei
+5308060030,Ile Ape
+5308060031,Ile Ape Timur
+5308060040,Lebatukan
+5308060050,Nubatukan
+5308060060,Omesuri
+5308060070,Buyasari
+5308070,Buyasari
+5308070010,Nagawutung
+5308070011,Wulandoni
+5308070020,Atadei
+5308070030,Ile Ape
+5308070031,Ile Ape Timur
+5308070040,Lebatukan
+5308070050,Nubatukan
+5308070060,Omesuri
+5308070070,Buyasari
+5309,Flores Timur
+5309010,Wulanggitang
+5309010010,Wulanggitang
+5309010011,Titehena
+5309010012,Ilebura
+5309010020,Tanjung Bunga
+5309010021,Lewo Lema
+5309010030,Larantuka
+5309010031,Ile Mandiri
+5309010032,Demon Pagong
+5309010040,Solor Barat
+5309010041,Solor Selatan
+5309010050,Solor Timur
+5309010060,Adonara Barat
+5309010061,Wotan Ulu Mado
+5309010062,Adonara Tengah
+5309010070,Adonara Timur
+5309010071,Ile Boleng
+5309010072,Witihama
+5309010073,Kelubagolit
+5309010074,Adonara
+5309011,Titehena
+5309011010,Wulanggitang
+5309011011,Titehena
+5309011012,Ilebura
+5309011020,Tanjung Bunga
+5309011021,Lewo Lema
+5309011030,Larantuka
+5309011031,Ile Mandiri
+5309011032,Demon Pagong
+5309011040,Solor Barat
+5309011041,Solor Selatan
+5309011050,Solor Timur
+5309011060,Adonara Barat
+5309011061,Wotan Ulu Mado
+5309011062,Adonara Tengah
+5309011070,Adonara Timur
+5309011071,Ile Boleng
+5309011072,Witihama
+5309011073,Kelubagolit
+5309011074,Adonara
+5309012,Ilebura
+5309012010,Wulanggitang
+5309012011,Titehena
+5309012012,Ilebura
+5309012020,Tanjung Bunga
+5309012021,Lewo Lema
+5309012030,Larantuka
+5309012031,Ile Mandiri
+5309012032,Demon Pagong
+5309012040,Solor Barat
+5309012041,Solor Selatan
+5309012050,Solor Timur
+5309012060,Adonara Barat
+5309012061,Wotan Ulu Mado
+5309012062,Adonara Tengah
+5309012070,Adonara Timur
+5309012071,Ile Boleng
+5309012072,Witihama
+5309012073,Kelubagolit
+5309012074,Adonara
+5309020,Tanjung Bunga
+5309020010,Wulanggitang
+5309020011,Titehena
+5309020012,Ilebura
+5309020020,Tanjung Bunga
+5309020021,Lewo Lema
+5309020030,Larantuka
+5309020031,Ile Mandiri
+5309020032,Demon Pagong
+5309020040,Solor Barat
+5309020041,Solor Selatan
+5309020050,Solor Timur
+5309020060,Adonara Barat
+5309020061,Wotan Ulu Mado
+5309020062,Adonara Tengah
+5309020070,Adonara Timur
+5309020071,Ile Boleng
+5309020072,Witihama
+5309020073,Kelubagolit
+5309020074,Adonara
+5309021,Lewo Lema
+5309021010,Wulanggitang
+5309021011,Titehena
+5309021012,Ilebura
+5309021020,Tanjung Bunga
+5309021021,Lewo Lema
+5309021030,Larantuka
+5309021031,Ile Mandiri
+5309021032,Demon Pagong
+5309021040,Solor Barat
+5309021041,Solor Selatan
+5309021050,Solor Timur
+5309021060,Adonara Barat
+5309021061,Wotan Ulu Mado
+5309021062,Adonara Tengah
+5309021070,Adonara Timur
+5309021071,Ile Boleng
+5309021072,Witihama
+5309021073,Kelubagolit
+5309021074,Adonara
+5309030,Larantuka
+5309030010,Wulanggitang
+5309030011,Titehena
+5309030012,Ilebura
+5309030020,Tanjung Bunga
+5309030021,Lewo Lema
+5309030030,Larantuka
+5309030031,Ile Mandiri
+5309030032,Demon Pagong
+5309030040,Solor Barat
+5309030041,Solor Selatan
+5309030050,Solor Timur
+5309030060,Adonara Barat
+5309030061,Wotan Ulu Mado
+5309030062,Adonara Tengah
+5309030070,Adonara Timur
+5309030071,Ile Boleng
+5309030072,Witihama
+5309030073,Kelubagolit
+5309030074,Adonara
+5309031,Ile Mandiri
+5309031010,Wulanggitang
+5309031011,Titehena
+5309031012,Ilebura
+5309031020,Tanjung Bunga
+5309031021,Lewo Lema
+5309031030,Larantuka
+5309031031,Ile Mandiri
+5309031032,Demon Pagong
+5309031040,Solor Barat
+5309031041,Solor Selatan
+5309031050,Solor Timur
+5309031060,Adonara Barat
+5309031061,Wotan Ulu Mado
+5309031062,Adonara Tengah
+5309031070,Adonara Timur
+5309031071,Ile Boleng
+5309031072,Witihama
+5309031073,Kelubagolit
+5309031074,Adonara
+5309032,Demon Pagong
+5309032010,Wulanggitang
+5309032011,Titehena
+5309032012,Ilebura
+5309032020,Tanjung Bunga
+5309032021,Lewo Lema
+5309032030,Larantuka
+5309032031,Ile Mandiri
+5309032032,Demon Pagong
+5309032040,Solor Barat
+5309032041,Solor Selatan
+5309032050,Solor Timur
+5309032060,Adonara Barat
+5309032061,Wotan Ulu Mado
+5309032062,Adonara Tengah
+5309032070,Adonara Timur
+5309032071,Ile Boleng
+5309032072,Witihama
+5309032073,Kelubagolit
+5309032074,Adonara
+5309040,Solor Barat
+5309040010,Wulanggitang
+5309040011,Titehena
+5309040012,Ilebura
+5309040020,Tanjung Bunga
+5309040021,Lewo Lema
+5309040030,Larantuka
+5309040031,Ile Mandiri
+5309040032,Demon Pagong
+5309040040,Solor Barat
+5309040041,Solor Selatan
+5309040050,Solor Timur
+5309040060,Adonara Barat
+5309040061,Wotan Ulu Mado
+5309040062,Adonara Tengah
+5309040070,Adonara Timur
+5309040071,Ile Boleng
+5309040072,Witihama
+5309040073,Kelubagolit
+5309040074,Adonara
+5309041,Solor Selatan
+5309041010,Wulanggitang
+5309041011,Titehena
+5309041012,Ilebura
+5309041020,Tanjung Bunga
+5309041021,Lewo Lema
+5309041030,Larantuka
+5309041031,Ile Mandiri
+5309041032,Demon Pagong
+5309041040,Solor Barat
+5309041041,Solor Selatan
+5309041050,Solor Timur
+5309041060,Adonara Barat
+5309041061,Wotan Ulu Mado
+5309041062,Adonara Tengah
+5309041070,Adonara Timur
+5309041071,Ile Boleng
+5309041072,Witihama
+5309041073,Kelubagolit
+5309041074,Adonara
+5309050,Solor Timur
+5309050010,Wulanggitang
+5309050011,Titehena
+5309050012,Ilebura
+5309050020,Tanjung Bunga
+5309050021,Lewo Lema
+5309050030,Larantuka
+5309050031,Ile Mandiri
+5309050032,Demon Pagong
+5309050040,Solor Barat
+5309050041,Solor Selatan
+5309050050,Solor Timur
+5309050060,Adonara Barat
+5309050061,Wotan Ulu Mado
+5309050062,Adonara Tengah
+5309050070,Adonara Timur
+5309050071,Ile Boleng
+5309050072,Witihama
+5309050073,Kelubagolit
+5309050074,Adonara
+5309060,Adonara Barat
+5309060010,Wulanggitang
+5309060011,Titehena
+5309060012,Ilebura
+5309060020,Tanjung Bunga
+5309060021,Lewo Lema
+5309060030,Larantuka
+5309060031,Ile Mandiri
+5309060032,Demon Pagong
+5309060040,Solor Barat
+5309060041,Solor Selatan
+5309060050,Solor Timur
+5309060060,Adonara Barat
+5309060061,Wotan Ulu Mado
+5309060062,Adonara Tengah
+5309060070,Adonara Timur
+5309060071,Ile Boleng
+5309060072,Witihama
+5309060073,Kelubagolit
+5309060074,Adonara
+5309061,Wotan Ulu Mado
+5309061010,Wulanggitang
+5309061011,Titehena
+5309061012,Ilebura
+5309061020,Tanjung Bunga
+5309061021,Lewo Lema
+5309061030,Larantuka
+5309061031,Ile Mandiri
+5309061032,Demon Pagong
+5309061040,Solor Barat
+5309061041,Solor Selatan
+5309061050,Solor Timur
+5309061060,Adonara Barat
+5309061061,Wotan Ulu Mado
+5309061062,Adonara Tengah
+5309061070,Adonara Timur
+5309061071,Ile Boleng
+5309061072,Witihama
+5309061073,Kelubagolit
+5309061074,Adonara
+5309062,Adonara Tengah
+5309062010,Wulanggitang
+5309062011,Titehena
+5309062012,Ilebura
+5309062020,Tanjung Bunga
+5309062021,Lewo Lema
+5309062030,Larantuka
+5309062031,Ile Mandiri
+5309062032,Demon Pagong
+5309062040,Solor Barat
+5309062041,Solor Selatan
+5309062050,Solor Timur
+5309062060,Adonara Barat
+5309062061,Wotan Ulu Mado
+5309062062,Adonara Tengah
+5309062070,Adonara Timur
+5309062071,Ile Boleng
+5309062072,Witihama
+5309062073,Kelubagolit
+5309062074,Adonara
+5309070,Adonara Timur
+5309070010,Wulanggitang
+5309070011,Titehena
+5309070012,Ilebura
+5309070020,Tanjung Bunga
+5309070021,Lewo Lema
+5309070030,Larantuka
+5309070031,Ile Mandiri
+5309070032,Demon Pagong
+5309070040,Solor Barat
+5309070041,Solor Selatan
+5309070050,Solor Timur
+5309070060,Adonara Barat
+5309070061,Wotan Ulu Mado
+5309070062,Adonara Tengah
+5309070070,Adonara Timur
+5309070071,Ile Boleng
+5309070072,Witihama
+5309070073,Kelubagolit
+5309070074,Adonara
+5309071,Ile Boleng
+5309071010,Wulanggitang
+5309071011,Titehena
+5309071012,Ilebura
+5309071020,Tanjung Bunga
+5309071021,Lewo Lema
+5309071030,Larantuka
+5309071031,Ile Mandiri
+5309071032,Demon Pagong
+5309071040,Solor Barat
+5309071041,Solor Selatan
+5309071050,Solor Timur
+5309071060,Adonara Barat
+5309071061,Wotan Ulu Mado
+5309071062,Adonara Tengah
+5309071070,Adonara Timur
+5309071071,Ile Boleng
+5309071072,Witihama
+5309071073,Kelubagolit
+5309071074,Adonara
+5309072,Witihama
+5309072010,Wulanggitang
+5309072011,Titehena
+5309072012,Ilebura
+5309072020,Tanjung Bunga
+5309072021,Lewo Lema
+5309072030,Larantuka
+5309072031,Ile Mandiri
+5309072032,Demon Pagong
+5309072040,Solor Barat
+5309072041,Solor Selatan
+5309072050,Solor Timur
+5309072060,Adonara Barat
+5309072061,Wotan Ulu Mado
+5309072062,Adonara Tengah
+5309072070,Adonara Timur
+5309072071,Ile Boleng
+5309072072,Witihama
+5309072073,Kelubagolit
+5309072074,Adonara
+5309073,Kelubagolit
+5309073010,Wulanggitang
+5309073011,Titehena
+5309073012,Ilebura
+5309073020,Tanjung Bunga
+5309073021,Lewo Lema
+5309073030,Larantuka
+5309073031,Ile Mandiri
+5309073032,Demon Pagong
+5309073040,Solor Barat
+5309073041,Solor Selatan
+5309073050,Solor Timur
+5309073060,Adonara Barat
+5309073061,Wotan Ulu Mado
+5309073062,Adonara Tengah
+5309073070,Adonara Timur
+5309073071,Ile Boleng
+5309073072,Witihama
+5309073073,Kelubagolit
+5309073074,Adonara
+5309074,Adonara
+5309074010,Wulanggitang
+5309074011,Titehena
+5309074012,Ilebura
+5309074020,Tanjung Bunga
+5309074021,Lewo Lema
+5309074030,Larantuka
+5309074031,Ile Mandiri
+5309074032,Demon Pagong
+5309074040,Solor Barat
+5309074041,Solor Selatan
+5309074050,Solor Timur
+5309074060,Adonara Barat
+5309074061,Wotan Ulu Mado
+5309074062,Adonara Tengah
+5309074070,Adonara Timur
+5309074071,Ile Boleng
+5309074072,Witihama
+5309074073,Kelubagolit
+5309074074,Adonara
+5310,Sikka
+5310010,Paga
+5310010010,Paga
+5310010011,Mego
+5310010012,Tana Wawo
+5310010020,Lela
+5310010030,Bola
+5310010031,Doreng
+5310010032,Mapitara
+5310010040,Talibura
+5310010041,Waigete
+5310010042,Waiblama
+5310010050,Kewapante
+5310010051,Hewokloang
+5310010052,Kangae
+5310010061,Palue
+5310010062,Koting
+5310010063,Nelle
+5310010070,Nita
+5310010071,Magepanda
+5310010080,Alok
+5310010081,Alok Barat
+5310010082,Alok Timur
+5310011,Mego
+5310011010,Paga
+5310011011,Mego
+5310011012,Tana Wawo
+5310011020,Lela
+5310011030,Bola
+5310011031,Doreng
+5310011032,Mapitara
+5310011040,Talibura
+5310011041,Waigete
+5310011042,Waiblama
+5310011050,Kewapante
+5310011051,Hewokloang
+5310011052,Kangae
+5310011061,Palue
+5310011062,Koting
+5310011063,Nelle
+5310011070,Nita
+5310011071,Magepanda
+5310011080,Alok
+5310011081,Alok Barat
+5310011082,Alok Timur
+5310012,Tana Wawo
+5310012010,Paga
+5310012011,Mego
+5310012012,Tana Wawo
+5310012020,Lela
+5310012030,Bola
+5310012031,Doreng
+5310012032,Mapitara
+5310012040,Talibura
+5310012041,Waigete
+5310012042,Waiblama
+5310012050,Kewapante
+5310012051,Hewokloang
+5310012052,Kangae
+5310012061,Palue
+5310012062,Koting
+5310012063,Nelle
+5310012070,Nita
+5310012071,Magepanda
+5310012080,Alok
+5310012081,Alok Barat
+5310012082,Alok Timur
+5310020,Lela
+5310020010,Paga
+5310020011,Mego
+5310020012,Tana Wawo
+5310020020,Lela
+5310020030,Bola
+5310020031,Doreng
+5310020032,Mapitara
+5310020040,Talibura
+5310020041,Waigete
+5310020042,Waiblama
+5310020050,Kewapante
+5310020051,Hewokloang
+5310020052,Kangae
+5310020061,Palue
+5310020062,Koting
+5310020063,Nelle
+5310020070,Nita
+5310020071,Magepanda
+5310020080,Alok
+5310020081,Alok Barat
+5310020082,Alok Timur
+5310030,Bola
+5310030010,Paga
+5310030011,Mego
+5310030012,Tana Wawo
+5310030020,Lela
+5310030030,Bola
+5310030031,Doreng
+5310030032,Mapitara
+5310030040,Talibura
+5310030041,Waigete
+5310030042,Waiblama
+5310030050,Kewapante
+5310030051,Hewokloang
+5310030052,Kangae
+5310030061,Palue
+5310030062,Koting
+5310030063,Nelle
+5310030070,Nita
+5310030071,Magepanda
+5310030080,Alok
+5310030081,Alok Barat
+5310030082,Alok Timur
+5310031,Doreng
+5310031010,Paga
+5310031011,Mego
+5310031012,Tana Wawo
+5310031020,Lela
+5310031030,Bola
+5310031031,Doreng
+5310031032,Mapitara
+5310031040,Talibura
+5310031041,Waigete
+5310031042,Waiblama
+5310031050,Kewapante
+5310031051,Hewokloang
+5310031052,Kangae
+5310031061,Palue
+5310031062,Koting
+5310031063,Nelle
+5310031070,Nita
+5310031071,Magepanda
+5310031080,Alok
+5310031081,Alok Barat
+5310031082,Alok Timur
+5310032,Mapitara
+5310032010,Paga
+5310032011,Mego
+5310032012,Tana Wawo
+5310032020,Lela
+5310032030,Bola
+5310032031,Doreng
+5310032032,Mapitara
+5310032040,Talibura
+5310032041,Waigete
+5310032042,Waiblama
+5310032050,Kewapante
+5310032051,Hewokloang
+5310032052,Kangae
+5310032061,Palue
+5310032062,Koting
+5310032063,Nelle
+5310032070,Nita
+5310032071,Magepanda
+5310032080,Alok
+5310032081,Alok Barat
+5310032082,Alok Timur
+5310040,Talibura
+5310040010,Paga
+5310040011,Mego
+5310040012,Tana Wawo
+5310040020,Lela
+5310040030,Bola
+5310040031,Doreng
+5310040032,Mapitara
+5310040040,Talibura
+5310040041,Waigete
+5310040042,Waiblama
+5310040050,Kewapante
+5310040051,Hewokloang
+5310040052,Kangae
+5310040061,Palue
+5310040062,Koting
+5310040063,Nelle
+5310040070,Nita
+5310040071,Magepanda
+5310040080,Alok
+5310040081,Alok Barat
+5310040082,Alok Timur
+5310041,Waigete
+5310041010,Paga
+5310041011,Mego
+5310041012,Tana Wawo
+5310041020,Lela
+5310041030,Bola
+5310041031,Doreng
+5310041032,Mapitara
+5310041040,Talibura
+5310041041,Waigete
+5310041042,Waiblama
+5310041050,Kewapante
+5310041051,Hewokloang
+5310041052,Kangae
+5310041061,Palue
+5310041062,Koting
+5310041063,Nelle
+5310041070,Nita
+5310041071,Magepanda
+5310041080,Alok
+5310041081,Alok Barat
+5310041082,Alok Timur
+5310042,Waiblama
+5310042010,Paga
+5310042011,Mego
+5310042012,Tana Wawo
+5310042020,Lela
+5310042030,Bola
+5310042031,Doreng
+5310042032,Mapitara
+5310042040,Talibura
+5310042041,Waigete
+5310042042,Waiblama
+5310042050,Kewapante
+5310042051,Hewokloang
+5310042052,Kangae
+5310042061,Palue
+5310042062,Koting
+5310042063,Nelle
+5310042070,Nita
+5310042071,Magepanda
+5310042080,Alok
+5310042081,Alok Barat
+5310042082,Alok Timur
+5310050,Kewapante
+5310050010,Paga
+5310050011,Mego
+5310050012,Tana Wawo
+5310050020,Lela
+5310050030,Bola
+5310050031,Doreng
+5310050032,Mapitara
+5310050040,Talibura
+5310050041,Waigete
+5310050042,Waiblama
+5310050050,Kewapante
+5310050051,Hewokloang
+5310050052,Kangae
+5310050061,Palue
+5310050062,Koting
+5310050063,Nelle
+5310050070,Nita
+5310050071,Magepanda
+5310050080,Alok
+5310050081,Alok Barat
+5310050082,Alok Timur
+5310051,Hewokloang
+5310051010,Paga
+5310051011,Mego
+5310051012,Tana Wawo
+5310051020,Lela
+5310051030,Bola
+5310051031,Doreng
+5310051032,Mapitara
+5310051040,Talibura
+5310051041,Waigete
+5310051042,Waiblama
+5310051050,Kewapante
+5310051051,Hewokloang
+5310051052,Kangae
+5310051061,Palue
+5310051062,Koting
+5310051063,Nelle
+5310051070,Nita
+5310051071,Magepanda
+5310051080,Alok
+5310051081,Alok Barat
+5310051082,Alok Timur
+5310052,Kangae
+5310052010,Paga
+5310052011,Mego
+5310052012,Tana Wawo
+5310052020,Lela
+5310052030,Bola
+5310052031,Doreng
+5310052032,Mapitara
+5310052040,Talibura
+5310052041,Waigete
+5310052042,Waiblama
+5310052050,Kewapante
+5310052051,Hewokloang
+5310052052,Kangae
+5310052061,Palue
+5310052062,Koting
+5310052063,Nelle
+5310052070,Nita
+5310052071,Magepanda
+5310052080,Alok
+5310052081,Alok Barat
+5310052082,Alok Timur
+5310061,Palue
+5310061010,Paga
+5310061011,Mego
+5310061012,Tana Wawo
+5310061020,Lela
+5310061030,Bola
+5310061031,Doreng
+5310061032,Mapitara
+5310061040,Talibura
+5310061041,Waigete
+5310061042,Waiblama
+5310061050,Kewapante
+5310061051,Hewokloang
+5310061052,Kangae
+5310061061,Palue
+5310061062,Koting
+5310061063,Nelle
+5310061070,Nita
+5310061071,Magepanda
+5310061080,Alok
+5310061081,Alok Barat
+5310061082,Alok Timur
+5310062,Koting
+5310062010,Paga
+5310062011,Mego
+5310062012,Tana Wawo
+5310062020,Lela
+5310062030,Bola
+5310062031,Doreng
+5310062032,Mapitara
+5310062040,Talibura
+5310062041,Waigete
+5310062042,Waiblama
+5310062050,Kewapante
+5310062051,Hewokloang
+5310062052,Kangae
+5310062061,Palue
+5310062062,Koting
+5310062063,Nelle
+5310062070,Nita
+5310062071,Magepanda
+5310062080,Alok
+5310062081,Alok Barat
+5310062082,Alok Timur
+5310063,Nelle
+5310063010,Paga
+5310063011,Mego
+5310063012,Tana Wawo
+5310063020,Lela
+5310063030,Bola
+5310063031,Doreng
+5310063032,Mapitara
+5310063040,Talibura
+5310063041,Waigete
+5310063042,Waiblama
+5310063050,Kewapante
+5310063051,Hewokloang
+5310063052,Kangae
+5310063061,Palue
+5310063062,Koting
+5310063063,Nelle
+5310063070,Nita
+5310063071,Magepanda
+5310063080,Alok
+5310063081,Alok Barat
+5310063082,Alok Timur
+5310070,Nita
+5310070010,Paga
+5310070011,Mego
+5310070012,Tana Wawo
+5310070020,Lela
+5310070030,Bola
+5310070031,Doreng
+5310070032,Mapitara
+5310070040,Talibura
+5310070041,Waigete
+5310070042,Waiblama
+5310070050,Kewapante
+5310070051,Hewokloang
+5310070052,Kangae
+5310070061,Palue
+5310070062,Koting
+5310070063,Nelle
+5310070070,Nita
+5310070071,Magepanda
+5310070080,Alok
+5310070081,Alok Barat
+5310070082,Alok Timur
+5310071,Magepanda
+5310071010,Paga
+5310071011,Mego
+5310071012,Tana Wawo
+5310071020,Lela
+5310071030,Bola
+5310071031,Doreng
+5310071032,Mapitara
+5310071040,Talibura
+5310071041,Waigete
+5310071042,Waiblama
+5310071050,Kewapante
+5310071051,Hewokloang
+5310071052,Kangae
+5310071061,Palue
+5310071062,Koting
+5310071063,Nelle
+5310071070,Nita
+5310071071,Magepanda
+5310071080,Alok
+5310071081,Alok Barat
+5310071082,Alok Timur
+5310080,Alok
+5310080010,Paga
+5310080011,Mego
+5310080012,Tana Wawo
+5310080020,Lela
+5310080030,Bola
+5310080031,Doreng
+5310080032,Mapitara
+5310080040,Talibura
+5310080041,Waigete
+5310080042,Waiblama
+5310080050,Kewapante
+5310080051,Hewokloang
+5310080052,Kangae
+5310080061,Palue
+5310080062,Koting
+5310080063,Nelle
+5310080070,Nita
+5310080071,Magepanda
+5310080080,Alok
+5310080081,Alok Barat
+5310080082,Alok Timur
+5310081,Alok Barat
+5310081010,Paga
+5310081011,Mego
+5310081012,Tana Wawo
+5310081020,Lela
+5310081030,Bola
+5310081031,Doreng
+5310081032,Mapitara
+5310081040,Talibura
+5310081041,Waigete
+5310081042,Waiblama
+5310081050,Kewapante
+5310081051,Hewokloang
+5310081052,Kangae
+5310081061,Palue
+5310081062,Koting
+5310081063,Nelle
+5310081070,Nita
+5310081071,Magepanda
+5310081080,Alok
+5310081081,Alok Barat
+5310081082,Alok Timur
+5310082,Alok Timur
+5310082010,Paga
+5310082011,Mego
+5310082012,Tana Wawo
+5310082020,Lela
+5310082030,Bola
+5310082031,Doreng
+5310082032,Mapitara
+5310082040,Talibura
+5310082041,Waigete
+5310082042,Waiblama
+5310082050,Kewapante
+5310082051,Hewokloang
+5310082052,Kangae
+5310082061,Palue
+5310082062,Koting
+5310082063,Nelle
+5310082070,Nita
+5310082071,Magepanda
+5310082080,Alok
+5310082081,Alok Barat
+5310082082,Alok Timur
+5311,Ende
+5311010,Nangapanda
+5311010010,Nangapanda
+5311010011,Pulau Ende
+5311010012,Maukaro
+5311010020,Ende
+5311010030,Ende Selatan
+5311010031,Ende Timur
+5311010032,Ende Tengah
+5311010033,Ende Utara
+5311010040,Ndona
+5311010041,Ndona Timur
+5311010050,Wolowaru
+5311010051,Wolojita
+5311010052,Lio Timur
+5311010053,Kelimutu
+5311010054,Ndori
+5311010060,Maurole
+5311010061,Kotabaru
+5311010062,Detukeli
+5311010063,Lepembusu Kelisoke
+5311010070,Detusoko
+5311010071,Wewaria
+5311011,Pulau Ende
+5311011010,Nangapanda
+5311011011,Pulau Ende
+5311011012,Maukaro
+5311011020,Ende
+5311011030,Ende Selatan
+5311011031,Ende Timur
+5311011032,Ende Tengah
+5311011033,Ende Utara
+5311011040,Ndona
+5311011041,Ndona Timur
+5311011050,Wolowaru
+5311011051,Wolojita
+5311011052,Lio Timur
+5311011053,Kelimutu
+5311011054,Ndori
+5311011060,Maurole
+5311011061,Kotabaru
+5311011062,Detukeli
+5311011063,Lepembusu Kelisoke
+5311011070,Detusoko
+5311011071,Wewaria
+5311012,Maukaro
+5311012010,Nangapanda
+5311012011,Pulau Ende
+5311012012,Maukaro
+5311012020,Ende
+5311012030,Ende Selatan
+5311012031,Ende Timur
+5311012032,Ende Tengah
+5311012033,Ende Utara
+5311012040,Ndona
+5311012041,Ndona Timur
+5311012050,Wolowaru
+5311012051,Wolojita
+5311012052,Lio Timur
+5311012053,Kelimutu
+5311012054,Ndori
+5311012060,Maurole
+5311012061,Kotabaru
+5311012062,Detukeli
+5311012063,Lepembusu Kelisoke
+5311012070,Detusoko
+5311012071,Wewaria
+5311020,Ende
+5311020010,Nangapanda
+5311020011,Pulau Ende
+5311020012,Maukaro
+5311020020,Ende
+5311020030,Ende Selatan
+5311020031,Ende Timur
+5311020032,Ende Tengah
+5311020033,Ende Utara
+5311020040,Ndona
+5311020041,Ndona Timur
+5311020050,Wolowaru
+5311020051,Wolojita
+5311020052,Lio Timur
+5311020053,Kelimutu
+5311020054,Ndori
+5311020060,Maurole
+5311020061,Kotabaru
+5311020062,Detukeli
+5311020063,Lepembusu Kelisoke
+5311020070,Detusoko
+5311020071,Wewaria
+5311030,Ende Selatan
+5311030010,Nangapanda
+5311030011,Pulau Ende
+5311030012,Maukaro
+5311030020,Ende
+5311030030,Ende Selatan
+5311030031,Ende Timur
+5311030032,Ende Tengah
+5311030033,Ende Utara
+5311030040,Ndona
+5311030041,Ndona Timur
+5311030050,Wolowaru
+5311030051,Wolojita
+5311030052,Lio Timur
+5311030053,Kelimutu
+5311030054,Ndori
+5311030060,Maurole
+5311030061,Kotabaru
+5311030062,Detukeli
+5311030063,Lepembusu Kelisoke
+5311030070,Detusoko
+5311030071,Wewaria
+5311031,Ende Timur
+5311031010,Nangapanda
+5311031011,Pulau Ende
+5311031012,Maukaro
+5311031020,Ende
+5311031030,Ende Selatan
+5311031031,Ende Timur
+5311031032,Ende Tengah
+5311031033,Ende Utara
+5311031040,Ndona
+5311031041,Ndona Timur
+5311031050,Wolowaru
+5311031051,Wolojita
+5311031052,Lio Timur
+5311031053,Kelimutu
+5311031054,Ndori
+5311031060,Maurole
+5311031061,Kotabaru
+5311031062,Detukeli
+5311031063,Lepembusu Kelisoke
+5311031070,Detusoko
+5311031071,Wewaria
+5311032,Ende Tengah
+5311032010,Nangapanda
+5311032011,Pulau Ende
+5311032012,Maukaro
+5311032020,Ende
+5311032030,Ende Selatan
+5311032031,Ende Timur
+5311032032,Ende Tengah
+5311032033,Ende Utara
+5311032040,Ndona
+5311032041,Ndona Timur
+5311032050,Wolowaru
+5311032051,Wolojita
+5311032052,Lio Timur
+5311032053,Kelimutu
+5311032054,Ndori
+5311032060,Maurole
+5311032061,Kotabaru
+5311032062,Detukeli
+5311032063,Lepembusu Kelisoke
+5311032070,Detusoko
+5311032071,Wewaria
+5311033,Ende Utara
+5311033010,Nangapanda
+5311033011,Pulau Ende
+5311033012,Maukaro
+5311033020,Ende
+5311033030,Ende Selatan
+5311033031,Ende Timur
+5311033032,Ende Tengah
+5311033033,Ende Utara
+5311033040,Ndona
+5311033041,Ndona Timur
+5311033050,Wolowaru
+5311033051,Wolojita
+5311033052,Lio Timur
+5311033053,Kelimutu
+5311033054,Ndori
+5311033060,Maurole
+5311033061,Kotabaru
+5311033062,Detukeli
+5311033063,Lepembusu Kelisoke
+5311033070,Detusoko
+5311033071,Wewaria
+5311040,Ndona
+5311040010,Nangapanda
+5311040011,Pulau Ende
+5311040012,Maukaro
+5311040020,Ende
+5311040030,Ende Selatan
+5311040031,Ende Timur
+5311040032,Ende Tengah
+5311040033,Ende Utara
+5311040040,Ndona
+5311040041,Ndona Timur
+5311040050,Wolowaru
+5311040051,Wolojita
+5311040052,Lio Timur
+5311040053,Kelimutu
+5311040054,Ndori
+5311040060,Maurole
+5311040061,Kotabaru
+5311040062,Detukeli
+5311040063,Lepembusu Kelisoke
+5311040070,Detusoko
+5311040071,Wewaria
+5311041,Ndona Timur
+5311041010,Nangapanda
+5311041011,Pulau Ende
+5311041012,Maukaro
+5311041020,Ende
+5311041030,Ende Selatan
+5311041031,Ende Timur
+5311041032,Ende Tengah
+5311041033,Ende Utara
+5311041040,Ndona
+5311041041,Ndona Timur
+5311041050,Wolowaru
+5311041051,Wolojita
+5311041052,Lio Timur
+5311041053,Kelimutu
+5311041054,Ndori
+5311041060,Maurole
+5311041061,Kotabaru
+5311041062,Detukeli
+5311041063,Lepembusu Kelisoke
+5311041070,Detusoko
+5311041071,Wewaria
+5311050,Wolowaru
+5311050010,Nangapanda
+5311050011,Pulau Ende
+5311050012,Maukaro
+5311050020,Ende
+5311050030,Ende Selatan
+5311050031,Ende Timur
+5311050032,Ende Tengah
+5311050033,Ende Utara
+5311050040,Ndona
+5311050041,Ndona Timur
+5311050050,Wolowaru
+5311050051,Wolojita
+5311050052,Lio Timur
+5311050053,Kelimutu
+5311050054,Ndori
+5311050060,Maurole
+5311050061,Kotabaru
+5311050062,Detukeli
+5311050063,Lepembusu Kelisoke
+5311050070,Detusoko
+5311050071,Wewaria
+5311051,Wolojita
+5311051010,Nangapanda
+5311051011,Pulau Ende
+5311051012,Maukaro
+5311051020,Ende
+5311051030,Ende Selatan
+5311051031,Ende Timur
+5311051032,Ende Tengah
+5311051033,Ende Utara
+5311051040,Ndona
+5311051041,Ndona Timur
+5311051050,Wolowaru
+5311051051,Wolojita
+5311051052,Lio Timur
+5311051053,Kelimutu
+5311051054,Ndori
+5311051060,Maurole
+5311051061,Kotabaru
+5311051062,Detukeli
+5311051063,Lepembusu Kelisoke
+5311051070,Detusoko
+5311051071,Wewaria
+5311052,Lio Timur
+5311052010,Nangapanda
+5311052011,Pulau Ende
+5311052012,Maukaro
+5311052020,Ende
+5311052030,Ende Selatan
+5311052031,Ende Timur
+5311052032,Ende Tengah
+5311052033,Ende Utara
+5311052040,Ndona
+5311052041,Ndona Timur
+5311052050,Wolowaru
+5311052051,Wolojita
+5311052052,Lio Timur
+5311052053,Kelimutu
+5311052054,Ndori
+5311052060,Maurole
+5311052061,Kotabaru
+5311052062,Detukeli
+5311052063,Lepembusu Kelisoke
+5311052070,Detusoko
+5311052071,Wewaria
+5311053,Kelimutu
+5311053010,Nangapanda
+5311053011,Pulau Ende
+5311053012,Maukaro
+5311053020,Ende
+5311053030,Ende Selatan
+5311053031,Ende Timur
+5311053032,Ende Tengah
+5311053033,Ende Utara
+5311053040,Ndona
+5311053041,Ndona Timur
+5311053050,Wolowaru
+5311053051,Wolojita
+5311053052,Lio Timur
+5311053053,Kelimutu
+5311053054,Ndori
+5311053060,Maurole
+5311053061,Kotabaru
+5311053062,Detukeli
+5311053063,Lepembusu Kelisoke
+5311053070,Detusoko
+5311053071,Wewaria
+5311054,Ndori
+5311054010,Nangapanda
+5311054011,Pulau Ende
+5311054012,Maukaro
+5311054020,Ende
+5311054030,Ende Selatan
+5311054031,Ende Timur
+5311054032,Ende Tengah
+5311054033,Ende Utara
+5311054040,Ndona
+5311054041,Ndona Timur
+5311054050,Wolowaru
+5311054051,Wolojita
+5311054052,Lio Timur
+5311054053,Kelimutu
+5311054054,Ndori
+5311054060,Maurole
+5311054061,Kotabaru
+5311054062,Detukeli
+5311054063,Lepembusu Kelisoke
+5311054070,Detusoko
+5311054071,Wewaria
+5311060,Maurole
+5311060010,Nangapanda
+5311060011,Pulau Ende
+5311060012,Maukaro
+5311060020,Ende
+5311060030,Ende Selatan
+5311060031,Ende Timur
+5311060032,Ende Tengah
+5311060033,Ende Utara
+5311060040,Ndona
+5311060041,Ndona Timur
+5311060050,Wolowaru
+5311060051,Wolojita
+5311060052,Lio Timur
+5311060053,Kelimutu
+5311060054,Ndori
+5311060060,Maurole
+5311060061,Kotabaru
+5311060062,Detukeli
+5311060063,Lepembusu Kelisoke
+5311060070,Detusoko
+5311060071,Wewaria
+5311061,Kotabaru
+5311061010,Nangapanda
+5311061011,Pulau Ende
+5311061012,Maukaro
+5311061020,Ende
+5311061030,Ende Selatan
+5311061031,Ende Timur
+5311061032,Ende Tengah
+5311061033,Ende Utara
+5311061040,Ndona
+5311061041,Ndona Timur
+5311061050,Wolowaru
+5311061051,Wolojita
+5311061052,Lio Timur
+5311061053,Kelimutu
+5311061054,Ndori
+5311061060,Maurole
+5311061061,Kotabaru
+5311061062,Detukeli
+5311061063,Lepembusu Kelisoke
+5311061070,Detusoko
+5311061071,Wewaria
+5311062,Detukeli
+5311062010,Nangapanda
+5311062011,Pulau Ende
+5311062012,Maukaro
+5311062020,Ende
+5311062030,Ende Selatan
+5311062031,Ende Timur
+5311062032,Ende Tengah
+5311062033,Ende Utara
+5311062040,Ndona
+5311062041,Ndona Timur
+5311062050,Wolowaru
+5311062051,Wolojita
+5311062052,Lio Timur
+5311062053,Kelimutu
+5311062054,Ndori
+5311062060,Maurole
+5311062061,Kotabaru
+5311062062,Detukeli
+5311062063,Lepembusu Kelisoke
+5311062070,Detusoko
+5311062071,Wewaria
+5311063,Lepembusu Kelisoke
+5311063010,Nangapanda
+5311063011,Pulau Ende
+5311063012,Maukaro
+5311063020,Ende
+5311063030,Ende Selatan
+5311063031,Ende Timur
+5311063032,Ende Tengah
+5311063033,Ende Utara
+5311063040,Ndona
+5311063041,Ndona Timur
+5311063050,Wolowaru
+5311063051,Wolojita
+5311063052,Lio Timur
+5311063053,Kelimutu
+5311063054,Ndori
+5311063060,Maurole
+5311063061,Kotabaru
+5311063062,Detukeli
+5311063063,Lepembusu Kelisoke
+5311063070,Detusoko
+5311063071,Wewaria
+5311070,Detusoko
+5311070010,Nangapanda
+5311070011,Pulau Ende
+5311070012,Maukaro
+5311070020,Ende
+5311070030,Ende Selatan
+5311070031,Ende Timur
+5311070032,Ende Tengah
+5311070033,Ende Utara
+5311070040,Ndona
+5311070041,Ndona Timur
+5311070050,Wolowaru
+5311070051,Wolojita
+5311070052,Lio Timur
+5311070053,Kelimutu
+5311070054,Ndori
+5311070060,Maurole
+5311070061,Kotabaru
+5311070062,Detukeli
+5311070063,Lepembusu Kelisoke
+5311070070,Detusoko
+5311070071,Wewaria
+5311071,Wewaria
+5311071010,Nangapanda
+5311071011,Pulau Ende
+5311071012,Maukaro
+5311071020,Ende
+5311071030,Ende Selatan
+5311071031,Ende Timur
+5311071032,Ende Tengah
+5311071033,Ende Utara
+5311071040,Ndona
+5311071041,Ndona Timur
+5311071050,Wolowaru
+5311071051,Wolojita
+5311071052,Lio Timur
+5311071053,Kelimutu
+5311071054,Ndori
+5311071060,Maurole
+5311071061,Kotabaru
+5311071062,Detukeli
+5311071063,Lepembusu Kelisoke
+5311071070,Detusoko
+5311071071,Wewaria
+5312,Ngada
+5312010,Aimere
+5312010010,Aimere
+5312010011,Jerebuu
+5312010012,Inerie
+5312010020,Bajawa
+5312010030,Golewa
+5312010031,Golewa Selatan
+5312010032,Golewa Barat
+5312010070,Bajawa Utara
+5312010071,Soa
+5312010080,Riung
+5312010081,Riung Barat
+5312010082,Wolomeze
+5312011,Jerebuu
+5312011010,Aimere
+5312011011,Jerebuu
+5312011012,Inerie
+5312011020,Bajawa
+5312011030,Golewa
+5312011031,Golewa Selatan
+5312011032,Golewa Barat
+5312011070,Bajawa Utara
+5312011071,Soa
+5312011080,Riung
+5312011081,Riung Barat
+5312011082,Wolomeze
+5312012,Inerie
+5312012010,Aimere
+5312012011,Jerebuu
+5312012012,Inerie
+5312012020,Bajawa
+5312012030,Golewa
+5312012031,Golewa Selatan
+5312012032,Golewa Barat
+5312012070,Bajawa Utara
+5312012071,Soa
+5312012080,Riung
+5312012081,Riung Barat
+5312012082,Wolomeze
+5312020,Bajawa
+5312020010,Aimere
+5312020011,Jerebuu
+5312020012,Inerie
+5312020020,Bajawa
+5312020030,Golewa
+5312020031,Golewa Selatan
+5312020032,Golewa Barat
+5312020070,Bajawa Utara
+5312020071,Soa
+5312020080,Riung
+5312020081,Riung Barat
+5312020082,Wolomeze
+5312030,Golewa
+5312030010,Aimere
+5312030011,Jerebuu
+5312030012,Inerie
+5312030020,Bajawa
+5312030030,Golewa
+5312030031,Golewa Selatan
+5312030032,Golewa Barat
+5312030070,Bajawa Utara
+5312030071,Soa
+5312030080,Riung
+5312030081,Riung Barat
+5312030082,Wolomeze
+5312031,Golewa Selatan
+5312031010,Aimere
+5312031011,Jerebuu
+5312031012,Inerie
+5312031020,Bajawa
+5312031030,Golewa
+5312031031,Golewa Selatan
+5312031032,Golewa Barat
+5312031070,Bajawa Utara
+5312031071,Soa
+5312031080,Riung
+5312031081,Riung Barat
+5312031082,Wolomeze
+5312032,Golewa Barat
+5312032010,Aimere
+5312032011,Jerebuu
+5312032012,Inerie
+5312032020,Bajawa
+5312032030,Golewa
+5312032031,Golewa Selatan
+5312032032,Golewa Barat
+5312032070,Bajawa Utara
+5312032071,Soa
+5312032080,Riung
+5312032081,Riung Barat
+5312032082,Wolomeze
+5312070,Bajawa Utara
+5312070010,Aimere
+5312070011,Jerebuu
+5312070012,Inerie
+5312070020,Bajawa
+5312070030,Golewa
+5312070031,Golewa Selatan
+5312070032,Golewa Barat
+5312070070,Bajawa Utara
+5312070071,Soa
+5312070080,Riung
+5312070081,Riung Barat
+5312070082,Wolomeze
+5312071,Soa
+5312071010,Aimere
+5312071011,Jerebuu
+5312071012,Inerie
+5312071020,Bajawa
+5312071030,Golewa
+5312071031,Golewa Selatan
+5312071032,Golewa Barat
+5312071070,Bajawa Utara
+5312071071,Soa
+5312071080,Riung
+5312071081,Riung Barat
+5312071082,Wolomeze
+5312080,Riung
+5312080010,Aimere
+5312080011,Jerebuu
+5312080012,Inerie
+5312080020,Bajawa
+5312080030,Golewa
+5312080031,Golewa Selatan
+5312080032,Golewa Barat
+5312080070,Bajawa Utara
+5312080071,Soa
+5312080080,Riung
+5312080081,Riung Barat
+5312080082,Wolomeze
+5312081,Riung Barat
+5312081010,Aimere
+5312081011,Jerebuu
+5312081012,Inerie
+5312081020,Bajawa
+5312081030,Golewa
+5312081031,Golewa Selatan
+5312081032,Golewa Barat
+5312081070,Bajawa Utara
+5312081071,Soa
+5312081080,Riung
+5312081081,Riung Barat
+5312081082,Wolomeze
+5312082,Wolomeze
+5312082010,Aimere
+5312082011,Jerebuu
+5312082012,Inerie
+5312082020,Bajawa
+5312082030,Golewa
+5312082031,Golewa Selatan
+5312082032,Golewa Barat
+5312082070,Bajawa Utara
+5312082071,Soa
+5312082080,Riung
+5312082081,Riung Barat
+5312082082,Wolomeze
+5313,Manggarai
+5313040,Satar Mese
+5313040040,Satar Mese
+5313040041,Satar Mese Barat
+5313040042,Satar Mese Utara
+5313040110,Langke Rembong
+5313040120,Ruteng
+5313040121,Wae Rii
+5313040122,Lelak
+5313040123,Rahong Utara
+5313040130,Cibal
+5313040131,Cibal Barat
+5313040140,Reok
+5313040141,Reok Barat
+5313041,Satar Mese Barat
+5313041040,Satar Mese
+5313041041,Satar Mese Barat
+5313041042,Satar Mese Utara
+5313041110,Langke Rembong
+5313041120,Ruteng
+5313041121,Wae Rii
+5313041122,Lelak
+5313041123,Rahong Utara
+5313041130,Cibal
+5313041131,Cibal Barat
+5313041140,Reok
+5313041141,Reok Barat
+5313042,Satar Mese Utara
+5313042040,Satar Mese
+5313042041,Satar Mese Barat
+5313042042,Satar Mese Utara
+5313042110,Langke Rembong
+5313042120,Ruteng
+5313042121,Wae Rii
+5313042122,Lelak
+5313042123,Rahong Utara
+5313042130,Cibal
+5313042131,Cibal Barat
+5313042140,Reok
+5313042141,Reok Barat
+5313110,Langke Rembong
+5313110040,Satar Mese
+5313110041,Satar Mese Barat
+5313110042,Satar Mese Utara
+5313110110,Langke Rembong
+5313110120,Ruteng
+5313110121,Wae Rii
+5313110122,Lelak
+5313110123,Rahong Utara
+5313110130,Cibal
+5313110131,Cibal Barat
+5313110140,Reok
+5313110141,Reok Barat
+5313120,Ruteng
+5313120040,Satar Mese
+5313120041,Satar Mese Barat
+5313120042,Satar Mese Utara
+5313120110,Langke Rembong
+5313120120,Ruteng
+5313120121,Wae Rii
+5313120122,Lelak
+5313120123,Rahong Utara
+5313120130,Cibal
+5313120131,Cibal Barat
+5313120140,Reok
+5313120141,Reok Barat
+5313121,Wae Rii
+5313121040,Satar Mese
+5313121041,Satar Mese Barat
+5313121042,Satar Mese Utara
+5313121110,Langke Rembong
+5313121120,Ruteng
+5313121121,Wae Rii
+5313121122,Lelak
+5313121123,Rahong Utara
+5313121130,Cibal
+5313121131,Cibal Barat
+5313121140,Reok
+5313121141,Reok Barat
+5313122,Lelak
+5313122040,Satar Mese
+5313122041,Satar Mese Barat
+5313122042,Satar Mese Utara
+5313122110,Langke Rembong
+5313122120,Ruteng
+5313122121,Wae Rii
+5313122122,Lelak
+5313122123,Rahong Utara
+5313122130,Cibal
+5313122131,Cibal Barat
+5313122140,Reok
+5313122141,Reok Barat
+5313123,Rahong Utara
+5313123040,Satar Mese
+5313123041,Satar Mese Barat
+5313123042,Satar Mese Utara
+5313123110,Langke Rembong
+5313123120,Ruteng
+5313123121,Wae Rii
+5313123122,Lelak
+5313123123,Rahong Utara
+5313123130,Cibal
+5313123131,Cibal Barat
+5313123140,Reok
+5313123141,Reok Barat
+5313130,Cibal
+5313130040,Satar Mese
+5313130041,Satar Mese Barat
+5313130042,Satar Mese Utara
+5313130110,Langke Rembong
+5313130120,Ruteng
+5313130121,Wae Rii
+5313130122,Lelak
+5313130123,Rahong Utara
+5313130130,Cibal
+5313130131,Cibal Barat
+5313130140,Reok
+5313130141,Reok Barat
+5313131,Cibal Barat
+5313131040,Satar Mese
+5313131041,Satar Mese Barat
+5313131042,Satar Mese Utara
+5313131110,Langke Rembong
+5313131120,Ruteng
+5313131121,Wae Rii
+5313131122,Lelak
+5313131123,Rahong Utara
+5313131130,Cibal
+5313131131,Cibal Barat
+5313131140,Reok
+5313131141,Reok Barat
+5313140,Reok
+5313140040,Satar Mese
+5313140041,Satar Mese Barat
+5313140042,Satar Mese Utara
+5313140110,Langke Rembong
+5313140120,Ruteng
+5313140121,Wae Rii
+5313140122,Lelak
+5313140123,Rahong Utara
+5313140130,Cibal
+5313140131,Cibal Barat
+5313140140,Reok
+5313140141,Reok Barat
+5313141,Reok Barat
+5313141040,Satar Mese
+5313141041,Satar Mese Barat
+5313141042,Satar Mese Utara
+5313141110,Langke Rembong
+5313141120,Ruteng
+5313141121,Wae Rii
+5313141122,Lelak
+5313141123,Rahong Utara
+5313141130,Cibal
+5313141131,Cibal Barat
+5313141140,Reok
+5313141141,Reok Barat
+5314,Rote Ndao
+5314010,Rote Barat Daya
+5314010010,Rote Barat Daya
+5314010020,Rote Barat Laut
+5314010030,Lobalain
+5314010040,Rote Tengah
+5314010041,Rote Selatan
+5314010050,Pantai Baru
+5314010060,Rote Timur
+5314010061,Landu Leko
+5314010070,Rote Barat
+5314010071,Ndao Nuse
+5314020,Rote Barat Laut
+5314020010,Rote Barat Daya
+5314020020,Rote Barat Laut
+5314020030,Lobalain
+5314020040,Rote Tengah
+5314020041,Rote Selatan
+5314020050,Pantai Baru
+5314020060,Rote Timur
+5314020061,Landu Leko
+5314020070,Rote Barat
+5314020071,Ndao Nuse
+5314030,Lobalain
+5314030010,Rote Barat Daya
+5314030020,Rote Barat Laut
+5314030030,Lobalain
+5314030040,Rote Tengah
+5314030041,Rote Selatan
+5314030050,Pantai Baru
+5314030060,Rote Timur
+5314030061,Landu Leko
+5314030070,Rote Barat
+5314030071,Ndao Nuse
+5314040,Rote Tengah
+5314040010,Rote Barat Daya
+5314040020,Rote Barat Laut
+5314040030,Lobalain
+5314040040,Rote Tengah
+5314040041,Rote Selatan
+5314040050,Pantai Baru
+5314040060,Rote Timur
+5314040061,Landu Leko
+5314040070,Rote Barat
+5314040071,Ndao Nuse
+5314041,Rote Selatan
+5314041010,Rote Barat Daya
+5314041020,Rote Barat Laut
+5314041030,Lobalain
+5314041040,Rote Tengah
+5314041041,Rote Selatan
+5314041050,Pantai Baru
+5314041060,Rote Timur
+5314041061,Landu Leko
+5314041070,Rote Barat
+5314041071,Ndao Nuse
+5314050,Pantai Baru
+5314050010,Rote Barat Daya
+5314050020,Rote Barat Laut
+5314050030,Lobalain
+5314050040,Rote Tengah
+5314050041,Rote Selatan
+5314050050,Pantai Baru
+5314050060,Rote Timur
+5314050061,Landu Leko
+5314050070,Rote Barat
+5314050071,Ndao Nuse
+5314060,Rote Timur
+5314060010,Rote Barat Daya
+5314060020,Rote Barat Laut
+5314060030,Lobalain
+5314060040,Rote Tengah
+5314060041,Rote Selatan
+5314060050,Pantai Baru
+5314060060,Rote Timur
+5314060061,Landu Leko
+5314060070,Rote Barat
+5314060071,Ndao Nuse
+5314061,Landu Leko
+5314061010,Rote Barat Daya
+5314061020,Rote Barat Laut
+5314061030,Lobalain
+5314061040,Rote Tengah
+5314061041,Rote Selatan
+5314061050,Pantai Baru
+5314061060,Rote Timur
+5314061061,Landu Leko
+5314061070,Rote Barat
+5314061071,Ndao Nuse
+5314070,Rote Barat
+5314070010,Rote Barat Daya
+5314070020,Rote Barat Laut
+5314070030,Lobalain
+5314070040,Rote Tengah
+5314070041,Rote Selatan
+5314070050,Pantai Baru
+5314070060,Rote Timur
+5314070061,Landu Leko
+5314070070,Rote Barat
+5314070071,Ndao Nuse
+5314071,Ndao Nuse
+5314071010,Rote Barat Daya
+5314071020,Rote Barat Laut
+5314071030,Lobalain
+5314071040,Rote Tengah
+5314071041,Rote Selatan
+5314071050,Pantai Baru
+5314071060,Rote Timur
+5314071061,Landu Leko
+5314071070,Rote Barat
+5314071071,Ndao Nuse
+5315,Manggarai Barat
+5315010,Komodo
+5315010010,Komodo
+5315010011,Boleng
+5315010020,Sano Nggoang
+5315010021,Mbeliling
+5315010030,Lembor
+5315010031,Welak
+5315010032,Lembor Selatan
+5315010040,Kuwus
+5315010041,Ndoso
+5315010042,Kuwus Barat
+5315010050,Macang Pacar
+5315010051,Pacar
+5315011,Boleng
+5315011010,Komodo
+5315011011,Boleng
+5315011020,Sano Nggoang
+5315011021,Mbeliling
+5315011030,Lembor
+5315011031,Welak
+5315011032,Lembor Selatan
+5315011040,Kuwus
+5315011041,Ndoso
+5315011042,Kuwus Barat
+5315011050,Macang Pacar
+5315011051,Pacar
+5315020,Sano Nggoang
+5315020010,Komodo
+5315020011,Boleng
+5315020020,Sano Nggoang
+5315020021,Mbeliling
+5315020030,Lembor
+5315020031,Welak
+5315020032,Lembor Selatan
+5315020040,Kuwus
+5315020041,Ndoso
+5315020042,Kuwus Barat
+5315020050,Macang Pacar
+5315020051,Pacar
+5315021,Mbeliling
+5315021010,Komodo
+5315021011,Boleng
+5315021020,Sano Nggoang
+5315021021,Mbeliling
+5315021030,Lembor
+5315021031,Welak
+5315021032,Lembor Selatan
+5315021040,Kuwus
+5315021041,Ndoso
+5315021042,Kuwus Barat
+5315021050,Macang Pacar
+5315021051,Pacar
+5315030,Lembor
+5315030010,Komodo
+5315030011,Boleng
+5315030020,Sano Nggoang
+5315030021,Mbeliling
+5315030030,Lembor
+5315030031,Welak
+5315030032,Lembor Selatan
+5315030040,Kuwus
+5315030041,Ndoso
+5315030042,Kuwus Barat
+5315030050,Macang Pacar
+5315030051,Pacar
+5315031,Welak
+5315031010,Komodo
+5315031011,Boleng
+5315031020,Sano Nggoang
+5315031021,Mbeliling
+5315031030,Lembor
+5315031031,Welak
+5315031032,Lembor Selatan
+5315031040,Kuwus
+5315031041,Ndoso
+5315031042,Kuwus Barat
+5315031050,Macang Pacar
+5315031051,Pacar
+5315032,Lembor Selatan
+5315032010,Komodo
+5315032011,Boleng
+5315032020,Sano Nggoang
+5315032021,Mbeliling
+5315032030,Lembor
+5315032031,Welak
+5315032032,Lembor Selatan
+5315032040,Kuwus
+5315032041,Ndoso
+5315032042,Kuwus Barat
+5315032050,Macang Pacar
+5315032051,Pacar
+5315040,Kuwus
+5315040010,Komodo
+5315040011,Boleng
+5315040020,Sano Nggoang
+5315040021,Mbeliling
+5315040030,Lembor
+5315040031,Welak
+5315040032,Lembor Selatan
+5315040040,Kuwus
+5315040041,Ndoso
+5315040042,Kuwus Barat
+5315040050,Macang Pacar
+5315040051,Pacar
+5315041,Ndoso
+5315041010,Komodo
+5315041011,Boleng
+5315041020,Sano Nggoang
+5315041021,Mbeliling
+5315041030,Lembor
+5315041031,Welak
+5315041032,Lembor Selatan
+5315041040,Kuwus
+5315041041,Ndoso
+5315041042,Kuwus Barat
+5315041050,Macang Pacar
+5315041051,Pacar
+5315042,Kuwus Barat
+5315042010,Komodo
+5315042011,Boleng
+5315042020,Sano Nggoang
+5315042021,Mbeliling
+5315042030,Lembor
+5315042031,Welak
+5315042032,Lembor Selatan
+5315042040,Kuwus
+5315042041,Ndoso
+5315042042,Kuwus Barat
+5315042050,Macang Pacar
+5315042051,Pacar
+5315050,Macang Pacar
+5315050010,Komodo
+5315050011,Boleng
+5315050020,Sano Nggoang
+5315050021,Mbeliling
+5315050030,Lembor
+5315050031,Welak
+5315050032,Lembor Selatan
+5315050040,Kuwus
+5315050041,Ndoso
+5315050042,Kuwus Barat
+5315050050,Macang Pacar
+5315050051,Pacar
+5315051,Pacar
+5315051010,Komodo
+5315051011,Boleng
+5315051020,Sano Nggoang
+5315051021,Mbeliling
+5315051030,Lembor
+5315051031,Welak
+5315051032,Lembor Selatan
+5315051040,Kuwus
+5315051041,Ndoso
+5315051042,Kuwus Barat
+5315051050,Macang Pacar
+5315051051,Pacar
+5316,Sumba Tengah
+5316010,Katikutana
+5316010010,Katikutana
+5316010011,Katikutana Selatan
+5316010020,Umbu Ratu Nggay Barat
+5316010030,Umbu Ratu Nggay
+5316010040,Mamboro
+5316011,Katikutana Selatan
+5316011010,Katikutana
+5316011011,Katikutana Selatan
+5316011020,Umbu Ratu Nggay Barat
+5316011030,Umbu Ratu Nggay
+5316011040,Mamboro
+5316020,Umbu Ratu Nggay Barat
+5316020010,Katikutana
+5316020011,Katikutana Selatan
+5316020020,Umbu Ratu Nggay Barat
+5316020030,Umbu Ratu Nggay
+5316020040,Mamboro
+5316030,Umbu Ratu Nggay
+5316030010,Katikutana
+5316030011,Katikutana Selatan
+5316030020,Umbu Ratu Nggay Barat
+5316030030,Umbu Ratu Nggay
+5316030040,Mamboro
+5316040,Mamboro
+5316040010,Katikutana
+5316040011,Katikutana Selatan
+5316040020,Umbu Ratu Nggay Barat
+5316040030,Umbu Ratu Nggay
+5316040040,Mamboro
+5317,Sumba Barat Daya
+5317010,Kodi Bangedo
+5317010010,Kodi Bangedo
+5317010011,Kodi Balaghar
+5317010020,Kodi
+5317010030,Kodi Utara
+5317010040,Wewewa Selatan
+5317010050,Wewewa Barat
+5317010060,Wewewa Timur
+5317010061,Wewewa Tengah
+5317010070,Wewewa Utara
+5317010080,Loura
+5317010081,Kota Tambolaka
+5317011,Kodi Balaghar
+5317011010,Kodi Bangedo
+5317011011,Kodi Balaghar
+5317011020,Kodi
+5317011030,Kodi Utara
+5317011040,Wewewa Selatan
+5317011050,Wewewa Barat
+5317011060,Wewewa Timur
+5317011061,Wewewa Tengah
+5317011070,Wewewa Utara
+5317011080,Loura
+5317011081,Kota Tambolaka
+5317020,Kodi
+5317020010,Kodi Bangedo
+5317020011,Kodi Balaghar
+5317020020,Kodi
+5317020030,Kodi Utara
+5317020040,Wewewa Selatan
+5317020050,Wewewa Barat
+5317020060,Wewewa Timur
+5317020061,Wewewa Tengah
+5317020070,Wewewa Utara
+5317020080,Loura
+5317020081,Kota Tambolaka
+5317030,Kodi Utara
+5317030010,Kodi Bangedo
+5317030011,Kodi Balaghar
+5317030020,Kodi
+5317030030,Kodi Utara
+5317030040,Wewewa Selatan
+5317030050,Wewewa Barat
+5317030060,Wewewa Timur
+5317030061,Wewewa Tengah
+5317030070,Wewewa Utara
+5317030080,Loura
+5317030081,Kota Tambolaka
+5317040,Wewewa Selatan
+5317040010,Kodi Bangedo
+5317040011,Kodi Balaghar
+5317040020,Kodi
+5317040030,Kodi Utara
+5317040040,Wewewa Selatan
+5317040050,Wewewa Barat
+5317040060,Wewewa Timur
+5317040061,Wewewa Tengah
+5317040070,Wewewa Utara
+5317040080,Loura
+5317040081,Kota Tambolaka
+5317050,Wewewa Barat
+5317050010,Kodi Bangedo
+5317050011,Kodi Balaghar
+5317050020,Kodi
+5317050030,Kodi Utara
+5317050040,Wewewa Selatan
+5317050050,Wewewa Barat
+5317050060,Wewewa Timur
+5317050061,Wewewa Tengah
+5317050070,Wewewa Utara
+5317050080,Loura
+5317050081,Kota Tambolaka
+5317060,Wewewa Timur
+5317060010,Kodi Bangedo
+5317060011,Kodi Balaghar
+5317060020,Kodi
+5317060030,Kodi Utara
+5317060040,Wewewa Selatan
+5317060050,Wewewa Barat
+5317060060,Wewewa Timur
+5317060061,Wewewa Tengah
+5317060070,Wewewa Utara
+5317060080,Loura
+5317060081,Kota Tambolaka
+5317061,Wewewa Tengah
+5317061010,Kodi Bangedo
+5317061011,Kodi Balaghar
+5317061020,Kodi
+5317061030,Kodi Utara
+5317061040,Wewewa Selatan
+5317061050,Wewewa Barat
+5317061060,Wewewa Timur
+5317061061,Wewewa Tengah
+5317061070,Wewewa Utara
+5317061080,Loura
+5317061081,Kota Tambolaka
+5317070,Wewewa Utara
+5317070010,Kodi Bangedo
+5317070011,Kodi Balaghar
+5317070020,Kodi
+5317070030,Kodi Utara
+5317070040,Wewewa Selatan
+5317070050,Wewewa Barat
+5317070060,Wewewa Timur
+5317070061,Wewewa Tengah
+5317070070,Wewewa Utara
+5317070080,Loura
+5317070081,Kota Tambolaka
+5317080,Loura
+5317080010,Kodi Bangedo
+5317080011,Kodi Balaghar
+5317080020,Kodi
+5317080030,Kodi Utara
+5317080040,Wewewa Selatan
+5317080050,Wewewa Barat
+5317080060,Wewewa Timur
+5317080061,Wewewa Tengah
+5317080070,Wewewa Utara
+5317080080,Loura
+5317080081,Kota Tambolaka
+5317081,Kota Tambolaka
+5317081010,Kodi Bangedo
+5317081011,Kodi Balaghar
+5317081020,Kodi
+5317081030,Kodi Utara
+5317081040,Wewewa Selatan
+5317081050,Wewewa Barat
+5317081060,Wewewa Timur
+5317081061,Wewewa Tengah
+5317081070,Wewewa Utara
+5317081080,Loura
+5317081081,Kota Tambolaka
+5318,Nagekeo
+5318010,Mauponggo
+5318010010,Mauponggo
+5318010020,Keo Tengah
+5318010030,Nangaroro
+5318010040,Boawae
+5318010050,Aesesa Selatan
+5318010060,Aesesa
+5318010070,Wolowae
+5318020,Keo Tengah
+5318020010,Mauponggo
+5318020020,Keo Tengah
+5318020030,Nangaroro
+5318020040,Boawae
+5318020050,Aesesa Selatan
+5318020060,Aesesa
+5318020070,Wolowae
+5318030,Nangaroro
+5318030010,Mauponggo
+5318030020,Keo Tengah
+5318030030,Nangaroro
+5318030040,Boawae
+5318030050,Aesesa Selatan
+5318030060,Aesesa
+5318030070,Wolowae
+5318040,Boawae
+5318040010,Mauponggo
+5318040020,Keo Tengah
+5318040030,Nangaroro
+5318040040,Boawae
+5318040050,Aesesa Selatan
+5318040060,Aesesa
+5318040070,Wolowae
+5318050,Aesesa Selatan
+5318050010,Mauponggo
+5318050020,Keo Tengah
+5318050030,Nangaroro
+5318050040,Boawae
+5318050050,Aesesa Selatan
+5318050060,Aesesa
+5318050070,Wolowae
+5318060,Aesesa
+5318060010,Mauponggo
+5318060020,Keo Tengah
+5318060030,Nangaroro
+5318060040,Boawae
+5318060050,Aesesa Selatan
+5318060060,Aesesa
+5318060070,Wolowae
+5318070,Wolowae
+5318070010,Mauponggo
+5318070020,Keo Tengah
+5318070030,Nangaroro
+5318070040,Boawae
+5318070050,Aesesa Selatan
+5318070060,Aesesa
+5318070070,Wolowae
+5319,Manggarai Timur
+5319010,Borong
+5319010010,Borong
+5319010011,Rana Mese
+5319010020,Kota Komba
+5319010030,Elar
+5319010031,Elar Selatan
+5319010040,Sambi Rampas
+5319010050,Poco Ranaka
+5319010051,Poco Ranaka Timur
+5319010060,Lamba Leda
+5319011,Rana Mese
+5319011010,Borong
+5319011011,Rana Mese
+5319011020,Kota Komba
+5319011030,Elar
+5319011031,Elar Selatan
+5319011040,Sambi Rampas
+5319011050,Poco Ranaka
+5319011051,Poco Ranaka Timur
+5319011060,Lamba Leda
+5319020,Kota Komba
+5319020010,Borong
+5319020011,Rana Mese
+5319020020,Kota Komba
+5319020030,Elar
+5319020031,Elar Selatan
+5319020040,Sambi Rampas
+5319020050,Poco Ranaka
+5319020051,Poco Ranaka Timur
+5319020060,Lamba Leda
+5319030,Elar
+5319030010,Borong
+5319030011,Rana Mese
+5319030020,Kota Komba
+5319030030,Elar
+5319030031,Elar Selatan
+5319030040,Sambi Rampas
+5319030050,Poco Ranaka
+5319030051,Poco Ranaka Timur
+5319030060,Lamba Leda
+5319031,Elar Selatan
+5319031010,Borong
+5319031011,Rana Mese
+5319031020,Kota Komba
+5319031030,Elar
+5319031031,Elar Selatan
+5319031040,Sambi Rampas
+5319031050,Poco Ranaka
+5319031051,Poco Ranaka Timur
+5319031060,Lamba Leda
+5319040,Sambi Rampas
+5319040010,Borong
+5319040011,Rana Mese
+5319040020,Kota Komba
+5319040030,Elar
+5319040031,Elar Selatan
+5319040040,Sambi Rampas
+5319040050,Poco Ranaka
+5319040051,Poco Ranaka Timur
+5319040060,Lamba Leda
+5319050,Poco Ranaka
+5319050010,Borong
+5319050011,Rana Mese
+5319050020,Kota Komba
+5319050030,Elar
+5319050031,Elar Selatan
+5319050040,Sambi Rampas
+5319050050,Poco Ranaka
+5319050051,Poco Ranaka Timur
+5319050060,Lamba Leda
+5319051,Poco Ranaka Timur
+5319051010,Borong
+5319051011,Rana Mese
+5319051020,Kota Komba
+5319051030,Elar
+5319051031,Elar Selatan
+5319051040,Sambi Rampas
+5319051050,Poco Ranaka
+5319051051,Poco Ranaka Timur
+5319051060,Lamba Leda
+5319060,Lamba Leda
+5319060010,Borong
+5319060011,Rana Mese
+5319060020,Kota Komba
+5319060030,Elar
+5319060031,Elar Selatan
+5319060040,Sambi Rampas
+5319060050,Poco Ranaka
+5319060051,Poco Ranaka Timur
+5319060060,Lamba Leda
+5320,Sabu Raijua
+5320010,Raijua
+5320010010,Raijua
+5320010020,Hawu Mehara
+5320010030,Sabu Liae
+5320010040,Sabu Barat
+5320010050,Sabu Tengah
+5320010060,Sabu Timur
+5320020,Hawu Mehara
+5320020010,Raijua
+5320020020,Hawu Mehara
+5320020030,Sabu Liae
+5320020040,Sabu Barat
+5320020050,Sabu Tengah
+5320020060,Sabu Timur
+5320030,Sabu Liae
+5320030010,Raijua
+5320030020,Hawu Mehara
+5320030030,Sabu Liae
+5320030040,Sabu Barat
+5320030050,Sabu Tengah
+5320030060,Sabu Timur
+5320040,Sabu Barat
+5320040010,Raijua
+5320040020,Hawu Mehara
+5320040030,Sabu Liae
+5320040040,Sabu Barat
+5320040050,Sabu Tengah
+5320040060,Sabu Timur
+5320050,Sabu Tengah
+5320050010,Raijua
+5320050020,Hawu Mehara
+5320050030,Sabu Liae
+5320050040,Sabu Barat
+5320050050,Sabu Tengah
+5320050060,Sabu Timur
+5320060,Sabu Timur
+5320060010,Raijua
+5320060020,Hawu Mehara
+5320060030,Sabu Liae
+5320060040,Sabu Barat
+5320060050,Sabu Tengah
+5320060060,Sabu Timur
+5321,Malaka
+5321010,Wewiku
+5321010010,Wewiku
+5321010020,Malaka Barat
+5321010030,Weliman
+5321010040,Rinhat
+5321010050,Io Kufeu
+5321010060,Sasita Mean
+5321010070,Malaka Tengah
+5321010080,Botin Leobele
+5321010090,Laen Manen
+5321010100,Malaka Timur
+5321010110,Kobalima
+5321010120,Kobalima Timur
+5321020,Malaka Barat
+5321020010,Wewiku
+5321020020,Malaka Barat
+5321020030,Weliman
+5321020040,Rinhat
+5321020050,Io Kufeu
+5321020060,Sasita Mean
+5321020070,Malaka Tengah
+5321020080,Botin Leobele
+5321020090,Laen Manen
+5321020100,Malaka Timur
+5321020110,Kobalima
+5321020120,Kobalima Timur
+5321030,Weliman
+5321030010,Wewiku
+5321030020,Malaka Barat
+5321030030,Weliman
+5321030040,Rinhat
+5321030050,Io Kufeu
+5321030060,Sasita Mean
+5321030070,Malaka Tengah
+5321030080,Botin Leobele
+5321030090,Laen Manen
+5321030100,Malaka Timur
+5321030110,Kobalima
+5321030120,Kobalima Timur
+5321040,Rinhat
+5321040010,Wewiku
+5321040020,Malaka Barat
+5321040030,Weliman
+5321040040,Rinhat
+5321040050,Io Kufeu
+5321040060,Sasita Mean
+5321040070,Malaka Tengah
+5321040080,Botin Leobele
+5321040090,Laen Manen
+5321040100,Malaka Timur
+5321040110,Kobalima
+5321040120,Kobalima Timur
+5321050,Io Kufeu
+5321050010,Wewiku
+5321050020,Malaka Barat
+5321050030,Weliman
+5321050040,Rinhat
+5321050050,Io Kufeu
+5321050060,Sasita Mean
+5321050070,Malaka Tengah
+5321050080,Botin Leobele
+5321050090,Laen Manen
+5321050100,Malaka Timur
+5321050110,Kobalima
+5321050120,Kobalima Timur
+5321060,Sasita Mean
+5321060010,Wewiku
+5321060020,Malaka Barat
+5321060030,Weliman
+5321060040,Rinhat
+5321060050,Io Kufeu
+5321060060,Sasita Mean
+5321060070,Malaka Tengah
+5321060080,Botin Leobele
+5321060090,Laen Manen
+5321060100,Malaka Timur
+5321060110,Kobalima
+5321060120,Kobalima Timur
+5321070,Malaka Tengah
+5321070010,Wewiku
+5321070020,Malaka Barat
+5321070030,Weliman
+5321070040,Rinhat
+5321070050,Io Kufeu
+5321070060,Sasita Mean
+5321070070,Malaka Tengah
+5321070080,Botin Leobele
+5321070090,Laen Manen
+5321070100,Malaka Timur
+5321070110,Kobalima
+5321070120,Kobalima Timur
+5321080,Botin Leobele
+5321080010,Wewiku
+5321080020,Malaka Barat
+5321080030,Weliman
+5321080040,Rinhat
+5321080050,Io Kufeu
+5321080060,Sasita Mean
+5321080070,Malaka Tengah
+5321080080,Botin Leobele
+5321080090,Laen Manen
+5321080100,Malaka Timur
+5321080110,Kobalima
+5321080120,Kobalima Timur
+5321090,Laen Manen
+5321090010,Wewiku
+5321090020,Malaka Barat
+5321090030,Weliman
+5321090040,Rinhat
+5321090050,Io Kufeu
+5321090060,Sasita Mean
+5321090070,Malaka Tengah
+5321090080,Botin Leobele
+5321090090,Laen Manen
+5321090100,Malaka Timur
+5321090110,Kobalima
+5321090120,Kobalima Timur
+5321100,Malaka Timur
+5321100010,Wewiku
+5321100020,Malaka Barat
+5321100030,Weliman
+5321100040,Rinhat
+5321100050,Io Kufeu
+5321100060,Sasita Mean
+5321100070,Malaka Tengah
+5321100080,Botin Leobele
+5321100090,Laen Manen
+5321100100,Malaka Timur
+5321100110,Kobalima
+5321100120,Kobalima Timur
+5321110,Kobalima
+5321110010,Wewiku
+5321110020,Malaka Barat
+5321110030,Weliman
+5321110040,Rinhat
+5321110050,Io Kufeu
+5321110060,Sasita Mean
+5321110070,Malaka Tengah
+5321110080,Botin Leobele
+5321110090,Laen Manen
+5321110100,Malaka Timur
+5321110110,Kobalima
+5321110120,Kobalima Timur
+5321120,Kobalima Timur
+5321120010,Wewiku
+5321120020,Malaka Barat
+5321120030,Weliman
+5321120040,Rinhat
+5321120050,Io Kufeu
+5321120060,Sasita Mean
+5321120070,Malaka Tengah
+5321120080,Botin Leobele
+5321120090,Laen Manen
+5321120100,Malaka Timur
+5321120110,Kobalima
+5321120120,Kobalima Timur
+5371,Kupang
+5371010,Alak
+5371010010,Alak
+5371010020,Maulafa
+5371010030,Oebobo
+5371010031,Kota Raja
+5371010040,Kelapa Lima
+5371010041,Kota Lama
+5371020,Maulafa
+5371020010,Alak
+5371020020,Maulafa
+5371020030,Oebobo
+5371020031,Kota Raja
+5371020040,Kelapa Lima
+5371020041,Kota Lama
+5371030,Oebobo
+5371030010,Alak
+5371030020,Maulafa
+5371030030,Oebobo
+5371030031,Kota Raja
+5371030040,Kelapa Lima
+5371030041,Kota Lama
+5371031,Kota Raja
+5371031010,Alak
+5371031020,Maulafa
+5371031030,Oebobo
+5371031031,Kota Raja
+5371031040,Kelapa Lima
+5371031041,Kota Lama
+5371040,Kelapa Lima
+5371040010,Alak
+5371040020,Maulafa
+5371040030,Oebobo
+5371040031,Kota Raja
+5371040040,Kelapa Lima
+5371040041,Kota Lama
+5371041,Kota Lama
+5371041010,Alak
+5371041020,Maulafa
+5371041030,Oebobo
+5371041031,Kota Raja
+5371041040,Kelapa Lima
+5371041041,Kota Lama

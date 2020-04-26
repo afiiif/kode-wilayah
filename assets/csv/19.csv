@@ -1,0 +1,377 @@
+1901,Bangka
+1901070,Mendo Barat
+1901070070,Mendo Barat
+1901070080,Merawang
+1901070081,Puding Besar
+1901070090,Sungailiat
+1901070091,Pemali
+1901070092,Bakam
+1901070130,Belinyu
+1901070131,Riau Silip
+1901080,Merawang
+1901080070,Mendo Barat
+1901080080,Merawang
+1901080081,Puding Besar
+1901080090,Sungailiat
+1901080091,Pemali
+1901080092,Bakam
+1901080130,Belinyu
+1901080131,Riau Silip
+1901081,Puding Besar
+1901081070,Mendo Barat
+1901081080,Merawang
+1901081081,Puding Besar
+1901081090,Sungailiat
+1901081091,Pemali
+1901081092,Bakam
+1901081130,Belinyu
+1901081131,Riau Silip
+1901090,Sungailiat
+1901090070,Mendo Barat
+1901090080,Merawang
+1901090081,Puding Besar
+1901090090,Sungailiat
+1901090091,Pemali
+1901090092,Bakam
+1901090130,Belinyu
+1901090131,Riau Silip
+1901091,Pemali
+1901091070,Mendo Barat
+1901091080,Merawang
+1901091081,Puding Besar
+1901091090,Sungailiat
+1901091091,Pemali
+1901091092,Bakam
+1901091130,Belinyu
+1901091131,Riau Silip
+1901092,Bakam
+1901092070,Mendo Barat
+1901092080,Merawang
+1901092081,Puding Besar
+1901092090,Sungailiat
+1901092091,Pemali
+1901092092,Bakam
+1901092130,Belinyu
+1901092131,Riau Silip
+1901130,Belinyu
+1901130070,Mendo Barat
+1901130080,Merawang
+1901130081,Puding Besar
+1901130090,Sungailiat
+1901130091,Pemali
+1901130092,Bakam
+1901130130,Belinyu
+1901130131,Riau Silip
+1901131,Riau Silip
+1901131070,Mendo Barat
+1901131080,Merawang
+1901131081,Puding Besar
+1901131090,Sungailiat
+1901131091,Pemali
+1901131092,Bakam
+1901131130,Belinyu
+1901131131,Riau Silip
+1902,Belitung
+1902010,Membalong
+1902010010,Membalong
+1902010060,Tanjungpandan
+1902010061,Badau
+1902010062,Sijuk
+1902010063,Selat Nasik
+1902060,Tanjungpandan
+1902060010,Membalong
+1902060060,Tanjungpandan
+1902060061,Badau
+1902060062,Sijuk
+1902060063,Selat Nasik
+1902061,Badau
+1902061010,Membalong
+1902061060,Tanjungpandan
+1902061061,Badau
+1902061062,Sijuk
+1902061063,Selat Nasik
+1902062,Sijuk
+1902062010,Membalong
+1902062060,Tanjungpandan
+1902062061,Badau
+1902062062,Sijuk
+1902062063,Selat Nasik
+1902063,Selat Nasik
+1902063010,Membalong
+1902063060,Tanjungpandan
+1902063061,Badau
+1902063062,Sijuk
+1902063063,Selat Nasik
+1903,Bangka Barat
+1903010,Kelapa
+1903010010,Kelapa
+1903010020,Tempilang
+1903010030,Mentok
+1903010040,Simpang Teritip
+1903010050,Jebus
+1903010051,Parittiga
+1903020,Tempilang
+1903020010,Kelapa
+1903020020,Tempilang
+1903020030,Mentok
+1903020040,Simpang Teritip
+1903020050,Jebus
+1903020051,Parittiga
+1903030,Mentok
+1903030010,Kelapa
+1903030020,Tempilang
+1903030030,Mentok
+1903030040,Simpang Teritip
+1903030050,Jebus
+1903030051,Parittiga
+1903040,Simpang Teritip
+1903040010,Kelapa
+1903040020,Tempilang
+1903040030,Mentok
+1903040040,Simpang Teritip
+1903040050,Jebus
+1903040051,Parittiga
+1903050,Jebus
+1903050010,Kelapa
+1903050020,Tempilang
+1903050030,Mentok
+1903050040,Simpang Teritip
+1903050050,Jebus
+1903050051,Parittiga
+1903051,Parittiga
+1903051010,Kelapa
+1903051020,Tempilang
+1903051030,Mentok
+1903051040,Simpang Teritip
+1903051050,Jebus
+1903051051,Parittiga
+1904,Bangka Tengah
+1904010,Koba
+1904010010,Koba
+1904010011,Lubuk Besar
+1904010020,Pangkalan Baru
+1904010021,Namang
+1904010030,Sungai Selan
+1904010040,Simpang Katis
+1904011,Lubuk Besar
+1904011010,Koba
+1904011011,Lubuk Besar
+1904011020,Pangkalan Baru
+1904011021,Namang
+1904011030,Sungai Selan
+1904011040,Simpang Katis
+1904020,Pangkalan Baru
+1904020010,Koba
+1904020011,Lubuk Besar
+1904020020,Pangkalan Baru
+1904020021,Namang
+1904020030,Sungai Selan
+1904020040,Simpang Katis
+1904021,Namang
+1904021010,Koba
+1904021011,Lubuk Besar
+1904021020,Pangkalan Baru
+1904021021,Namang
+1904021030,Sungai Selan
+1904021040,Simpang Katis
+1904030,Sungai Selan
+1904030010,Koba
+1904030011,Lubuk Besar
+1904030020,Pangkalan Baru
+1904030021,Namang
+1904030030,Sungai Selan
+1904030040,Simpang Katis
+1904040,Simpang Katis
+1904040010,Koba
+1904040011,Lubuk Besar
+1904040020,Pangkalan Baru
+1904040021,Namang
+1904040030,Sungai Selan
+1904040040,Simpang Katis
+1905,Bangka Selatan
+1905010,Payung
+1905010010,Payung
+1905010011,Pulau Besar
+1905010020,Simpang Rimba
+1905010030,Toboali
+1905010031,Tukak Sadai
+1905010040,Air Gegas
+1905010050,Lepar Pongok
+1905010051,Kepulauan Pongok
+1905011,Pulau Besar
+1905011010,Payung
+1905011011,Pulau Besar
+1905011020,Simpang Rimba
+1905011030,Toboali
+1905011031,Tukak Sadai
+1905011040,Air Gegas
+1905011050,Lepar Pongok
+1905011051,Kepulauan Pongok
+1905020,Simpang Rimba
+1905020010,Payung
+1905020011,Pulau Besar
+1905020020,Simpang Rimba
+1905020030,Toboali
+1905020031,Tukak Sadai
+1905020040,Air Gegas
+1905020050,Lepar Pongok
+1905020051,Kepulauan Pongok
+1905030,Toboali
+1905030010,Payung
+1905030011,Pulau Besar
+1905030020,Simpang Rimba
+1905030030,Toboali
+1905030031,Tukak Sadai
+1905030040,Air Gegas
+1905030050,Lepar Pongok
+1905030051,Kepulauan Pongok
+1905031,Tukak Sadai
+1905031010,Payung
+1905031011,Pulau Besar
+1905031020,Simpang Rimba
+1905031030,Toboali
+1905031031,Tukak Sadai
+1905031040,Air Gegas
+1905031050,Lepar Pongok
+1905031051,Kepulauan Pongok
+1905040,Air Gegas
+1905040010,Payung
+1905040011,Pulau Besar
+1905040020,Simpang Rimba
+1905040030,Toboali
+1905040031,Tukak Sadai
+1905040040,Air Gegas
+1905040050,Lepar Pongok
+1905040051,Kepulauan Pongok
+1905050,Lepar Pongok
+1905050010,Payung
+1905050011,Pulau Besar
+1905050020,Simpang Rimba
+1905050030,Toboali
+1905050031,Tukak Sadai
+1905050040,Air Gegas
+1905050050,Lepar Pongok
+1905050051,Kepulauan Pongok
+1905051,Kepulauan Pongok
+1905051010,Payung
+1905051011,Pulau Besar
+1905051020,Simpang Rimba
+1905051030,Toboali
+1905051031,Tukak Sadai
+1905051040,Air Gegas
+1905051050,Lepar Pongok
+1905051051,Kepulauan Pongok
+1906,Belitung Timur
+1906010,Dendang
+1906010010,Dendang
+1906010011,Simpang Pesak
+1906010020,Gantung
+1906010021,Simpang Renggiang
+1906010030,Manggar
+1906010031,Damar
+1906010040,Kelapa Kampit
+1906011,Simpang Pesak
+1906011010,Dendang
+1906011011,Simpang Pesak
+1906011020,Gantung
+1906011021,Simpang Renggiang
+1906011030,Manggar
+1906011031,Damar
+1906011040,Kelapa Kampit
+1906020,Gantung
+1906020010,Dendang
+1906020011,Simpang Pesak
+1906020020,Gantung
+1906020021,Simpang Renggiang
+1906020030,Manggar
+1906020031,Damar
+1906020040,Kelapa Kampit
+1906021,Simpang Renggiang
+1906021010,Dendang
+1906021011,Simpang Pesak
+1906021020,Gantung
+1906021021,Simpang Renggiang
+1906021030,Manggar
+1906021031,Damar
+1906021040,Kelapa Kampit
+1906030,Manggar
+1906030010,Dendang
+1906030011,Simpang Pesak
+1906030020,Gantung
+1906030021,Simpang Renggiang
+1906030030,Manggar
+1906030031,Damar
+1906030040,Kelapa Kampit
+1906031,Damar
+1906031010,Dendang
+1906031011,Simpang Pesak
+1906031020,Gantung
+1906031021,Simpang Renggiang
+1906031030,Manggar
+1906031031,Damar
+1906031040,Kelapa Kampit
+1906040,Kelapa Kampit
+1906040010,Dendang
+1906040011,Simpang Pesak
+1906040020,Gantung
+1906040021,Simpang Renggiang
+1906040030,Manggar
+1906040031,Damar
+1906040040,Kelapa Kampit
+1971,Pangkalpinang
+1971010,Rangkui
+1971010010,Rangkui
+1971010020,Bukit Intan
+1971010021,Girimaya
+1971010030,Pangkal Balam
+1971010031,Gabek
+1971010040,Taman Sari
+1971010041,Gerunggang
+1971020,Bukit Intan
+1971020010,Rangkui
+1971020020,Bukit Intan
+1971020021,Girimaya
+1971020030,Pangkal Balam
+1971020031,Gabek
+1971020040,Taman Sari
+1971020041,Gerunggang
+1971021,Girimaya
+1971021010,Rangkui
+1971021020,Bukit Intan
+1971021021,Girimaya
+1971021030,Pangkal Balam
+1971021031,Gabek
+1971021040,Taman Sari
+1971021041,Gerunggang
+1971030,Pangkal Balam
+1971030010,Rangkui
+1971030020,Bukit Intan
+1971030021,Girimaya
+1971030030,Pangkal Balam
+1971030031,Gabek
+1971030040,Taman Sari
+1971030041,Gerunggang
+1971031,Gabek
+1971031010,Rangkui
+1971031020,Bukit Intan
+1971031021,Girimaya
+1971031030,Pangkal Balam
+1971031031,Gabek
+1971031040,Taman Sari
+1971031041,Gerunggang
+1971040,Taman Sari
+1971040010,Rangkui
+1971040020,Bukit Intan
+1971040021,Girimaya
+1971040030,Pangkal Balam
+1971040031,Gabek
+1971040040,Taman Sari
+1971040041,Gerunggang
+1971041,Gerunggang
+1971041010,Rangkui
+1971041020,Bukit Intan
+1971041021,Girimaya
+1971041030,Pangkal Balam
+1971041031,Gabek
+1971041040,Taman Sari
+1971041041,Gerunggang
