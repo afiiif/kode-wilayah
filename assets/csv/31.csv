@@ -1,418 +1,317 @@
 3101,Kepulauan Seribu
 3101010,Kepulauan Seribu Selatan
-3101010010,Kepulauan Seribu Selatan
-3101010020,Kepulauan Seribu Utara
+3101010001,Pulau Tidung
+3101010002,Pulau Pari
+3101010003,Pulau Untung Jawa
 3101020,Kepulauan Seribu Utara
-3101020010,Kepulauan Seribu Selatan
-3101020020,Kepulauan Seribu Utara
+3101020001,Pulau Panggang
+3101020002,Pulau Kelapa
+3101020003,Pulau Harapan
 3171,Jakarta Selatan
 3171010,Jagakarsa
-3171010010,Jagakarsa
-3171010020,Pasar Minggu
-3171010030,Cilandak
-3171010040,Pesanggrahan
-3171010050,Kebayoran Lama
-3171010060,Kebayoran Baru
-3171010070,Mampang Prapatan
-3171010080,Pancoran
-3171010090,Tebet
-3171010100,Setia Budi
+3171010001,Cipedak
+3171010002,Srengseng Sawah
+3171010003,Ciganjur
+3171010004,Jagakarsa
+3171010005,Lenteng Agung
+3171010006,Tanjung Barat
 3171020,Pasar Minggu
-3171020010,Jagakarsa
-3171020020,Pasar Minggu
-3171020030,Cilandak
-3171020040,Pesanggrahan
-3171020050,Kebayoran Lama
-3171020060,Kebayoran Baru
-3171020070,Mampang Prapatan
-3171020080,Pancoran
-3171020090,Tebet
-3171020100,Setia Budi
+3171020001,Cilandak Timur
+3171020002,Ragunan
+3171020003,Kebagusan
+3171020004,Pasar Minggu
+3171020005,Jati Padang
+3171020006,Pejaten Barat
+3171020007,Pejaten Timur
 3171030,Cilandak
-3171030010,Jagakarsa
-3171030020,Pasar Minggu
-3171030030,Cilandak
-3171030040,Pesanggrahan
-3171030050,Kebayoran Lama
-3171030060,Kebayoran Baru
-3171030070,Mampang Prapatan
-3171030080,Pancoran
-3171030090,Tebet
-3171030100,Setia Budi
+3171030001,Lebak Bulus
+3171030002,Pondok Labu
+3171030003,Cilandak Barat
+3171030004,Gandaria Selatan
+3171030005,Cipete Selatan
 3171040,Pesanggrahan
-3171040010,Jagakarsa
-3171040020,Pasar Minggu
-3171040030,Cilandak
-3171040040,Pesanggrahan
-3171040050,Kebayoran Lama
-3171040060,Kebayoran Baru
-3171040070,Mampang Prapatan
-3171040080,Pancoran
-3171040090,Tebet
-3171040100,Setia Budi
+3171040001,Bintaro
+3171040002,Pesanggrahan
+3171040003,Ulujami
+3171040004,Petukangan Selatan
+3171040005,Petukangan Utara
 3171050,Kebayoran Lama
-3171050010,Jagakarsa
-3171050020,Pasar Minggu
-3171050030,Cilandak
-3171050040,Pesanggrahan
-3171050050,Kebayoran Lama
-3171050060,Kebayoran Baru
-3171050070,Mampang Prapatan
-3171050080,Pancoran
-3171050090,Tebet
-3171050100,Setia Budi
+3171050001,Pondok Pinang
+3171050002,Kebayoran Lama Selatan
+3171050003,Kebayoran Lama Utara
+3171050004,Cipulir
+3171050005,Grogol Selatan
+3171050006,Grogol Utara
 3171060,Kebayoran Baru
-3171060010,Jagakarsa
-3171060020,Pasar Minggu
-3171060030,Cilandak
-3171060040,Pesanggrahan
-3171060050,Kebayoran Lama
-3171060060,Kebayoran Baru
-3171060070,Mampang Prapatan
-3171060080,Pancoran
-3171060090,Tebet
-3171060100,Setia Budi
+3171060001,Gandaria Utara
+3171060002,Cipete Utara
+3171060003,Pulo
+3171060004,Petogogan
+3171060005,Melawai
+3171060006,Kramat Pela
+3171060007,Gunung
+3171060008,Selong
+3171060009,Rawa Barat
+3171060010,Senayan
 3171070,Mampang Prapatan
-3171070010,Jagakarsa
-3171070020,Pasar Minggu
-3171070030,Cilandak
-3171070040,Pesanggrahan
-3171070050,Kebayoran Lama
-3171070060,Kebayoran Baru
-3171070070,Mampang Prapatan
-3171070080,Pancoran
-3171070090,Tebet
-3171070100,Setia Budi
+3171070001,Bangka
+3171070002,Pela Mampang
+3171070003,Tegal Parang
+3171070004,Mampang Prapatan
+3171070005,Kuningan Barat
 3171080,Pancoran
-3171080010,Jagakarsa
-3171080020,Pasar Minggu
-3171080030,Cilandak
-3171080040,Pesanggrahan
-3171080050,Kebayoran Lama
-3171080060,Kebayoran Baru
-3171080070,Mampang Prapatan
-3171080080,Pancoran
-3171080090,Tebet
-3171080100,Setia Budi
+3171080001,Kalibata
+3171080002,Rawajati
+3171080003,Duren Tiga
+3171080004,Pancoran
+3171080005,Pengadegan
+3171080006,Cikoko
 3171090,Tebet
-3171090010,Jagakarsa
-3171090020,Pasar Minggu
-3171090030,Cilandak
-3171090040,Pesanggrahan
-3171090050,Kebayoran Lama
-3171090060,Kebayoran Baru
-3171090070,Mampang Prapatan
-3171090080,Pancoran
-3171090090,Tebet
-3171090100,Setia Budi
+3171090001,Menteng Dalam
+3171090002,Tebet Barat
+3171090003,Tebet Timur
+3171090004,Kebon Baru
+3171090005,Bukit Duri
+3171090006,Manggarai Selatan
+3171090007,Manggarai
 3171100,Setia Budi
-3171100010,Jagakarsa
-3171100020,Pasar Minggu
-3171100030,Cilandak
-3171100040,Pesanggrahan
-3171100050,Kebayoran Lama
-3171100060,Kebayoran Baru
-3171100070,Mampang Prapatan
-3171100080,Pancoran
-3171100090,Tebet
-3171100100,Setia Budi
+3171100001,Karet Semanggi
+3171100002,Kuningan Timur
+3171100003,Karet Kuningan
+3171100004,Karet
+3171100005,Menteng Atas
+3171100006,Pasar Manggis
+3171100007,Guntur
+3171100008,Setia Budi
 3172,Jakarta Timur
 3172010,Pasar Rebo
-3172010010,Pasar Rebo
-3172010020,Ciracas
-3172010030,Cipayung
-3172010040,Makasar
-3172010050,Kramat Jati
-3172010060,Jatinegara
-3172010070,Duren Sawit
-3172010080,Cakung
-3172010090,Pulo Gadung
-3172010100,Matraman
+3172010001,Pekayon
+3172010002,Kalisari
+3172010003,Baru
+3172010004,Cijantung
+3172010005,Gedong
 3172020,Ciracas
-3172020010,Pasar Rebo
-3172020020,Ciracas
-3172020030,Cipayung
-3172020040,Makasar
-3172020050,Kramat Jati
-3172020060,Jatinegara
-3172020070,Duren Sawit
-3172020080,Cakung
-3172020090,Pulo Gadung
-3172020100,Matraman
+3172020001,Cibubur
+3172020002,Kelapa Dua Wetan
+3172020003,Ciracas
+3172020004,Susukan
+3172020005,Rambutan
 3172030,Cipayung
-3172030010,Pasar Rebo
-3172030020,Ciracas
-3172030030,Cipayung
-3172030040,Makasar
-3172030050,Kramat Jati
-3172030060,Jatinegara
-3172030070,Duren Sawit
-3172030080,Cakung
-3172030090,Pulo Gadung
-3172030100,Matraman
+3172030001,Pondok Ranggon
+3172030002,Cilangkap
+3172030003,Munjul
+3172030004,Cipayung
+3172030005,Setu
+3172030006,Bambu Apus
+3172030007,Ceger
+3172030008,Lubang Buaya
 3172040,Makasar
-3172040010,Pasar Rebo
-3172040020,Ciracas
-3172040030,Cipayung
-3172040040,Makasar
-3172040050,Kramat Jati
-3172040060,Jatinegara
-3172040070,Duren Sawit
-3172040080,Cakung
-3172040090,Pulo Gadung
-3172040100,Matraman
+3172040001,Pinang Ranti
+3172040002,Makasar
+3172040003,Kebon Pala
+3172040004,Halim Perdana Kusumah
+3172040005,Cipinang Melayu
 3172050,Kramat Jati
-3172050010,Pasar Rebo
-3172050020,Ciracas
-3172050030,Cipayung
-3172050040,Makasar
-3172050050,Kramat Jati
-3172050060,Jatinegara
-3172050070,Duren Sawit
-3172050080,Cakung
-3172050090,Pulo Gadung
-3172050100,Matraman
+3172050001,Bale Kambang
+3172050002,Batu Ampar
+3172050003,Tengah
+3172050004,Dukuh
+3172050005,Kramat Jati
+3172050006,Cililitan
+3172050007,Cawang
 3172060,Jatinegara
-3172060010,Pasar Rebo
-3172060020,Ciracas
-3172060030,Cipayung
-3172060040,Makasar
-3172060050,Kramat Jati
-3172060060,Jatinegara
-3172060070,Duren Sawit
-3172060080,Cakung
-3172060090,Pulo Gadung
-3172060100,Matraman
+3172060001,Bidara Cina
+3172060002,Cipinang Cempedak
+3172060003,Cipinang Besar Selatan
+3172060004,Cipinang Muara
+3172060005,Cipinang Besar Utara
+3172060006,Rawa Bunga
+3172060007,Bali Mester
+3172060008,Kampung Melayu
 3172070,Duren Sawit
-3172070010,Pasar Rebo
-3172070020,Ciracas
-3172070030,Cipayung
-3172070040,Makasar
-3172070050,Kramat Jati
-3172070060,Jatinegara
-3172070070,Duren Sawit
-3172070080,Cakung
-3172070090,Pulo Gadung
-3172070100,Matraman
+3172070001,Pondok Bambu
+3172070002,Duren Sawit
+3172070003,Pondok Kelapa
+3172070004,Pondok Kopi
+3172070005,Malaka Jaya
+3172070006,Malaka Sari
+3172070007,Klender
 3172080,Cakung
-3172080010,Pasar Rebo
-3172080020,Ciracas
-3172080030,Cipayung
-3172080040,Makasar
-3172080050,Kramat Jati
-3172080060,Jatinegara
-3172080070,Duren Sawit
-3172080080,Cakung
-3172080090,Pulo Gadung
-3172080100,Matraman
+3172080001,Jatinegara
+3172080002,Penggilingan
+3172080003,Pulo Gebang
+3172080004,Ujung Menteng
+3172080005,Cakung Timur
+3172080006,Cakung Barat
+3172080007,Rawa Terate
 3172090,Pulo Gadung
-3172090010,Pasar Rebo
-3172090020,Ciracas
-3172090030,Cipayung
-3172090040,Makasar
-3172090050,Kramat Jati
-3172090060,Jatinegara
-3172090070,Duren Sawit
-3172090080,Cakung
-3172090090,Pulo Gadung
-3172090100,Matraman
+3172090001,Pisangan Timur
+3172090002,Cipinang
+3172090003,Jatinegara Kaum
+3172090004,Jati
+3172090005,Rawamangun
+3172090006,Kayu Putih
+3172090007,Pulo Gadung
 3172100,Matraman
-3172100010,Pasar Rebo
-3172100020,Ciracas
-3172100030,Cipayung
-3172100040,Makasar
-3172100050,Kramat Jati
-3172100060,Jatinegara
-3172100070,Duren Sawit
-3172100080,Cakung
-3172100090,Pulo Gadung
-3172100100,Matraman
+3172100001,Kebon Manggis
+3172100002,Pal Meriem
+3172100003,Pisangan Baru
+3172100004,Kayu Manis
+3172100005,Utan Kayu Selatan
+3172100006,Utan Kayu Utara
 3173,Jakarta Pusat
 3173010,Tanah Abang
-3173010010,Tanah Abang
-3173010020,Menteng
-3173010030,Senen
-3173010040,Johar Baru
-3173010050,Cempaka Putih
-3173010060,Kemayoran
-3173010070,Sawah Besar
-3173010080,Gambir
+3173010001,Gelora
+3173010002,Bendungan Hilir
+3173010003,Karet Tengsin
+3173010004,Kebon Melati
+3173010005,Petamburan
+3173010006,Kebon Kacang
+3173010007,Kampung Bali
 3173020,Menteng
-3173020010,Tanah Abang
-3173020020,Menteng
-3173020030,Senen
-3173020040,Johar Baru
-3173020050,Cempaka Putih
-3173020060,Kemayoran
-3173020070,Sawah Besar
-3173020080,Gambir
+3173020001,Menteng
+3173020002,Pegangsaan
+3173020003,Cikini
+3173020004,Gondangdia
+3173020005,Kebon Sirih
 3173030,Senen
-3173030010,Tanah Abang
-3173030020,Menteng
-3173030030,Senen
-3173030040,Johar Baru
-3173030050,Cempaka Putih
-3173030060,Kemayoran
-3173030070,Sawah Besar
-3173030080,Gambir
+3173030001,Kenari
+3173030002,Paseban
+3173030003,Kramat
+3173030004,Kwitang
+3173030005,Senen
+3173030006,Bungur
 3173040,Johar Baru
-3173040010,Tanah Abang
-3173040020,Menteng
-3173040030,Senen
-3173040040,Johar Baru
-3173040050,Cempaka Putih
-3173040060,Kemayoran
-3173040070,Sawah Besar
-3173040080,Gambir
+3173040001,Johar Baru
+3173040002,Kampung Rawa
+3173040003,Tanah Tinggi
+3173040004,Galur
 3173050,Cempaka Putih
-3173050010,Tanah Abang
-3173050020,Menteng
-3173050030,Senen
-3173050040,Johar Baru
-3173050050,Cempaka Putih
-3173050060,Kemayoran
-3173050070,Sawah Besar
-3173050080,Gambir
+3173050001,Rawa Sari
+3173050002,Cempaka Putih Timur
+3173050003,Cempaka Putih Barat
 3173060,Kemayoran
-3173060010,Tanah Abang
-3173060020,Menteng
-3173060030,Senen
-3173060040,Johar Baru
-3173060050,Cempaka Putih
-3173060060,Kemayoran
-3173060070,Sawah Besar
-3173060080,Gambir
+3173060001,Harapan Mulya
+3173060002,Cempaka Baru
+3173060003,Sumur Batu
+3173060004,Serdang
+3173060005,Utan Panjang
+3173060006,Kebon Kosong
+3173060007,Kemayoran
+3173060008,Gunung Sahari Selatan
 3173070,Sawah Besar
-3173070010,Tanah Abang
-3173070020,Menteng
-3173070030,Senen
-3173070040,Johar Baru
-3173070050,Cempaka Putih
-3173070060,Kemayoran
-3173070070,Sawah Besar
-3173070080,Gambir
+3173070001,Pasar Baru
+3173070002,Gunung Sahari Utara
+3173070003,Kartini
+3173070004,Karang Anyar
+3173070005,Mangga Dua Selatan
 3173080,Gambir
-3173080010,Tanah Abang
-3173080020,Menteng
-3173080030,Senen
-3173080040,Johar Baru
-3173080050,Cempaka Putih
-3173080060,Kemayoran
-3173080070,Sawah Besar
-3173080080,Gambir
+3173080001,Cideng
+3173080002,Petojo Selatan
+3173080003,Gambir
+3173080004,Kebon Kelapa
+3173080005,Petojo Utara
+3173080006,Duri Pulo
 3174,Jakarta Barat
 3174010,Kembangan
-3174010010,Kembangan
-3174010020,Kebon Jeruk
-3174010030,Palmerah
-3174010040,Grogol Petamburan
-3174010050,Tambora
-3174010060,Taman Sari
-3174010070,Cengkareng
-3174010080,Kali Deres
+3174010001,Joglo
+3174010002,Srengseng
+3174010003,Meruya Selatan
+3174010004,Meruya Utara
+3174010005,Kembangan Selatan
+3174010006,Kembangan Utara
 3174020,Kebon Jeruk
-3174020010,Kembangan
-3174020020,Kebon Jeruk
-3174020030,Palmerah
-3174020040,Grogol Petamburan
-3174020050,Tambora
-3174020060,Taman Sari
-3174020070,Cengkareng
-3174020080,Kali Deres
+3174020001,Sukabumi Selatan
+3174020002,Sukabumi Utara
+3174020003,Kelapa Dua
+3174020004,Kebon Jeruk
+3174020005,Duri Kepa
+3174020006,Kedoya Selatan
+3174020007,Kedoya Utara
 3174030,Palmerah
-3174030010,Kembangan
-3174030020,Kebon Jeruk
-3174030030,Palmerah
-3174030040,Grogol Petamburan
-3174030050,Tambora
-3174030060,Taman Sari
-3174030070,Cengkareng
-3174030080,Kali Deres
+3174030001,Palmerah
+3174030002,Slipi
+3174030003,Kemanggisan
+3174030004,Kota Bambu Utara
+3174030005,Kota Bambu Selatan
+3174030006,Jati Pulo
 3174040,Grogol Petamburan
-3174040010,Kembangan
-3174040020,Kebon Jeruk
-3174040030,Palmerah
-3174040040,Grogol Petamburan
-3174040050,Tambora
-3174040060,Taman Sari
-3174040070,Cengkareng
-3174040080,Kali Deres
+3174040001,Tanjung Duren Utara
+3174040002,Tanjung Duren Selatan
+3174040003,Tomang
+3174040004,Grogol
+3174040005,Jelambar
+3174040006,Wijaya Kesuma
+3174040007,Jelambar Baru
 3174050,Tambora
-3174050010,Kembangan
-3174050020,Kebon Jeruk
-3174050030,Palmerah
-3174050040,Grogol Petamburan
-3174050050,Tambora
-3174050060,Taman Sari
-3174050070,Cengkareng
-3174050080,Kali Deres
+3174050001,Kalianyar
+3174050002,Duri Selatan
+3174050003,Tanah Sereal
+3174050004,Duri Utara
+3174050005,Krendang
+3174050006,Jembatan Besi
+3174050007,Angke
+3174050008,Jembatan Lima
+3174050009,Tambora
+3174050010,Roa Malaka
+3174050011,Pekojan
 3174060,Taman Sari
-3174060010,Kembangan
-3174060020,Kebon Jeruk
-3174060030,Palmerah
-3174060040,Grogol Petamburan
-3174060050,Tambora
-3174060060,Taman Sari
-3174060070,Cengkareng
-3174060080,Kali Deres
+3174060001,Krukut
+3174060002,Maphar
+3174060003,Taman Sari
+3174060004,Tangki
+3174060005,Mangga Besar
+3174060006,Keagungan
+3174060007,Glodok
+3174060008,Pinangsia
 3174070,Cengkareng
-3174070010,Kembangan
-3174070020,Kebon Jeruk
-3174070030,Palmerah
-3174070040,Grogol Petamburan
-3174070050,Tambora
-3174070060,Taman Sari
-3174070070,Cengkareng
-3174070080,Kali Deres
+3174070001,Duri Kosambi
+3174070002,Rawa Buaya
+3174070003,Kedaung Kali Angke
+3174070004,Kapuk
+3174070005,Cengkareng Timur
+3174070006,Cengkareng Barat
 3174080,Kali Deres
-3174080010,Kembangan
-3174080020,Kebon Jeruk
-3174080030,Palmerah
-3174080040,Grogol Petamburan
-3174080050,Tambora
-3174080060,Taman Sari
-3174080070,Cengkareng
-3174080080,Kali Deres
+3174080001,Semanan
+3174080002,Kalideres
+3174080003,Pegadungan
+3174080004,Tegal Alur
+3174080005,Kamal
 3175,Jakarta Utara
 3175010,Penjaringan
-3175010010,Penjaringan
-3175010020,Pademangan
-3175010030,Tanjung Priok
-3175010040,Koja
-3175010050,Kelapa Gading
-3175010060,Cilincing
+3175010001,Kamal Muara
+3175010002,Kapuk Muara
+3175010003,Pejagalan
+3175010004,Penjaringan
+3175010005,Pluit
 3175020,Pademangan
-3175020010,Penjaringan
-3175020020,Pademangan
-3175020030,Tanjung Priok
-3175020040,Koja
-3175020050,Kelapa Gading
-3175020060,Cilincing
+3175020001,Pademangan Barat
+3175020002,Pademangan Timur
+3175020003,Ancol
 3175030,Tanjung Priok
-3175030010,Penjaringan
-3175030020,Pademangan
-3175030030,Tanjung Priok
-3175030040,Koja
-3175030050,Kelapa Gading
-3175030060,Cilincing
+3175030001,Sunter Agung
+3175030002,Sunter Jaya
+3175030003,Papango
+3175030004,Warakas
+3175030005,Sungai Bambu
+3175030006,Kebon Bawang
+3175030007,Tanjung Priuk
 3175040,Koja
-3175040010,Penjaringan
-3175040020,Pademangan
-3175040030,Tanjung Priok
-3175040040,Koja
-3175040050,Kelapa Gading
-3175040060,Cilincing
+3175040001,Rawabadak Selatan
+3175040002,Tugu Selatan
+3175040003,Tugu Utara
+3175040004,Lagoa
+3175040005,Rawabadak Utara
+3175040006,Koja
 3175050,Kelapa Gading
-3175050010,Penjaringan
-3175050020,Pademangan
-3175050030,Tanjung Priok
-3175050040,Koja
-3175050050,Kelapa Gading
-3175050060,Cilincing
+3175050001,Kelapa Gading Barat
+3175050002,Kelapa Gading Timur
+3175050003,Pegangsaan Dua
 3175060,Cilincing
-3175060010,Penjaringan
-3175060020,Pademangan
-3175060030,Tanjung Priok
-3175060040,Koja
-3175060050,Kelapa Gading
-3175060060,Cilincing
+3175060001,Suka Pura
+3175060002,Rorotan
+3175060003,Marunda
+3175060004,Cilincing
+3175060005,Semper Timur
+3175060006,Semper Barat
+3175060007,Kali Baru

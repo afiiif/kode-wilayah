@@ -1,2615 +1,2025 @@
 7101,Bolaang Mongondow
 7101021,Dumoga Barat
-7101021021,Dumoga Barat
-7101021022,Dumoga Utara
-7101021023,Dumoga Timur
-7101021024,Dumoga Tengah
-7101021025,Dumoga Tenggara
-7101021026,Dumoga
-7101021060,Lolayan
-7101021081,Passi Barat
-7101021082,Passi Timur
-7101021083,Bilalang
-7101021090,Poigar
-7101021100,Bolaang
-7101021101,Bolaang Timur
-7101021110,Lolak
-7101021120,Sangtombolang
+7101021001,Toraut
+7101021002,Matayangan
+7101021003,Uuwan
+7101021004,Ikhwan
+7101021005,Doloduo
+7101021006,Mekaruo
+7101021007,Wangga Baru
+7101021008,Toraut Utara
+7101021009,Doloduo I
+7101021010,Doloduo Ii
+7101021011,Doloduo Iii
+7101021012,Toraut Tengah
 7101022,Dumoga Utara
-7101022021,Dumoga Barat
-7101022022,Dumoga Utara
-7101022023,Dumoga Timur
-7101022024,Dumoga Tengah
-7101022025,Dumoga Tenggara
-7101022026,Dumoga
-7101022060,Lolayan
-7101022081,Passi Barat
-7101022082,Passi Timur
-7101022083,Bilalang
-7101022090,Poigar
-7101022100,Bolaang
-7101022101,Bolaang Timur
-7101022110,Lolak
-7101022120,Sangtombolang
+7101022001,Tumokang Baru
+7101022002,Mopugad Utara
+7101022003,Mopugad Selatan
+7101022004,Mopuya Utara
+7101022005,Mopuya Selatan
+7101022006,Dondomon
+7101022014,Mopugad Selatan I
+7101022015,Mopugad Utara Ii
+7101022016,Mopugad Utara I
+7101022017,Tumokang Timur
+7101022018,Mopuya Utara I
+7101022019,Mopuya Utara Ii
+7101022020,Mopuya Selatan I
+7101022021,Mopuya Selatan Ii
+7101022022,Dondomon Utara
+7101022023,Dondomon Selatan
 7101023,Dumoga Timur
-7101023021,Dumoga Barat
-7101023022,Dumoga Utara
-7101023023,Dumoga Timur
-7101023024,Dumoga Tengah
-7101023025,Dumoga Tenggara
-7101023026,Dumoga
-7101023060,Lolayan
-7101023081,Passi Barat
-7101023082,Passi Timur
-7101023083,Bilalang
-7101023090,Poigar
-7101023100,Bolaang
-7101023101,Bolaang Timur
-7101023110,Lolak
-7101023120,Sangtombolang
+7101023001,Tonom
+7101023002,Mogoyunggung
+7101023003,Imandi
+7101023004,Pinonobatuan
+7101023005,Modomang
+7101023006,Dumoga
+7101023007,Kembang Mertha
+7101023017,Dumoga Ii
+7101023018,Pinonobatuan Barat
+7101023019,Mogoyunggung Ii
+7101023020,Mogoyunggung I
+7101023021,Amertha Sari
+7101023022,Amertha Buana
+7101023023,Kembang Sari
+7101023024,Dumoga Empat
+7101023025,Dumoga Tiga
 7101024,Dumoga Tengah
-7101024021,Dumoga Barat
-7101024022,Dumoga Utara
-7101024023,Dumoga Timur
-7101024024,Dumoga Tengah
-7101024025,Dumoga Tenggara
-7101024026,Dumoga
-7101024060,Lolayan
-7101024081,Passi Barat
-7101024082,Passi Timur
-7101024083,Bilalang
-7101024090,Poigar
-7101024100,Bolaang
-7101024101,Bolaang Timur
-7101024110,Lolak
-7101024120,Sangtombolang
+7101024001,Kosio
+7101024002,Kinomaligan
+7101024003,Ibolian
+7101024004,Ibolian I
+7101024005,Werdhi Agung
+7101024006,Werdhi Agung Timur
+7101024007,Werdhi Agung Utara
+7101024008,Werdhi Agung Selatan
+7101024009,Kosio Timur
+7101024010,Kosio Barat
 7101025,Dumoga Tenggara
-7101025021,Dumoga Barat
-7101025022,Dumoga Utara
-7101025023,Dumoga Timur
-7101025024,Dumoga Tengah
-7101025025,Dumoga Tenggara
-7101025026,Dumoga
-7101025060,Lolayan
-7101025081,Passi Barat
-7101025082,Passi Timur
-7101025083,Bilalang
-7101025090,Poigar
-7101025100,Bolaang
-7101025101,Bolaang Timur
-7101025110,Lolak
-7101025120,Sangtombolang
+7101025001,Tapadaka I
+7101025002,Tapadaka Utara
+7101025004,Konarom
+7101025007,Osion
+7101025008,Dumara
+7101025009,Ikuna
+7101025010,Bonawang
+7101025011,Tapadaka Timur
+7101025012,Konarom Utara
+7101025013,Konarom Barat
 7101026,Dumoga
-7101026021,Dumoga Barat
-7101026022,Dumoga Utara
-7101026023,Dumoga Timur
-7101026024,Dumoga Tengah
-7101026025,Dumoga Tenggara
-7101026026,Dumoga
-7101026060,Lolayan
-7101026081,Passi Barat
-7101026082,Passi Timur
-7101026083,Bilalang
-7101026090,Poigar
-7101026100,Bolaang
-7101026101,Bolaang Timur
-7101026110,Lolak
-7101026120,Sangtombolang
+7101026001,Siniyung
+7101026002,Siniyung I
+7101026003,Bumbungon
+7101026004,Serasi
+7101026005,Mototabian
+7101026006,Ponompiaan
+7101026007,Pusian
+7101026008,Kanaan
+7101026009,Toruakat
+7101026010,Dumoga I
+7101026011,Pusian Barat
+7101026012,Pusian Selatan
 7101060,Lolayan
-7101060021,Dumoga Barat
-7101060022,Dumoga Utara
-7101060023,Dumoga Timur
-7101060024,Dumoga Tengah
-7101060025,Dumoga Tenggara
-7101060026,Dumoga
-7101060060,Lolayan
-7101060081,Passi Barat
-7101060082,Passi Timur
-7101060083,Bilalang
-7101060090,Poigar
-7101060100,Bolaang
-7101060101,Bolaang Timur
-7101060110,Lolak
-7101060120,Sangtombolang
+7101060001,Mopusi
+7101060002,Matali Baru
+7101060003,Bakan
+7101060004,Tanoyan Selatan
+7101060005,Tanoyan Utara
+7101060006,Lolayan
+7101060007,Tungoi Ii
+7101060008,Tungoi I
+7101060009,Tapa Aog
+7101060010,Abak
+7101060011,Bombanon
+7101060012,Mopait
+7101060013,Kopandakan Ii
+7101060014,Mengkang
 7101081,Passi Barat
-7101081021,Dumoga Barat
-7101081022,Dumoga Utara
-7101081023,Dumoga Timur
-7101081024,Dumoga Tengah
-7101081025,Dumoga Tenggara
-7101081026,Dumoga
-7101081060,Lolayan
-7101081081,Passi Barat
-7101081082,Passi Timur
-7101081083,Bilalang
-7101081090,Poigar
-7101081100,Bolaang
-7101081101,Bolaang Timur
-7101081110,Lolak
-7101081120,Sangtombolang
+7101081001,Muntoi
+7101081002,Inuai
+7101081003,Poyuyanan
+7101081004,Lobong
+7101081005,Passi
+7101081006,Wangga
+7101081007,Otam
+7101081008,Bulud
+7101081009,Bintau
+7101081010,Passi Ii
+7101081011,Muntoi Timur
+7101081012,Wangga I
+7101081013,Otam Barat
 7101082,Passi Timur
-7101082021,Dumoga Barat
-7101082022,Dumoga Utara
-7101082023,Dumoga Timur
-7101082024,Dumoga Tengah
-7101082025,Dumoga Tenggara
-7101082026,Dumoga
-7101082060,Lolayan
-7101082081,Passi Barat
-7101082082,Passi Timur
-7101082083,Bilalang
-7101082090,Poigar
-7101082100,Bolaang
-7101082101,Bolaang Timur
-7101082110,Lolak
-7101082120,Sangtombolang
+7101082003,Pangian
+7101082004,Poopo
+7101082006,Manembo
+7101082007,Sinsingon
+7101082008,Mobuya
+7101082009,Insil
+7101082010,Insil Baru
+7101082011,Pangian Tengah
+7101082012,Pangian Barat
+7101082013,Poopo Barat
+7101082014,Poopo Selatan
+7101082015,Sinsingon Barat
+7101082016,Sinsingon Timur
 7101083,Bilalang
-7101083021,Dumoga Barat
-7101083022,Dumoga Utara
-7101083023,Dumoga Timur
-7101083024,Dumoga Tengah
-7101083025,Dumoga Tenggara
-7101083026,Dumoga
-7101083060,Lolayan
-7101083081,Passi Barat
-7101083082,Passi Timur
-7101083083,Bilalang
-7101083090,Poigar
-7101083100,Bolaang
-7101083101,Bolaang Timur
-7101083110,Lolak
-7101083120,Sangtombolang
+7101083001,Bilalang Iii
+7101083002,Bilalang Iv
+7101083003,Tuduaog Baru
+7101083004,Tuduaog
+7101083005,Kolingangaan
+7101083006,Bilalang Iii Utara
+7101083007,Bilalang Baru
+7101083008,Apado
 7101090,Poigar
-7101090021,Dumoga Barat
-7101090022,Dumoga Utara
-7101090023,Dumoga Timur
-7101090024,Dumoga Tengah
-7101090025,Dumoga Tenggara
-7101090026,Dumoga
-7101090060,Lolayan
-7101090081,Passi Barat
-7101090082,Passi Timur
-7101090083,Bilalang
-7101090090,Poigar
-7101090100,Bolaang
-7101090101,Bolaang Timur
-7101090110,Lolak
-7101090120,Sangtombolang
+7101090001,Mariri Dua
+7101090002,Mariri Lama
+7101090003,Mariri Baru
+7101090004,Nonapan Dua
+7101090005,Nonapan Satu
+7101090006,Wineru
+7101090007,Gogaluman
+7101090008,Tiberias
+7101090009,Poigar Ii
+7101090010,Poigar
+7101090011,Poigar Iii
+7101090012,Pomoman
+7101090013,Nanasi
+7101090014,Mondatong
+7101090015,Mariri I
+7101090016,Nonapan Baru
+7101090017,Nanasi Timur
+7101090018,Tanjung Mariri
+7101090019,Nonapan
+7101090020,Mondatong Baru
 7101100,Bolaang
-7101100021,Dumoga Barat
-7101100022,Dumoga Utara
-7101100023,Dumoga Timur
-7101100024,Dumoga Tengah
-7101100025,Dumoga Tenggara
-7101100026,Dumoga
-7101100060,Lolayan
-7101100081,Passi Barat
-7101100082,Passi Timur
-7101100083,Bilalang
-7101100090,Poigar
-7101100100,Bolaang
-7101100101,Bolaang Timur
-7101100110,Lolak
-7101100120,Sangtombolang
+7101100001,Komangaan
+7101100002,Solimandungan Dua
+7101100003,Solimandungan Satu
+7101100004,Bangomolunow
+7101100005,Langagon
+7101100006,Inobonto Satu
+7101100007,Inobonto Dua
+7101100008,Inobonto
+7101100009,Solimandungan Baru
+7101100010,Langagon Ii
+7101100011,Langagon I
 7101101,Bolaang Timur
-7101101021,Dumoga Barat
-7101101022,Dumoga Utara
-7101101023,Dumoga Timur
-7101101024,Dumoga Tengah
-7101101025,Dumoga Tenggara
-7101101026,Dumoga
-7101101060,Lolayan
-7101101081,Passi Barat
-7101101082,Passi Timur
-7101101083,Bilalang
-7101101090,Poigar
-7101101100,Bolaang
-7101101101,Bolaang Timur
-7101101110,Lolak
-7101101120,Sangtombolang
+7101101001,Ambang Ii
+7101101002,Ambang I
+7101101003,Tadoy
+7101101004,Tadoy I
+7101101005,Bolaang
+7101101006,Bantik
+7101101007,Lolan
+7101101008,Bolaang I
+7101101009,Lolan Ii
 7101110,Lolak
-7101110021,Dumoga Barat
-7101110022,Dumoga Utara
-7101110023,Dumoga Timur
-7101110024,Dumoga Tengah
-7101110025,Dumoga Tenggara
-7101110026,Dumoga
-7101110060,Lolayan
-7101110081,Passi Barat
-7101110082,Passi Timur
-7101110083,Bilalang
-7101110090,Poigar
-7101110100,Bolaang
-7101110101,Bolaang Timur
-7101110110,Lolak
-7101110120,Sangtombolang
+7101110001,Bumbung
+7101110002,Buntalo
+7101110003,Totabuan
+7101110004,Solog
+7101110005,Tandu
+7101110006,Tuyat
+7101110007,Lalow
+7101110008,Lolak
+7101110009,Motabang
+7101110010,Mongkoinit
+7101110011,Pinogaluman
+7101110012,Baturapa
+7101110013,Labuan Uki
+7101110014,Sauk
+7101110015,Pindol
+7101110016,Pindolili
+7101110017,Lolak Tombolango
+7101110018,Lolak Ii
+7101110019,Baturapa Ii
+7101110020,Buntalo Timur
+7101110021,Buntalo Selatan
+7101110022,Diat
+7101110023,Pinogaluman Timur
+7101110024,Padang Lalow
+7101110025,Dulangon
+7101110026,Mongkoinit Barat
 7101120,Sangtombolang
-7101120021,Dumoga Barat
-7101120022,Dumoga Utara
-7101120023,Dumoga Timur
-7101120024,Dumoga Tengah
-7101120025,Dumoga Tenggara
-7101120026,Dumoga
-7101120060,Lolayan
-7101120081,Passi Barat
-7101120082,Passi Timur
-7101120083,Bilalang
-7101120090,Poigar
-7101120100,Bolaang
-7101120101,Bolaang Timur
-7101120110,Lolak
-7101120120,Sangtombolang
+7101120008,Pangi
+7101120009,Domisil Moonow
+7101120010,Maelang
+7101120011,Lolanan
+7101120012,Bolangat
+7101120013,Babo
+7101120014,Ayong
+7101120015,Cempaka
+7101120018,Batu Merah
+7101120019,Pasir Putih
+7101120020,Bolangat Timur
+7101120021,Pangi Timur
 7102,Minahasa
 7102091,Langowan Timur
-7102091091,Langowan Timur
-7102091092,Langowan Barat
-7102091093,Langowan Selatan
-7102091094,Langowan Utara
-7102091110,Tompaso
-7102091111,Tompaso Barat
-7102091120,Kawangkoan
-7102091121,Kawangkoan Barat
-7102091122,Kawangkoan Utara
-7102091130,Sonder
-7102091160,Tombariri
-7102091161,Tombariri Timur
-7102091170,Pineleng
-7102091171,Tombulu
-7102091172,Mandolang
-7102091190,Tondano Barat
-7102091191,Tondano Selatan
-7102091200,Remboken
-7102091210,Kakas
-7102091211,Kakas Barat
-7102091220,Lembean Timur
-7102091230,Eris
-7102091240,Kombi
-7102091250,Tondano Timur
-7102091251,Tondano Utara
+7102091005,Teep
+7102091007,Wolaang
+7102091008,Waleure
+7102091009,Amongena Ii
+7102091010,Amongena I
+7102091011,Karondoran
+7102091012,Sumarayar
+7102091013,Amongena Iii
 7102092,Langowan Barat
-7102092091,Langowan Timur
-7102092092,Langowan Barat
-7102092093,Langowan Selatan
-7102092094,Langowan Utara
-7102092110,Tompaso
-7102092111,Tompaso Barat
-7102092120,Kawangkoan
-7102092121,Kawangkoan Barat
-7102092122,Kawangkoan Utara
-7102092130,Sonder
-7102092160,Tombariri
-7102092161,Tombariri Timur
-7102092170,Pineleng
-7102092171,Tombulu
-7102092172,Mandolang
-7102092190,Tondano Barat
-7102092191,Tondano Selatan
-7102092200,Remboken
-7102092210,Kakas
-7102092211,Kakas Barat
-7102092220,Lembean Timur
-7102092230,Eris
-7102092240,Kombi
-7102092250,Tondano Timur
-7102092251,Tondano Utara
+7102092003,Tounelet
+7102092004,Koyawas
+7102092005,Walewangko
+7102092006,Noongan
+7102092007,Raringis
+7102092008,Ampreng
+7102092009,Paslaten
+7102092010,Kopiwangker
+7102092011,Lowian
+7102092014,Tumaratas
+7102092015,Tumaratas Dua
+7102092016,Noongan Dua
+7102092017,Noongan Tiga
+7102092018,Raranon
+7102092019,Raringis Selatan
+7102092020,Raringis Utara
 7102093,Langowan Selatan
-7102093091,Langowan Timur
-7102093092,Langowan Barat
-7102093093,Langowan Selatan
-7102093094,Langowan Utara
-7102093110,Tompaso
-7102093111,Tompaso Barat
-7102093120,Kawangkoan
-7102093121,Kawangkoan Barat
-7102093122,Kawangkoan Utara
-7102093130,Sonder
-7102093160,Tombariri
-7102093161,Tombariri Timur
-7102093170,Pineleng
-7102093171,Tombulu
-7102093172,Mandolang
-7102093190,Tondano Barat
-7102093191,Tondano Selatan
-7102093200,Remboken
-7102093210,Kakas
-7102093211,Kakas Barat
-7102093220,Lembean Timur
-7102093230,Eris
-7102093240,Kombi
-7102093250,Tondano Timur
-7102093251,Tondano Utara
+7102093001,Rumbia
+7102093002,Temboan
+7102093003,Palamba
+7102093004,Atep
+7102093005,Manembo
+7102093006,Winebetan
+7102093007,Kaayuran Atas
+7102093008,Kaayuran Bawah
+7102093009,Kawatak
+7102093010,Atep Satu
 7102094,Langowan Utara
-7102094091,Langowan Timur
-7102094092,Langowan Barat
-7102094093,Langowan Selatan
-7102094094,Langowan Utara
-7102094110,Tompaso
-7102094111,Tompaso Barat
-7102094120,Kawangkoan
-7102094121,Kawangkoan Barat
-7102094122,Kawangkoan Utara
-7102094130,Sonder
-7102094160,Tombariri
-7102094161,Tombariri Timur
-7102094170,Pineleng
-7102094171,Tombulu
-7102094172,Mandolang
-7102094190,Tondano Barat
-7102094191,Tondano Selatan
-7102094200,Remboken
-7102094210,Kakas
-7102094211,Kakas Barat
-7102094220,Lembean Timur
-7102094230,Eris
-7102094240,Kombi
-7102094250,Tondano Timur
-7102094251,Tondano Utara
+7102094001,Walantakan
+7102094002,Taraitak
+7102094003,Toraget
+7102094004,Karumenga
+7102094005,Tempang
+7102094006,Tempang Dua
+7102094007,Tempang Tiga
+7102094008,Taraitak I
 7102110,Tompaso
-7102110091,Langowan Timur
-7102110092,Langowan Barat
-7102110093,Langowan Selatan
-7102110094,Langowan Utara
-7102110110,Tompaso
-7102110111,Tompaso Barat
-7102110120,Kawangkoan
-7102110121,Kawangkoan Barat
-7102110122,Kawangkoan Utara
-7102110130,Sonder
-7102110160,Tombariri
-7102110161,Tombariri Timur
-7102110170,Pineleng
-7102110171,Tombulu
-7102110172,Mandolang
-7102110190,Tondano Barat
-7102110191,Tondano Selatan
-7102110200,Remboken
-7102110210,Kakas
-7102110211,Kakas Barat
-7102110220,Lembean Timur
-7102110230,Eris
-7102110240,Kombi
-7102110250,Tondano Timur
-7102110251,Tondano Utara
+7102110004,Kamanga
+7102110005,Tember
+7102110006,Liba
+7102110007,Sendangan
+7102110008,Talikuran
+7102110010,Tempok
+7102110011,Tolok
+7102110013,Kamanga Dua
+7102110018,Tempok Selatan
+7102110019,Tolok Satu
 7102111,Tompaso Barat
-7102111091,Langowan Timur
-7102111092,Langowan Barat
-7102111093,Langowan Selatan
-7102111094,Langowan Utara
-7102111110,Tompaso
-7102111111,Tompaso Barat
-7102111120,Kawangkoan
-7102111121,Kawangkoan Barat
-7102111122,Kawangkoan Utara
-7102111130,Sonder
-7102111160,Tombariri
-7102111161,Tombariri Timur
-7102111170,Pineleng
-7102111171,Tombulu
-7102111172,Mandolang
-7102111190,Tondano Barat
-7102111191,Tondano Selatan
-7102111200,Remboken
-7102111210,Kakas
-7102111211,Kakas Barat
-7102111220,Lembean Timur
-7102111230,Eris
-7102111240,Kombi
-7102111250,Tondano Timur
-7102111251,Tondano Utara
+7102111001,Pinabetengan
+7102111002,Tonsewer
+7102111003,Touure
+7102111004,Tompaso Dua
+7102111005,Pinabetengan Utara
+7102111006,Tonsewer Selatan
+7102111007,Touure Dua
+7102111008,Pinabetengan Selatan
+7102111009,Tompaso Ii Utara
+7102111010,Pinaesaan
 7102120,Kawangkoan
-7102120091,Langowan Timur
-7102120092,Langowan Barat
-7102120093,Langowan Selatan
-7102120094,Langowan Utara
-7102120110,Tompaso
-7102120111,Tompaso Barat
-7102120120,Kawangkoan
-7102120121,Kawangkoan Barat
-7102120122,Kawangkoan Utara
-7102120130,Sonder
-7102120160,Tombariri
-7102120161,Tombariri Timur
-7102120170,Pineleng
-7102120171,Tombulu
-7102120172,Mandolang
-7102120190,Tondano Barat
-7102120191,Tondano Selatan
-7102120200,Remboken
-7102120210,Kakas
-7102120211,Kakas Barat
-7102120220,Lembean Timur
-7102120230,Eris
-7102120240,Kombi
-7102120250,Tondano Timur
-7102120251,Tondano Utara
+7102120010,Sendangan Tengah
+7102120012,Kinali
+7102120013,Tondegesan
+7102120015,Kanonang Tiga
+7102120025,Sendangan Selatan
+7102120026,Sendangan
+7102120027,Uner Satu
+7102120028,Kinali Satu
+7102120029,Tondegesan Satu
+7102120030,Tondegesan Dua
 7102121,Kawangkoan Barat
-7102121091,Langowan Timur
-7102121092,Langowan Barat
-7102121093,Langowan Selatan
-7102121094,Langowan Utara
-7102121110,Tompaso
-7102121111,Tompaso Barat
-7102121120,Kawangkoan
-7102121121,Kawangkoan Barat
-7102121122,Kawangkoan Utara
-7102121130,Sonder
-7102121160,Tombariri
-7102121161,Tombariri Timur
-7102121170,Pineleng
-7102121171,Tombulu
-7102121172,Mandolang
-7102121190,Tondano Barat
-7102121191,Tondano Selatan
-7102121200,Remboken
-7102121210,Kakas
-7102121211,Kakas Barat
-7102121220,Lembean Timur
-7102121230,Eris
-7102121240,Kombi
-7102121250,Tondano Timur
-7102121251,Tondano Utara
+7102121001,Ranolambot
+7102121002,Tombasian Atas
+7102121003,Kanonang Dua
+7102121004,Kanonang Empat
+7102121005,Kanonang Lima
+7102121006,Kanonang Satu
+7102121007,Tombasian Atas Satu
+7102121008,Tombasian Bawah
+7102121009,Kayuuwi Satu
+7102121010,Kayuuwi
 7102122,Kawangkoan Utara
-7102122091,Langowan Timur
-7102122092,Langowan Barat
-7102122093,Langowan Selatan
-7102122094,Langowan Utara
-7102122110,Tompaso
-7102122111,Tompaso Barat
-7102122120,Kawangkoan
-7102122121,Kawangkoan Barat
-7102122122,Kawangkoan Utara
-7102122130,Sonder
-7102122160,Tombariri
-7102122161,Tombariri Timur
-7102122170,Pineleng
-7102122171,Tombulu
-7102122172,Mandolang
-7102122190,Tondano Barat
-7102122191,Tondano Selatan
-7102122200,Remboken
-7102122210,Kakas
-7102122211,Kakas Barat
-7102122220,Lembean Timur
-7102122230,Eris
-7102122240,Kombi
-7102122250,Tondano Timur
-7102122251,Tondano Utara
+7102122001,Talikuran Barat
+7102122002,Talikuran
+7102122003,Talikuran Utara
+7102122004,Kiawa Satu
+7102122005,Kiawa Satu Barat
+7102122006,Kiawa Satu Utara
+7102122007,Kiawa Dua
+7102122008,Kiawa Dua Barat
+7102122009,Kiawa Dua Timur
+7102122010,Uner
 7102130,Sonder
-7102130091,Langowan Timur
-7102130092,Langowan Barat
-7102130093,Langowan Selatan
-7102130094,Langowan Utara
-7102130110,Tompaso
-7102130111,Tompaso Barat
-7102130120,Kawangkoan
-7102130121,Kawangkoan Barat
-7102130122,Kawangkoan Utara
-7102130130,Sonder
-7102130160,Tombariri
-7102130161,Tombariri Timur
-7102130170,Pineleng
-7102130171,Tombulu
-7102130172,Mandolang
-7102130190,Tondano Barat
-7102130191,Tondano Selatan
-7102130200,Remboken
-7102130210,Kakas
-7102130211,Kakas Barat
-7102130220,Lembean Timur
-7102130230,Eris
-7102130240,Kombi
-7102130250,Tondano Timur
-7102130251,Tondano Utara
+7102130001,Timbukar
+7102130002,Tincep
+7102130003,Kauneran
+7102130004,Sendangan
+7102130005,Kolongan Atas
+7102130006,Leilem
+7102130007,Tounelet
+7102130008,Talikuran
+7102130009,Rambunan
+7102130010,Sawangan
+7102130011,Kolongan Atas Dua
+7102130012,Leilem Dua
+7102130013,Leilem Tiga
+7102130014,Kauneran Satu
+7102130015,Sendangan I
+7102130016,Kolongan Atas I
+7102130017,Tounelet Satu
+7102130018,Talikuran Satu
+7102130019,Rambunan Amian
 7102160,Tombariri
-7102160091,Langowan Timur
-7102160092,Langowan Barat
-7102160093,Langowan Selatan
-7102160094,Langowan Utara
-7102160110,Tompaso
-7102160111,Tompaso Barat
-7102160120,Kawangkoan
-7102160121,Kawangkoan Barat
-7102160122,Kawangkoan Utara
-7102160130,Sonder
-7102160160,Tombariri
-7102160161,Tombariri Timur
-7102160170,Pineleng
-7102160171,Tombulu
-7102160172,Mandolang
-7102160190,Tondano Barat
-7102160191,Tondano Selatan
-7102160200,Remboken
-7102160210,Kakas
-7102160211,Kakas Barat
-7102160220,Lembean Timur
-7102160230,Eris
-7102160240,Kombi
-7102160250,Tondano Timur
-7102160251,Tondano Utara
+7102160001,Pinasungkulan
+7102160002,Kumu
+7102160003,Teling
+7102160004,Poopoh
+7102160005,Ranowangko
+7102160006,Senduk
+7102160010,Sarani Matani
+7102160011,Borgo
+7102160012,Tambala
+7102160014,Mokupa
 7102161,Tombariri Timur
-7102161091,Langowan Timur
-7102161092,Langowan Barat
-7102161093,Langowan Selatan
-7102161094,Langowan Utara
-7102161110,Tompaso
-7102161111,Tompaso Barat
-7102161120,Kawangkoan
-7102161121,Kawangkoan Barat
-7102161122,Kawangkoan Utara
-7102161130,Sonder
-7102161160,Tombariri
-7102161161,Tombariri Timur
-7102161170,Pineleng
-7102161171,Tombulu
-7102161172,Mandolang
-7102161190,Tondano Barat
-7102161191,Tondano Selatan
-7102161200,Remboken
-7102161210,Kakas
-7102161211,Kakas Barat
-7102161220,Lembean Timur
-7102161230,Eris
-7102161240,Kombi
-7102161250,Tondano Timur
-7102161251,Tondano Utara
+7102161001,Ranotongkor
+7102161002,Lolah Satu
+7102161003,Lolah Dua
+7102161004,Lemoh
+7102161005,Lemoh Timur
+7102161006,Lemoh Barat
+7102161007,Ranotongkor Timur
+7102161008,Lolah Tiga
+7102161009,Lolah
+7102161010,Lemoh Uner
 7102170,Pineleng
-7102170091,Langowan Timur
-7102170092,Langowan Barat
-7102170093,Langowan Selatan
-7102170094,Langowan Utara
-7102170110,Tompaso
-7102170111,Tompaso Barat
-7102170120,Kawangkoan
-7102170121,Kawangkoan Barat
-7102170122,Kawangkoan Utara
-7102170130,Sonder
-7102170160,Tombariri
-7102170161,Tombariri Timur
-7102170170,Pineleng
-7102170171,Tombulu
-7102170172,Mandolang
-7102170190,Tondano Barat
-7102170191,Tondano Selatan
-7102170200,Remboken
-7102170210,Kakas
-7102170211,Kakas Barat
-7102170220,Lembean Timur
-7102170230,Eris
-7102170240,Kombi
-7102170250,Tondano Timur
-7102170251,Tondano Utara
+7102170002,Warembungan
+7102170003,Pineleng Dua
+7102170004,Kali
+7102170011,Pineleng Satu
+7102170012,Sea
+7102170018,Sea I
+7102170019,Sea Ii
+7102170020,Winangun Atas
+7102170027,Sea Mitra
+7102170028,Sea Tumpengan
+7102170029,Pineleng Dua Indah
+7102170030,Lotta
+7102170031,Pineleng Satu Timur
+7102170032,Kali Selatan
 7102171,Tombulu
-7102171091,Langowan Timur
-7102171092,Langowan Barat
-7102171093,Langowan Selatan
-7102171094,Langowan Utara
-7102171110,Tompaso
-7102171111,Tompaso Barat
-7102171120,Kawangkoan
-7102171121,Kawangkoan Barat
-7102171122,Kawangkoan Utara
-7102171130,Sonder
-7102171160,Tombariri
-7102171161,Tombariri Timur
-7102171170,Pineleng
-7102171171,Tombulu
-7102171172,Mandolang
-7102171190,Tondano Barat
-7102171191,Tondano Selatan
-7102171200,Remboken
-7102171210,Kakas
-7102171211,Kakas Barat
-7102171220,Lembean Timur
-7102171230,Eris
-7102171240,Kombi
-7102171250,Tondano Timur
-7102171251,Tondano Utara
+7102171001,Kembes Dua
+7102171002,Kembes Satu
+7102171003,Tombuluan
+7102171004,Kamangta
+7102171005,Sawangan
+7102171006,Koka
+7102171007,Suluan
+7102171008,Rumengkor
+7102171009,Tikela
+7102171010,Rumengkor Satu
+7102171011,Rumengkor Dua
 7102172,Mandolang
-7102172091,Langowan Timur
-7102172092,Langowan Barat
-7102172093,Langowan Selatan
-7102172094,Langowan Utara
-7102172110,Tompaso
-7102172111,Tompaso Barat
-7102172120,Kawangkoan
-7102172121,Kawangkoan Barat
-7102172122,Kawangkoan Utara
-7102172130,Sonder
-7102172160,Tombariri
-7102172161,Tombariri Timur
-7102172170,Pineleng
-7102172171,Tombulu
-7102172172,Mandolang
-7102172190,Tondano Barat
-7102172191,Tondano Selatan
-7102172200,Remboken
-7102172210,Kakas
-7102172211,Kakas Barat
-7102172220,Lembean Timur
-7102172230,Eris
-7102172240,Kombi
-7102172250,Tondano Timur
-7102172251,Tondano Utara
+7102172001,Agotey
+7102172002,Koha
+7102172003,Tateli Weru
+7102172004,Tateli
+7102172005,Kalasey Dua
+7102172006,Kalasey Satu
+7102172007,Tateli Satu
+7102172008,Tateli Dua
+7102172009,Tateli Tiga
+7102172010,Koha Timur
+7102172011,Koha Barat
+7102172012,Koha Selatan
 7102190,Tondano Barat
-7102190091,Langowan Timur
-7102190092,Langowan Barat
-7102190093,Langowan Selatan
-7102190094,Langowan Utara
-7102190110,Tompaso
-7102190111,Tompaso Barat
-7102190120,Kawangkoan
-7102190121,Kawangkoan Barat
-7102190122,Kawangkoan Utara
-7102190130,Sonder
-7102190160,Tombariri
-7102190161,Tombariri Timur
-7102190170,Pineleng
-7102190171,Tombulu
-7102190172,Mandolang
-7102190190,Tondano Barat
-7102190191,Tondano Selatan
-7102190200,Remboken
-7102190210,Kakas
-7102190211,Kakas Barat
-7102190220,Lembean Timur
-7102190230,Eris
-7102190240,Kombi
-7102190250,Tondano Timur
-7102190251,Tondano Utara
+7102190007,Masarang
+7102190008,Tuutu
+7102190009,Roong
+7102190010,Rinegetan
+7102190011,Tounkuramber
+7102190012,Wawalintouan
+7102190013,Rerewokan
+7102190014,Watulambot
+7102190015,Wewelen
 7102191,Tondano Selatan
-7102191091,Langowan Timur
-7102191092,Langowan Barat
-7102191093,Langowan Selatan
-7102191094,Langowan Utara
-7102191110,Tompaso
-7102191111,Tompaso Barat
-7102191120,Kawangkoan
-7102191121,Kawangkoan Barat
-7102191122,Kawangkoan Utara
-7102191130,Sonder
-7102191160,Tombariri
-7102191161,Tombariri Timur
-7102191170,Pineleng
-7102191171,Tombulu
-7102191172,Mandolang
-7102191190,Tondano Barat
-7102191191,Tondano Selatan
-7102191200,Remboken
-7102191210,Kakas
-7102191211,Kakas Barat
-7102191220,Lembean Timur
-7102191230,Eris
-7102191240,Kombi
-7102191250,Tondano Timur
-7102191251,Tondano Utara
+7102191001,Urongo
+7102191002,Peleloan
+7102191003,Tounsaru
+7102191004,Koya
+7102191005,Tataaran Satu
+7102191006,Tataaran Patar
+7102191007,Tataaran Dua
+7102191008,Maesa Unima
 7102200,Remboken
-7102200091,Langowan Timur
-7102200092,Langowan Barat
-7102200093,Langowan Selatan
-7102200094,Langowan Utara
-7102200110,Tompaso
-7102200111,Tompaso Barat
-7102200120,Kawangkoan
-7102200121,Kawangkoan Barat
-7102200122,Kawangkoan Utara
-7102200130,Sonder
-7102200160,Tombariri
-7102200161,Tombariri Timur
-7102200170,Pineleng
-7102200171,Tombulu
-7102200172,Mandolang
-7102200190,Tondano Barat
-7102200191,Tondano Selatan
-7102200200,Remboken
-7102200210,Kakas
-7102200211,Kakas Barat
-7102200220,Lembean Timur
-7102200230,Eris
-7102200240,Kombi
-7102200250,Tondano Timur
-7102200251,Tondano Utara
+7102200001,Pulutan
+7102200002,Sinuian
+7102200003,Kaima
+7102200004,Parepey
+7102200005,Kasuratan
+7102200006,Sendangan
+7102200007,Timu
+7102200008,Tampusu
+7102200009,Talikuran
+7102200010,Paslaten
+7102200011,Leleko
 7102210,Kakas
-7102210091,Langowan Timur
-7102210092,Langowan Barat
-7102210093,Langowan Selatan
-7102210094,Langowan Utara
-7102210110,Tompaso
-7102210111,Tompaso Barat
-7102210120,Kawangkoan
-7102210121,Kawangkoan Barat
-7102210122,Kawangkoan Utara
-7102210130,Sonder
-7102210160,Tombariri
-7102210161,Tombariri Timur
-7102210170,Pineleng
-7102210171,Tombulu
-7102210172,Mandolang
-7102210190,Tondano Barat
-7102210191,Tondano Selatan
-7102210200,Remboken
-7102210210,Kakas
-7102210211,Kakas Barat
-7102210220,Lembean Timur
-7102210230,Eris
-7102210240,Kombi
-7102210250,Tondano Timur
-7102210251,Tondano Utara
+7102210004,Kayuwatu
+7102210005,Wineru
+7102210006,Rinondor
+7102210014,Tounelet
+7102210015,Talikuran
+7102210016,Pahaleten
+7102210017,Sendangan
+7102210018,Paslaten
+7102210019,Kaweng
+7102210020,Toulimembet
+7102210021,Mahembang
+7102210022,Tumpaan
+7102210023,Makalelon
 7102211,Kakas Barat
-7102211091,Langowan Timur
-7102211092,Langowan Barat
-7102211093,Langowan Selatan
-7102211094,Langowan Utara
-7102211110,Tompaso
-7102211111,Tompaso Barat
-7102211120,Kawangkoan
-7102211121,Kawangkoan Barat
-7102211122,Kawangkoan Utara
-7102211130,Sonder
-7102211160,Tombariri
-7102211161,Tombariri Timur
-7102211170,Pineleng
-7102211171,Tombulu
-7102211172,Mandolang
-7102211190,Tondano Barat
-7102211191,Tondano Selatan
-7102211200,Remboken
-7102211210,Kakas
-7102211211,Kakas Barat
-7102211220,Lembean Timur
-7102211230,Eris
-7102211240,Kombi
-7102211250,Tondano Timur
-7102211251,Tondano Utara
+7102211001,Bukittinggi
+7102211002,Wailang
+7102211003,Simbel
+7102211004,Touliang
+7102211005,Wasian
+7102211006,Kalawiran
+7102211007,Panasen
+7102211008,Totolan
+7102211009,Tountimomor
+7102211010,Passo
 7102220,Lembean Timur
-7102220091,Langowan Timur
-7102220092,Langowan Barat
-7102220093,Langowan Selatan
-7102220094,Langowan Utara
-7102220110,Tompaso
-7102220111,Tompaso Barat
-7102220120,Kawangkoan
-7102220121,Kawangkoan Barat
-7102220122,Kawangkoan Utara
-7102220130,Sonder
-7102220160,Tombariri
-7102220161,Tombariri Timur
-7102220170,Pineleng
-7102220171,Tombulu
-7102220172,Mandolang
-7102220190,Tondano Barat
-7102220191,Tondano Selatan
-7102220200,Remboken
-7102220210,Kakas
-7102220211,Kakas Barat
-7102220220,Lembean Timur
-7102220230,Eris
-7102220240,Kombi
-7102220250,Tondano Timur
-7102220251,Tondano Utara
+7102220001,Kaleosan
+7102220002,Karor
+7102220003,Watulaney
+7102220004,Kayuroya
+7102220005,Atep Oki
+7102220006,Kapataran
+7102220007,Seretan
+7102220008,Parentek
+7102220009,Kapataran Satu
+7102220010,Seretan Timu
+7102220011,Watulaney Amian
 7102230,Eris
-7102230091,Langowan Timur
-7102230092,Langowan Barat
-7102230093,Langowan Selatan
-7102230094,Langowan Utara
-7102230110,Tompaso
-7102230111,Tompaso Barat
-7102230120,Kawangkoan
-7102230121,Kawangkoan Barat
-7102230122,Kawangkoan Utara
-7102230130,Sonder
-7102230160,Tombariri
-7102230161,Tombariri Timur
-7102230170,Pineleng
-7102230171,Tombulu
-7102230172,Mandolang
-7102230190,Tondano Barat
-7102230191,Tondano Selatan
-7102230200,Remboken
-7102230210,Kakas
-7102230211,Kakas Barat
-7102230220,Lembean Timur
-7102230230,Eris
-7102230240,Kombi
-7102230250,Tondano Timur
-7102230251,Tondano Utara
+7102230001,Telap
+7102230002,Watumea
+7102230003,Eris
+7102230004,Maumbi
+7102230005,Tandengan
+7102230006,Ranomerut
+7102230007,Touliang Oki
+7102230008,Tandengan Satu
 7102240,Kombi
-7102240091,Langowan Timur
-7102240092,Langowan Barat
-7102240093,Langowan Selatan
-7102240094,Langowan Utara
-7102240110,Tompaso
-7102240111,Tompaso Barat
-7102240120,Kawangkoan
-7102240121,Kawangkoan Barat
-7102240122,Kawangkoan Utara
-7102240130,Sonder
-7102240160,Tombariri
-7102240161,Tombariri Timur
-7102240170,Pineleng
-7102240171,Tombulu
-7102240172,Mandolang
-7102240190,Tondano Barat
-7102240191,Tondano Selatan
-7102240200,Remboken
-7102240210,Kakas
-7102240211,Kakas Barat
-7102240220,Lembean Timur
-7102240230,Eris
-7102240240,Kombi
-7102240250,Tondano Timur
-7102240251,Tondano Utara
+7102240001,Tulap
+7102240002,Kayu Besi
+7102240003,Lalumpe
+7102240004,Ranowangko Dua
+7102240005,Kombi
+7102240006,Sawangan
+7102240007,Kolongan
+7102240008,Rerer
+7102240009,Makalisung
+7102240010,Kalawiran
+7102240011,Kinaleosan
+7102240012,Kolongan Satu
+7102240013,Rerer Satu
 7102250,Tondano Timur
-7102250091,Langowan Timur
-7102250092,Langowan Barat
-7102250093,Langowan Selatan
-7102250094,Langowan Utara
-7102250110,Tompaso
-7102250111,Tompaso Barat
-7102250120,Kawangkoan
-7102250121,Kawangkoan Barat
-7102250122,Kawangkoan Utara
-7102250130,Sonder
-7102250160,Tombariri
-7102250161,Tombariri Timur
-7102250170,Pineleng
-7102250171,Tombulu
-7102250172,Mandolang
-7102250190,Tondano Barat
-7102250191,Tondano Selatan
-7102250200,Remboken
-7102250210,Kakas
-7102250211,Kakas Barat
-7102250220,Lembean Timur
-7102250230,Eris
-7102250240,Kombi
-7102250250,Tondano Timur
-7102250251,Tondano Utara
+7102250001,Toulour
+7102250002,Kiniar
+7102250003,Taler
+7102250004,Liningaan
+7102250005,Katinggolan
+7102250006,Kendis
+7102250007,Wengkol
+7102250008,Ranowangko
+7102250009,Luaan
+7102250013,Papakelan
+7102250014,Makalonsouw
 7102251,Tondano Utara
-7102251091,Langowan Timur
-7102251092,Langowan Barat
-7102251093,Langowan Selatan
-7102251094,Langowan Utara
-7102251110,Tompaso
-7102251111,Tompaso Barat
-7102251120,Kawangkoan
-7102251121,Kawangkoan Barat
-7102251122,Kawangkoan Utara
-7102251130,Sonder
-7102251160,Tombariri
-7102251161,Tombariri Timur
-7102251170,Pineleng
-7102251171,Tombulu
-7102251172,Mandolang
-7102251190,Tondano Barat
-7102251191,Tondano Selatan
-7102251200,Remboken
-7102251210,Kakas
-7102251211,Kakas Barat
-7102251220,Lembean Timur
-7102251230,Eris
-7102251240,Kombi
-7102251250,Tondano Timur
-7102251251,Tondano Utara
+7102251001,Sumalangka
+7102251002,Sasaran
+7102251003,Kembuan
+7102251004,Tonsea Lama
+7102251005,Kampung Jawa
+7102251006,Wulauan
+7102251007,Marawas
+7102251008,Kembuan Satu
 7103,Kepulauan Sangihe
 7103040,Manganitu Selatan
-7103040040,Manganitu Selatan
-7103040041,Tatoareng
-7103040050,Tamako
-7103040060,Tabukan Selatan
-7103040061,Tabukan Selatan Tengah
-7103040062,Tabukan Selatan Tenggara
-7103040070,Tabukan Tengah
-7103040080,Manganitu
-7103040090,Tahuna
-7103040091,Tahuna Timur
-7103040092,Tahuna Barat
-7103040100,Tabukan Utara
-7103040101,Nusa Tabukan
-7103040102,Kepulauan Marore
-7103040110,Kendahe
+7103040005,Bebalang
+7103040006,Batunderang
+7103040007,Ngalipaeng Dua
+7103040008,Ngalipaeng Satu
+7103040009,Sowaeng
+7103040010,Lapango
+7103040011,Laine
+7103040012,Kaluwatu
+7103040013,Mawira
+7103040014,Lapepahe
+7103040015,Pindang
+7103040016,Lehimi Tariang
+7103040017,Lapango I
 7103041,Tatoareng
-7103041040,Manganitu Selatan
-7103041041,Tatoareng
-7103041050,Tamako
-7103041060,Tabukan Selatan
-7103041061,Tabukan Selatan Tengah
-7103041062,Tabukan Selatan Tenggara
-7103041070,Tabukan Tengah
-7103041080,Manganitu
-7103041090,Tahuna
-7103041091,Tahuna Timur
-7103041092,Tahuna Barat
-7103041100,Tabukan Utara
-7103041101,Nusa Tabukan
-7103041102,Kepulauan Marore
-7103041110,Kendahe
+7103041001,Para
+7103041002,Mahengetang
+7103041003,Kahakitang
+7103041004,Kalama
+7103041005,Dalako Bembanahe
+7103041006,Taleko Batusaiki
+7103041007,Para I
 7103050,Tamako
-7103050040,Manganitu Selatan
-7103050041,Tatoareng
-7103050050,Tamako
-7103050060,Tabukan Selatan
-7103050061,Tabukan Selatan Tengah
-7103050062,Tabukan Selatan Tenggara
-7103050070,Tabukan Tengah
-7103050080,Manganitu
-7103050090,Tahuna
-7103050091,Tahuna Timur
-7103050092,Tahuna Barat
-7103050100,Tabukan Utara
-7103050101,Nusa Tabukan
-7103050102,Kepulauan Marore
-7103050110,Kendahe
+7103050001,Mahumu
+7103050002,Makalekuhe
+7103050003,Bebu
+7103050004,Kalinda
+7103050005,Pananaru
+7103050006,Dagho
+7103050007,Menggawa I
+7103050008,Pokol
+7103050009,Balane
+7103050010,Binala
+7103050011,Nagha Satu
+7103050012,Nagha Dua
+7103050013,Ulungpeliang
+7103050014,Lelipang
+7103050015,Menggawa Ii
+7103050016,Kalama Darat
+7103050017,Mahumu I
+7103050018,Mahumu Ii
+7103050019,Kalinda I
+7103050020,Hesang
 7103060,Tabukan Selatan
-7103060040,Manganitu Selatan
-7103060041,Tatoareng
-7103060050,Tamako
-7103060060,Tabukan Selatan
-7103060061,Tabukan Selatan Tengah
-7103060062,Tabukan Selatan Tenggara
-7103060070,Tabukan Tengah
-7103060080,Manganitu
-7103060090,Tahuna
-7103060091,Tahuna Timur
-7103060092,Tahuna Barat
-7103060100,Tabukan Utara
-7103060101,Nusa Tabukan
-7103060102,Kepulauan Marore
-7103060110,Kendahe
+7103060006,Mandoi
+7103060008,Malamenggu
+7103060009,Birahi
+7103060010,Binebas
+7103060012,Palareng
+7103060013,Batuwingkung
+7103060014,Lesabe
+7103060015,Bentung
+7103060016,Simueng
+7103060017,Bukide
+7103060018,Laotongan
+7103060019,Bulo
+7103060020,Lesabe I
+7103060021,Kalagheng
 7103061,Tabukan Selatan Tengah
-7103061040,Manganitu Selatan
-7103061041,Tatoareng
-7103061050,Tamako
-7103061060,Tabukan Selatan
-7103061061,Tabukan Selatan Tengah
-7103061062,Tabukan Selatan Tenggara
-7103061070,Tabukan Tengah
-7103061080,Manganitu
-7103061090,Tahuna
-7103061091,Tahuna Timur
-7103061092,Tahuna Barat
-7103061100,Tabukan Utara
-7103061101,Nusa Tabukan
-7103061102,Kepulauan Marore
-7103061110,Kendahe
+7103061001,Lehupu
+7103061002,Tambung
+7103061003,Beeng
+7103061004,Salurang
+7103061005,Hangke
+7103061006,Bowone
+7103061007,Beeng Laut
+7103061008,Tenda
+7103061009,Aha Patung
 7103062,Tabukan Selatan Tenggara
-7103062040,Manganitu Selatan
-7103062041,Tatoareng
-7103062050,Tamako
-7103062060,Tabukan Selatan
-7103062061,Tabukan Selatan Tengah
-7103062062,Tabukan Selatan Tenggara
-7103062070,Tabukan Tengah
-7103062080,Manganitu
-7103062090,Tahuna
-7103062091,Tahuna Timur
-7103062092,Tahuna Barat
-7103062100,Tabukan Utara
-7103062101,Nusa Tabukan
-7103062102,Kepulauan Marore
-7103062110,Kendahe
+7103062001,Pintareng
+7103062002,Basauh
+7103062003,Tumalede
+7103062004,Dalokaweng
+7103062005,Sampakang
+7103062006,Malisade
 7103070,Tabukan Tengah
-7103070040,Manganitu Selatan
-7103070041,Tatoareng
-7103070050,Tamako
-7103070060,Tabukan Selatan
-7103070061,Tabukan Selatan Tengah
-7103070062,Tabukan Selatan Tenggara
-7103070070,Tabukan Tengah
-7103070080,Manganitu
-7103070090,Tahuna
-7103070091,Tahuna Timur
-7103070092,Tahuna Barat
-7103070100,Tabukan Utara
-7103070101,Nusa Tabukan
-7103070102,Kepulauan Marore
-7103070110,Kendahe
+7103070001,Bowongkali
+7103070002,Kulur Ii
+7103070003,Kulur I
+7103070004,Bira
+7103070005,Kuma
+7103070006,Bungalawang
+7103070007,Miulu
+7103070008,Gunung
+7103070009,Talengen
+7103070010,Biru
+7103070011,Rendingan
+7103070012,Tariangbaru
+7103070013,Sensong
+7103070014,Palahanaeng
+7103070015,Timbelang
+7103070016,Palelangen
+7103070017,Malueng
+7103070018,Kuma I
 7103080,Manganitu
-7103080040,Manganitu Selatan
-7103080041,Tatoareng
-7103080050,Tamako
-7103080060,Tabukan Selatan
-7103080061,Tabukan Selatan Tengah
-7103080062,Tabukan Selatan Tenggara
-7103080070,Tabukan Tengah
-7103080080,Manganitu
-7103080090,Tahuna
-7103080091,Tahuna Timur
-7103080092,Tahuna Barat
-7103080100,Tabukan Utara
-7103080101,Nusa Tabukan
-7103080102,Kepulauan Marore
-7103080110,Kendahe
+7103080001,Barangkalang
+7103080002,Belengang
+7103080003,Lebo
+7103080004,Sesiwung
+7103080005,Kauhis
+7103080006,Karatung Ii
+7103080007,Karatung I
+7103080008,Mala
+7103080009,Manumpitaeng
+7103080010,Taloarane
+7103080011,Barangka
+7103080012,Nahepese
+7103080013,Tawoali
+7103080014,Hiung
+7103080015,Bakalaeng
+7103080016,Pinebentengan
+7103080017,Taloarane I
+7103080018,Bengka
 7103090,Tahuna
-7103090040,Manganitu Selatan
-7103090041,Tatoareng
-7103090050,Tamako
-7103090060,Tabukan Selatan
-7103090061,Tabukan Selatan Tengah
-7103090062,Tabukan Selatan Tenggara
-7103090070,Tabukan Tengah
-7103090080,Manganitu
-7103090090,Tahuna
-7103090091,Tahuna Timur
-7103090092,Tahuna Barat
-7103090100,Tabukan Utara
-7103090101,Nusa Tabukan
-7103090102,Kepulauan Marore
-7103090110,Kendahe
+7103090007,Sawang Bendar
+7103090008,Apeng Sembeka
+7103090009,Mahena
+7103090010,Soataloara L
+7103090011,Soataloara Ll
+7103090012,Bungalawang
+7103090013,Manente
+7103090014,Santiago
 7103091,Tahuna Timur
-7103091040,Manganitu Selatan
-7103091041,Tatoareng
-7103091050,Tamako
-7103091060,Tabukan Selatan
-7103091061,Tabukan Selatan Tengah
-7103091062,Tabukan Selatan Tenggara
-7103091070,Tabukan Tengah
-7103091080,Manganitu
-7103091090,Tahuna
-7103091091,Tahuna Timur
-7103091092,Tahuna Barat
-7103091100,Tabukan Utara
-7103091101,Nusa Tabukan
-7103091102,Kepulauan Marore
-7103091110,Kendahe
+7103091001,Lesa
+7103091002,Batulewehe
+7103091003,Tidore
+7103091004,Tona I
+7103091005,Dumuhung
+7103091006,Enengpahembang
+7103091007,Tapuang
+7103091008,Tona Ii
 7103092,Tahuna Barat
-7103092040,Manganitu Selatan
-7103092041,Tatoareng
-7103092050,Tamako
-7103092060,Tabukan Selatan
-7103092061,Tabukan Selatan Tengah
-7103092062,Tabukan Selatan Tenggara
-7103092070,Tabukan Tengah
-7103092080,Manganitu
-7103092090,Tahuna
-7103092091,Tahuna Timur
-7103092092,Tahuna Barat
-7103092100,Tabukan Utara
-7103092101,Nusa Tabukan
-7103092102,Kepulauan Marore
-7103092110,Kendahe
+7103092001,Pananekeng
+7103092002,Angges
+7103092003,Mitung
+7103092004,Beha
+7103092005,Akembawi
+7103092006,Beha Baru
 7103100,Tabukan Utara
-7103100040,Manganitu Selatan
-7103100041,Tatoareng
-7103100050,Tamako
-7103100060,Tabukan Selatan
-7103100061,Tabukan Selatan Tengah
-7103100062,Tabukan Selatan Tenggara
-7103100070,Tabukan Tengah
-7103100080,Manganitu
-7103100090,Tahuna
-7103100091,Tahuna Timur
-7103100092,Tahuna Barat
-7103100100,Tabukan Utara
-7103100101,Nusa Tabukan
-7103100102,Kepulauan Marore
-7103100110,Kendahe
+7103100001,Lenganeng
+7103100002,Tarolang
+7103100003,Tola
+7103100004,Bowongkulu
+7103100005,Petta
+7103100006,Bengketang
+7103100007,Kalurae
+7103100008,Utaurano
+7103100009,Nahasahabe
+7103100010,Beha
+7103100011,Kalekube
+7103100012,Mala
+7103100013,Bahu
+7103100014,Kalasuge
+7103100019,Pusunge
+7103100020,Moade
+7103100021,Petta Timur
+7103100022,Petta Selatan
+7103100023,Petta Barat
+7103100024,Likuang
+7103100025,Raku
+7103100026,Kalekube I
+7103100027,Bowongkulu I
+7103100028,Naha I
 7103101,Nusa Tabukan
-7103101040,Manganitu Selatan
-7103101041,Tatoareng
-7103101050,Tamako
-7103101060,Tabukan Selatan
-7103101061,Tabukan Selatan Tengah
-7103101062,Tabukan Selatan Tenggara
-7103101070,Tabukan Tengah
-7103101080,Manganitu
-7103101090,Tahuna
-7103101091,Tahuna Timur
-7103101092,Tahuna Barat
-7103101100,Tabukan Utara
-7103101101,Nusa Tabukan
-7103101102,Kepulauan Marore
-7103101110,Kendahe
+7103101001,Nusa
+7103101002,Nanedakele
+7103101003,Bukide
+7103101004,Bukide Timur
+7103101005,Nanusa
 7103102,Kepulauan Marore
-7103102040,Manganitu Selatan
-7103102041,Tatoareng
-7103102050,Tamako
-7103102060,Tabukan Selatan
-7103102061,Tabukan Selatan Tengah
-7103102062,Tabukan Selatan Tenggara
-7103102070,Tabukan Tengah
-7103102080,Manganitu
-7103102090,Tahuna
-7103102091,Tahuna Timur
-7103102092,Tahuna Barat
-7103102100,Tabukan Utara
-7103102101,Nusa Tabukan
-7103102102,Kepulauan Marore
-7103102110,Kendahe
+7103102001,Kawio
+7103102002,Marore
+7103102003,Matutuang
 7103110,Kendahe
-7103110040,Manganitu Selatan
-7103110041,Tatoareng
-7103110050,Tamako
-7103110060,Tabukan Selatan
-7103110061,Tabukan Selatan Tengah
-7103110062,Tabukan Selatan Tenggara
-7103110070,Tabukan Tengah
-7103110080,Manganitu
-7103110090,Tahuna
-7103110091,Tahuna Timur
-7103110092,Tahuna Barat
-7103110100,Tabukan Utara
-7103110101,Nusa Tabukan
-7103110102,Kepulauan Marore
-7103110110,Kendahe
+7103110001,Kendahe Dua
+7103110002,Kendahe Satu
+7103110003,Talawid
+7103110004,Tarianglama
+7103110005,Pempalaraeng
+7103110006,Mohongsawang
+7103110007,Lipaeng
+7103110008,Kawaluso
 7104,Kepulauan Talaud
 7104010,Kabaruan
-7104010010,Kabaruan
-7104010011,Damau
-7104010020,Lirung
-7104010021,Salibabu
-7104010022,Kalongan
-7104010023,Moronge
-7104010030,Melonguane
-7104010031,Melonguane Timur
-7104010040,Beo
-7104010041,Beo Utara
-7104010042,Beo Selatan
-7104010050,Rainis
-7104010051,Tampan'amma
-7104010052,Pulutan
-7104010060,Essang
-7104010061,Essang Selatan
-7104010070,Gemeh
-7104010080,Nanusa
-7104010081,Miangas
+7104010001,Pangeran
+7104010007,Pantuge
+7104010008,Kabaruan
+7104010009,Mangaran
+7104010010,Kordakel
+7104010011,Bulude
+7104010012,Rarange
+7104010013,Taduna
+7104010014,Kabaruan Timur
+7104010015,Pantuge Timur
+7104010016,Bulude Selatan
+7104010017,Panulan
 7104011,Damau
-7104011010,Kabaruan
-7104011011,Damau
-7104011020,Lirung
-7104011021,Salibabu
-7104011022,Kalongan
-7104011023,Moronge
-7104011030,Melonguane
-7104011031,Melonguane Timur
-7104011040,Beo
-7104011041,Beo Utara
-7104011042,Beo Selatan
-7104011050,Rainis
-7104011051,Tampan'amma
-7104011052,Pulutan
-7104011060,Essang
-7104011061,Essang Selatan
-7104011070,Gemeh
-7104011080,Nanusa
-7104011081,Miangas
+7104011001,Peret
+7104011002,Taduwale
+7104011003,Damau
+7104011004,Akas
+7104011005,Birang
+7104011006,Ighik
+7104011007,Damau Bawone
+7104011008,Akas Balane
 7104020,Lirung
-7104020010,Kabaruan
-7104020011,Damau
-7104020020,Lirung
-7104020021,Salibabu
-7104020022,Kalongan
-7104020023,Moronge
-7104020030,Melonguane
-7104020031,Melonguane Timur
-7104020040,Beo
-7104020041,Beo Utara
-7104020042,Beo Selatan
-7104020050,Rainis
-7104020051,Tampan'amma
-7104020052,Pulutan
-7104020060,Essang
-7104020061,Essang Selatan
-7104020070,Gemeh
-7104020080,Nanusa
-7104020081,Miangas
+7104020005,Lirung
+7104020007,Sereh
+7104020008,Musi
+7104020011,Lirung I
+7104020012,Talolang
+7104020014,Lirung Matane
+7104020019,Sereh I
 7104021,Salibabu
-7104021010,Kabaruan
-7104021011,Damau
-7104021020,Lirung
-7104021021,Salibabu
-7104021022,Kalongan
-7104021023,Moronge
-7104021030,Melonguane
-7104021031,Melonguane Timur
-7104021040,Beo
-7104021041,Beo Utara
-7104021042,Beo Selatan
-7104021050,Rainis
-7104021051,Tampan'amma
-7104021052,Pulutan
-7104021060,Essang
-7104021061,Essang Selatan
-7104021070,Gemeh
-7104021080,Nanusa
-7104021081,Miangas
+7104021001,Bitunuris
+7104021002,Salibabu
+7104021003,Balang
+7104021004,Salibabu Utara
+7104021005,Dalum
+7104021006,Bitunuris Selatan
 7104022,Kalongan
-7104022010,Kabaruan
-7104022011,Damau
-7104022020,Lirung
-7104022021,Salibabu
-7104022022,Kalongan
-7104022023,Moronge
-7104022030,Melonguane
-7104022031,Melonguane Timur
-7104022040,Beo
-7104022041,Beo Utara
-7104022042,Beo Selatan
-7104022050,Rainis
-7104022051,Tampan'amma
-7104022052,Pulutan
-7104022060,Essang
-7104022061,Essang Selatan
-7104022070,Gemeh
-7104022080,Nanusa
-7104022081,Miangas
+7104022001,Alude
+7104022002,Kalongan
+7104022003,Kalongan Selatan
+7104022004,Kalongan Utara
+7104022005,Musi I
 7104023,Moronge
-7104023010,Kabaruan
-7104023011,Damau
-7104023020,Lirung
-7104023021,Salibabu
-7104023022,Kalongan
-7104023023,Moronge
-7104023030,Melonguane
-7104023031,Melonguane Timur
-7104023040,Beo
-7104023041,Beo Utara
-7104023042,Beo Selatan
-7104023050,Rainis
-7104023051,Tampan'amma
-7104023052,Pulutan
-7104023060,Essang
-7104023061,Essang Selatan
-7104023070,Gemeh
-7104023080,Nanusa
-7104023081,Miangas
+7104023001,Moronge Selatan
+7104023002,Moronge Selatan I
+7104023003,Moronge Selatan Ii
+7104023004,Moronge
+7104023005,Moronge I
+7104023006,Moronge Ii
 7104030,Melonguane
-7104030010,Kabaruan
-7104030011,Damau
-7104030020,Lirung
-7104030021,Salibabu
-7104030022,Kalongan
-7104030023,Moronge
-7104030030,Melonguane
-7104030031,Melonguane Timur
-7104030040,Beo
-7104030041,Beo Utara
-7104030042,Beo Selatan
-7104030050,Rainis
-7104030051,Tampan'amma
-7104030052,Pulutan
-7104030060,Essang
-7104030061,Essang Selatan
-7104030070,Gemeh
-7104030080,Nanusa
-7104030081,Miangas
+7104030001,Melonguane
+7104030002,Mala
+7104030003,Sawang
+7104030004,Tarun
+7104030005,Kiama
+7104030008,Ambela
+7104030010,Melonguane Barat
+7104030011,Melonguane Timur
+7104030012,Kiama Barat
+7104030013,Tarun Selatan
+7104030015,Mala Timur
+7104030016,Sawang Utara
+7104030017,Maredaren Kiama
 7104031,Melonguane Timur
-7104031010,Kabaruan
-7104031011,Damau
-7104031020,Lirung
-7104031021,Salibabu
-7104031022,Kalongan
-7104031023,Moronge
-7104031030,Melonguane
-7104031031,Melonguane Timur
-7104031040,Beo
-7104031041,Beo Utara
-7104031042,Beo Selatan
-7104031050,Rainis
-7104031051,Tampan'amma
-7104031052,Pulutan
-7104031060,Essang
-7104031061,Essang Selatan
-7104031070,Gemeh
-7104031080,Nanusa
-7104031081,Miangas
+7104031001,Tule
+7104031002,Tule Utara
+7104031003,Tule Tengah
+7104031004,Bowombaru
+7104031005,Bowombaru Tengah
+7104031006,Bowombaru Utara
 7104040,Beo
-7104040010,Kabaruan
-7104040011,Damau
-7104040020,Lirung
-7104040021,Salibabu
-7104040022,Kalongan
-7104040023,Moronge
-7104040030,Melonguane
-7104040031,Melonguane Timur
-7104040040,Beo
-7104040041,Beo Utara
-7104040042,Beo Selatan
-7104040050,Rainis
-7104040051,Tampan'amma
-7104040052,Pulutan
-7104040060,Essang
-7104040061,Essang Selatan
-7104040070,Gemeh
-7104040080,Nanusa
-7104040081,Miangas
+7104040006,Beo
+7104040007,Bantik
+7104040012,Bantik Lama
+7104040013,Beo Barat
+7104040014,Beo Timur
+7104040015,Bengel
 7104041,Beo Utara
-7104041010,Kabaruan
-7104041011,Damau
-7104041020,Lirung
-7104041021,Salibabu
-7104041022,Kalongan
-7104041023,Moronge
-7104041030,Melonguane
-7104041031,Melonguane Timur
-7104041040,Beo
-7104041041,Beo Utara
-7104041042,Beo Selatan
-7104041050,Rainis
-7104041051,Tampan'amma
-7104041052,Pulutan
-7104041060,Essang
-7104041061,Essang Selatan
-7104041070,Gemeh
-7104041080,Nanusa
-7104041081,Miangas
+7104041001,Makatara
+7104041002,Makatara Timur
+7104041003,Lobbo
+7104041004,Lobbo I
+7104041005,Rae
+7104041006,Rae Selatan
+7104041007,Awit
+7104041008,Awit Selatan
 7104042,Beo Selatan
-7104042010,Kabaruan
-7104042011,Damau
-7104042020,Lirung
-7104042021,Salibabu
-7104042022,Kalongan
-7104042023,Moronge
-7104042030,Melonguane
-7104042031,Melonguane Timur
-7104042040,Beo
-7104042041,Beo Utara
-7104042042,Beo Selatan
-7104042050,Rainis
-7104042051,Tampan'amma
-7104042052,Pulutan
-7104042060,Essang
-7104042061,Essang Selatan
-7104042070,Gemeh
-7104042080,Nanusa
-7104042081,Miangas
+7104042001,Pampalu
+7104042002,Russoh
+7104042003,Niampak
+7104042004,Niampak Utara
+7104042005,Tarohan
+7104042006,Tarohan Selatan
+7104042007,Matahit
 7104050,Rainis
-7104050010,Kabaruan
-7104050011,Damau
-7104050020,Lirung
-7104050021,Salibabu
-7104050022,Kalongan
-7104050023,Moronge
-7104050030,Melonguane
-7104050031,Melonguane Timur
-7104050040,Beo
-7104050041,Beo Utara
-7104050042,Beo Selatan
-7104050050,Rainis
-7104050051,Tampan'amma
-7104050052,Pulutan
-7104050060,Essang
-7104050061,Essang Selatan
-7104050070,Gemeh
-7104050080,Nanusa
-7104050081,Miangas
+7104050004,Nunu
+7104050005,Rainis
+7104050006,Bantane
+7104050007,Tabang
+7104050008,Alo
+7104050009,Alo Utara
+7104050010,Perangen
+7104050011,Nunu Utara
+7104050012,Rainis Batu Penga
+7104050013,Bantane Utara
+7104050014,Tabang Barat
 7104051,Tampan'amma
-7104051010,Kabaruan
-7104051011,Damau
-7104051020,Lirung
-7104051021,Salibabu
-7104051022,Kalongan
-7104051023,Moronge
-7104051030,Melonguane
-7104051031,Melonguane Timur
-7104051040,Beo
-7104051041,Beo Utara
-7104051042,Beo Selatan
-7104051050,Rainis
-7104051051,Tampan'amma
-7104051052,Pulutan
-7104051060,Essang
-7104051061,Essang Selatan
-7104051070,Gemeh
-7104051080,Nanusa
-7104051081,Miangas
+7104051001,Tuabatu
+7104051002,Binalang
+7104051003,Riung
+7104051004,Dapalan
+7104051005,Ammat
+7104051006,Ganalo
+7104051007,Dapihe
+7104051008,Tuabatu Barat
+7104051009,Binalang Selatan
+7104051010,Riung Utara
+7104051011,Ammat Selatan
 7104052,Pulutan
-7104052010,Kabaruan
-7104052011,Damau
-7104052020,Lirung
-7104052021,Salibabu
-7104052022,Kalongan
-7104052023,Moronge
-7104052030,Melonguane
-7104052031,Melonguane Timur
-7104052040,Beo
-7104052041,Beo Utara
-7104052042,Beo Selatan
-7104052050,Rainis
-7104052051,Tampan'amma
-7104052052,Pulutan
-7104052060,Essang
-7104052061,Essang Selatan
-7104052070,Gemeh
-7104052080,Nanusa
-7104052081,Miangas
+7104052001,Pulutan
+7104052002,Pulutan Utara
+7104052003,Pulutan Selatan
+7104052004,Daran
+7104052005,Daran Utara
 7104060,Essang
-7104060010,Kabaruan
-7104060011,Damau
-7104060020,Lirung
-7104060021,Salibabu
-7104060022,Kalongan
-7104060023,Moronge
-7104060030,Melonguane
-7104060031,Melonguane Timur
-7104060040,Beo
-7104060041,Beo Utara
-7104060042,Beo Selatan
-7104060050,Rainis
-7104060051,Tampan'amma
-7104060052,Pulutan
-7104060060,Essang
-7104060061,Essang Selatan
-7104060070,Gemeh
-7104060080,Nanusa
-7104060081,Miangas
+7104060006,Essang
+7104060007,Lalue
+7104060008,Bulude
+7104060009,Essang Selatan
+7104060010,Lalue Tengah
+7104060011,Lalue Utara
+7104060012,Bulude Selatan
+7104060016,Maririk
 7104061,Essang Selatan
-7104061010,Kabaruan
-7104061011,Damau
-7104061020,Lirung
-7104061021,Salibabu
-7104061022,Kalongan
-7104061023,Moronge
-7104061030,Melonguane
-7104061031,Melonguane Timur
-7104061040,Beo
-7104061041,Beo Utara
-7104061042,Beo Selatan
-7104061050,Rainis
-7104061051,Tampan'amma
-7104061052,Pulutan
-7104061060,Essang
-7104061061,Essang Selatan
-7104061070,Gemeh
-7104061080,Nanusa
-7104061081,Miangas
+7104061001,Sambuara
+7104061002,Sambuara Satu
+7104061003,Ensem I
+7104061004,Ensem Timur
+7104061005,Batumbalango
+7104061006,Ambia
+7104061007,Ambia Utara
+7104061008,Kuma
+7104061009,Kuma Selatan
 7104070,Gemeh
-7104070010,Kabaruan
-7104070011,Damau
-7104070020,Lirung
-7104070021,Salibabu
-7104070022,Kalongan
-7104070023,Moronge
-7104070030,Melonguane
-7104070031,Melonguane Timur
-7104070040,Beo
-7104070041,Beo Utara
-7104070042,Beo Selatan
-7104070050,Rainis
-7104070051,Tampan'amma
-7104070052,Pulutan
-7104070060,Essang
-7104070061,Essang Selatan
-7104070070,Gemeh
-7104070080,Nanusa
-7104070081,Miangas
+7104070001,Mamahan
+7104070002,Bambung
+7104070003,Taturan
+7104070004,Gemeh
+7104070005,Arangkaa
+7104070006,Malat
+7104070007,Apan
+7104070008,Taruan
+7104070009,Bannada
+7104070010,Lahu
+7104070011,Mamahan Barat
+7104070012,Bambung Timur
+7104070013,Gemeh Raamata
+7104070014,Gemeh Wantane
+7104070015,Malat Utara
 7104080,Nanusa
-7104080010,Kabaruan
-7104080011,Damau
-7104080020,Lirung
-7104080021,Salibabu
-7104080022,Kalongan
-7104080023,Moronge
-7104080030,Melonguane
-7104080031,Melonguane Timur
-7104080040,Beo
-7104080041,Beo Utara
-7104080042,Beo Selatan
-7104080050,Rainis
-7104080051,Tampan'amma
-7104080052,Pulutan
-7104080060,Essang
-7104080061,Essang Selatan
-7104080070,Gemeh
-7104080080,Nanusa
-7104080081,Miangas
+7104080001,Kakorotan
+7104080002,Marampit
+7104080003,Laluhe
+7104080004,Dampulis
+7104080005,Karatung
+7104080007,Marampit Timur
+7104080008,Dampulis Selatan
+7104080009,Karatung Tengah
+7104080010,Karatung Selatan
 7104081,Miangas
-7104081010,Kabaruan
-7104081011,Damau
-7104081020,Lirung
-7104081021,Salibabu
-7104081022,Kalongan
-7104081023,Moronge
-7104081030,Melonguane
-7104081031,Melonguane Timur
-7104081040,Beo
-7104081041,Beo Utara
-7104081042,Beo Selatan
-7104081050,Rainis
-7104081051,Tampan'amma
-7104081052,Pulutan
-7104081060,Essang
-7104081061,Essang Selatan
-7104081070,Gemeh
-7104081080,Nanusa
-7104081081,Miangas
+7104081001,Miangas
 7105,Minahasa Selatan
 7105010,Modoinding
-7105010010,Modoinding
-7105010020,Tompaso Baru
-7105010021,Maesaan
-7105010070,Ranoyapo
-7105010080,Motoling
-7105010081,Kumelembuai
-7105010082,Motoling Barat
-7105010083,Motoling Timur
-7105010090,Sinonsayang
-7105010100,Tenga
-7105010111,Amurang
-7105010112,Amurang Barat
-7105010113,Amurang Timur
-7105010120,Tareran
-7105010121,Sulta
-7105010130,Tumpaan
-7105010131,Tatapaan
+7105010001,Sinisir
+7105010002,Kakenturan
+7105010003,Linelean
+7105010004,Pinasungkulan
+7105010005,Makaaruyen
+7105010006,Palelon
+7105010007,Wulurmaatus
+7105010008,Mokobang
+7105010009,Kakenturan Barat
+7105010010,Pinasungkulan Utara
 7105020,Tompaso Baru
-7105020010,Modoinding
-7105020020,Tompaso Baru
-7105020021,Maesaan
-7105020070,Ranoyapo
-7105020080,Motoling
-7105020081,Kumelembuai
-7105020082,Motoling Barat
-7105020083,Motoling Timur
-7105020090,Sinonsayang
-7105020100,Tenga
-7105020111,Amurang
-7105020112,Amurang Barat
-7105020113,Amurang Timur
-7105020120,Tareran
-7105020121,Sulta
-7105020130,Tumpaan
-7105020131,Tatapaan
+7105020009,Raraatean
+7105020010,Sion
+7105020011,Tompaso Baru Dua
+7105020012,Kinalawiran
+7105020013,Tompaso Baru Satu
+7105020014,Pinaesaan
+7105020015,Torout
+7105020016,Lindangan
+7105020017,Karowa
+7105020018,Liandok
+7105020019,Upt Liandok
 7105021,Maesaan
-7105021010,Modoinding
-7105021020,Tompaso Baru
-7105021021,Maesaan
-7105021070,Ranoyapo
-7105021080,Motoling
-7105021081,Kumelembuai
-7105021082,Motoling Barat
-7105021083,Motoling Timur
-7105021090,Sinonsayang
-7105021100,Tenga
-7105021111,Amurang
-7105021112,Amurang Barat
-7105021113,Amurang Timur
-7105021120,Tareran
-7105021121,Sulta
-7105021130,Tumpaan
-7105021131,Tatapaan
+7105021001,Tambelang
+7105021002,Kinamang
+7105021003,Liningaan
+7105021004,Bojonegoro
+7105021005,Kinaweruan
+7105021006,Tumani
+7105021007,Lowian
+7105021008,Temboan
+7105021009,Kinamang Satu
+7105021010,Tumani Utara
+7105021011,Tumani Selatan
+7105021012,Lowian Satu
 7105070,Ranoyapo
-7105070010,Modoinding
-7105070020,Tompaso Baru
-7105070021,Maesaan
-7105070070,Ranoyapo
-7105070080,Motoling
-7105070081,Kumelembuai
-7105070082,Motoling Barat
-7105070083,Motoling Timur
-7105070090,Sinonsayang
-7105070100,Tenga
-7105070111,Amurang
-7105070112,Amurang Barat
-7105070113,Amurang Timur
-7105070120,Tareran
-7105070121,Sulta
-7105070130,Tumpaan
-7105070131,Tatapaan
+7105070002,Poopo
+7105070003,Ranoiapo
+7105070004,Pontak
+7105070005,Mopolo
+7105070006,Powalutan
+7105070007,Beringin
+7105070009,Lompad
+7105070010,Lompad Baru
+7105070011,Pontak Satu
+7105070012,Poopo Barat
+7105070013,Poopo Utara
+7105070014,Mopolo Esa
 7105080,Motoling
-7105080010,Modoinding
-7105080020,Tompaso Baru
-7105080021,Maesaan
-7105080070,Ranoyapo
-7105080080,Motoling
-7105080081,Kumelembuai
-7105080082,Motoling Barat
-7105080083,Motoling Timur
-7105080090,Sinonsayang
-7105080100,Tenga
-7105080111,Amurang
-7105080112,Amurang Barat
-7105080113,Amurang Timur
-7105080120,Tareran
-7105080121,Sulta
-7105080130,Tumpaan
-7105080131,Tatapaan
+7105080008,Lalumpe
+7105080009,Raanan Lama
+7105080010,Motoling Dua
+7105080011,Motoling Satu
+7105080012,Motoling Mawale
+7105080013,Motoling
+7105080014,Picuan Baru
 7105081,Kumelembuai
-7105081010,Modoinding
-7105081020,Tompaso Baru
-7105081021,Maesaan
-7105081070,Ranoyapo
-7105081080,Motoling
-7105081081,Kumelembuai
-7105081082,Motoling Barat
-7105081083,Motoling Timur
-7105081090,Sinonsayang
-7105081100,Tenga
-7105081111,Amurang
-7105081112,Amurang Barat
-7105081113,Amurang Timur
-7105081120,Tareran
-7105081121,Sulta
-7105081130,Tumpaan
-7105081131,Tatapaan
+7105081001,Malola I
+7105081002,Malola
+7105081003,Makasili
+7105081004,Kumelembuai Atas
+7105081005,Kumelembuai
+7105081006,Kumelembuai I
+7105081012,Kumelembuai Ii
+7105081013,Lolombulan Makasili
 7105082,Motoling Barat
-7105082010,Modoinding
-7105082020,Tompaso Baru
-7105082021,Maesaan
-7105082070,Ranoyapo
-7105082080,Motoling
-7105082081,Kumelembuai
-7105082082,Motoling Barat
-7105082083,Motoling Timur
-7105082090,Sinonsayang
-7105082100,Tenga
-7105082111,Amurang
-7105082112,Amurang Barat
-7105082113,Amurang Timur
-7105082120,Tareran
-7105082121,Sulta
-7105082130,Tumpaan
-7105082131,Tatapaan
+7105082001,Toyopon
+7105082002,Keroit
+7105082003,Raanan Baru I
+7105082004,Raanan Baru
+7105082005,Raanan Baru Ii
+7105082006,Tondei Satu
+7105082007,Tondei
+7105082008,Tondei Dua
 7105083,Motoling Timur
-7105083010,Modoinding
-7105083020,Tompaso Baru
-7105083021,Maesaan
-7105083070,Ranoyapo
-7105083080,Motoling
-7105083081,Kumelembuai
-7105083082,Motoling Barat
-7105083083,Motoling Timur
-7105083090,Sinonsayang
-7105083100,Tenga
-7105083111,Amurang
-7105083112,Amurang Barat
-7105083113,Amurang Timur
-7105083120,Tareran
-7105083121,Sulta
-7105083130,Tumpaan
-7105083131,Tatapaan
+7105083001,Picuan
+7105083002,Picuan Satu
+7105083003,Wanga
+7105083004,Wanga  Amongena
+7105083005,Tokin
+7105083006,Tokin Baru
+7105083007,Karimbow Talikuran
+7105083008,Karimbow
 7105090,Sinonsayang
-7105090010,Modoinding
-7105090020,Tompaso Baru
-7105090021,Maesaan
-7105090070,Ranoyapo
-7105090080,Motoling
-7105090081,Kumelembuai
-7105090082,Motoling Barat
-7105090083,Motoling Timur
-7105090090,Sinonsayang
-7105090100,Tenga
-7105090111,Amurang
-7105090112,Amurang Barat
-7105090113,Amurang Timur
-7105090120,Tareran
-7105090121,Sulta
-7105090130,Tumpaan
-7105090131,Tatapaan
+7105090001,Durian
+7105090002,Poigar Ii
+7105090003,Poigar I
+7105090004,Tanamon
+7105090005,Aergale
+7105090006,Ongkaw Ii
+7105090007,Ongkaw I
+7105090008,Tiniawangko
+7105090009,Boyong Pante
+7105090010,Blongko
+7105090011,Tanamon Utara
+7105090012,Ongkaw Tiga
+7105090013,Boyong Pante Dua
 7105100,Tenga
-7105100010,Modoinding
-7105100020,Tompaso Baru
-7105100021,Maesaan
-7105100070,Ranoyapo
-7105100080,Motoling
-7105100081,Kumelembuai
-7105100082,Motoling Barat
-7105100083,Motoling Timur
-7105100090,Sinonsayang
-7105100100,Tenga
-7105100111,Amurang
-7105100112,Amurang Barat
-7105100113,Amurang Timur
-7105100120,Tareran
-7105100121,Sulta
-7105100130,Tumpaan
-7105100131,Tatapaan
+7105100011,Boyong Atas
+7105100012,Pakuure Iii
+7105100013,Pakuure Ii
+7105100014,Pakuure I
+7105100015,Sapa
+7105100016,Pakuweru
+7105100017,Tenga
+7105100018,Radey
+7105100019,Tawaang
+7105100024,Molinow
+7105100025,Pakuure Tinanian
+7105100026,Pakuure Kinamang
+7105100027,Pakuure
+7105100028,Pakuweru Utara
+7105100029,Sapa Barat
+7105100030,Sapa Timur
+7105100031,Tawaang Timur
+7105100032,Tawaang Barat
 7105111,Amurang
-7105111010,Modoinding
-7105111020,Tompaso Baru
-7105111021,Maesaan
-7105111070,Ranoyapo
-7105111080,Motoling
-7105111081,Kumelembuai
-7105111082,Motoling Barat
-7105111083,Motoling Timur
-7105111090,Sinonsayang
-7105111100,Tenga
-7105111111,Amurang
-7105111112,Amurang Barat
-7105111113,Amurang Timur
-7105111120,Tareran
-7105111121,Sulta
-7105111130,Tumpaan
-7105111131,Tatapaan
+7105111001,Buyungon
+7105111002,Ranoyapo
+7105111003,Uwuran Satu
+7105111004,Uwuran Dua
+7105111005,Lewet
+7105111006,Ranoketang Tua
+7105111007,Bitung
+7105111008,Kilometer Tiga
 7105112,Amurang Barat
-7105112010,Modoinding
-7105112020,Tompaso Baru
-7105112021,Maesaan
-7105112070,Ranoyapo
-7105112080,Motoling
-7105112081,Kumelembuai
-7105112082,Motoling Barat
-7105112083,Motoling Timur
-7105112090,Sinonsayang
-7105112100,Tenga
-7105112111,Amurang
-7105112112,Amurang Barat
-7105112113,Amurang Timur
-7105112120,Tareran
-7105112121,Sulta
-7105112130,Tumpaan
-7105112131,Tatapaan
+7105112001,Pondos
+7105112002,Elusan
+7105112003,Tewasen
+7105112004,Teep
+7105112005,Kapitu
+7105112006,Kawangkoan Bawah
+7105112007,Rumoong Bawah
+7105112008,Desa Rumoong Bawah
+7105112009,Wakan
+7105112010,Teep Trans
 7105113,Amurang Timur
-7105113010,Modoinding
-7105113020,Tompaso Baru
-7105113021,Maesaan
-7105113070,Ranoyapo
-7105113080,Motoling
-7105113081,Kumelembuai
-7105113082,Motoling Barat
-7105113083,Motoling Timur
-7105113090,Sinonsayang
-7105113100,Tenga
-7105113111,Amurang
-7105113112,Amurang Barat
-7105113113,Amurang Timur
-7105113120,Tareran
-7105113121,Sulta
-7105113130,Tumpaan
-7105113131,Tatapaan
+7105113001,Ranomea
+7105113002,Pondang
+7105113003,Pinaling
+7105113004,Kota Menara
+7105113005,Maliku
+7105113006,Ritey
+7105113007,Malenos Baru
+7105113008,Lopana
+7105113009,Lopana Satu
+7105113010,Maliku Satu
 7105120,Tareran
-7105120010,Modoinding
-7105120020,Tompaso Baru
-7105120021,Maesaan
-7105120070,Ranoyapo
-7105120080,Motoling
-7105120081,Kumelembuai
-7105120082,Motoling Barat
-7105120083,Motoling Timur
-7105120090,Sinonsayang
-7105120100,Tenga
-7105120111,Amurang
-7105120112,Amurang Barat
-7105120113,Amurang Timur
-7105120120,Tareran
-7105120121,Sulta
-7105120130,Tumpaan
-7105120131,Tatapaan
+7105120001,Kaneyan
+7105120002,Koreng
+7105120003,Tumaluntung
+7105120004,Lansot
+7105120005,Rumoong Atas
+7105120006,Wuwuk
+7105120007,Pinamorongan
+7105120010,Wiau Lapi
+7105120014,Rumoong Atas Dua
+7105120015,Tumaluntung Satu
+7105120016,Wuwuk Barat
+7105120017,Wiau Lapi Barat
+7105120018,Lansot Timur
 7105121,Sulta
-7105121010,Modoinding
-7105121020,Tompaso Baru
-7105121021,Maesaan
-7105121070,Ranoyapo
-7105121080,Motoling
-7105121081,Kumelembuai
-7105121082,Motoling Barat
-7105121083,Motoling Timur
-7105121090,Sinonsayang
-7105121100,Tenga
-7105121111,Amurang
-7105121112,Amurang Barat
-7105121113,Amurang Timur
-7105121120,Tareran
-7105121121,Sulta
-7105121130,Tumpaan
-7105121131,Tatapaan
+7105121001,Kapoya
+7105121002,Pinapalangkow
+7105121003,Suluun Dua
+7105121004,Suluun Empat
+7105121005,Suluun Satu
+7105121006,Suluun Tiga
+7105121007,Talaitad
+7105121008,Kapoya Satu
+7105121009,Talaitad Utara
 7105130,Tumpaan
-7105130010,Modoinding
-7105130020,Tompaso Baru
-7105130021,Maesaan
-7105130070,Ranoyapo
-7105130080,Motoling
-7105130081,Kumelembuai
-7105130082,Motoling Barat
-7105130083,Motoling Timur
-7105130090,Sinonsayang
-7105130100,Tenga
-7105130111,Amurang
-7105130112,Amurang Barat
-7105130113,Amurang Timur
-7105130120,Tareran
-7105130121,Sulta
-7105130130,Tumpaan
-7105130131,Tatapaan
+7105130001,Tumpaan
+7105130002,Tumpaan Satu
+7105130003,Matani
+7105130004,Popontolen
+7105130005,Lelema
+7105130006,Tangkuney
+7105130007,Munte
+7105130008,Tumpaan Baru
+7105130009,Tumpaan Dua
+7105130010,Matani Satu
 7105131,Tatapaan
-7105131010,Modoinding
-7105131020,Tompaso Baru
-7105131021,Maesaan
-7105131070,Ranoyapo
-7105131080,Motoling
-7105131081,Kumelembuai
-7105131082,Motoling Barat
-7105131083,Motoling Timur
-7105131090,Sinonsayang
-7105131100,Tenga
-7105131111,Amurang
-7105131112,Amurang Barat
-7105131113,Amurang Timur
-7105131120,Tareran
-7105131121,Sulta
-7105131130,Tumpaan
-7105131131,Tatapaan
+7105131001,Sulu
+7105131002,Paslaten
+7105131003,Bajo
+7105131004,Popareng
+7105131005,Wawontulap
+7105131006,Wawona
+7105131007,Sondaken
+7105131008,Rap-rap
+7105131009,Pungkol
+7105131010,Paslaten Satu
+7105131011,Arakan
 7106,Minahasa Utara
 7106010,Kema
-7106010010,Kema
-7106010020,Kauditan
-7106010030,Airmadidi
-7106010040,Kalawat
-7106010050,Dimembe
-7106010051,Talawaan
-7106010060,Wori
-7106010070,Likupang Barat
-7106010080,Likupang Timur
-7106010081,Likupang Selatan
+7106010001,Makalisung
+7106010002,Waleo
+7106010003,Lilang
+7106010004,Lansot
+7106010005,Kema Iii
+7106010006,Kema Ii
+7106010007,Kema I
+7106010008,Tontalete
+7106010009,Tontelete Rok Rok
+7106010010,Waleo Dua
 7106020,Kauditan
-7106020010,Kema
-7106020020,Kauditan
-7106020030,Airmadidi
-7106020040,Kalawat
-7106020050,Dimembe
-7106020051,Talawaan
-7106020060,Wori
-7106020070,Likupang Barat
-7106020080,Likupang Timur
-7106020081,Likupang Selatan
+7106020008,Watudambo
+7106020010,Kauditan Dua
+7106020011,Kauditan Satu
+7106020012,Kawilei
+7106020013,Treman
+7106020014,Kaima
+7106020015,Karegesan
+7106020016,Kaasar
+7106020017,Lembean
+7106020018,Paslaten
+7106020019,Tumaluntung
+7106020020,Watudambo Dua
 7106030,Airmadidi
-7106030010,Kema
-7106030020,Kauditan
-7106030030,Airmadidi
-7106030040,Kalawat
-7106030050,Dimembe
-7106030051,Talawaan
-7106030060,Wori
-7106030070,Likupang Barat
-7106030080,Likupang Timur
-7106030081,Likupang Selatan
+7106030004,Tanggari
+7106030006,Sampiri
+7106030007,Sawangan
+7106030008,Airmadidi Bawah
+7106030009,Airmadidi Atas
+7106030010,Sarongsong Satu
+7106030011,Sarongsong Dua
+7106030012,Rap-rap
+7106030013,Sukur
 7106040,Kalawat
-7106040010,Kema
-7106040020,Kauditan
-7106040030,Airmadidi
-7106040040,Kalawat
-7106040050,Dimembe
-7106040051,Talawaan
-7106040060,Wori
-7106040070,Likupang Barat
-7106040080,Likupang Timur
-7106040081,Likupang Selatan
+7106040001,Suwaan
+7106040002,Kolongan
+7106040003,Kawangkoan
+7106040004,Kaleosan
+7106040005,Kuwil
+7106040006,Watutumou
+7106040007,Maumbi
+7106040008,Kolongan Tetempangan
+7106040009,Kawangkoan Baru
+7106040010,Kalawat
+7106040011,Watutumou Ii
+7106040012,Watutumou Iii
 7106050,Dimembe
-7106050010,Kema
-7106050020,Kauditan
-7106050030,Airmadidi
-7106050040,Kalawat
-7106050050,Dimembe
-7106050051,Talawaan
-7106050060,Wori
-7106050070,Likupang Barat
-7106050080,Likupang Timur
-7106050081,Likupang Selatan
+7106050002,Matungkas
+7106050003,Laikit
+7106050004,Dimembe
+7106050005,Klabat
+7106050006,Warukapas
+7106050007,Tetey
+7106050011,Tatelu
+7106050012,Pinilih
+7106050013,Tatelu Rondor
+7106050014,Wasian
+7106050015,Lumpias
 7106051,Talawaan
-7106051010,Kema
-7106051020,Kauditan
-7106051030,Airmadidi
-7106051040,Kalawat
-7106051050,Dimembe
-7106051051,Talawaan
-7106051060,Wori
-7106051070,Likupang Barat
-7106051080,Likupang Timur
-7106051081,Likupang Selatan
+7106051001,Talawaan
+7106051002,Tumbohon
+7106051003,Kolongan
+7106051004,Mapanget
+7106051005,Winetin
+7106051006,Patokaan
+7106051007,Wusa
+7106051008,Warisa
+7106051009,Teep Warisa
+7106051010,Paniki Atas
+7106051011,Warisa Kampung Baru
+7106051012,Paniki Baru
 7106060,Wori
-7106060010,Kema
-7106060020,Kauditan
-7106060030,Airmadidi
-7106060040,Kalawat
-7106060050,Dimembe
-7106060051,Talawaan
-7106060060,Wori
-7106060070,Likupang Barat
-7106060080,Likupang Timur
-7106060081,Likupang Selatan
+7106060001,Tiwoho
+7106060002,Wori
+7106060003,Kima Bajo
+7106060004,Minaesa
+7106060005,Talawaan Bantik
+7106060006,Talawaan Atas
+7106060007,Budo
+7106060008,Darunu
+7106060009,Bulo
+7106060010,Ponto
+7106060011,Lansa
+7106060012,Lantung
+7106060013,Kulu
+7106060014,Mantehage I
+7106060015,Mantehage Iii
+7106060016,Mantehage
+7106060017,Mantehage Ii
+7106060018,Nain
+7106060019,Tatampi
+7106060020,Nain Satu
 7106070,Likupang Barat
-7106070010,Kema
-7106070020,Kauditan
-7106070030,Airmadidi
-7106070040,Kalawat
-7106070050,Dimembe
-7106070051,Talawaan
-7106070060,Wori
-7106070070,Likupang Barat
-7106070080,Likupang Timur
-7106070081,Likupang Selatan
+7106070001,Palaes
+7106070002,Maliambao
+7106070003,Teremaal
+7106070004,Jayakarsa
+7106070005,Paputungan
+7106070006,Tanah Putih
+7106070007,Sonsilo
+7106070008,Tarabitan
+7106070009,Serey
+7106070010,Bahoi
+7106070011,Mubune
+7106070012,Munte
+7106070013,Gangga Satu
+7106070014,Gangga Dua
+7106070015,Aer Banua
+7106070016,Talise
+7106070017,Kinabuhutan
+7106070018,Tambun
+7106070019,Wawunian
+7106070020,Bulutui
 7106080,Likupang Timur
-7106080010,Kema
-7106080020,Kauditan
-7106080030,Airmadidi
-7106080040,Kalawat
-7106080050,Dimembe
-7106080051,Talawaan
-7106080060,Wori
-7106080070,Likupang Barat
-7106080080,Likupang Timur
-7106080081,Likupang Selatan
+7106080008,Sarawet
+7106080009,Likupang Dua
+7106080010,Likupang Satu
+7106080011,Wineru
+7106080012,Maen
+7106080013,Winuri
+7106080014,Pinenek
+7106080015,Rinondoran
+7106080016,Kalinaun
+7106080017,Marinsow
+7106080018,Pulisan
+7106080019,Lihunu
+7106080020,Kahuku
+7106080021,Libas
+7106080022,Likupang Kampung Ambong
+7106080023,Resetlemen
+7106080024,Kinunang
+7106080025,Ehe
 7106081,Likupang Selatan
-7106081010,Kema
-7106081020,Kauditan
-7106081030,Airmadidi
-7106081040,Kalawat
-7106081050,Dimembe
-7106081051,Talawaan
-7106081060,Wori
-7106081070,Likupang Barat
-7106081080,Likupang Timur
-7106081081,Likupang Selatan
+7106081001,Wangurer
+7106081002,Kaweruan
+7106081003,Kokoleh Dua
+7106081004,Kokoleh Satu
+7106081005,Paslaten
+7106081006,Batu
+7106081007,Werot
 7107,Bolaang Mongondow Utara
 7107010,Sangkub
-7107010010,Sangkub
-7107010020,Bintauna
-7107010030,Bolang Itang Timur
-7107010040,Bolang Itang Barat
-7107010050,Kaidipang
-7107010060,Pinogaluman
+7107010001,Sangtombolang
+7107010002,Sampiro
+7107010003,Sangkub I
+7107010004,Sangkub Ii
+7107010005,Sangkub Iii
+7107010006,Tombolango
+7107010007,Busisingo
+7107010008,Pangkusa
+7107010009,Sidodadi
+7107010010,Busisingo Utara
+7107010011,Sangkub Iv
+7107010012,Apeng Sembeka
+7107010013,Sangkub Timur
+7107010014,Monompia
+7107010015,Suka Makmur
+7107010016,Mokusato
 7107020,Bintauna
-7107020010,Sangkub
-7107020020,Bintauna
-7107020030,Bolang Itang Timur
-7107020040,Bolang Itang Barat
-7107020050,Kaidipang
-7107020060,Pinogaluman
+7107020001,Mome
+7107020002,Huntuk
+7107020003,Pimpi
+7107020004,Bunia
+7107020005,Kopi
+7107020006,Bintauna Pantai
+7107020007,Minanga
+7107020008,Batulintik
+7107020009,Bintauna
+7107020010,Talaga
+7107020011,Voa'a
+7107020012,Padang
+7107020013,Kuhanga
+7107020014,Bunong
+7107020015,Padang Barat
+7107020016,Vahuta
 7107030,Bolang Itang Timur
-7107030010,Sangkub
-7107030020,Bintauna
-7107030030,Bolang Itang Timur
-7107030040,Bolang Itang Barat
-7107030050,Kaidipang
-7107030060,Pinogaluman
+7107030001,Mokoditek I
+7107030002,Mokoditek
+7107030003,Nunuka
+7107030004,Saleo
+7107030005,Binuanga
+7107030006,Bohabak Iv
+7107030007,Bohabak Ii
+7107030008,Bohabak I
+7107030009,Bohabak Iii
+7107030010,Binjeita
+7107030011,Binjeita I
+7107030012,Binjeita Ii
+7107030013,Biontong
+7107030014,Biontong Ii
+7107030015,Biontong I
+7107030016,Saleo I
+7107030017,Nagara
+7107030018,Tanjung Labuo
+7107030019,Binuni
+7107030020,Lipu Bogu
 7107040,Bolang Itang Barat
-7107040010,Sangkub
-7107040020,Bintauna
-7107040030,Bolang Itang Timur
-7107040040,Bolang Itang Barat
-7107040050,Kaidipang
-7107040060,Pinogaluman
+7107040001,Paku
+7107040002,Ollot Ii
+7107040003,Ollot
+7107040004,Ollot I
+7107040005,Sonuo
+7107040006,Wakat
+7107040007,Tote
+7107040008,Iyok
+7107040009,Langi
+7107040010,Jambu Sarang
+7107040011,Talaga Tumoagu
+7107040012,Bolangitang
+7107040013,Bolangitang I
+7107040014,Bolangitang Ii
+7107040015,Talaga
+7107040016,Paku Selatan
+7107040017,Keimanga
+7107040018,Tanjung Buaya
 7107050,Kaidipang
-7107050010,Sangkub
-7107050020,Bintauna
-7107050030,Bolang Itang Timur
-7107050040,Bolang Itang Barat
-7107050050,Kaidipang
-7107050060,Pinogaluman
+7107050001,Komus Dua
+7107050002,Solo
+7107050003,Inomunga
+7107050004,Boroko
+7107050005,Boroko Timur
+7107050006,Bigo
+7107050007,Kuala
+7107050008,Pontak
+7107050009,Kuala Utara
+7107050010,Komus Dua Timur
+7107050011,Inomunga Utara
+7107050012,Bigo Selatan
+7107050013,Soligir
+7107050014,Boroko Utara
+7107050015,Gihang
 7107060,Pinogaluman
-7107060010,Sangkub
-7107060020,Bintauna
-7107060030,Bolang Itang Timur
-7107060040,Bolang Itang Barat
-7107060050,Kaidipang
-7107060060,Pinogaluman
+7107060001,Busato
+7107060002,Kayuogu
+7107060003,Batu Bantayo
+7107060004,Tontulow
+7107060005,Tombulang
+7107060006,Buko
+7107060007,Buko Selatan
+7107060008,Dalapuli
+7107060009,Batutajam
+7107060010,Dengi
+7107060011,Tuntung
+7107060012,Komus I
+7107060013,Tanjung Sidupa
+7107060014,Tontulow Utara
+7107060015,Buko Utara
+7107060016,Dalapuli Barat
+7107060017,Dalapuli Timur
+7107060018,Tombulang Timur
+7107060019,Tombulang Pantai
+7107060020,Duini
+7107060021,Tuntung Timur
+7107060022,Padango
 7108,Siau Tagulandang Biaro
 7108010,Biaro
-7108010010,Biaro
-7108010020,Tagulandang Selatan
-7108010030,Tagulandang
-7108010040,Tagulandang Utara
-7108010050,Siau Barat Selatan
-7108010060,Siau Timur Selatan
-7108010070,Siau Barat
-7108010080,Siau Tengah
-7108010090,Siau Timur
-7108010100,Siau Barat Utara
+7108010001,Buang
+7108010002,Lamanggo
+7108010003,Dalinsaheng
+7108010004,Karungo
+7108010005,Tope
 7108020,Tagulandang Selatan
-7108020010,Biaro
-7108020020,Tagulandang Selatan
-7108020030,Tagulandang
-7108020040,Tagulandang Utara
-7108020050,Siau Barat Selatan
-7108020060,Siau Timur Selatan
-7108020070,Siau Barat
-7108020080,Siau Tengah
-7108020090,Siau Timur
-7108020100,Siau Barat Utara
+7108020001,Humbia
+7108020002,Kisihang
+7108020003,Birakiama
+7108020004,Buha
+7108020005,Batumawira
+7108020006,Birarikei
 7108030,Tagulandang
-7108030010,Biaro
-7108030020,Tagulandang Selatan
-7108030030,Tagulandang
-7108030040,Tagulandang Utara
-7108030050,Siau Barat Selatan
-7108030060,Siau Timur Selatan
-7108030070,Siau Barat
-7108030080,Siau Tengah
-7108030090,Siau Timur
-7108030100,Siau Barat Utara
+7108030005,Laingpatehi
+7108030006,Pumpente
+7108030007,Bahoi
+7108030008,Mahangiang
+7108030009,Tulusan
+7108030010,Haasi
+7108030021,Boto
+7108030022,Balehumara
+7108030023,Lesah
+7108030024,Mulengen
+7108030025,Mohonsawang
+7108030026,Apengsala
+7108030027,Lesah Rende
+7108030028,Barangkaa Pehe
+7108030029,Pahiama
 7108040,Tagulandang Utara
-7108040010,Biaro
-7108040020,Tagulandang Selatan
-7108040030,Tagulandang
-7108040040,Tagulandang Utara
-7108040050,Siau Barat Selatan
-7108040060,Siau Timur Selatan
-7108040070,Siau Barat
-7108040080,Siau Tengah
-7108040090,Siau Timur
-7108040100,Siau Barat Utara
+7108040003,Bulangan
+7108040004,Minanga
+7108040005,W O
+7108040006,Bawoleu
+7108040007,Lumbo
+7108040008,Bawo
 7108050,Siau Barat Selatan
-7108050010,Biaro
-7108050020,Tagulandang Selatan
-7108050030,Tagulandang
-7108050040,Tagulandang Utara
-7108050050,Siau Barat Selatan
-7108050060,Siau Timur Selatan
-7108050070,Siau Barat
-7108050080,Siau Tengah
-7108050090,Siau Timur
-7108050100,Siau Barat Utara
+7108050001,Tanaki
+7108050002,Kapeta
+7108050003,Talawid
+7108050004,Makoa/mekar Sari
+7108050005,Laghaeng
+7108050006,Batusenggo
+7108050007,Mahuneni
 7108060,Siau Timur Selatan
-7108060010,Biaro
-7108060020,Tagulandang Selatan
-7108060030,Tagulandang
-7108060040,Tagulandang Utara
-7108060050,Siau Barat Selatan
-7108060060,Siau Timur Selatan
-7108060070,Siau Barat
-7108060080,Siau Tengah
-7108060090,Siau Timur
-7108060100,Siau Barat Utara
+7108060001,Tapile
+7108060002,Buhias
+7108060003,Balirangen
+7108060004,Biau
+7108060005,Bandil
+7108060006,Sawang
+7108060007,Pangirolong
+7108060008,Mala
+7108060009,Binalu
+7108060010,Kalihiang
+7108060011,Lahopang
+7108060012,Pahepa
+7108060013,Matole
+7108060014,Biau Seha
 7108070,Siau Barat
-7108070010,Biaro
-7108070020,Tagulandang Selatan
-7108070030,Tagulandang
-7108070040,Tagulandang Utara
-7108070050,Siau Barat Selatan
-7108070060,Siau Timur Selatan
-7108070070,Siau Barat
-7108070080,Siau Tengah
-7108070090,Siau Timur
-7108070100,Siau Barat Utara
+7108070006,Pelingsawang
+7108070007,Peling
+7108070008,Paseng
+7108070009,Paniki
+7108070013,Ondong
+7108070014,Kanawong
+7108070015,Lehi
+7108070022,Makalehi
+7108070023,Bumbiha
+7108070024,Pehe
+7108070025,Makalehi Timur
+7108070026,Makalehi Utara
 7108080,Siau Tengah
-7108080010,Biaro
-7108080020,Tagulandang Selatan
-7108080030,Tagulandang
-7108080040,Tagulandang Utara
-7108080050,Siau Barat Selatan
-7108080060,Siau Timur Selatan
-7108080070,Siau Barat
-7108080080,Siau Tengah
-7108080090,Siau Timur
-7108080100,Siau Barat Utara
+7108080001,Lai
+7108080002,Salili
+7108080003,Beong
+7108080004,Dompase
 7108090,Siau Timur
-7108090010,Biaro
-7108090020,Tagulandang Selatan
-7108090030,Tagulandang
-7108090040,Tagulandang Utara
-7108090050,Siau Barat Selatan
-7108090060,Siau Timur Selatan
-7108090070,Siau Barat
-7108090080,Siau Tengah
-7108090090,Siau Timur
-7108090100,Siau Barat Utara
+7108090009,Bahu
+7108090010,Akesimbeka
+7108090011,Bebali
+7108090012,Tarorane
+7108090013,Tatehadeng
+7108090014,Dame
+7108090015,Karalung
+7108090016,Buise
+7108090017,Kanang
+7108090018,Lia
+7108090019,Deahe
+7108090020,Apelawo
+7108090021,Bukide
+7108090022,Dame I
+7108090023,Karalung I
+7108090024,Lia I
 7108100,Siau Barat Utara
-7108100010,Biaro
-7108100020,Tagulandang Selatan
-7108100030,Tagulandang
-7108100040,Tagulandang Utara
-7108100050,Siau Barat Selatan
-7108100060,Siau Timur Selatan
-7108100070,Siau Barat
-7108100080,Siau Tengah
-7108100090,Siau Timur
-7108100100,Siau Barat Utara
+7108100001,Kinali
+7108100002,Hiung
+7108100003,Kiawang
+7108100004,Kawahang
+7108100005,Batubulan
+7108100006,Nameng
+7108100007,Mini
+7108100008,Winangun
 7109,Minahasa Tenggara
 7109010,Ratatotok
-7109010010,Ratatotok
-7109010020,Pusomaen
-7109010030,Belang
-7109010040,Ratahan
-7109010041,Pasan
-7109010042,Ratahan Timur
-7109010050,Tombatu
-7109010051,Tombatu Timur
-7109010052,Tombatu Utara
-7109010060,Touluaan
-7109010061,Touluaan Selatan
-7109010062,Silian Raya
+7109010001,Ratatotok Timur
+7109010002,Ratatotok Dua
+7109010003,Ratatotok Satu
+7109010004,Ratatotok Selatan
+7109010005,Soyowan
+7109010006,Moreah
+7109010007,Moreah Satu
+7109010008,Basaan
+7109010009,Basaan Satu
+7109010010,Ratatotok Muara
+7109010011,Ratatotok Tengah
+7109010012,Ratatotok
+7109010013,Ratatotok Utara
+7109010014,Ratatotok Tenggara
+7109010015,Basaan Dua
 7109020,Pusomaen
-7109020010,Ratatotok
-7109020020,Pusomaen
-7109020030,Belang
-7109020040,Ratahan
-7109020041,Pasan
-7109020042,Ratahan Timur
-7109020050,Tombatu
-7109020051,Tombatu Timur
-7109020052,Tombatu Utara
-7109020060,Touluaan
-7109020061,Touluaan Selatan
-7109020062,Silian Raya
+7109020001,Minanga
+7109020002,Minanga Satu
+7109020003,Makalu
+7109020004,Tumbak
+7109020005,Tatengesan
+7109020006,Bentenan
+7109020007,Wiau
+7109020008,Bentenan Indah
+7109020009,Minanga Timur
+7109020010,Minanga Dua
+7109020011,Minanga Tiga
+7109020012,Makalu Selatan
+7109020013,Tumbak Madani
+7109020014,Tatengesan Satu
+7109020015,Bentenan Satu
 7109030,Belang
-7109030010,Ratatotok
-7109030020,Pusomaen
-7109030030,Belang
-7109030040,Ratahan
-7109030041,Pasan
-7109030042,Ratahan Timur
-7109030050,Tombatu
-7109030051,Tombatu Timur
-7109030052,Tombatu Utara
-7109030060,Touluaan
-7109030061,Touluaan Selatan
-7109030062,Silian Raya
+7109030010,Mangkit
+7109030011,Beringin
+7109030012,Borgo
+7109030013,Belang
+7109030014,Buku
+7109030015,Tababo
+7109030016,Watuliney
+7109030017,Molompar
+7109030018,Buku Utara
+7109030019,Buku Selatan
+7109030020,Borgo Satu
+7109030021,Ponosakan Belang
+7109030022,Buku Tengah
+7109030023,Tababo Selatan
+7109030024,Watuliney Tengah
+7109030025,Watuliney Indah
+7109030026,Molompar Utara
+7109030027,Molompar Timur
+7109030028,Ponosakan Indah
+7109030029,Buku Tenggara
 7109040,Ratahan
-7109040010,Ratatotok
-7109040020,Pusomaen
-7109040030,Belang
-7109040040,Ratahan
-7109040041,Pasan
-7109040042,Ratahan Timur
-7109040050,Tombatu
-7109040051,Tombatu Timur
-7109040052,Tombatu Utara
-7109040060,Touluaan
-7109040061,Touluaan Selatan
-7109040062,Silian Raya
+7109040006,Rasi
+7109040007,Tosuraya
+7109040008,Lowu Satu
+7109040009,Lowu Dua
+7109040010,Wawali
+7109040016,Rasi Satu
+7109040017,Tosuraya Barat
+7109040018,Tosuraya Selatan
+7109040019,Lowu Utara
+7109040020,Nataan
+7109040021,Wawali Pasan
 7109041,Pasan
-7109041010,Ratatotok
-7109041020,Pusomaen
-7109041030,Belang
-7109041040,Ratahan
-7109041041,Pasan
-7109041042,Ratahan Timur
-7109041050,Tombatu
-7109041051,Tombatu Timur
-7109041052,Tombatu Utara
-7109041060,Touluaan
-7109041061,Touluaan Selatan
-7109041062,Silian Raya
+7109041001,Poniki
+7109041002,Maulit
+7109041003,Towuntu
+7109041004,Towuntu Barat
+7109041005,Towuntu Timur
+7109041006,Tolombukan
+7109041007,Tolombukan Barat
+7109041008,Tolombukan Satu
+7109041009,Liwutung
+7109041010,Liwutung Satu
+7109041011,Liwutung Dua
 7109042,Ratahan Timur
-7109042010,Ratatotok
-7109042020,Pusomaen
-7109042030,Belang
-7109042040,Ratahan
-7109042041,Pasan
-7109042042,Ratahan Timur
-7109042050,Tombatu
-7109042051,Tombatu Timur
-7109042052,Tombatu Utara
-7109042060,Touluaan
-7109042061,Touluaan Selatan
-7109042062,Silian Raya
+7109042001,Wioy
+7109042002,Wioy Satu
+7109042003,Wioy Dua
+7109042004,Wioy Tiga
+7109042005,Wioy Timur
+7109042006,Wongkai
+7109042007,Wongkai Satu
+7109042008,Pangu
+7109042009,Pangu Satu
+7109042010,Pangu Dua
 7109050,Tombatu
-7109050010,Ratatotok
-7109050020,Pusomaen
-7109050030,Belang
-7109050040,Ratahan
-7109050041,Pasan
-7109050042,Ratahan Timur
-7109050050,Tombatu
-7109050051,Tombatu Timur
-7109050052,Tombatu Utara
-7109050060,Touluaan
-7109050061,Touluaan Selatan
-7109050062,Silian Raya
+7109050003,Tonsawang
+7109050009,Tombatu Satu
+7109050010,Betelen
+7109050015,Kali
+7109050029,Tombatu
+7109050030,Betelen Satu
+7109050031,Kali Oki
+7109050032,Tonsawang Satu
+7109050033,Tombatu Tiga Timur
+7109050034,Tombatu Tiga Selatan
+7109050035,Pisa
 7109051,Tombatu Timur
-7109051010,Ratatotok
-7109051020,Pusomaen
-7109051030,Belang
-7109051040,Ratahan
-7109051041,Pasan
-7109051042,Ratahan Timur
-7109051050,Tombatu
-7109051051,Tombatu Timur
-7109051052,Tombatu Utara
-7109051060,Touluaan
-7109051061,Touluaan Selatan
-7109051062,Silian Raya
+7109051001,Molompar Satu
+7109051002,Molompar
+7109051003,Molompar Atas
+7109051004,Molompar Dua
+7109051005,Molompar Dua Utara
+7109051006,Molompar Dua Selatan
+7109051007,Esandom
+7109051008,Esandom Satu
+7109051009,Esandom Dua
+7109051010,Mundung
+7109051011,Mundung Satu
 7109052,Tombatu Utara
-7109052010,Ratatotok
-7109052020,Pusomaen
-7109052030,Belang
-7109052040,Ratahan
-7109052041,Pasan
-7109052042,Ratahan Timur
-7109052050,Tombatu
-7109052051,Tombatu Timur
-7109052052,Tombatu Utara
-7109052060,Touluaan
-7109052061,Touluaan Selatan
-7109052062,Silian Raya
+7109052001,Kuyanga
+7109052002,Kuyanga Satu
+7109052003,Tombatu Dua
+7109052004,Tombatu Dua Utara
+7109052005,Tombatu Dua Barat
+7109052006,Tombatu Dua Tengah
+7109052007,Tombatu Tiga
+7109052008,Tombatu Tiga Tengah
+7109052009,Winorangian
+7109052010,Winorangian Satu
 7109060,Touluaan
-7109060010,Ratatotok
-7109060020,Pusomaen
-7109060030,Belang
-7109060040,Ratahan
-7109060041,Pasan
-7109060042,Ratahan Timur
-7109060050,Tombatu
-7109060051,Tombatu Timur
-7109060052,Tombatu Utara
-7109060060,Touluaan
-7109060061,Touluaan Selatan
-7109060062,Silian Raya
+7109060009,Ranoketang Atas
+7109060010,Toundanou
+7109060011,Lobu Dua
+7109060012,Lobu Satu
+7109060015,Toundanou Satu
+7109060018,Ranoketang Atas Satu
+7109060019,Toundanou Atas
+7109060020,Lobu
+7109060021,Lobu Kota
+7109060022,Lobu Atas
 7109061,Touluaan Selatan
-7109061010,Ratatotok
-7109061020,Pusomaen
-7109061030,Belang
-7109061040,Ratahan
-7109061041,Pasan
-7109061042,Ratahan Timur
-7109061050,Tombatu
-7109061051,Tombatu Timur
-7109061052,Tombatu Utara
-7109061060,Touluaan
-7109061061,Touluaan Selatan
-7109061062,Silian Raya
+7109061001,Lowantag
+7109061002,Banga
+7109061003,Suhuyon
+7109061004,Tambelang
+7109061005,Bunag
+7109061006,Ranoako
+7109061007,Kalait
+7109061008,Kalait Satu
+7109061009,Kalait Dua
+7109061010,Kalait Tiga
 7109062,Silian Raya
-7109062010,Ratatotok
-7109062020,Pusomaen
-7109062030,Belang
-7109062040,Ratahan
-7109062041,Pasan
-7109062042,Ratahan Timur
-7109062050,Tombatu
-7109062051,Tombatu Timur
-7109062052,Tombatu Utara
-7109062060,Touluaan
-7109062061,Touluaan Selatan
-7109062062,Silian Raya
+7109062001,Silian Dua
+7109062002,Silian Tengah
+7109062003,Silian Kota
+7109062004,Silian Satu
+7109062005,Silian Selatan
+7109062006,Silian Tiga
+7109062007,Silian Barat
+7109062008,Silian
+7109062009,Silian Utara
+7109062010,Silian Timur
 7110,Bolaang Mongondow Selatan
 7110010,Posigadan
-7110010010,Posigadan
-7110010011,Tomini
-7110010020,Bolaang Uki
-7110010021,Helumo
-7110010030,Pinolosian
-7110010040,Pinolosian Tengah
-7110010050,Pinolosian Timur
+7110010001,Lion
+7110010002,Saibuah
+7110010003,Meyambanga
+7110010004,Tonala
+7110010005,Manggadaa
+7110010006,Momalia Ii
+7110010007,Momalia  I
+7110010008,Pilolahunga
+7110010009,Luwoo
+7110010010,Sakti
+7110010011,Sinombayuga
+7110010016,Iloheluma
+7110010020,Molosipat
+7110010021,Meyambanga Timur
+7110010022,Momalia Tiga
+7110010023,Inosota
 7110011,Tomini
-7110011010,Posigadan
-7110011011,Tomini
-7110011020,Bolaang Uki
-7110011021,Helumo
-7110011030,Pinolosian
-7110011040,Pinolosian Tengah
-7110011050,Pinolosian Timur
+7110011001,Milangodaa Barat
+7110011002,Milangodaa
+7110011003,Tolutu
+7110011004,Botuliodu
+7110011005,Nunuka Raya
+7110011006,Pakuku Jaya
+7110011007,Milangodaa Utara
 7110020,Bolaang Uki
-7110020010,Posigadan
-7110020011,Tomini
-7110020020,Bolaang Uki
-7110020021,Helumo
-7110020030,Pinolosian
-7110020040,Pinolosian Tengah
-7110020050,Pinolosian Timur
+7110020008,Tangagah
+7110020009,Dudepo
+7110020010,Pinolantungan
+7110020011,Salongo
+7110020012,Soguo
+7110020013,Toluaya
+7110020014,Molibagu
+7110020015,Popodu
+7110020016,Sondana
+7110020017,Tolondadu Ii
+7110020018,Tolondadu I
+7110020019,Tolondadu
+7110020020,Tabilaa
+7110020022,Pintadia
+7110020023,Salongo Timur
+7110020025,Salongo Barat
+7110020028,Dudepo Barat
 7110021,Helumo
-7110021010,Posigadan
-7110021011,Tomini
-7110021020,Bolaang Uki
-7110021021,Helumo
-7110021030,Pinolosian
-7110021040,Pinolosian Tengah
-7110021050,Pinolosian Timur
+7110021001,Pangia
+7110021002,Soputa
+7110021003,Sinandaka
+7110021004,Bakida
+7110021005,Duminanga
+7110021006,Biniha
+7110021007,Biniha Timur
+7110021008,Motolohu
+7110021009,Trans Patoa
+7110021010,Biniha Selatan
+7110021011,Halabolu
 7110030,Pinolosian
-7110030010,Posigadan
-7110030011,Tomini
-7110030020,Bolaang Uki
-7110030021,Helumo
-7110030030,Pinolosian
-7110030040,Pinolosian Tengah
-7110030050,Pinolosian Timur
+7110030001,Linawan
+7110030002,Linawan I
+7110030003,Nunuk
+7110030004,Ilomata
+7110030005,Pinolosian Selatan
+7110030006,Pinolosian
+7110030007,Tolotoyon
+7110030008,Kombot
+7110030009,Lungkap
+7110030010,Kombot Timur
 7110040,Pinolosian Tengah
-7110040010,Posigadan
-7110040011,Tomini
-7110040020,Bolaang Uki
-7110040021,Helumo
-7110040030,Pinolosian
-7110040040,Pinolosian Tengah
-7110040050,Pinolosian Timur
+7110040001,Mataindo
+7110040002,Torosik
+7110040003,Adow Selatan
+7110040004,Adow
+7110040005,Tobayagan
+7110040006,Deaga
+7110040007,Tobayagan Selatan
+7110040008,Mataindo Utara
 7110050,Pinolosian Timur
-7110050010,Posigadan
-7110050011,Tomini
-7110050020,Bolaang Uki
-7110050021,Helumo
-7110050030,Pinolosian
-7110050040,Pinolosian Tengah
-7110050050,Pinolosian Timur
+7110050001,Motandoi
+7110050002,Dumagin B
+7110050003,Dumagin A
+7110050004,Dayow
+7110050005,Pidung
+7110050006,Onggunoi
+7110050007,Modisi
+7110050008,Posilagon
+7110050009,Iligon
+7110050010,Motandoi Selatan
+7110050011,Perjuangan
+7110050012,Onggunoi Selatan
 7111,Bolaang Mongondow Timur
 7111010,Nuangan
-7111010010,Nuangan
-7111010011,Motongkad
-7111010020,Tutuyan
-7111010030,Kotabunan
-7111010040,Modayag
-7111010041,Mooat
-7111010050,Modayag Barat
+7111010001,Jiko Belanga
+7111010002,Matabulu
+7111010003,Loyow
+7111010004,Iyok
+7111010005,Nuangan
+7111010006,Nuangan I
+7111010007,Idumun
+7111010009,B A I
+7111010016,Matabulu Timur
+7111010020,Nuangan Selatan
+7111010021,Nuangan Barat
 7111011,Motongkad
-7111011010,Nuangan
-7111011011,Motongkad
-7111011020,Tutuyan
-7111011030,Kotabunan
-7111011040,Modayag
-7111011041,Mooat
-7111011050,Modayag Barat
+7111011001,Jiko
+7111011002,Jiko Utara
+7111011003,Molobog Barat
+7111011004,Molobog
+7111011005,Atoga
+7111011006,Atoga Timur
+7111011007,Motongkad Selatan
+7111011008,Motongkad
+7111011009,Motongkad Tengah
+7111011010,Motongkad Utara
 7111020,Tutuyan
-7111020010,Nuangan
-7111020011,Motongkad
-7111020020,Tutuyan
-7111020030,Kotabunan
-7111020040,Modayag
-7111020041,Mooat
-7111020050,Modayag Barat
+7111020001,Dodap
+7111020002,Dodap Pantai
+7111020003,Togid
+7111020004,Tutuyan Ii
+7111020005,Tutuyan
+7111020006,Tutuyan Iii
+7111020007,Tombolikat Selatan
+7111020008,Tombolikat
+7111020009,Kayumoyondi
+7111020010,Dodap Mikasa
 7111030,Kotabunan
-7111030010,Nuangan
-7111030011,Motongkad
-7111030020,Tutuyan
-7111030030,Kotabunan
-7111030040,Modayag
-7111030041,Mooat
-7111030050,Modayag Barat
+7111030001,Paret
+7111030002,Kotabunan
+7111030003,Bukaka
+7111030004,Bulawan
+7111030005,Buyat
+7111030006,Buyat I
+7111030007,Buyat Ii
+7111030008,Buyat Barat
+7111030009,Buyat Selatan
+7111030010,Buyat Tengah
+7111030011,Bulawan I
+7111030012,Bulawan Ii
+7111030013,Kotabunan Selatan
+7111030014,Kotabunan Barat
+7111030015,Paret Timur
 7111040,Modayag
-7111040010,Nuangan
-7111040011,Motongkad
-7111040020,Tutuyan
-7111040030,Kotabunan
-7111040040,Modayag
-7111040041,Mooat
-7111040050,Modayag Barat
+7111040001,Modayag Ii
+7111040002,Modayag
+7111040003,Modayag Iii
+7111040004,Tobongon
+7111040005,Badaro
+7111040006,Lanut
+7111040007,Buyandi
+7111040008,Purworejo
+7111040009,Purworejo Tengah
+7111040010,Purworejo Timur
+7111040011,Liberia Timur
+7111040012,Liberia
+7111040018,Candi Rejo
+7111040023,Sumber Rejo
 7111041,Mooat
-7111041010,Nuangan
-7111041011,Motongkad
-7111041020,Tutuyan
-7111041030,Kotabunan
-7111041040,Modayag
-7111041041,Mooat
-7111041050,Modayag Barat
+7111041001,Moat
+7111041002,Bongkudai Selatan
+7111041003,Bongkudai Baru
+7111041004,Bongkudai Utara
+7111041005,Bongkudai Timur
+7111041006,Guaan
+7111041007,Mototompiaan
+7111041008,Mokitompia
+7111041009,Kokapoy
+7111041010,Kokapoy Timur
 7111050,Modayag Barat
-7111050010,Nuangan
-7111050011,Motongkad
-7111050020,Tutuyan
-7111050030,Kotabunan
-7111050040,Modayag
-7111050041,Mooat
-7111050050,Modayag Barat
+7111050001,Moyongkota Baru
+7111050002,Moyongkota
+7111050003,Bangunan Wuwuk
+7111050004,Bongkudai Barat
+7111050005,Bongkudai
+7111050006,Pinonobatuan
+7111050007,Moonow
+7111050008,Inaton
+7111050009,Bangunan Wuwuk Timur
+7111050010,Tangaton
 7171,Manado
 7171010,Malalayang
-7171010010,Malalayang
-7171010020,Sario
-7171010021,Wanea
-7171010030,Wenang
-7171010031,Tikala
-7171010032,Paal Dua
-7171010040,Mapanget
-7171010051,Singkil
-7171010052,Tuminting
-7171010053,Bunaken
-7171010054,Bunaken Kepulauan
+7171010001,Malalayang Ii
+7171010002,Malalayang I
+7171010004,Bahu
+7171010005,Kleak
+7171010006,Malalayang I Timur
+7171010007,Malalayang I Barat
+7171010008,Winangun I
+7171010009,Winangun Ii
+7171010010,Batu Kota
 7171020,Sario
-7171020010,Malalayang
-7171020020,Sario
-7171020021,Wanea
-7171020030,Wenang
-7171020031,Tikala
-7171020032,Paal Dua
-7171020040,Mapanget
-7171020051,Singkil
-7171020052,Tuminting
-7171020053,Bunaken
-7171020054,Bunaken Kepulauan
+7171020004,Ranotana
+7171020006,Sario Kota Baru
+7171020007,Sario
+7171020008,Sario Tumpaan
+7171020009,Sario Utara
+7171020011,Titiwungen Selatan
+7171020012,Titiwungen Utara
 7171021,Wanea
-7171021010,Malalayang
-7171021020,Sario
-7171021021,Wanea
-7171021030,Wenang
-7171021031,Tikala
-7171021032,Paal Dua
-7171021040,Mapanget
-7171021051,Singkil
-7171021052,Tuminting
-7171021053,Bunaken
-7171021054,Bunaken Kepulauan
+7171021001,Karombasan Utara
+7171021002,Karombasan Selatan
+7171021003,Ranotana Weru
+7171021004,Pakowa
+7171021005,Bumi Nyiur
+7171021006,Teling Atas
+7171021007,Wanea
+7171021008,Tanjung Batu
+7171021009,Tingkulu
 7171030,Wenang
-7171030010,Malalayang
-7171030020,Sario
-7171030021,Wanea
-7171030030,Wenang
-7171030031,Tikala
-7171030032,Paal Dua
-7171030040,Mapanget
-7171030051,Singkil
-7171030052,Tuminting
-7171030053,Bunaken
-7171030054,Bunaken Kepulauan
+7171030001,Bumi Beringin
+7171030002,Teling Bawah
+7171030010,Tikala Kumaraka
+7171030011,Mahakeret Barat
+7171030012,Mahakeret Timur
+7171030013,Wenang Utara
+7171030014,Wenang Selatan
+7171030015,Lawangirung
+7171030016,Komo Luar
+7171030017,Pinaesaan
+7171030018,Istiqlal
+7171030019,Calaca
 7171031,Tikala
-7171031010,Malalayang
-7171031020,Sario
-7171031021,Wanea
-7171031030,Wenang
-7171031031,Tikala
-7171031032,Paal Dua
-7171031040,Mapanget
-7171031051,Singkil
-7171031052,Tuminting
-7171031053,Bunaken
-7171031054,Bunaken Kepulauan
+7171031001,Banjer
+7171031002,Tikala Baru
+7171031003,Paal Iv
+7171031004,Taas
+7171031009,Tikala Ares
 7171032,Paal Dua
-7171032010,Malalayang
-7171032020,Sario
-7171032021,Wanea
-7171032030,Wenang
-7171032031,Tikala
-7171032032,Paal Dua
-7171032040,Mapanget
-7171032051,Singkil
-7171032052,Tuminting
-7171032053,Bunaken
-7171032054,Bunaken Kepulauan
+7171032001,Ranomuut
+7171032002,Perkamil
+7171032003,Malendeng
+7171032004,Dendengan Dalam
+7171032005,Dendengan Luar
+7171032006,Paal Dua
+7171032007,Kairagi Weru
 7171040,Mapanget
-7171040010,Malalayang
-7171040020,Sario
-7171040021,Wanea
-7171040030,Wenang
-7171040031,Tikala
-7171040032,Paal Dua
-7171040040,Mapanget
-7171040051,Singkil
-7171040052,Tuminting
-7171040053,Bunaken
-7171040054,Bunaken Kepulauan
+7171040002,Kairagi Satu
+7171040003,Kairagi Dua
+7171040004,Paniki Bawah
+7171040005,Paniki Dua
+7171040006,Lapangan
+7171040007,Mapanget Barat
+7171040008,Kima Atas
+7171040009,Bengkol
+7171040010,Buha
+7171040012,Paniki Satu
 7171051,Singkil
-7171051010,Malalayang
-7171051020,Sario
-7171051021,Wanea
-7171051030,Wenang
-7171051031,Tikala
-7171051032,Paal Dua
-7171051040,Mapanget
-7171051051,Singkil
-7171051052,Tuminting
-7171051053,Bunaken
-7171051054,Bunaken Kepulauan
+7171051001,Karame
+7171051002,Ketang Baru
+7171051003,Wawonasa
+7171051004,Ternate Baru
+7171051005,Ternate Tanjung
+7171051006,Kombos Barat
+7171051007,Kombos Timur
+7171051008,Singkil Satu
+7171051009,Singkil Dua
 7171052,Tuminting
-7171052010,Malalayang
-7171052020,Sario
-7171052021,Wanea
-7171052030,Wenang
-7171052031,Tikala
-7171052032,Paal Dua
-7171052040,Mapanget
-7171052051,Singkil
-7171052052,Tuminting
-7171052053,Bunaken
-7171052054,Bunaken Kepulauan
+7171052001,Sindulang Satu
+7171052002,Kampung Islam
+7171052003,Sindulang Dua
+7171052004,Bitung Karang Ria
+7171052005,Maasing
+7171052006,Tuminting
+7171052007,Mahawu
+7171052008,Sumompo
+7171052009,Tumumpa Satu
+7171052010,Tumumpa Dua
 7171053,Bunaken
-7171053010,Malalayang
-7171053020,Sario
-7171053021,Wanea
-7171053030,Wenang
-7171053031,Tikala
-7171053032,Paal Dua
-7171053040,Mapanget
-7171053051,Singkil
-7171053052,Tuminting
-7171053053,Bunaken
-7171053054,Bunaken Kepulauan
+7171053001,Bailang
+7171053002,Molas
+7171053003,Meras
+7171053004,Tongkeina
+7171053005,Pandu
 7171054,Bunaken Kepulauan
-7171054010,Malalayang
-7171054020,Sario
-7171054021,Wanea
-7171054030,Wenang
-7171054031,Tikala
-7171054032,Paal Dua
-7171054040,Mapanget
-7171054051,Singkil
-7171054052,Tuminting
-7171054053,Bunaken
-7171054054,Bunaken Kepulauan
+7171054001,Bunaken
+7171054002,Alung Banua
+7171054003,Manado Tua Satu
+7171054004,Manado Tua Dua
 7172,Bitung
 7172010,Madidir
-7172010010,Madidir
-7172010011,Matuari
-7172010012,Girian
-7172010021,Lembeh Selatan
-7172010022,Lembeh Utara
-7172010030,Aertembaga
-7172010031,Maesa
-7172010040,Ranowulu
+7172010008,Paceda
+7172010009,Madidir Unet
+7172010010,Madidir Ure
+7172010011,Madidir Weru
+7172010012,Kadoodan
+7172010015,Wangurer Barat
+7172010016,Wangurer Timur
+7172010017,Wangurer Utara
 7172011,Matuari
-7172011010,Madidir
-7172011011,Matuari
-7172011012,Girian
-7172011021,Lembeh Selatan
-7172011022,Lembeh Utara
-7172011030,Aertembaga
-7172011031,Maesa
-7172011040,Ranowulu
+7172011001,Tanjung Merah
+7172011002,Sagerat
+7172011003,Manembo Nembo Atas
+7172011004,Manembo Nembo
+7172011011,Sagerat Weru Satu
+7172011012,Sagerat Weru Dua
+7172011013,Tendeki
+7172011014,Manembo-nembo Tengah
 7172012,Girian
-7172012010,Madidir
-7172012011,Matuari
-7172012012,Girian
-7172012021,Lembeh Selatan
-7172012022,Lembeh Utara
-7172012030,Aertembaga
-7172012031,Maesa
-7172012040,Ranowulu
+7172012001,Girian Weru Satu
+7172012002,Girian Bawah
+7172012003,Wangurer
+7172012004,Girian Indah
+7172012005,Girian Weru Dua
+7172012006,Girian Atas
+7172012007,Girian Permai
 7172021,Lembeh Selatan
-7172021010,Madidir
-7172021011,Matuari
-7172021012,Girian
-7172021021,Lembeh Selatan
-7172021022,Lembeh Utara
-7172021030,Aertembaga
-7172021031,Maesa
-7172021040,Ranowulu
+7172021001,Pasirpanjang
+7172021002,Paudean
+7172021003,Batulubang
+7172021004,Dorbolaang
+7172021005,Pancuran
+7172021006,Papusungan
+7172021007,Kelapa Dua
 7172022,Lembeh Utara
-7172022010,Madidir
-7172022011,Matuari
-7172022012,Girian
-7172022021,Lembeh Selatan
-7172022022,Lembeh Utara
-7172022030,Aertembaga
-7172022031,Maesa
-7172022040,Ranowulu
+7172022001,Mawali
+7172022002,Pintukota
+7172022003,Batukota
+7172022004,Gunung Woka
+7172022005,Posokan
+7172022006,Motto
+7172022007,Lirang
+7172022008,Nusu
+7172022009,Binuang
+7172022010,Kareko
 7172030,Aertembaga
-7172030010,Madidir
-7172030011,Matuari
-7172030012,Girian
-7172030021,Lembeh Selatan
-7172030022,Lembeh Utara
-7172030030,Aertembaga
-7172030031,Maesa
-7172030040,Ranowulu
+7172030006,Aertembaga Satu
+7172030007,Tandu Rusa
+7172030008,Makawidey
+7172030009,Pinangunian
+7172030012,Peteten Satu
+7172030013,Peteten Dua
+7172030014,Winenet Satu
+7172030015,Winenet Dua
+7172030016,Kasawari
+7172030017,Aertembaga Dua
 7172031,Maesa
-7172031010,Madidir
-7172031011,Matuari
-7172031012,Girian
-7172031021,Lembeh Selatan
-7172031022,Lembeh Utara
-7172031030,Aertembaga
-7172031031,Maesa
-7172031040,Ranowulu
+7172031001,Pakadoodan
+7172031002,Bitung Barat Satu
+7172031003,Bitung Barat Dua
+7172031004,Kakenturan Satu
+7172031005,Kakenturan Dua
+7172031006,Bitung Tengah
+7172031007,Bitung Timur
+7172031008,Pateten Tiga
 7172040,Ranowulu
-7172040010,Madidir
-7172040011,Matuari
-7172040012,Girian
-7172040021,Lembeh Selatan
-7172040022,Lembeh Utara
-7172040030,Aertembaga
-7172040031,Maesa
-7172040040,Ranowulu
+7172040001,Kumersot
+7172040003,Pinokalan
+7172040004,Tewaan
+7172040005,Danowudu
+7172040006,Dua Sudara
+7172040007,Apela Dua
+7172040008,Apela Satu
+7172040009,Karondoran
+7172040010,Pinasungkulan
+7172040012,Batu Putih Atas
+7172040013,Batu Putih  Bawah
 7173,Tomohon
 7173010,Tomohon Selatan
-7173010010,Tomohon Selatan
-7173010020,Tomohon Tengah
-7173010021,Tomohon Timur
-7173010022,Tomohon Barat
-7173010030,Tomohon Utara
+7173010001,Tondangow
+7173010002,Pangolombian
+7173010003,Lahendong
+7173010004,Pinaras
+7173010005,Kampung Jawa
+7173010006,Tumatangtang
+7173010007,Lansot
+7173010008,Uluindano
+7173010009,Walian
+7173010010,Walian Satu
+7173010011,Walian Dua
+7173010012,Tumatangtang Satu
 7173020,Tomohon Tengah
-7173020010,Tomohon Selatan
-7173020020,Tomohon Tengah
-7173020021,Tomohon Timur
-7173020022,Tomohon Barat
-7173020030,Tomohon Utara
+7173020001,Matani Tiga
+7173020002,Matani Dua
+7173020003,Matani Satu
+7173020005,Kolongan
+7173020011,Kamasi
+7173020016,Talete Satu
+7173020017,Talete Dua
+7173020018,Kolongan Satu
+7173020019,Kamasi Satu
 7173021,Tomohon Timur
-7173021010,Tomohon Selatan
-7173021020,Tomohon Tengah
-7173021021,Tomohon Timur
-7173021022,Tomohon Barat
-7173021030,Tomohon Utara
+7173021001,Paslaten Dua
+7173021002,Paslaten Satu
+7173021003,Rurukan
+7173021004,Rurukan Satu
+7173021005,Kumelembuai
 7173022,Tomohon Barat
-7173022010,Tomohon Selatan
-7173022020,Tomohon Tengah
-7173022021,Tomohon Timur
-7173022022,Tomohon Barat
-7173022030,Tomohon Utara
+7173022001,Woloan Satu
+7173022002,Woloan Dua
+7173022003,Woloan Tiga
+7173022004,Taratara Satu
+7173022005,Taratara Dua
+7173022006,Woloan Satu Utara
+7173022007,Taratara
+7173022008,Taratara Tiga
 7173030,Tomohon Utara
-7173030010,Tomohon Selatan
-7173030020,Tomohon Tengah
-7173030021,Tomohon Timur
-7173030022,Tomohon Barat
-7173030030,Tomohon Utara
+7173030001,Kayawu
+7173030002,Wailan
+7173030003,Kakaskasen Tiga
+7173030004,Kakaskasen Dua
+7173030005,Kakaskasen Satu
+7173030006,Kinilow
+7173030007,Tinoor Satu
+7173030008,Tinoor Dua
+7173030009,Kinilow Satu
+7173030010,Kakaskasen
 7174,Kotamobagu
 7174010,Kotamobagu Selatan
-7174010010,Kotamobagu Selatan
-7174010020,Kotamobagu Timur
-7174010030,Kotamobagu Barat
-7174010040,Kotamobagu Utara
+7174010001,Kopandakan  I
+7174010002,Bungko
+7174010003,Tabang
+7174010004,Poyowa Besar I
+7174010005,Poyowa Besar Ii
+7174010006,Pobundayan
+7174010007,Motoboi Kecil
+7174010008,Mongondow
+7174010009,Poyowa Kecil
 7174020,Kotamobagu Timur
-7174020010,Kotamobagu Selatan
-7174020020,Kotamobagu Timur
-7174020030,Kotamobagu Barat
-7174020040,Kotamobagu Utara
+7174020001,Matali
+7174020002,Motoboi Besar
+7174020003,Kobo Kecil
+7174020004,Moyag
+7174020005,Kobo Besar
+7174020006,Tumobuy
+7174020007,Sinindian
+7174020008,Kotabangon
+7174020009,Moyag Tampoan
+7174020010,Moyag Todulan
 7174030,Kotamobagu Barat
-7174030010,Kotamobagu Selatan
-7174030020,Kotamobagu Timur
-7174030030,Kotamobagu Barat
-7174030040,Kotamobagu Utara
+7174030001,Mongkonai
+7174030002,Molinow
+7174030003,Mogolaing
+7174030004,Gogagoman
+7174030005,Kotamobagu
+7174030006,Mongkonai Barat
 7174040,Kotamobagu Utara
-7174040010,Kotamobagu Selatan
-7174040020,Kotamobagu Timur
-7174040030,Kotamobagu Barat
-7174040040,Kotamobagu Utara
+7174040001,Upai
+7174040002,Genggulang
+7174040003,Biga
+7174040004,Sia
+7174040005,Pontodon
+7174040006,Bilalang Ii
+7174040007,Bilalang I
+7174040008,Pontodon Timur

@@ -1,2323 +1,1480 @@
 1301,Kepulauan Mentawai
 1301011,Pagai Selatan
-1301011011,Pagai Selatan
-1301011012,Sikakap
-1301011013,Pagai Utara
-1301011021,Sipora Selatan
-1301011022,Sipora Utara
-1301011030,Siberut Selatan
-1301011031,Seberut Barat Daya
-1301011032,Siberut Tengah
-1301011040,Siberut Utara
-1301011041,Siberut Barat
+1301011001,Bulasat
+1301011002,Sinaka
+1301011003,Makalo
+1301011004,Malakopa
 1301012,Sikakap
-1301012011,Pagai Selatan
-1301012012,Sikakap
-1301012013,Pagai Utara
-1301012021,Sipora Selatan
-1301012022,Sipora Utara
-1301012030,Siberut Selatan
-1301012031,Seberut Barat Daya
-1301012032,Siberut Tengah
-1301012040,Siberut Utara
-1301012041,Siberut Barat
+1301012001,Taikako
+1301012002,Sikakap
+1301012003,Matobe
 1301013,Pagai Utara
-1301013011,Pagai Selatan
-1301013012,Sikakap
-1301013013,Pagai Utara
-1301013021,Sipora Selatan
-1301013022,Sipora Utara
-1301013030,Siberut Selatan
-1301013031,Seberut Barat Daya
-1301013032,Siberut Tengah
-1301013040,Siberut Utara
-1301013041,Siberut Barat
+1301013001,Saumanganya
+1301013002,Silabu
+1301013003,Betumonga
 1301021,Sipora Selatan
-1301021011,Pagai Selatan
-1301021012,Sikakap
-1301021013,Pagai Utara
-1301021021,Sipora Selatan
-1301021022,Sipora Utara
-1301021030,Siberut Selatan
-1301021031,Seberut Barat Daya
-1301021032,Siberut Tengah
-1301021040,Siberut Utara
-1301021041,Siberut Barat
+1301021001,Bosua
+1301021002,Nemnemleleu
+1301021003,Beriulou
+1301021004,Mara
+1301021005,Sioban
+1301021006,Saureinu
+1301021007,Matobe
 1301022,Sipora Utara
-1301022011,Pagai Selatan
-1301022012,Sikakap
-1301022013,Pagai Utara
-1301022021,Sipora Selatan
-1301022022,Sipora Utara
-1301022030,Siberut Selatan
-1301022031,Seberut Barat Daya
-1301022032,Siberut Tengah
-1301022040,Siberut Utara
-1301022041,Siberut Barat
+1301022001,Betumonga
+1301022002,Goisooinan
+1301022003,Bukit Pamewa
+1301022004,Sipora Jaya
+1301022005,Sido Makmur
+1301022006,Tuapejat
 1301030,Siberut Selatan
-1301030011,Pagai Selatan
-1301030012,Sikakap
-1301030013,Pagai Utara
-1301030021,Sipora Selatan
-1301030022,Sipora Utara
-1301030030,Siberut Selatan
-1301030031,Seberut Barat Daya
-1301030032,Siberut Tengah
-1301030040,Siberut Utara
-1301030041,Siberut Barat
+1301030002,Madobag
+1301030004,Muara Siberut
+1301030005,Maileppet
+1301030006,Muntei
+1301030008,Matotonan
 1301031,Seberut Barat Daya
-1301031011,Pagai Selatan
-1301031012,Sikakap
-1301031013,Pagai Utara
-1301031021,Sipora Selatan
-1301031022,Sipora Utara
-1301031030,Siberut Selatan
-1301031031,Seberut Barat Daya
-1301031032,Siberut Tengah
-1301031040,Siberut Utara
-1301031041,Siberut Barat
+1301031001,Pasakiat Teileleu
+1301031002,Katurei
+1301031003,Sagulubbeg
 1301032,Siberut Tengah
-1301032011,Pagai Selatan
-1301032012,Sikakap
-1301032013,Pagai Utara
-1301032021,Sipora Selatan
-1301032022,Sipora Utara
-1301032030,Siberut Selatan
-1301032031,Seberut Barat Daya
-1301032032,Siberut Tengah
-1301032040,Siberut Utara
-1301032041,Siberut Barat
+1301032001,Saliguma
+1301032002,Saibi Samukop
+1301032003,Cimpungan
 1301040,Siberut Utara
-1301040011,Pagai Selatan
-1301040012,Sikakap
-1301040013,Pagai Utara
-1301040021,Sipora Selatan
-1301040022,Sipora Utara
-1301040030,Siberut Selatan
-1301040031,Seberut Barat Daya
-1301040032,Siberut Tengah
-1301040040,Siberut Utara
-1301040041,Siberut Barat
+1301040003,Sirilogui
+1301040004,Muara Sikabaluan
+1301040005,Mongan Poula
+1301040006,Sotboyak
+1301040007,Bojakan
+1301040009,Malancan
 1301041,Siberut Barat
-1301041011,Pagai Selatan
-1301041012,Sikakap
-1301041013,Pagai Utara
-1301041021,Sipora Selatan
-1301041022,Sipora Utara
-1301041030,Siberut Selatan
-1301041031,Seberut Barat Daya
-1301041032,Siberut Tengah
-1301041040,Siberut Utara
-1301041041,Siberut Barat
+1301041001,Simatalu
+1301041002,Simalegi
+1301041003,Sigapokna
 1302,Pesisir Selatan
 1302011,Silaut
-1302011011,Silaut
-1302011012,Lunang
-1302011020,Basa Ampek Balai Tapan
-1302011021,Ranah Ampek Hulu Tapan
-1302011030,Pancung Soal
-1302011031,Airpura
-1302011040,Linggo Sari Baganti
-1302011050,Ranah Pesisir
-1302011060,Lengayang
-1302011070,Sutera
-1302011080,Batang Kapas
-1302011090,Iv Jurai
-1302011100,Bayang
-1302011101,Iv  Nagari Bayang Utara
-1302011110,Koto Xi Tarusan
+1302011001,Silaut
+1302011002,Sambungo
+1302011003,Air Hitam
+1302011004,Lubuk Bunta
+1302011005,Durian Seribu
+1302011006,Pasir Binjai
+1302011007,Talang Binjai
+1302011008,Sungai Sarik
+1302011009,Sungai Pulai
+1302011010,Sungai Sirah
 1302012,Lunang
-1302012011,Silaut
-1302012012,Lunang
-1302012020,Basa Ampek Balai Tapan
-1302012021,Ranah Ampek Hulu Tapan
-1302012030,Pancung Soal
-1302012031,Airpura
-1302012040,Linggo Sari Baganti
-1302012050,Ranah Pesisir
-1302012060,Lengayang
-1302012070,Sutera
-1302012080,Batang Kapas
-1302012090,Iv Jurai
-1302012100,Bayang
-1302012101,Iv  Nagari Bayang Utara
-1302012110,Koto Xi Tarusan
+1302012001,Lunang
+1302012002,Lunang Selatan
+1302012003,Lunang Utara
+1302012004,Lunang Barat
+1302012005,Sindang Lunang
+1302012006,Lunang Satu
+1302012007,Lunang Tengah
+1302012008,Pondok Parian Lunang
+1302012009,Lunang Dua
+1302012010,Lunang Tiga
 1302020,Basa Ampek Balai Tapan
-1302020011,Silaut
-1302020012,Lunang
-1302020020,Basa Ampek Balai Tapan
-1302020021,Ranah Ampek Hulu Tapan
-1302020030,Pancung Soal
-1302020031,Airpura
-1302020040,Linggo Sari Baganti
-1302020050,Ranah Pesisir
-1302020060,Lengayang
-1302020070,Sutera
-1302020080,Batang Kapas
-1302020090,Iv Jurai
-1302020100,Bayang
-1302020101,Iv  Nagari Bayang Utara
-1302020110,Koto Xi Tarusan
+1302020001,Tapan
+1302020003,Batang Arah Tapan
+1302020005,Pasar Tapan
+1302020006,Ampang Tulak Tapan
+1302020009,Koto Anau Tapan
+1302020010,Dusun Baru Tapan
+1302020011,Tanjung Pondok Tapan
+1302020015,Batang Betung Tapan
+1302020016,Riak Danau Tapan
+1302020017,Bukit Buai Tapan
 1302021,Ranah Ampek Hulu Tapan
-1302021011,Silaut
-1302021012,Lunang
-1302021020,Basa Ampek Balai Tapan
-1302021021,Ranah Ampek Hulu Tapan
-1302021030,Pancung Soal
-1302021031,Airpura
-1302021040,Linggo Sari Baganti
-1302021050,Ranah Pesisir
-1302021060,Lengayang
-1302021070,Sutera
-1302021080,Batang Kapas
-1302021090,Iv Jurai
-1302021100,Bayang
-1302021101,Iv  Nagari Bayang Utara
-1302021110,Koto Xi Tarusan
+1302021001,Kubu Tapan
+1302021002,Talang Koto Pulai Tapan
+1302021003,Binjai Tapan
+1302021004,Sungai Gambir Sako Tapan
+1302021005,Simpang Gunung Tapan
+1302021006,Kampung Tengah Tapan
+1302021007,Sungai Pinang Tapan
+1302021008,Tebing Tinggi Tapan
+1302021009,Talang Balarik Tapan
+1302021010,Limau Purut Tapan
 1302030,Pancung Soal
-1302030011,Silaut
-1302030012,Lunang
-1302030020,Basa Ampek Balai Tapan
-1302030021,Ranah Ampek Hulu Tapan
-1302030030,Pancung Soal
-1302030031,Airpura
-1302030040,Linggo Sari Baganti
-1302030050,Ranah Pesisir
-1302030060,Lengayang
-1302030070,Sutera
-1302030080,Batang Kapas
-1302030090,Iv Jurai
-1302030100,Bayang
-1302030101,Iv  Nagari Bayang Utara
-1302030110,Koto Xi Tarusan
+1302030001,Inderapura
+1302030002,Muaro Sakai Inderapura
+1302030003,Inderapura Barat
+1302030004,Tigo Sepakat Inderapura
+1302030005,Inderapura Selatan
+1302030006,Kudo-kudo Inderapura
+1302030009,Simpang Lama Inderapura
+1302030010,Tluk Amplu Indrapura
+1302030012,Inderapura Tengah
+1302030014,Tigo Sungai Inderapura
 1302031,Airpura
-1302031011,Silaut
-1302031012,Lunang
-1302031020,Basa Ampek Balai Tapan
-1302031021,Ranah Ampek Hulu Tapan
-1302031030,Pancung Soal
-1302031031,Airpura
-1302031040,Linggo Sari Baganti
-1302031050,Ranah Pesisir
-1302031060,Lengayang
-1302031070,Sutera
-1302031080,Batang Kapas
-1302031090,Iv Jurai
-1302031100,Bayang
-1302031101,Iv  Nagari Bayang Utara
-1302031110,Koto Xi Tarusan
+1302031001,Inderapura Timur
+1302031002,Inderapura Utara
+1302031003,Pulau Rajo Inderapura
+1302031004,Tluk Kualo Inderapura
+1302031005,Palokan Inderapura
+1302031006,Tanah Bakali Inderapura
+1302031007,Lubuk Betung Inderapura
+1302031008,Damar Lapan Batang Inderapura
+1302031009,Muara Inderapura
+1302031010,Lalang Panjang Inderapura
 1302040,Linggo Sari Baganti
-1302040011,Silaut
-1302040012,Lunang
-1302040020,Basa Ampek Balai Tapan
-1302040021,Ranah Ampek Hulu Tapan
-1302040030,Pancung Soal
-1302040031,Airpura
-1302040040,Linggo Sari Baganti
-1302040050,Ranah Pesisir
-1302040060,Lengayang
-1302040070,Sutera
-1302040080,Batang Kapas
-1302040090,Iv Jurai
-1302040100,Bayang
-1302040101,Iv  Nagari Bayang Utara
-1302040110,Koto Xi Tarusan
+1302040001,Aie Haji
+1302040002,Punggasan
+1302040003,Punggasan Timur
+1302040004,Padang Xi Punggasan
+1302040005,Lagan Mudik Punggasan
+1302040006,Lagan Hilir Punggasan
+1302040007,Punggasan Utara
+1302040008,Muara Gadang Air Haji
+1302040009,Air Haji Barat
+1302040010,Pasar Bukit Air Haji
+1302040011,Sungai Sirah Air Haji
+1302040012,Rantau Simalenang Air Haji
+1302040013,Air Haji Tengah
+1302040014,Pasar Lama Muara Air Haji
+1302040015,Air Haji Tenggara
+1302040016,Muara Kandis Punggasan
 1302050,Ranah Pesisir
-1302050011,Silaut
-1302050012,Lunang
-1302050020,Basa Ampek Balai Tapan
-1302050021,Ranah Ampek Hulu Tapan
-1302050030,Pancung Soal
-1302050031,Airpura
-1302050040,Linggo Sari Baganti
-1302050050,Ranah Pesisir
-1302050060,Lengayang
-1302050070,Sutera
-1302050080,Batang Kapas
-1302050090,Iv Jurai
-1302050100,Bayang
-1302050101,Iv  Nagari Bayang Utara
-1302050110,Koto Xi Tarusan
+1302050001,Sungai Tunu
+1302050002,Palangai
+1302050003,Sungai Tunu Barat
+1302050004,Sungai Tunu Utara
+1302050005,Nyiur Melambai Pelangai
+1302050006,Pelangai Kaciak
+1302050007,Pelangai Gadang
+1302050008,Koto Viii Pelangai
+1302050009,Pasia Pelangai
+1302050010,Sungai Liku Pelangai
 1302060,Lengayang
-1302060011,Silaut
-1302060012,Lunang
-1302060020,Basa Ampek Balai Tapan
-1302060021,Ranah Ampek Hulu Tapan
-1302060030,Pancung Soal
-1302060031,Airpura
-1302060040,Linggo Sari Baganti
-1302060050,Ranah Pesisir
-1302060060,Lengayang
-1302060070,Sutera
-1302060080,Batang Kapas
-1302060090,Iv Jurai
-1302060100,Bayang
-1302060101,Iv  Nagari Bayang Utara
-1302060110,Koto Xi Tarusan
+1302060001,Lakitan
+1302060002,Kambang
+1302060003,Lakitan Selatan
+1302060004,Lakitan Tengah
+1302060005,Lakitan Timur
+1302060006,Lakitan Utara
+1302060007,Kambang Barat
+1302060008,Kambang Utara
+1302060009,Kambang Timur
 1302070,Sutera
-1302070011,Silaut
-1302070012,Lunang
-1302070020,Basa Ampek Balai Tapan
-1302070021,Ranah Ampek Hulu Tapan
-1302070030,Pancung Soal
-1302070031,Airpura
-1302070040,Linggo Sari Baganti
-1302070050,Ranah Pesisir
-1302070060,Lengayang
-1302070070,Sutera
-1302070080,Batang Kapas
-1302070090,Iv Jurai
-1302070100,Bayang
-1302070101,Iv  Nagari Bayang Utara
-1302070110,Koto Xi Tarusan
+1302070001,Amping Parak
+1302070002,Surantih
+1302070003,Taratak
+1302070004,Amping Parak Timur
+1302070005,Aur Duri Surantih
+1302070006,Rawang Gunung Malelo Surantih
+1302070007,Koto Nan Tigo Selatan Surantih
+1302070008,Koto Nan Tigo Utara Surantih
+1302070009,Gantiang Mudiak Selatan Surantih
+1302070010,Gantiang Mudiak Utara Surantih
+1302070011,Lansano Taratak
+1302070012,Koto Taratak
 1302080,Batang Kapas
-1302080011,Silaut
-1302080012,Lunang
-1302080020,Basa Ampek Balai Tapan
-1302080021,Ranah Ampek Hulu Tapan
-1302080030,Pancung Soal
-1302080031,Airpura
-1302080040,Linggo Sari Baganti
-1302080050,Ranah Pesisir
-1302080060,Lengayang
-1302080070,Sutera
-1302080080,Batang Kapas
-1302080090,Iv Jurai
-1302080100,Bayang
-1302080101,Iv  Nagari Bayang Utara
-1302080110,Koto Xi Tarusan
+1302080001,Iv Koto Hilie
+1302080002,Iv Koto Mudiek
+1302080003,Taluk
+1302080004,Koto Nan Tigo Iv Koto Hilie
+1302080005,Koto Nan Duo Iv Koto Hilie
+1302080006,Sungai Nyalo Iv Koto Mudiek
+1302080007,Tuik Iv Koto Mudiek
+1302080008,Taratak Tempatih Iv Koto Mudiek
+1302080009,Taluk Tigo Sakato
 1302090,Iv Jurai
-1302090011,Silaut
-1302090012,Lunang
-1302090020,Basa Ampek Balai Tapan
-1302090021,Ranah Ampek Hulu Tapan
-1302090030,Pancung Soal
-1302090031,Airpura
-1302090040,Linggo Sari Baganti
-1302090050,Ranah Pesisir
-1302090060,Lengayang
-1302090070,Sutera
-1302090080,Batang Kapas
-1302090090,Iv Jurai
-1302090100,Bayang
-1302090101,Iv  Nagari Bayang Utara
-1302090110,Koto Xi Tarusan
+1302090001,Salido
+1302090002,Painan
+1302090003,Lumpo
+1302090004,Tambang
+1302090005,Bungo Pasang Salido
+1302090006,Sago Salido
+1302090007,Painan Selatan Painan
+1302090008,Painan Timur Painan
+1302090009,Bukik Kaciak Lumpo
+1302090010,Sungai Sariak Lumpo
+1302090011,Sungai Gayo Lumpo
+1302090012,Gunung Bungkuak Lumpo
+1302090013,Ampang Tareh Lumpo
+1302090014,Ampuan Lumpo
+1302090015,Balai Sinayan Lumpo
+1302090016,Taratak Tangah Lumpo
+1302090017,Batu Kunik Lumpo
+1302090018,Limau Gadang Lumpo
+1302090019,Koto Rawang
+1302090020,Salido Sari Bulan
 1302100,Bayang
-1302100011,Silaut
-1302100012,Lunang
-1302100020,Basa Ampek Balai Tapan
-1302100021,Ranah Ampek Hulu Tapan
-1302100030,Pancung Soal
-1302100031,Airpura
-1302100040,Linggo Sari Baganti
-1302100050,Ranah Pesisir
-1302100060,Lengayang
-1302100070,Sutera
-1302100080,Batang Kapas
-1302100090,Iv Jurai
-1302100100,Bayang
-1302100101,Iv  Nagari Bayang Utara
-1302100110,Koto Xi Tarusan
+1302100001,Pasar Baru
+1302100002,Talaok
+1302100003,Koto Barapak
+1302100004,Gurun Panjang
+1302100005,Api-api Pasar Baru
+1302100006,Tanjung Durian Pasar Baru
+1302100007,Asam Kamba Pasar Baru
+1302100008,Sawah Laweh Pasar Baru
+1302100009,Kapeh Panji Jaya Talaok
+1302100010,Aur Begalung Talaok
+1302100011,Kapelgam Koto Barapak
+1302100012,Kapujan Koto Barapak
+1302100013,Koto Baru Koto Barapak
+1302100014,Kubang Koto Barapak
+1302100015,Gurun Panjang Selatan
+1302100016,Gurun Panjang Utara
+1302100017,Gurun Panjang Barat
 1302101,Iv  Nagari Bayang Utara
-1302101011,Silaut
-1302101012,Lunang
-1302101020,Basa Ampek Balai Tapan
-1302101021,Ranah Ampek Hulu Tapan
-1302101030,Pancung Soal
-1302101031,Airpura
-1302101040,Linggo Sari Baganti
-1302101050,Ranah Pesisir
-1302101060,Lengayang
-1302101070,Sutera
-1302101080,Batang Kapas
-1302101090,Iv Jurai
-1302101100,Bayang
-1302101101,Iv  Nagari Bayang Utara
-1302101110,Koto Xi Tarusan
+1302101001,Puluik Puluik
+1302101002,Koto Ranah
+1302101003,Muaro Aie
+1302101004,Pancuang Taba
+1302101005,Puluik Puluik Selatan
+1302101006,Limau Gadang Pancung Taba
 1302110,Koto Xi Tarusan
-1302110011,Silaut
-1302110012,Lunang
-1302110020,Basa Ampek Balai Tapan
-1302110021,Ranah Ampek Hulu Tapan
-1302110030,Pancung Soal
-1302110031,Airpura
-1302110040,Linggo Sari Baganti
-1302110050,Ranah Pesisir
-1302110060,Lengayang
-1302110070,Sutera
-1302110080,Batang Kapas
-1302110090,Iv Jurai
-1302110100,Bayang
-1302110101,Iv  Nagari Bayang Utara
-1302110110,Koto Xi Tarusan
+1302110001,Kapuh
+1302110002,Ampang Pulai
+1302110003,Nanggalo
+1302110004,Batu Hampar
+1302110005,Duku
+1302110006,Barung Barung Balantai
+1302110007,Sungai Pinang
+1302110008,Siguntur
+1302110009,Taratak Sungai Lundang
+1302110010,Kapuh Utara
+1302110011,Mandeh
+1302110012,Barung Barung Balantai Selatan
+1302110013,Jinang Kampung Pansur Ampang Pulai
+1302110014,Pulau Karam Ampang Pulai
+1302110015,Cerocok Anau Ampang Pulai
+1302110016,Sungai Nyalo Mudiak Aie
+1302110017,Setara Nanggalo
+1302110018,Batu Hampar Selatan
+1302110019,Duku Utara
+1302110020,Barung-barung Balantai Timur
+1302110021,Siguntur Tua
+1302110022,Kampung Baru Korong Nan Ampek
+1302110023,Barung-barung Balantai Tengah
 1303,Solok
 1303040,Pantai Cermin
-1303040040,Pantai Cermin
-1303040050,Lembah Gumanti
-1303040051,Hiliran Gumanti
-1303040060,Payung Sekaki
-1303040061,Tigo Lurah
-1303040070,Lembang Jaya
-1303040071,Danau Kembar
-1303040080,Gunung Talang
-1303040090,Bukit Sundi
-1303040100,Ix Koto Sungai Lasi
-1303040110,Kubung
-1303040120,X Koto Diatas
-1303040130,X Koto Singkarak
-1303040140,Junjung Sirih
+1303040001,Surian
+1303040002,Lolo
 1303050,Lembah Gumanti
-1303050040,Pantai Cermin
-1303050050,Lembah Gumanti
-1303050051,Hiliran Gumanti
-1303050060,Payung Sekaki
-1303050061,Tigo Lurah
-1303050070,Lembang Jaya
-1303050071,Danau Kembar
-1303050080,Gunung Talang
-1303050090,Bukit Sundi
-1303050100,Ix Koto Sungai Lasi
-1303050110,Kubung
-1303050120,X Koto Diatas
-1303050130,X Koto Singkarak
-1303050140,Junjung Sirih
+1303050001,Alahan Panjang
+1303050002,Sungai Nanam
+1303050003,Salimpek
+1303050004,Aie Dingin
 1303051,Hiliran Gumanti
-1303051040,Pantai Cermin
-1303051050,Lembah Gumanti
-1303051051,Hiliran Gumanti
-1303051060,Payung Sekaki
-1303051061,Tigo Lurah
-1303051070,Lembang Jaya
-1303051071,Danau Kembar
-1303051080,Gunung Talang
-1303051090,Bukit Sundi
-1303051100,Ix Koto Sungai Lasi
-1303051110,Kubung
-1303051120,X Koto Diatas
-1303051130,X Koto Singkarak
-1303051140,Junjung Sirih
+1303051001,Sungai Abu
+1303051002,Sariak Alahan Tigo
+1303051003,Talang Babungo
 1303060,Payung Sekaki
-1303060040,Pantai Cermin
-1303060050,Lembah Gumanti
-1303060051,Hiliran Gumanti
-1303060060,Payung Sekaki
-1303060061,Tigo Lurah
-1303060070,Lembang Jaya
-1303060071,Danau Kembar
-1303060080,Gunung Talang
-1303060090,Bukit Sundi
-1303060100,Ix Koto Sungai Lasi
-1303060110,Kubung
-1303060120,X Koto Diatas
-1303060130,X Koto Singkarak
-1303060140,Junjung Sirih
+1303060001,Sirukam
+1303060002,Supayang
+1303060003,Aia Luo
 1303061,Tigo Lurah
-1303061040,Pantai Cermin
-1303061050,Lembah Gumanti
-1303061051,Hiliran Gumanti
-1303061060,Payung Sekaki
-1303061061,Tigo Lurah
-1303061070,Lembang Jaya
-1303061071,Danau Kembar
-1303061080,Gunung Talang
-1303061090,Bukit Sundi
-1303061100,Ix Koto Sungai Lasi
-1303061110,Kubung
-1303061120,X Koto Diatas
-1303061130,X Koto Singkarak
-1303061140,Junjung Sirih
+1303061001,Rangkiang Luluih
+1303061002,Batu Bajanjang
+1303061003,Simanau
+1303061004,Tanjuang Balik Sumiso
+1303061005,Garabak Data
 1303070,Lembang Jaya
-1303070040,Pantai Cermin
-1303070050,Lembah Gumanti
-1303070051,Hiliran Gumanti
-1303070060,Payung Sekaki
-1303070061,Tigo Lurah
-1303070070,Lembang Jaya
-1303070071,Danau Kembar
-1303070080,Gunung Talang
-1303070090,Bukit Sundi
-1303070100,Ix Koto Sungai Lasi
-1303070110,Kubung
-1303070120,X Koto Diatas
-1303070130,X Koto Singkarak
-1303070140,Junjung Sirih
+1303070001,Koto Anau
+1303070002,Batu Banyak
+1303070003,Limau Lunggo
+1303070004,Koto Laweh
+1303070005,Salayo Tanang Bukik Sileh
+1303070006,Batu Bajanjang
 1303071,Danau Kembar
-1303071040,Pantai Cermin
-1303071050,Lembah Gumanti
-1303071051,Hiliran Gumanti
-1303071060,Payung Sekaki
-1303071061,Tigo Lurah
-1303071070,Lembang Jaya
-1303071071,Danau Kembar
-1303071080,Gunung Talang
-1303071090,Bukit Sundi
-1303071100,Ix Koto Sungai Lasi
-1303071110,Kubung
-1303071120,X Koto Diatas
-1303071130,X Koto Singkarak
-1303071140,Junjung Sirih
+1303071001,Kampuang Batu Dalam
+1303071002,Simpang Tanjuang Nan Iv
 1303080,Gunung Talang
-1303080040,Pantai Cermin
-1303080050,Lembah Gumanti
-1303080051,Hiliran Gumanti
-1303080060,Payung Sekaki
-1303080061,Tigo Lurah
-1303080070,Lembang Jaya
-1303080071,Danau Kembar
-1303080080,Gunung Talang
-1303080090,Bukit Sundi
-1303080100,Ix Koto Sungai Lasi
-1303080110,Kubung
-1303080120,X Koto Diatas
-1303080130,X Koto Singkarak
-1303080140,Junjung Sirih
+1303080001,Cupak
+1303080002,Talang
+1303080003,Sungai Janiah
+1303080004,Koto Gadang Guguak
+1303080005,Koto Gaek Guguak
+1303080006,Jawi-jawi Guguak
+1303080007,Batang Barus
+1303080008,Aia Batumbuak
 1303090,Bukit Sundi
-1303090040,Pantai Cermin
-1303090050,Lembah Gumanti
-1303090051,Hiliran Gumanti
-1303090060,Payung Sekaki
-1303090061,Tigo Lurah
-1303090070,Lembang Jaya
-1303090071,Danau Kembar
-1303090080,Gunung Talang
-1303090090,Bukit Sundi
-1303090100,Ix Koto Sungai Lasi
-1303090110,Kubung
-1303090120,X Koto Diatas
-1303090130,X Koto Singkarak
-1303090140,Junjung Sirih
+1303090001,Muaro Paneh
+1303090002,Kinari
+1303090003,Parambahan
+1303090004,Dilam
+1303090005,Bukik Tandang
 1303100,Ix Koto Sungai Lasi
-1303100040,Pantai Cermin
-1303100050,Lembah Gumanti
-1303100051,Hiliran Gumanti
-1303100060,Payung Sekaki
-1303100061,Tigo Lurah
-1303100070,Lembang Jaya
-1303100071,Danau Kembar
-1303100080,Gunung Talang
-1303100090,Bukit Sundi
-1303100100,Ix Koto Sungai Lasi
-1303100110,Kubung
-1303100120,X Koto Diatas
-1303100130,X Koto Singkarak
-1303100140,Junjung Sirih
+1303100001,Pianggu
+1303100002,Taruang-taruang
+1303100003,Siaro-aro
+1303100004,Indudua
+1303100005,Guguak Sarai
+1303100006,Sungai Durian
+1303100007,Bukit Bais
+1303100008,Koto Laweh
+1303100009,Sungai Jambua
 1303110,Kubung
-1303110040,Pantai Cermin
-1303110050,Lembah Gumanti
-1303110051,Hiliran Gumanti
-1303110060,Payung Sekaki
-1303110061,Tigo Lurah
-1303110070,Lembang Jaya
-1303110071,Danau Kembar
-1303110080,Gunung Talang
-1303110090,Bukit Sundi
-1303110100,Ix Koto Sungai Lasi
-1303110110,Kubung
-1303110120,X Koto Diatas
-1303110130,X Koto Singkarak
-1303110140,Junjung Sirih
+1303110001,Gauang
+1303110002,Panyakalan
+1303110003,Saok Laweh
+1303110004,Tanjuang Bingkuang
+1303110005,Gantuang Ciri
+1303110006,Koto Hilalang
+1303110007,Selayo
+1303110008,Koto Baru
 1303120,X Koto Diatas
-1303120040,Pantai Cermin
-1303120050,Lembah Gumanti
-1303120051,Hiliran Gumanti
-1303120060,Payung Sekaki
-1303120061,Tigo Lurah
-1303120070,Lembang Jaya
-1303120071,Danau Kembar
-1303120080,Gunung Talang
-1303120090,Bukit Sundi
-1303120100,Ix Koto Sungai Lasi
-1303120110,Kubung
-1303120120,X Koto Diatas
-1303120130,X Koto Singkarak
-1303120140,Junjung Sirih
+1303120001,Katialo
+1303120002,Tanjuang Balik
+1303120003,Paninjauan
+1303120004,Labuah Panjang
+1303120005,Sulik Aia
+1303120006,Pasilihan
+1303120007,Bukik Kanduang
+1303120008,Kuncia
+1303120009,Siberambang
 1303130,X Koto Singkarak
-1303130040,Pantai Cermin
-1303130050,Lembah Gumanti
-1303130051,Hiliran Gumanti
-1303130060,Payung Sekaki
-1303130061,Tigo Lurah
-1303130070,Lembang Jaya
-1303130071,Danau Kembar
-1303130080,Gunung Talang
-1303130090,Bukit Sundi
-1303130100,Ix Koto Sungai Lasi
-1303130110,Kubung
-1303130120,X Koto Diatas
-1303130130,X Koto Singkarak
-1303130140,Junjung Sirih
+1303130001,Kacang
+1303130002,Tikalak
+1303130003,Singkarak
+1303130004,Sumani
+1303130005,Saniang Baka
+1303130006,Koto Sani
+1303130007,Tanjuang Alai
+1303130008,Aripan
 1303140,Junjung Sirih
-1303140040,Pantai Cermin
-1303140050,Lembah Gumanti
-1303140051,Hiliran Gumanti
-1303140060,Payung Sekaki
-1303140061,Tigo Lurah
-1303140070,Lembang Jaya
-1303140071,Danau Kembar
-1303140080,Gunung Talang
-1303140090,Bukit Sundi
-1303140100,Ix Koto Sungai Lasi
-1303140110,Kubung
-1303140120,X Koto Diatas
-1303140130,X Koto Singkarak
-1303140140,Junjung Sirih
+1303140001,Muaro Pingai
+1303140002,Paninggahan
 1304,Sijunjung
 1304050,Kamang Baru
-1304050050,Kamang Baru
-1304050060,Tanjung Gadang
-1304050070,Sijunjung
-1304050071,Lubuk Tarok
-1304050080,Iv Nagari
-1304050090,Kupitan
-1304050100,Koto Tujuh
-1304050110,Sumpur Kudus
+1304050001,Sungai Lansek
+1304050002,Muaro Takung
+1304050003,Kunangan Parit Rantang
+1304050004,Kamang
+1304050005,Air Amo
+1304050006,Sungai Batuang
+1304050007,Siaur
+1304050008,Lubuk Tarantang
+1304050009,Maloro
+1304050010,Tanjung Kaliang
+1304050011,Padang Tarok
 1304060,Tanjung Gadang
-1304060050,Kamang Baru
-1304060060,Tanjung Gadang
-1304060070,Sijunjung
-1304060071,Lubuk Tarok
-1304060080,Iv Nagari
-1304060090,Kupitan
-1304060100,Koto Tujuh
-1304060110,Sumpur Kudus
+1304060001,Langki
+1304060002,Sibakur
+1304060003,Pulasan
+1304060004,Tanjung Lolo
+1304060005,Tanjung Gadang
+1304060006,Taratak Baru
+1304060007,Timbulun
+1304060008,Sinyamu
+1304060009,Taratak Baru Utara
 1304070,Sijunjung
-1304070050,Kamang Baru
-1304070060,Tanjung Gadang
-1304070070,Sijunjung
-1304070071,Lubuk Tarok
-1304070080,Iv Nagari
-1304070090,Kupitan
-1304070100,Koto Tujuh
-1304070110,Sumpur Kudus
+1304070001,Muaro
+1304070002,Kandang Baru
+1304070003,Pematang Panjang
+1304070004,Sijunjung
+1304070005,Aia Angek
+1304070006,Solok Ambah
+1304070007,Paruh
+1304070008,Muaro Silokek
+1304070009,Durian Gadang
 1304071,Lubuk Tarok
-1304071050,Kamang Baru
-1304071060,Tanjung Gadang
-1304071070,Sijunjung
-1304071071,Lubuk Tarok
-1304071080,Iv Nagari
-1304071090,Kupitan
-1304071100,Koto Tujuh
-1304071110,Sumpur Kudus
+1304071001,Buluh Kasok
+1304071002,Lubuk Tarok
+1304071003,Lalan
+1304071004,Silongo
+1304071005,Kampung Dalam
+1304071006,Latang
 1304080,Iv Nagari
-1304080050,Kamang Baru
-1304080060,Tanjung Gadang
-1304080070,Sijunjung
-1304080071,Lubuk Tarok
-1304080080,Iv Nagari
-1304080090,Kupitan
-1304080100,Koto Tujuh
-1304080110,Sumpur Kudus
+1304080001,Mundam Sakti
+1304080002,Koto Baru
+1304080003,Muaro Bodi
+1304080004,Palangki
+1304080005,Koto Tuo
 1304090,Kupitan
-1304090050,Kamang Baru
-1304090060,Tanjung Gadang
-1304090070,Sijunjung
-1304090071,Lubuk Tarok
-1304090080,Iv Nagari
-1304090090,Kupitan
-1304090100,Koto Tujuh
-1304090110,Sumpur Kudus
+1304090001,Batu Manjulua
+1304090002,Padang Sibusuak
+1304090003,Pamuatan
+1304090004,Kampung Baru
 1304100,Koto Tujuh
-1304100050,Kamang Baru
-1304100060,Tanjung Gadang
-1304100070,Sijunjung
-1304100071,Lubuk Tarok
-1304100080,Iv Nagari
-1304100090,Kupitan
-1304100100,Koto Tujuh
-1304100110,Sumpur Kudus
+1304100001,Limo Koto
+1304100002,Padang Laweh
+1304100003,Tanjung
+1304100004,Palaluar
+1304100005,Guguk
+1304100006,Bukit Bual
+1304100007,Padang Laweh Selatan
 1304110,Sumpur Kudus
-1304110050,Kamang Baru
-1304110060,Tanjung Gadang
-1304110070,Sijunjung
-1304110071,Lubuk Tarok
-1304110080,Iv Nagari
-1304110090,Kupitan
-1304110100,Koto Tujuh
-1304110110,Sumpur Kudus
+1304110001,Kumanis
+1304110002,Tanjung Bonai Aur
+1304110003,Sisawah
+1304110004,Tamparungo
+1304110005,Sumpur Kudus
+1304110006,Mengganti
+1304110007,Sepakat Silantai
+1304110008,Unggan
+1304110009,Tanjung Bonai Aur Selatan
+1304110010,Tanjuang Labuah
+1304110011,Sumpur Kudus Selatan
 1305,Tanah Datar
 1305010,X Koto
-1305010010,X Koto
-1305010020,Batipuh
-1305010021,Batipuah Selatan
-1305010030,Pariangan
-1305010040,Rambatan
-1305010050,Lima Kaum
-1305010060,Tanjung Emas
-1305010070,Padang Ganting
-1305010080,Lintau Buo
-1305010081,Lintau Buo Utara
-1305010090,Sungayang
-1305010100,Sungai Tarab
-1305010110,Salimpaung
-1305010111,Tanjuang Baru
+1305010001,Tambangan
+1305010002,Jaho
+1305010003,Paninjauan
+1305010004,Panyalaian
+1305010005,Aie Angek
+1305010006,Koto Baru
+1305010007,Pandai Sikek
+1305010008,Singgalang
+1305010009,Koto Laweh
 1305020,Batipuh
-1305020010,X Koto
-1305020020,Batipuh
-1305020021,Batipuah Selatan
-1305020030,Pariangan
-1305020040,Rambatan
-1305020050,Lima Kaum
-1305020060,Tanjung Emas
-1305020070,Padang Ganting
-1305020080,Lintau Buo
-1305020081,Lintau Buo Utara
-1305020090,Sungayang
-1305020100,Sungai Tarab
-1305020110,Salimpaung
-1305020111,Tanjuang Baru
+1305020001,Tanjuang Barulak
+1305020002,Bungo Tanjuang
+1305020003,Pitalah
+1305020004,Gunuang Rajo
+1305020005,Batipuah Baruah
+1305020006,Batipuah Ateh
+1305020007,Sabu
+1305020008,Andaleh
 1305021,Batipuah Selatan
-1305021010,X Koto
-1305021020,Batipuh
-1305021021,Batipuah Selatan
-1305021030,Pariangan
-1305021040,Rambatan
-1305021050,Lima Kaum
-1305021060,Tanjung Emas
-1305021070,Padang Ganting
-1305021080,Lintau Buo
-1305021081,Lintau Buo Utara
-1305021090,Sungayang
-1305021100,Sungai Tarab
-1305021110,Salimpaung
-1305021111,Tanjuang Baru
+1305021001,Guguak Malalo
+1305021002,Padang Laweh Malalo
+1305021003,Sumpur
+1305021004,Batu Taba
 1305030,Pariangan
-1305030010,X Koto
-1305030020,Batipuh
-1305030021,Batipuah Selatan
-1305030030,Pariangan
-1305030040,Rambatan
-1305030050,Lima Kaum
-1305030060,Tanjung Emas
-1305030070,Padang Ganting
-1305030080,Lintau Buo
-1305030081,Lintau Buo Utara
-1305030090,Sungayang
-1305030100,Sungai Tarab
-1305030110,Salimpaung
-1305030111,Tanjuang Baru
+1305030001,Batu Basa
+1305030002,Tabek
+1305030003,Sawah Tangah
+1305030004,Simabur
+1305030005,Pariangan
+1305030006,Sungai Jambu
 1305040,Rambatan
-1305040010,X Koto
-1305040020,Batipuh
-1305040021,Batipuah Selatan
-1305040030,Pariangan
-1305040040,Rambatan
-1305040050,Lima Kaum
-1305040060,Tanjung Emas
-1305040070,Padang Ganting
-1305040080,Lintau Buo
-1305040081,Lintau Buo Utara
-1305040090,Sungayang
-1305040100,Sungai Tarab
-1305040110,Salimpaung
-1305040111,Tanjuang Baru
+1305040001,Simawang
+1305040002,Balimbiang
+1305040003,Iii Koto
+1305040004,Padang Magek
+1305040005,Rambatan
 1305050,Lima Kaum
-1305050010,X Koto
-1305050020,Batipuh
-1305050021,Batipuah Selatan
-1305050030,Pariangan
-1305050040,Rambatan
-1305050050,Lima Kaum
-1305050060,Tanjung Emas
-1305050070,Padang Ganting
-1305050080,Lintau Buo
-1305050081,Lintau Buo Utara
-1305050090,Sungayang
-1305050100,Sungai Tarab
-1305050110,Salimpaung
-1305050111,Tanjuang Baru
+1305050001,Cubadak
+1305050002,Parambahan
+1305050003,Labuh
+1305050004,Limo Kaum
+1305050005,Baringin
 1305060,Tanjung Emas
-1305060010,X Koto
-1305060020,Batipuh
-1305060021,Batipuah Selatan
-1305060030,Pariangan
-1305060040,Rambatan
-1305060050,Lima Kaum
-1305060060,Tanjung Emas
-1305060070,Padang Ganting
-1305060080,Lintau Buo
-1305060081,Lintau Buo Utara
-1305060090,Sungayang
-1305060100,Sungai Tarab
-1305060110,Salimpaung
-1305060111,Tanjuang Baru
+1305060001,Pagaruyung
+1305060002,Saruaso
+1305060003,Koto Tangah
+1305060004,Tanjung Barulak
 1305070,Padang Ganting
-1305070010,X Koto
-1305070020,Batipuh
-1305070021,Batipuah Selatan
-1305070030,Pariangan
-1305070040,Rambatan
-1305070050,Lima Kaum
-1305070060,Tanjung Emas
-1305070070,Padang Ganting
-1305070080,Lintau Buo
-1305070081,Lintau Buo Utara
-1305070090,Sungayang
-1305070100,Sungai Tarab
-1305070110,Salimpaung
-1305070111,Tanjuang Baru
+1305070001,Padang Ganting
+1305070002,Atar
 1305080,Lintau Buo
-1305080010,X Koto
-1305080020,Batipuh
-1305080021,Batipuah Selatan
-1305080030,Pariangan
-1305080040,Rambatan
-1305080050,Lima Kaum
-1305080060,Tanjung Emas
-1305080070,Padang Ganting
-1305080080,Lintau Buo
-1305080081,Lintau Buo Utara
-1305080090,Sungayang
-1305080100,Sungai Tarab
-1305080110,Salimpaung
-1305080111,Tanjuang Baru
+1305080001,Taluak
+1305080002,Tigo Jangko
+1305080003,Pangian
+1305080004,Buo
 1305081,Lintau Buo Utara
-1305081010,X Koto
-1305081020,Batipuh
-1305081021,Batipuah Selatan
-1305081030,Pariangan
-1305081040,Rambatan
-1305081050,Lima Kaum
-1305081060,Tanjung Emas
-1305081070,Padang Ganting
-1305081080,Lintau Buo
-1305081081,Lintau Buo Utara
-1305081090,Sungayang
-1305081100,Sungai Tarab
-1305081110,Salimpaung
-1305081111,Tanjuang Baru
+1305081001,Tapi Selo
+1305081002,Lubuak Jantan
+1305081003,Balai Tangah
+1305081004,Batu Bulek
+1305081005,Tanjuang Bonai
 1305090,Sungayang
-1305090010,X Koto
-1305090020,Batipuh
-1305090021,Batipuah Selatan
-1305090030,Pariangan
-1305090040,Rambatan
-1305090050,Lima Kaum
-1305090060,Tanjung Emas
-1305090070,Padang Ganting
-1305090080,Lintau Buo
-1305090081,Lintau Buo Utara
-1305090090,Sungayang
-1305090100,Sungai Tarab
-1305090110,Salimpaung
-1305090111,Tanjuang Baru
+1305090001,Minangkabau
+1305090002,Andaleh Baruh Bukik
+1305090003,Sungayang
+1305090004,Tanjung
+1305090005,Sungai Patai
 1305100,Sungai Tarab
-1305100010,X Koto
-1305100020,Batipuh
-1305100021,Batipuah Selatan
-1305100030,Pariangan
-1305100040,Rambatan
-1305100050,Lima Kaum
-1305100060,Tanjung Emas
-1305100070,Padang Ganting
-1305100080,Lintau Buo
-1305100081,Lintau Buo Utara
-1305100090,Sungayang
-1305100100,Sungai Tarab
-1305100110,Salimpaung
-1305100111,Tanjuang Baru
+1305100001,Talang Tangah
+1305100002,Gurun
+1305100003,Simpuruik
+1305100004,Sungai Tarab
+1305100005,Padang Laweh
+1305100006,Koto Tuo
+1305100007,Pasie Laweh
+1305100008,Kumango
+1305100009,Rao Rao
+1305100010,Koto Baru
 1305110,Salimpaung
-1305110010,X Koto
-1305110020,Batipuh
-1305110021,Batipuah Selatan
-1305110030,Pariangan
-1305110040,Rambatan
-1305110050,Lima Kaum
-1305110060,Tanjung Emas
-1305110070,Padang Ganting
-1305110080,Lintau Buo
-1305110081,Lintau Buo Utara
-1305110090,Sungayang
-1305110100,Sungai Tarab
-1305110110,Salimpaung
-1305110111,Tanjuang Baru
+1305110001,Tabek Patah
+1305110002,Lawang Mandahiling
+1305110003,Salimpaung
+1305110004,Supayang
+1305110005,Situmbuk
+1305110006,Sumanik
 1305111,Tanjuang Baru
-1305111010,X Koto
-1305111020,Batipuh
-1305111021,Batipuah Selatan
-1305111030,Pariangan
-1305111040,Rambatan
-1305111050,Lima Kaum
-1305111060,Tanjung Emas
-1305111070,Padang Ganting
-1305111080,Lintau Buo
-1305111081,Lintau Buo Utara
-1305111090,Sungayang
-1305111100,Sungai Tarab
-1305111110,Salimpaung
-1305111111,Tanjuang Baru
+1305111001,Tanjuang Alam
+1305111002,Barulak
 1306,Padang Pariaman
 1306010,Batang Anai
-1306010010,Batang Anai
-1306010020,Lubuk Alung
-1306010021,Sintuk Toboh Gadang
-1306010030,Ulakan Tapakis
-1306010040,Nan Sabaris
-1306010050,2 X 11 Enam Lingkung
-1306010051,Enam Lingkung
-1306010052,2 X 11 Kayu Tanam
-1306010060,Vii Koto Sungai Sariak
-1306010061,Patamuan
-1306010062,Padang Sago
-1306010070,V Koto Kp Dalam
-1306010071,V Koto Timur
-1306010080,Sungai Limau
-1306010081,Batang Gasan
-1306010090,Sungai Geringging
-1306010100,Iv Koto Aur Malintang
+1306010001,Katapiang
+1306010002,Kasang
+1306010003,Sungai Buluh
+1306010004,Buayan Lubuk Alung
+1306010005,Sungai Buluh Selatan
+1306010006,Sungai Buluh Barat
+1306010007,Sungai Buluh Timur
+1306010008,Sungai Buluh Utara
 1306020,Lubuk Alung
-1306020010,Batang Anai
-1306020020,Lubuk Alung
-1306020021,Sintuk Toboh Gadang
-1306020030,Ulakan Tapakis
-1306020040,Nan Sabaris
-1306020050,2 X 11 Enam Lingkung
-1306020051,Enam Lingkung
-1306020052,2 X 11 Kayu Tanam
-1306020060,Vii Koto Sungai Sariak
-1306020061,Patamuan
-1306020062,Padang Sago
-1306020070,V Koto Kp Dalam
-1306020071,V Koto Timur
-1306020080,Sungai Limau
-1306020081,Batang Gasan
-1306020090,Sungai Geringging
-1306020100,Iv Koto Aur Malintang
+1306020001,Lubuk Alung
+1306020002,Aie Tajun Lubuk Alung
+1306020003,Sikabu Lubuk Alung
+1306020004,Pasie Laweh Lubuk Alung
+1306020005,Punggung Kasiak Lubuk Alung
+1306020006,Balah Hilia Lubuk Alung
+1306020007,Sungai Abang Lubuk Alung
+1306020008,Singguling Lubuk Alung
+1306020009,Salibutan Lubuk Alung
 1306021,Sintuk Toboh Gadang
-1306021010,Batang Anai
-1306021020,Lubuk Alung
-1306021021,Sintuk Toboh Gadang
-1306021030,Ulakan Tapakis
-1306021040,Nan Sabaris
-1306021050,2 X 11 Enam Lingkung
-1306021051,Enam Lingkung
-1306021052,2 X 11 Kayu Tanam
-1306021060,Vii Koto Sungai Sariak
-1306021061,Patamuan
-1306021062,Padang Sago
-1306021070,V Koto Kp Dalam
-1306021071,V Koto Timur
-1306021080,Sungai Limau
-1306021081,Batang Gasan
-1306021090,Sungai Geringging
-1306021100,Iv Koto Aur Malintang
+1306021001,Toboh Gadang
+1306021002,Sintuk
+1306021003,Toboh Gadang Barat
+1306021004,Toboh Gadang Selatan
+1306021005,Toboh Gadang Timur
 1306030,Ulakan Tapakis
-1306030010,Batang Anai
-1306030020,Lubuk Alung
-1306030021,Sintuk Toboh Gadang
-1306030030,Ulakan Tapakis
-1306030040,Nan Sabaris
-1306030050,2 X 11 Enam Lingkung
-1306030051,Enam Lingkung
-1306030052,2 X 11 Kayu Tanam
-1306030060,Vii Koto Sungai Sariak
-1306030061,Patamuan
-1306030062,Padang Sago
-1306030070,V Koto Kp Dalam
-1306030071,V Koto Timur
-1306030080,Sungai Limau
-1306030081,Batang Gasan
-1306030090,Sungai Geringging
-1306030100,Iv Koto Aur Malintang
+1306030001,Tapakis
+1306030002,Ulakan
+1306030003,Seulayat Ulakan
+1306030004,Sungai Gimba Ulakan
+1306030005,Manggopoh Palak Gadang Ulakan
+1306030006,Sandi Ulakan
+1306030007,Kampuang Galapuang Ulakan
+1306030008,Padang Toboh Ulakan
 1306040,Nan Sabaris
-1306040010,Batang Anai
-1306040020,Lubuk Alung
-1306040021,Sintuk Toboh Gadang
-1306040030,Ulakan Tapakis
-1306040040,Nan Sabaris
-1306040050,2 X 11 Enam Lingkung
-1306040051,Enam Lingkung
-1306040052,2 X 11 Kayu Tanam
-1306040060,Vii Koto Sungai Sariak
-1306040061,Patamuan
-1306040062,Padang Sago
-1306040070,V Koto Kp Dalam
-1306040071,V Koto Timur
-1306040080,Sungai Limau
-1306040081,Batang Gasan
-1306040090,Sungai Geringging
-1306040100,Iv Koto Aur Malintang
+1306040001,Sunua
+1306040002,Padang Bintungan
+1306040003,Pauah Kamba
+1306040004,Kapalo Koto
+1306040005,Kurai Taji
+1306040006,Sunur Barat
+1306040007,Sunur Tengah
+1306040008,Padang Kandang Pulau Air Padang Bintungan
+1306040009,Kurai Taji Timur
 1306050,2 X 11 Enam Lingkung
-1306050010,Batang Anai
-1306050020,Lubuk Alung
-1306050021,Sintuk Toboh Gadang
-1306050030,Ulakan Tapakis
-1306050040,Nan Sabaris
-1306050050,2 X 11 Enam Lingkung
-1306050051,Enam Lingkung
-1306050052,2 X 11 Kayu Tanam
-1306050060,Vii Koto Sungai Sariak
-1306050061,Patamuan
-1306050062,Padang Sago
-1306050070,V Koto Kp Dalam
-1306050071,V Koto Timur
-1306050080,Sungai Limau
-1306050081,Batang Gasan
-1306050090,Sungai Geringging
-1306050100,Iv Koto Aur Malintang
+1306050001,Lubuk Pandan
+1306050002,Sicincin
+1306050003,Sungai Asam
 1306051,Enam Lingkung
-1306051010,Batang Anai
-1306051020,Lubuk Alung
-1306051021,Sintuk Toboh Gadang
-1306051030,Ulakan Tapakis
-1306051040,Nan Sabaris
-1306051050,2 X 11 Enam Lingkung
-1306051051,Enam Lingkung
-1306051052,2 X 11 Kayu Tanam
-1306051060,Vii Koto Sungai Sariak
-1306051061,Patamuan
-1306051062,Padang Sago
-1306051070,V Koto Kp Dalam
-1306051071,V Koto Timur
-1306051080,Sungai Limau
-1306051081,Batang Gasan
-1306051090,Sungai Geringging
-1306051100,Iv Koto Aur Malintang
+1306051001,Koto Tinggi
+1306051002,Gadua
+1306051003,Toboh Ketek
+1306051004,Pakandangan
+1306051005,Parik Malintang
 1306052,2 X 11 Kayu Tanam
-1306052010,Batang Anai
-1306052020,Lubuk Alung
-1306052021,Sintuk Toboh Gadang
-1306052030,Ulakan Tapakis
-1306052040,Nan Sabaris
-1306052050,2 X 11 Enam Lingkung
-1306052051,Enam Lingkung
-1306052052,2 X 11 Kayu Tanam
-1306052060,Vii Koto Sungai Sariak
-1306052061,Patamuan
-1306052062,Padang Sago
-1306052070,V Koto Kp Dalam
-1306052071,V Koto Timur
-1306052080,Sungai Limau
-1306052081,Batang Gasan
-1306052090,Sungai Geringging
-1306052100,Iv Koto Aur Malintang
+1306052001,Kapalo Hilalang
+1306052002,Kayu Tanam
+1306052003,Guguak
+1306052004,Anduring
 1306060,Vii Koto Sungai Sariak
-1306060010,Batang Anai
-1306060020,Lubuk Alung
-1306060021,Sintuk Toboh Gadang
-1306060030,Ulakan Tapakis
-1306060040,Nan Sabaris
-1306060050,2 X 11 Enam Lingkung
-1306060051,Enam Lingkung
-1306060052,2 X 11 Kayu Tanam
-1306060060,Vii Koto Sungai Sariak
-1306060061,Patamuan
-1306060062,Padang Sago
-1306060070,V Koto Kp Dalam
-1306060071,V Koto Timur
-1306060080,Sungai Limau
-1306060081,Batang Gasan
-1306060090,Sungai Geringging
-1306060100,Iv Koto Aur Malintang
+1306060001,Balah Aia
+1306060002,Lareh Nan Panjang
+1306060003,Lurah Ampalu
+1306060004,Sungai Sariak
+1306060005,Balah Aie Timur
+1306060006,Balah Aie Utara
+1306060007,Lareh Nan Panjang Selatan
+1306060008,Lareh Nan Panjang Barat
+1306060009,Limpato Sungai Sariak
+1306060010,Bisati Sungai Sariak
+1306060011,Lareh Nan Panjang Sungai Sariak
+1306060012,Ambuang Kapua Sungai Sariak
 1306061,Patamuan
-1306061010,Batang Anai
-1306061020,Lubuk Alung
-1306061021,Sintuk Toboh Gadang
-1306061030,Ulakan Tapakis
-1306061040,Nan Sabaris
-1306061050,2 X 11 Enam Lingkung
-1306061051,Enam Lingkung
-1306061052,2 X 11 Kayu Tanam
-1306061060,Vii Koto Sungai Sariak
-1306061061,Patamuan
-1306061062,Padang Sago
-1306061070,V Koto Kp Dalam
-1306061071,V Koto Timur
-1306061080,Sungai Limau
-1306061081,Batang Gasan
-1306061090,Sungai Geringging
-1306061100,Iv Koto Aur Malintang
+1306061001,Sungai Durian
+1306061002,Tandikat
+1306061003,Tandikat Utara
+1306061004,Kampuang Tanjuang Koto Mambang Sungai Durian
+1306061005,Tandikat Selatan
+1306061006,Tandikat Barat
 1306062,Padang Sago
-1306062010,Batang Anai
-1306062020,Lubuk Alung
-1306062021,Sintuk Toboh Gadang
-1306062030,Ulakan Tapakis
-1306062040,Nan Sabaris
-1306062050,2 X 11 Enam Lingkung
-1306062051,Enam Lingkung
-1306062052,2 X 11 Kayu Tanam
-1306062060,Vii Koto Sungai Sariak
-1306062061,Patamuan
-1306062062,Padang Sago
-1306062070,V Koto Kp Dalam
-1306062071,V Koto Timur
-1306062080,Sungai Limau
-1306062081,Batang Gasan
-1306062090,Sungai Geringging
-1306062100,Iv Koto Aur Malintang
+1306062001,Koto Dalam
+1306062002,Batu Kalang
+1306062003,Koto Baru
+1306062004,Koto Dalam Barat
+1306062005,Koto Dalam Selatan
+1306062006,Batu Kalang Utara
 1306070,V Koto Kp Dalam
-1306070010,Batang Anai
-1306070020,Lubuk Alung
-1306070021,Sintuk Toboh Gadang
-1306070030,Ulakan Tapakis
-1306070040,Nan Sabaris
-1306070050,2 X 11 Enam Lingkung
-1306070051,Enam Lingkung
-1306070052,2 X 11 Kayu Tanam
-1306070060,Vii Koto Sungai Sariak
-1306070061,Patamuan
-1306070062,Padang Sago
-1306070070,V Koto Kp Dalam
-1306070071,V Koto Timur
-1306070080,Sungai Limau
-1306070081,Batang Gasan
-1306070090,Sungai Geringging
-1306070100,Iv Koto Aur Malintang
+1306070001,Campago
+1306070002,Sikucur
+1306070003,Campago Selatan
+1306070004,Campago Barat
+1306070005,Sikucur Tengah
+1306070006,Sikucur Barat
+1306070007,Sikucur Utara
+1306070008,Sikucur Timur
 1306071,V Koto Timur
-1306071010,Batang Anai
-1306071020,Lubuk Alung
-1306071021,Sintuk Toboh Gadang
-1306071030,Ulakan Tapakis
-1306071040,Nan Sabaris
-1306071050,2 X 11 Enam Lingkung
-1306071051,Enam Lingkung
-1306071052,2 X 11 Kayu Tanam
-1306071060,Vii Koto Sungai Sariak
-1306071061,Patamuan
-1306071062,Padang Sago
-1306071070,V Koto Kp Dalam
-1306071071,V Koto Timur
-1306071080,Sungai Limau
-1306071081,Batang Gasan
-1306071090,Sungai Geringging
-1306071100,Iv Koto Aur Malintang
+1306071001,Limau Puruik
+1306071002,Kudu Gantiang
+1306071003,Gunung Padang Alai
+1306071004,Kudu Gantiang Barat
 1306080,Sungai Limau
-1306080010,Batang Anai
-1306080020,Lubuk Alung
-1306080021,Sintuk Toboh Gadang
-1306080030,Ulakan Tapakis
-1306080040,Nan Sabaris
-1306080050,2 X 11 Enam Lingkung
-1306080051,Enam Lingkung
-1306080052,2 X 11 Kayu Tanam
-1306080060,Vii Koto Sungai Sariak
-1306080061,Patamuan
-1306080062,Padang Sago
-1306080070,V Koto Kp Dalam
-1306080071,V Koto Timur
-1306080080,Sungai Limau
-1306080081,Batang Gasan
-1306080090,Sungai Geringging
-1306080100,Iv Koto Aur Malintang
+1306080001,Pilubang
+1306080002,Kuranji Hilir
+1306080003,Koto Tinggi Kuranji Hilir
+1306080004,Guguak Kuranji Hilir
 1306081,Batang Gasan
-1306081010,Batang Anai
-1306081020,Lubuk Alung
-1306081021,Sintuk Toboh Gadang
-1306081030,Ulakan Tapakis
-1306081040,Nan Sabaris
-1306081050,2 X 11 Enam Lingkung
-1306081051,Enam Lingkung
-1306081052,2 X 11 Kayu Tanam
-1306081060,Vii Koto Sungai Sariak
-1306081061,Patamuan
-1306081062,Padang Sago
-1306081070,V Koto Kp Dalam
-1306081071,V Koto Timur
-1306081080,Sungai Limau
-1306081081,Batang Gasan
-1306081090,Sungai Geringging
-1306081100,Iv Koto Aur Malintang
+1306081001,Gasan Gadang
+1306081002,Malai V Suku
+1306081003,Malai V Suku Timur
 1306090,Sungai Geringging
-1306090010,Batang Anai
-1306090020,Lubuk Alung
-1306090021,Sintuk Toboh Gadang
-1306090030,Ulakan Tapakis
-1306090040,Nan Sabaris
-1306090050,2 X 11 Enam Lingkung
-1306090051,Enam Lingkung
-1306090052,2 X 11 Kayu Tanam
-1306090060,Vii Koto Sungai Sariak
-1306090061,Patamuan
-1306090062,Padang Sago
-1306090070,V Koto Kp Dalam
-1306090071,V Koto Timur
-1306090080,Sungai Limau
-1306090081,Batang Gasan
-1306090090,Sungai Geringging
-1306090100,Iv Koto Aur Malintang
+1306090001,Kuranji Hulu
+1306090002,Malai Iii Koto
+1306090003,Batu Gadang Kuranji Hulu
+1306090004,Sungai Sirah Kuranji Hulu
 1306100,Iv Koto Aur Malintang
-1306100010,Batang Anai
-1306100020,Lubuk Alung
-1306100021,Sintuk Toboh Gadang
-1306100030,Ulakan Tapakis
-1306100040,Nan Sabaris
-1306100050,2 X 11 Enam Lingkung
-1306100051,Enam Lingkung
-1306100052,2 X 11 Kayu Tanam
-1306100060,Vii Koto Sungai Sariak
-1306100061,Patamuan
-1306100062,Padang Sago
-1306100070,V Koto Kp Dalam
-1306100071,V Koto Timur
-1306100080,Sungai Limau
-1306100081,Batang Gasan
-1306100090,Sungai Geringging
-1306100100,Iv Koto Aur Malintang
+1306100001,Iii Koto Aur Malintang
+1306100002,Iii Koto Aur Malintang Selatan
+1306100003,Iii Koto Aur Malintang Timur
+1306100004,Iii Koto Aur Malintang Utara
+1306100005,Balai Baik Malai Iii Koto
 1307,Agam
 1307010,Tanjung Mutiara
-1307010010,Tanjung Mutiara
-1307010020,Lubuk Basung
-1307010021,Ampek Nagari
-1307010030,Tanjung Raya
-1307010040,Matur
-1307010050,Iv Koto
-1307010051,Malalak
-1307010061,Banuhampu
-1307010062,Sungai Pua
-1307010070,Ampek Angkek
-1307010071,Canduang
-1307010080,Baso
-1307010090,Tilatang Kamang
-1307010091,Kamang Magek
-1307010100,Palembayan
-1307010110,Palupuh
+1307010001,Tiku Selatan
+1307010002,Tiku Utara
+1307010003,Tiku Limo Jorong
+1307010004,Nagari Persiapan Durian Kapeh Darussalam
 1307020,Lubuk Basung
-1307020010,Tanjung Mutiara
-1307020020,Lubuk Basung
-1307020021,Ampek Nagari
-1307020030,Tanjung Raya
-1307020040,Matur
-1307020050,Iv Koto
-1307020051,Malalak
-1307020061,Banuhampu
-1307020062,Sungai Pua
-1307020070,Ampek Angkek
-1307020071,Canduang
-1307020080,Baso
-1307020090,Tilatang Kamang
-1307020091,Kamang Magek
-1307020100,Palembayan
-1307020110,Palupuh
+1307020001,Manggopoh
+1307020002,Garagahan
+1307020003,Kampuang Tangah
+1307020004,Kampung Pinang
+1307020005,Lubuk Basung
+1307020006,Nagari Persiapan Kandih Lubuk Basung
+1307020007,Nagari Persiapan Sangkir Lubuk Basung
+1307020008,Nagari Persiapan Surabayo Lubuk Basung
+1307020009,Nagari Persiapan Sungai Jariang Lubuk Basung
+1307020010,Nagari Persiapan Parit Panjang Lubuk Basung
 1307021,Ampek Nagari
-1307021010,Tanjung Mutiara
-1307021020,Lubuk Basung
-1307021021,Ampek Nagari
-1307021030,Tanjung Raya
-1307021040,Matur
-1307021050,Iv Koto
-1307021051,Malalak
-1307021061,Banuhampu
-1307021062,Sungai Pua
-1307021070,Ampek Angkek
-1307021071,Canduang
-1307021080,Baso
-1307021090,Tilatang Kamang
-1307021091,Kamang Magek
-1307021100,Palembayan
-1307021110,Palupuh
+1307021001,Bawan
+1307021002,Sitanang
+1307021003,Batu Kambing
+1307021004,Sitalang
 1307030,Tanjung Raya
-1307030010,Tanjung Mutiara
-1307030020,Lubuk Basung
-1307030021,Ampek Nagari
-1307030030,Tanjung Raya
-1307030040,Matur
-1307030050,Iv Koto
-1307030051,Malalak
-1307030061,Banuhampu
-1307030062,Sungai Pua
-1307030070,Ampek Angkek
-1307030071,Canduang
-1307030080,Baso
-1307030090,Tilatang Kamang
-1307030091,Kamang Magek
-1307030100,Palembayan
-1307030110,Palupuh
+1307030001,Tanjung Sani
+1307030002,Sungai Batang
+1307030003,Maninjau
+1307030004,Bayua
+1307030005,Duo Koto
+1307030006,Paninjauan
+1307030007,Koto Kaciak
+1307030008,Koto Gadang Anam Koto
+1307030009,Koto Malintang
+1307030010,Nagari Persiapan Dalko
 1307040,Matur
-1307040010,Tanjung Mutiara
-1307040020,Lubuk Basung
-1307040021,Ampek Nagari
-1307040030,Tanjung Raya
-1307040040,Matur
-1307040050,Iv Koto
-1307040051,Malalak
-1307040061,Banuhampu
-1307040062,Sungai Pua
-1307040070,Ampek Angkek
-1307040071,Canduang
-1307040080,Baso
-1307040090,Tilatang Kamang
-1307040091,Kamang Magek
-1307040100,Palembayan
-1307040110,Palupuh
+1307040001,Matua Mudiak
+1307040002,Parik Panjang
+1307040003,Panta Pauah
+1307040004,Matua Hilia
+1307040005,Tigo Balai
+1307040006,Lawang
 1307050,Iv Koto
-1307050010,Tanjung Mutiara
-1307050020,Lubuk Basung
-1307050021,Ampek Nagari
-1307050030,Tanjung Raya
-1307050040,Matur
-1307050050,Iv Koto
-1307050051,Malalak
-1307050061,Banuhampu
-1307050062,Sungai Pua
-1307050070,Ampek Angkek
-1307050071,Canduang
-1307050080,Baso
-1307050090,Tilatang Kamang
-1307050091,Kamang Magek
-1307050100,Palembayan
-1307050110,Palupuh
+1307050001,Koto Tuo
+1307050002,Balingka
+1307050003,Sungai Landia
+1307050004,Koto Panjang
+1307050005,Sianok Anam Suku
+1307050006,Koto Gadang
+1307050007,Guguak Tabek Sarojo
 1307051,Malalak
-1307051010,Tanjung Mutiara
-1307051020,Lubuk Basung
-1307051021,Ampek Nagari
-1307051030,Tanjung Raya
-1307051040,Matur
-1307051050,Iv Koto
-1307051051,Malalak
-1307051061,Banuhampu
-1307051062,Sungai Pua
-1307051070,Ampek Angkek
-1307051071,Canduang
-1307051080,Baso
-1307051090,Tilatang Kamang
-1307051091,Kamang Magek
-1307051100,Palembayan
-1307051110,Palupuh
+1307051001,Malalak Selatan
+1307051002,Malalak Barat
+1307051003,Malalak Timur
+1307051004,Malalak Utara
 1307061,Banuhampu
-1307061010,Tanjung Mutiara
-1307061020,Lubuk Basung
-1307061021,Ampek Nagari
-1307061030,Tanjung Raya
-1307061040,Matur
-1307061050,Iv Koto
-1307061051,Malalak
-1307061061,Banuhampu
-1307061062,Sungai Pua
-1307061070,Ampek Angkek
-1307061071,Canduang
-1307061080,Baso
-1307061090,Tilatang Kamang
-1307061091,Kamang Magek
-1307061100,Palembayan
-1307061110,Palupuh
+1307061001,Pakan Sinayan
+1307061002,Sungai Tanang
+1307061003,Padang Lua
+1307061004,Cingkariang
+1307061005,Ladang Laweh
+1307061006,Taluak Ampek Suku
+1307061007,Kubang Putiah
 1307062,Sungai Pua
-1307062010,Tanjung Mutiara
-1307062020,Lubuk Basung
-1307062021,Ampek Nagari
-1307062030,Tanjung Raya
-1307062040,Matur
-1307062050,Iv Koto
-1307062051,Malalak
-1307062061,Banuhampu
-1307062062,Sungai Pua
-1307062070,Ampek Angkek
-1307062071,Canduang
-1307062080,Baso
-1307062090,Tilatang Kamang
-1307062091,Kamang Magek
-1307062100,Palembayan
-1307062110,Palupuh
+1307062001,Batu Palano
+1307062002,Padang Laweh
+1307062003,Batagak
+1307062004,Sariak
+1307062005,Sungai Pua
 1307070,Ampek Angkek
-1307070010,Tanjung Mutiara
-1307070020,Lubuk Basung
-1307070021,Ampek Nagari
-1307070030,Tanjung Raya
-1307070040,Matur
-1307070050,Iv Koto
-1307070051,Malalak
-1307070061,Banuhampu
-1307070062,Sungai Pua
-1307070070,Ampek Angkek
-1307070071,Canduang
-1307070080,Baso
-1307070090,Tilatang Kamang
-1307070091,Kamang Magek
-1307070100,Palembayan
-1307070110,Palupuh
+1307070001,Batu Taba
+1307070002,Pasia
+1307070003,Balai Gurah
+1307070004,Ampang Gadang
+1307070005,Biaro Gadang
+1307070006,Lambah
+1307070007,Panampuang
 1307071,Canduang
-1307071010,Tanjung Mutiara
-1307071020,Lubuk Basung
-1307071021,Ampek Nagari
-1307071030,Tanjung Raya
-1307071040,Matur
-1307071050,Iv Koto
-1307071051,Malalak
-1307071061,Banuhampu
-1307071062,Sungai Pua
-1307071070,Ampek Angkek
-1307071071,Canduang
-1307071080,Baso
-1307071090,Tilatang Kamang
-1307071091,Kamang Magek
-1307071100,Palembayan
-1307071110,Palupuh
+1307071001,Bukik Batabuah
+1307071002,Lasi
+1307071003,Canduang Koto Laweh
 1307080,Baso
-1307080010,Tanjung Mutiara
-1307080020,Lubuk Basung
-1307080021,Ampek Nagari
-1307080030,Tanjung Raya
-1307080040,Matur
-1307080050,Iv Koto
-1307080051,Malalak
-1307080061,Banuhampu
-1307080062,Sungai Pua
-1307080070,Ampek Angkek
-1307080071,Canduang
-1307080080,Baso
-1307080090,Tilatang Kamang
-1307080091,Kamang Magek
-1307080100,Palembayan
-1307080110,Palupuh
+1307080001,Koto Tinggi
+1307080002,Padang Tarok
+1307080003,Simarasok
+1307080004,Tabek Panjang
+1307080005,Salo
+1307080006,Koto Baru
+1307080007,Nagari Persiapan Koto Gadang
+1307080008,Nagari Persiapan Sungai Cubadak
 1307090,Tilatang Kamang
-1307090010,Tanjung Mutiara
-1307090020,Lubuk Basung
-1307090021,Ampek Nagari
-1307090030,Tanjung Raya
-1307090040,Matur
-1307090050,Iv Koto
-1307090051,Malalak
-1307090061,Banuhampu
-1307090062,Sungai Pua
-1307090070,Ampek Angkek
-1307090071,Canduang
-1307090080,Baso
-1307090090,Tilatang Kamang
-1307090091,Kamang Magek
-1307090100,Palembayan
-1307090110,Palupuh
+1307090001,Gadut
+1307090002,Kapau
+1307090003,Koto Tangah
 1307091,Kamang Magek
-1307091010,Tanjung Mutiara
-1307091020,Lubuk Basung
-1307091021,Ampek Nagari
-1307091030,Tanjung Raya
-1307091040,Matur
-1307091050,Iv Koto
-1307091051,Malalak
-1307091061,Banuhampu
-1307091062,Sungai Pua
-1307091070,Ampek Angkek
-1307091071,Canduang
-1307091080,Baso
-1307091090,Tilatang Kamang
-1307091091,Kamang Magek
-1307091100,Palembayan
-1307091110,Palupuh
+1307091001,Magek
+1307091002,Kamang Hilia
+1307091003,Kamang Mudiak
+1307091004,Nagari Persiapan Kamang Tangah Anam Suku
+1307091005,Nagari Persiapan Pauh Kamang Mudiak
 1307100,Palembayan
-1307100010,Tanjung Mutiara
-1307100020,Lubuk Basung
-1307100021,Ampek Nagari
-1307100030,Tanjung Raya
-1307100040,Matur
-1307100050,Iv Koto
-1307100051,Malalak
-1307100061,Banuhampu
-1307100062,Sungai Pua
-1307100070,Ampek Angkek
-1307100071,Canduang
-1307100080,Baso
-1307100090,Tilatang Kamang
-1307100091,Kamang Magek
-1307100100,Palembayan
-1307100110,Palupuh
+1307100001,Baringin
+1307100002,Sungai Puar
+1307100003,Sipinang
+1307100004,Ampek Koto Palembayan
+1307100005,Tigo Koto Silungkang
+1307100006,Salareh Aia
+1307100007,Nagari Persiapan Salareh Aia Timur
+1307100008,Nagari Persiapan Salareh Aia Barat
+1307100009,Nagari Persiapan Salareh Aia Utara
+1307100010,Nagari Persiapan Tigo Koto Silungkang Timur
 1307110,Palupuh
-1307110010,Tanjung Mutiara
-1307110020,Lubuk Basung
-1307110021,Ampek Nagari
-1307110030,Tanjung Raya
-1307110040,Matur
-1307110050,Iv Koto
-1307110051,Malalak
-1307110061,Banuhampu
-1307110062,Sungai Pua
-1307110070,Ampek Angkek
-1307110071,Canduang
-1307110080,Baso
-1307110090,Tilatang Kamang
-1307110091,Kamang Magek
-1307110100,Palembayan
-1307110110,Palupuh
+1307110001,Koto Rantang
+1307110002,Pasia Laweh
+1307110003,Pagadih
+1307110004,Nan Tujuah
+1307110005,Nagari Persiapan Nan Limo
 1308,Lima Puluh Kota
 1308010,Payakumbuh
-1308010010,Payakumbuh
-1308010011,Akabiluru
-1308010020,Luak
-1308010021,Lareh Sago Halaban
-1308010022,Situjuah Limo Nagari
-1308010030,Harau
-1308010040,Guguak
-1308010041,Mungka
-1308010050,Suliki
-1308010051,Bukik Barisan
-1308010060,Gunuang Omeh
-1308010070,Kapur Ix
-1308010080,Pangkalan Koto Baru
+1308010001,Sungai Baringin
+1308010002,Koto Baru Simalanggang
+1308010003,Simalanggang
+1308010004,Koto Tangah Simalanggang
+1308010005,Taeh Baruah
+1308010006,Piobang
+1308010007,Taeh Bukik
 1308011,Akabiluru
-1308011010,Payakumbuh
-1308011011,Akabiluru
-1308011020,Luak
-1308011021,Lareh Sago Halaban
-1308011022,Situjuah Limo Nagari
-1308011030,Harau
-1308011040,Guguak
-1308011041,Mungka
-1308011050,Suliki
-1308011051,Bukik Barisan
-1308011060,Gunuang Omeh
-1308011070,Kapur Ix
-1308011080,Pangkalan Koto Baru
+1308011001,Koto Tangah Batu Hampa
+1308011002,Batu Hampa
+1308011003,Sariak Laweh
+1308011004,Sungai Balantiak
+1308011005,Suayan
+1308011006,Pauah Sangik
+1308011007,Durian Gadang
 1308020,Luak
-1308020010,Payakumbuh
-1308020011,Akabiluru
-1308020020,Luak
-1308020021,Lareh Sago Halaban
-1308020022,Situjuah Limo Nagari
-1308020030,Harau
-1308020040,Guguak
-1308020041,Mungka
-1308020050,Suliki
-1308020051,Bukik Barisan
-1308020060,Gunuang Omeh
-1308020070,Kapur Ix
-1308020080,Pangkalan Koto Baru
+1308020001,Mungo
+1308020002,Andaleh
+1308020003,Sungai Kamuyang
+1308020004,Tanjuang Aro Sikabu-kabu Pd. Panjang
 1308021,Lareh Sago Halaban
-1308021010,Payakumbuh
-1308021011,Akabiluru
-1308021020,Luak
-1308021021,Lareh Sago Halaban
-1308021022,Situjuah Limo Nagari
-1308021030,Harau
-1308021040,Guguak
-1308021041,Mungka
-1308021050,Suliki
-1308021051,Bukik Barisan
-1308021060,Gunuang Omeh
-1308021070,Kapur Ix
-1308021080,Pangkalan Koto Baru
+1308021001,Halaban
+1308021002,Ampalu
+1308021003,Tanjuang Gadang
+1308021004,Sitanang
+1308021005,Batu Payuang
+1308021006,Labuah Gunuang
+1308021007,Balai Panjang
+1308021008,Bukik Sikumpa
 1308022,Situjuah Limo Nagari
-1308022010,Payakumbuh
-1308022011,Akabiluru
-1308022020,Luak
-1308022021,Lareh Sago Halaban
-1308022022,Situjuah Limo Nagari
-1308022030,Harau
-1308022040,Guguak
-1308022041,Mungka
-1308022050,Suliki
-1308022051,Bukik Barisan
-1308022060,Gunuang Omeh
-1308022070,Kapur Ix
-1308022080,Pangkalan Koto Baru
+1308022001,Situjuah Gadang
+1308022002,Situjuah Banda Dalam
+1308022003,Situjuah Batua
+1308022004,Tungka
+1308022005,Situjuah Ladang Laweh
 1308030,Harau
-1308030010,Payakumbuh
-1308030011,Akabiluru
-1308030020,Luak
-1308030021,Lareh Sago Halaban
-1308030022,Situjuah Limo Nagari
-1308030030,Harau
-1308030040,Guguak
-1308030041,Mungka
-1308030050,Suliki
-1308030051,Bukik Barisan
-1308030060,Gunuang Omeh
-1308030070,Kapur Ix
-1308030080,Pangkalan Koto Baru
+1308030001,Taram
+1308030002,Bukik Limbuku
+1308030003,Pilubang
+1308030004,Batu Balang
+1308030005,Koto Tuo
+1308030006,Lubuak Batingkok
+1308030007,Gurun
+1308030008,Sarilamak
+1308030009,Tarantang
+1308030010,Solok Bio-bio
+1308030011,Harau
+1308030012,Nagari Persiapan Hulu Aia
 1308040,Guguak
-1308040010,Payakumbuh
-1308040011,Akabiluru
-1308040020,Luak
-1308040021,Lareh Sago Halaban
-1308040022,Situjuah Limo Nagari
-1308040030,Harau
-1308040040,Guguak
-1308040041,Mungka
-1308040050,Suliki
-1308040051,Bukik Barisan
-1308040060,Gunuang Omeh
-1308040070,Kapur Ix
-1308040080,Pangkalan Koto Baru
+1308040001,Kubang
+1308040002,Simpang Sugiran
+1308040003,Sungai Talang
+1308040004,Guguak Viii Koto
+1308040005,Vii Koto Talago
 1308041,Mungka
-1308041010,Payakumbuh
-1308041011,Akabiluru
-1308041020,Luak
-1308041021,Lareh Sago Halaban
-1308041022,Situjuah Limo Nagari
-1308041030,Harau
-1308041040,Guguak
-1308041041,Mungka
-1308041050,Suliki
-1308041051,Bukik Barisan
-1308041060,Gunuang Omeh
-1308041070,Kapur Ix
-1308041080,Pangkalan Koto Baru
+1308041001,Jopang Manganti
+1308041002,Mungka
+1308041003,Talang Maua
+1308041004,Simpang Kapuak
+1308041005,Sungai Antuan
 1308050,Suliki
-1308050010,Payakumbuh
-1308050011,Akabiluru
-1308050020,Luak
-1308050021,Lareh Sago Halaban
-1308050022,Situjuah Limo Nagari
-1308050030,Harau
-1308050040,Guguak
-1308050041,Mungka
-1308050050,Suliki
-1308050051,Bukik Barisan
-1308050060,Gunuang Omeh
-1308050070,Kapur Ix
-1308050080,Pangkalan Koto Baru
+1308050001,Kurai
+1308050002,Suliki
+1308050003,Limbanang
+1308050004,Sungai Rimbang
+1308050005,Tanjuang Bungo
+1308050006,Andiang
 1308051,Bukik Barisan
-1308051010,Payakumbuh
-1308051011,Akabiluru
-1308051020,Luak
-1308051021,Lareh Sago Halaban
-1308051022,Situjuah Limo Nagari
-1308051030,Harau
-1308051040,Guguak
-1308051041,Mungka
-1308051050,Suliki
-1308051051,Bukik Barisan
-1308051060,Gunuang Omeh
-1308051070,Kapur Ix
-1308051080,Pangkalan Koto Baru
+1308051001,Koto Tangah
+1308051002,Banja Laweh
+1308051003,Maek
+1308051004,Sungai Naniang
+1308051005,Baruah Gunuang
+1308051006,Nagari Persiapan Koto Tinggi Maek
 1308060,Gunuang Omeh
-1308060010,Payakumbuh
-1308060011,Akabiluru
-1308060020,Luak
-1308060021,Lareh Sago Halaban
-1308060022,Situjuah Limo Nagari
-1308060030,Harau
-1308060040,Guguak
-1308060041,Mungka
-1308060050,Suliki
-1308060051,Bukik Barisan
-1308060060,Gunuang Omeh
-1308060070,Kapur Ix
-1308060080,Pangkalan Koto Baru
+1308060001,Pandam Gadang
+1308060002,Talang Anau
+1308060003,Koto Tinggi
 1308070,Kapur Ix
-1308070010,Payakumbuh
-1308070011,Akabiluru
-1308070020,Luak
-1308070021,Lareh Sago Halaban
-1308070022,Situjuah Limo Nagari
-1308070030,Harau
-1308070040,Guguak
-1308070041,Mungka
-1308070050,Suliki
-1308070051,Bukik Barisan
-1308070060,Gunuang Omeh
-1308070070,Kapur Ix
-1308070080,Pangkalan Koto Baru
+1308070001,Koto Lamo
+1308070002,Lubuak Alai
+1308070003,Muaro Paiti
+1308070004,Koto Bangun
+1308070005,Durian Tinggi
+1308070006,Sialang
+1308070007,Galugua
 1308080,Pangkalan Koto Baru
-1308080010,Payakumbuh
-1308080011,Akabiluru
-1308080020,Luak
-1308080021,Lareh Sago Halaban
-1308080022,Situjuah Limo Nagari
-1308080030,Harau
-1308080040,Guguak
-1308080041,Mungka
-1308080050,Suliki
-1308080051,Bukik Barisan
-1308080060,Gunuang Omeh
-1308080070,Kapur Ix
-1308080080,Pangkalan Koto Baru
+1308080001,Koto Alam
+1308080002,Manggilang
+1308080003,Pangkalan
+1308080004,Gunuang Malintang
+1308080005,Tanjuang Balik
+1308080006,Tanjuang Pauah
 1309,Pasaman
 1309070,Bonjol
-1309070070,Bonjol
-1309070071,Tigo Nagari
-1309070072,Simpang Alahan Mati
-1309070080,Lubuk Sikaping
-1309070100,Dua Koto
-1309070110,Panti
-1309070111,Padang Gelugur
-1309070121,Rao
-1309070122,Mapat Tunggul
-1309070123,Mapat Tunggul Selatan
-1309070124,Rao Selatan
-1309070125,Rao Utara
+1309070001,Koto Kaciak
+1309070002,Limo Koto
+1309070003,Ganggo Hilia
+1309070004,Ganggo Mudiak
+1309070005,Nagari Persiapan Koto Kaciak Barat
 1309071,Tigo Nagari
-1309071070,Bonjol
-1309071071,Tigo Nagari
-1309071072,Simpang Alahan Mati
-1309071080,Lubuk Sikaping
-1309071100,Dua Koto
-1309071110,Panti
-1309071111,Padang Gelugur
-1309071121,Rao
-1309071122,Mapat Tunggul
-1309071123,Mapat Tunggul Selatan
-1309071124,Rao Selatan
-1309071125,Rao Utara
+1309071001,Binjai
+1309071002,Ladang Panjang
+1309071003,Malampah
+1309071004,Nagari Persiapan Ladang Panjang Barat
+1309071005,Nagari Persiapan Malampah Barat
 1309072,Simpang Alahan Mati
-1309072070,Bonjol
-1309072071,Tigo Nagari
-1309072072,Simpang Alahan Mati
-1309072080,Lubuk Sikaping
-1309072100,Dua Koto
-1309072110,Panti
-1309072111,Padang Gelugur
-1309072121,Rao
-1309072122,Mapat Tunggul
-1309072123,Mapat Tunggul Selatan
-1309072124,Rao Selatan
-1309072125,Rao Utara
+1309072001,Alahan Mati
+1309072002,Simpang
+1309072003,Nagari Persiapan Alahan Mati Hilia
+1309072004,Nagari Persiapan Simpang Utara
 1309080,Lubuk Sikaping
-1309080070,Bonjol
-1309080071,Tigo Nagari
-1309080072,Simpang Alahan Mati
-1309080080,Lubuk Sikaping
-1309080100,Dua Koto
-1309080110,Panti
-1309080111,Padang Gelugur
-1309080121,Rao
-1309080122,Mapat Tunggul
-1309080123,Mapat Tunggul Selatan
-1309080124,Rao Selatan
-1309080125,Rao Utara
+1309080001,Tanjung Beringin
+1309080002,Jambak
+1309080003,Durian Tinggi
+1309080004,Pauah
+1309080005,Aia Manggih
+1309080006,Sundata
+1309080007,Nagari Persiapan Tanjung Beringin Selatan
+1309080008,Nagari Persiapan Tanjung Beringin Utara
+1309080009,Nagari Persiapan Aia Manggih Barat
+1309080010,Nagari Persiapan Aia Manggih Selatan
+1309080011,Nagari Persiapan Aia Manggih Utara
+1309080012,Nagari Persiapan Sundata Selatan
+1309080013,Nagari Persiapan Sundata Utara
 1309100,Dua Koto
-1309100070,Bonjol
-1309100071,Tigo Nagari
-1309100072,Simpang Alahan Mati
-1309100080,Lubuk Sikaping
-1309100100,Dua Koto
-1309100110,Panti
-1309100111,Padang Gelugur
-1309100121,Rao
-1309100122,Mapat Tunggul
-1309100123,Mapat Tunggul Selatan
-1309100124,Rao Selatan
-1309100125,Rao Utara
+1309100001,Cubadak
+1309100002,Simpang Tonang
+1309100003,Nagari Persiapan Cubadak Barat
+1309100004,Nagari Persiapan Cubadak Tengah
+1309100005,Nagari Persiapan Cubadak Timur
+1309100006,Nagari Persiapan Simpang Tonang Selatan
+1309100007,Nagari Persiapan Simpang Tonang Utara
 1309110,Panti
-1309110070,Bonjol
-1309110071,Tigo Nagari
-1309110072,Simpang Alahan Mati
-1309110080,Lubuk Sikaping
-1309110100,Dua Koto
-1309110110,Panti
-1309110111,Padang Gelugur
-1309110121,Rao
-1309110122,Mapat Tunggul
-1309110123,Mapat Tunggul Selatan
-1309110124,Rao Selatan
-1309110125,Rao Utara
+1309110001,Panti
+1309110002,Panti Selatan
+1309110003,Panti Timur
+1309110004,Nagari Persiapan Panti Utara
 1309111,Padang Gelugur
-1309111070,Bonjol
-1309111071,Tigo Nagari
-1309111072,Simpang Alahan Mati
-1309111080,Lubuk Sikaping
-1309111100,Dua Koto
-1309111110,Panti
-1309111111,Padang Gelugur
-1309111121,Rao
-1309111122,Mapat Tunggul
-1309111123,Mapat Tunggul Selatan
-1309111124,Rao Selatan
-1309111125,Rao Utara
+1309111001,Padang Galugua
+1309111002,Bahagia Padang Galugua
+1309111003,Sitombol Padang Galugua
+1309111004,Sontang Cubadak
 1309121,Rao
-1309121070,Bonjol
-1309121071,Tigo Nagari
-1309121072,Simpang Alahan Mati
-1309121080,Lubuk Sikaping
-1309121100,Dua Koto
-1309121110,Panti
-1309121111,Padang Gelugur
-1309121121,Rao
-1309121122,Mapat Tunggul
-1309121123,Mapat Tunggul Selatan
-1309121124,Rao Selatan
-1309121125,Rao Utara
+1309121001,Taruang-taruang
+1309121002,Padang Mantinggi
+1309121003,Nagari Persiapan Taruang-taruang Selatan
+1309121004,Nagari Persiapan Taruang-taruang Utara
+1309121005,Nagari Persiapan Padang Mantinggi Utara
 1309122,Mapat Tunggul
-1309122070,Bonjol
-1309122071,Tigo Nagari
-1309122072,Simpang Alahan Mati
-1309122080,Lubuk Sikaping
-1309122100,Dua Koto
-1309122110,Panti
-1309122111,Padang Gelugur
-1309122121,Rao
-1309122122,Mapat Tunggul
-1309122123,Mapat Tunggul Selatan
-1309122124,Rao Selatan
-1309122125,Rao Utara
+1309122001,Lubuak Gadang
+1309122002,Pintu Padang
+1309122003,Muaro Tais
+1309122004,Nagari Persiapan Muaro Tais Koto Gadang
 1309123,Mapat Tunggul Selatan
-1309123070,Bonjol
-1309123071,Tigo Nagari
-1309123072,Simpang Alahan Mati
-1309123080,Lubuk Sikaping
-1309123100,Dua Koto
-1309123110,Panti
-1309123111,Padang Gelugur
-1309123121,Rao
-1309123122,Mapat Tunggul
-1309123123,Mapat Tunggul Selatan
-1309123124,Rao Selatan
-1309123125,Rao Utara
+1309123001,Muaro Sungai Lolo
+1309123002,Silayang
 1309124,Rao Selatan
-1309124070,Bonjol
-1309124071,Tigo Nagari
-1309124072,Simpang Alahan Mati
-1309124080,Lubuk Sikaping
-1309124100,Dua Koto
-1309124110,Panti
-1309124111,Padang Gelugur
-1309124121,Rao
-1309124122,Mapat Tunggul
-1309124123,Mapat Tunggul Selatan
-1309124124,Rao Selatan
-1309124125,Rao Utara
+1309124001,Lansek Kadok
+1309124002,Tanjung Betung
+1309124003,Lubuak Layang
+1309124004,Nagari Persiapan Lansek Kadok Barat
+1309124005,Nagari Persiapan Tanjung Betung Timur
+1309124006,Nagari Persiapan Tanjung Betung Utara
 1309125,Rao Utara
-1309125070,Bonjol
-1309125071,Tigo Nagari
-1309125072,Simpang Alahan Mati
-1309125080,Lubuk Sikaping
-1309125100,Dua Koto
-1309125110,Panti
-1309125111,Padang Gelugur
-1309125121,Rao
-1309125122,Mapat Tunggul
-1309125123,Mapat Tunggul Selatan
-1309125124,Rao Selatan
-1309125125,Rao Utara
+1309125001,Koto Nopan
+1309125002,Koto Rajo
+1309125003,Languang
 1310,Solok Selatan
 1310010,Sangir
-1310010010,Sangir
-1310010020,Sangir Jujuan
-1310010021,Sangir Balai Janggo
-1310010030,Sangir Batang Hari
-1310010040,Sungai Pagu
-1310010041,Pauah Duo
-1310010050,Koto Parik Gadang Diateh
+1310010001,Lubuk Gadang
+1310010002,Lubuk Gadang Timur
+1310010003,Lubuk Gadang Selatan
+1310010004,Lubuk Gadang Utara
+1310010005,Lubuk Gadang Tenggara
+1310010006,Lubuk Gadang Barat
+1310010007,Lubuk Gadang Barat Daya
 1310020,Sangir Jujuan
-1310020010,Sangir
-1310020020,Sangir Jujuan
-1310020021,Sangir Balai Janggo
-1310020030,Sangir Batang Hari
-1310020040,Sungai Pagu
-1310020041,Pauah Duo
-1310020050,Koto Parik Gadang Diateh
+1310020001,Lubuk Malako
+1310020002,Padang Air Dingin
+1310020003,Bidar Alam
+1310020004,Padang Limau Sundai
+1310020005,Padang Gantiang
 1310021,Sangir Balai Janggo
-1310021010,Sangir
-1310021020,Sangir Jujuan
-1310021021,Sangir Balai Janggo
-1310021030,Sangir Batang Hari
-1310021040,Sungai Pagu
-1310021041,Pauah Duo
-1310021050,Koto Parik Gadang Diateh
+1310021001,Sungai Kunyit
+1310021002,Talunan Maju
+1310021003,Talao Sungai Kunyit
+1310021004,Sungai Kunyit Barat
 1310030,Sangir Batang Hari
-1310030010,Sangir
-1310030020,Sangir Jujuan
-1310030021,Sangir Balai Janggo
-1310030030,Sangir Batang Hari
-1310030040,Sungai Pagu
-1310030041,Pauah Duo
-1310030050,Koto Parik Gadang Diateh
+1310030001,Abai
+1310030002,Ranah Pantai Cermin
+1310030003,Dusun Tangah
+1310030004,Sitapus
+1310030005,Lubuk Ulang Aling
+1310030006,Lubuk Ulang Aling Selatan
+1310030007,Lubuk Ulang Aling Tengah
 1310040,Sungai Pagu
-1310040010,Sangir
-1310040020,Sangir Jujuan
-1310040021,Sangir Balai Janggo
-1310040030,Sangir Batang Hari
-1310040040,Sungai Pagu
-1310040041,Pauah Duo
-1310040050,Koto Parik Gadang Diateh
+1310040001,Koto Baru
+1310040002,Pasar Muara Labuh
+1310040003,Pulakek Koto Baru
+1310040004,Sako Pasia Talang
+1310040005,Pasir Talang
+1310040006,Bomas
+1310040007,Sako Selatan Pasia Talang
+1310040008,Sako Utara Pasia Talang
+1310040009,Pasir Talang Selatan
+1310040010,Pasir Talang Barat
+1310040011,Pasir Talang Timur
 1310041,Pauah Duo
-1310041010,Sangir
-1310041020,Sangir Jujuan
-1310041021,Sangir Balai Janggo
-1310041030,Sangir Batang Hari
-1310041040,Sungai Pagu
-1310041041,Pauah Duo
-1310041050,Koto Parik Gadang Diateh
+1310041001,Alam Pauh Duo
+1310041002,Kapau Alam Pauh Duo
+1310041003,Luak Kapau Alam Pauh Duo
+1310041004,Pauh Duo Nan Batigo
+1310041005,Pekonina Alam Pauh Duo
 1310050,Koto Parik Gadang Diateh
-1310050010,Sangir
-1310050020,Sangir Jujuan
-1310050021,Sangir Balai Janggo
-1310050030,Sangir Batang Hari
-1310050040,Sungai Pagu
-1310050041,Pauah Duo
-1310050050,Koto Parik Gadang Diateh
+1310050001,Pakan Rabaa
+1310050002,Pakan Rabaa Timur
+1310050003,Pakan Rabaa Utara
+1310050004,Pakan Rabaa Tengah
+1310050005,Pakan Rabaa Selatan
+1310050006,Pakan Rabaa Utara Duo
+1310050007,Balun Pakan Rabaa Tengah
+1310050008,Batang Lolo
 1311,Dharmasraya
 1311010,Sungai Rumbai
-1311010010,Sungai Rumbai
-1311010011,Koto Besar
-1311010012,Asam Jujuhan
-1311010020,Koto Baru
-1311010021,Koto Salak
-1311010022,Tiumang
-1311010023,Padang Laweh
-1311010030,Sitiung
-1311010031,Timpeh
-1311010040,Pulau Punjung
-1311010041,Ix Koto
+1311010005,Sungai Rumbai
+1311010006,Kurnia Koto Salak
+1311010007,Sungai Rumbai Timur
+1311010008,Kurnia Selatan
 1311011,Koto Besar
-1311011010,Sungai Rumbai
-1311011011,Koto Besar
-1311011012,Asam Jujuhan
-1311011020,Koto Baru
-1311011021,Koto Salak
-1311011022,Tiumang
-1311011023,Padang Laweh
-1311011030,Sitiung
-1311011031,Timpeh
-1311011040,Pulau Punjung
-1311011041,Ix Koto
+1311011001,Koto Gadang
+1311011002,Koto Tinggi
+1311011003,Bonjol
+1311011004,Abai Siat
+1311011005,Koto Besar
+1311011006,Koto Laweh
+1311011007,Koto Ranah
 1311012,Asam Jujuhan
-1311012010,Sungai Rumbai
-1311012011,Koto Besar
-1311012012,Asam Jujuhan
-1311012020,Koto Baru
-1311012021,Koto Salak
-1311012022,Tiumang
-1311012023,Padang Laweh
-1311012030,Sitiung
-1311012031,Timpeh
-1311012040,Pulau Punjung
-1311012041,Ix Koto
+1311012001,Lubuk Besar
+1311012002,Alahan Nan Tigo
+1311012003,Sungai Limau
+1311012004,Sinamar
+1311012005,Tanjung Alam
 1311020,Koto Baru
-1311020010,Sungai Rumbai
-1311020011,Koto Besar
-1311020012,Asam Jujuhan
-1311020020,Koto Baru
-1311020021,Koto Salak
-1311020022,Tiumang
-1311020023,Padang Laweh
-1311020030,Sitiung
-1311020031,Timpeh
-1311020040,Pulau Punjung
-1311020041,Ix Koto
+1311020001,Ampang Kuranji
+1311020003,Koto Baru
+1311020005,Sialang Gaung
+1311020008,Koto Padang
 1311021,Koto Salak
-1311021010,Sungai Rumbai
-1311021011,Koto Besar
-1311021012,Asam Jujuhan
-1311021020,Koto Baru
-1311021021,Koto Salak
-1311021022,Tiumang
-1311021023,Padang Laweh
-1311021030,Sitiung
-1311021031,Timpeh
-1311021040,Pulau Punjung
-1311021041,Ix Koto
+1311021001,Padukuan
+1311021002,Pulau Mainan
+1311021003,Simalidu
+1311021004,Koto Salak
+1311021005,Ampalu
 1311022,Tiumang
-1311022010,Sungai Rumbai
-1311022011,Koto Besar
-1311022012,Asam Jujuhan
-1311022020,Koto Baru
-1311022021,Koto Salak
-1311022022,Tiumang
-1311022023,Padang Laweh
-1311022030,Sitiung
-1311022031,Timpeh
-1311022040,Pulau Punjung
-1311022041,Ix Koto
+1311022001,Koto Beringin
+1311022002,Sipangkur
+1311022003,Sungai Langkok
+1311022004,Tiumang
 1311023,Padang Laweh
-1311023010,Sungai Rumbai
-1311023011,Koto Besar
-1311023012,Asam Jujuhan
-1311023020,Koto Baru
-1311023021,Koto Salak
-1311023022,Tiumang
-1311023023,Padang Laweh
-1311023030,Sitiung
-1311023031,Timpeh
-1311023040,Pulau Punjung
-1311023041,Ix Koto
+1311023001,Batu Rijal
+1311023002,Muaro Sopan
+1311023003,Padang Laweh
+1311023004,Sopan Jaya
 1311030,Sitiung
-1311030010,Sungai Rumbai
-1311030011,Koto Besar
-1311030012,Asam Jujuhan
-1311030020,Koto Baru
-1311030021,Koto Salak
-1311030022,Tiumang
-1311030023,Padang Laweh
-1311030030,Sitiung
-1311030031,Timpeh
-1311030040,Pulau Punjung
-1311030041,Ix Koto
+1311030001,Sitiung
+1311030002,Siguntur
+1311030004,Gunung Medan
+1311030005,Sungai Duo
 1311031,Timpeh
-1311031010,Sungai Rumbai
-1311031011,Koto Besar
-1311031012,Asam Jujuhan
-1311031020,Koto Baru
-1311031021,Koto Salak
-1311031022,Tiumang
-1311031023,Padang Laweh
-1311031030,Sitiung
-1311031031,Timpeh
-1311031040,Pulau Punjung
-1311031041,Ix Koto
+1311031001,Panyubarangan
+1311031002,Tabek
+1311031003,Timpeh
+1311031004,Taratak Tinggi
+1311031005,Ranah Palabi
 1311040,Pulau Punjung
-1311040010,Sungai Rumbai
-1311040011,Koto Besar
-1311040012,Asam Jujuhan
-1311040020,Koto Baru
-1311040021,Koto Salak
-1311040022,Tiumang
-1311040023,Padang Laweh
-1311040030,Sitiung
-1311040031,Timpeh
-1311040040,Pulau Punjung
-1311040041,Ix Koto
+1311040003,Iv Koto Pulau Punjung
+1311040004,Sungai Dareh
+1311040005,Tebing Tinggi
+1311040006,Sungai Kambut
+1311040007,Gunung Selasih
+1311040008,Sikabau
 1311041,Ix Koto
-1311041010,Sungai Rumbai
-1311041011,Koto Besar
-1311041012,Asam Jujuhan
-1311041020,Koto Baru
-1311041021,Koto Salak
-1311041022,Tiumang
-1311041023,Padang Laweh
-1311041030,Sitiung
-1311041031,Timpeh
-1311041040,Pulau Punjung
-1311041041,Ix Koto
+1311041001,Banai
+1311041002,Lubuk Karak
+1311041003,Silago
+1311041004,Koto Nan Iv Dibawuah
 1312,Pasaman Barat
 1312010,Sungai Beremas
-1312010010,Sungai Beremas
-1312010020,Ranah Batahan
-1312010030,Koto Balingka
-1312010040,Sungai Aur
-1312010050,Lembah Malintang
-1312010060,Gunung Tuleh
-1312010070,Talamau
-1312010080,Pasaman
-1312010090,Luhak Nan Duo
-1312010100,Sasak Ranah Pasisie
-1312010110,Kinali
+1312010001,Aia Bangih
 1312020,Ranah Batahan
-1312020010,Sungai Beremas
-1312020020,Ranah Batahan
-1312020030,Koto Balingka
-1312020040,Sungai Aur
-1312020050,Lembah Malintang
-1312020060,Gunung Tuleh
-1312020070,Talamau
-1312020080,Pasaman
-1312020090,Luhak Nan Duo
-1312020100,Sasak Ranah Pasisie
-1312020110,Kinali
+1312020001,Desa Baru
+1312020002,Batahan
+1312020003,Nagari Persiapan Desa Baru Barat
+1312020004,Nagari Persiapan Batahan Utara
+1312020005,Nagari Persiapan Batahan Tengah
+1312020006,Nagari Persiapan Batahan Barat
+1312020007,Nagari Persiapan Batahan Selatan
 1312030,Koto Balingka
-1312030010,Sungai Beremas
-1312030020,Ranah Batahan
-1312030030,Koto Balingka
-1312030040,Sungai Aur
-1312030050,Lembah Malintang
-1312030060,Gunung Tuleh
-1312030070,Talamau
-1312030080,Pasaman
-1312030090,Luhak Nan Duo
-1312030100,Sasak Ranah Pasisie
-1312030110,Kinali
+1312030001,Parik
+1312030002,Nagari Persiapan Koto Tangah
+1312030003,Nagari Persiapan Koto Tuo
+1312030004,Nagari Persiapan Koto Nan Duo
+1312030005,Nagari Persiapan Pamatang Panjang
+1312030006,Nagari Persiapan Ranah Koto Tinggi
 1312040,Sungai Aur
-1312040010,Sungai Beremas
-1312040020,Ranah Batahan
-1312040030,Koto Balingka
-1312040040,Sungai Aur
-1312040050,Lembah Malintang
-1312040060,Gunung Tuleh
-1312040070,Talamau
-1312040080,Pasaman
-1312040090,Luhak Nan Duo
-1312040100,Sasak Ranah Pasisie
-1312040110,Kinali
+1312040001,Sungai Aua
+1312040002,Nagari Persiapan Selingka Muaro
+1312040003,Nagari Persiapan Ranah Malintang
+1312040004,Nagari Persiapan Ranah Air Haji
+1312040005,Nagari Persiapan Kasik Putih Sungai Tanang
+1312040006,Nagari Persiapan Aua Sarumpun
+1312040007,Nagari Persiapan Sikilang Sungai Aur Selatan
 1312050,Lembah Malintang
-1312050010,Sungai Beremas
-1312050020,Ranah Batahan
-1312050030,Koto Balingka
-1312050040,Sungai Aur
-1312050050,Lembah Malintang
-1312050060,Gunung Tuleh
-1312050070,Talamau
-1312050080,Pasaman
-1312050090,Luhak Nan Duo
-1312050100,Sasak Ranah Pasisie
-1312050110,Kinali
+1312050001,Ujuang Gadiang
+1312050002,Nagari Persiapan Brastagi Ujung Gading
+1312050003,Nagari Persiapan Tampus Damai Ujung Gading
+1312050004,Nagari Persiapan Taluak Ambun Ujung Gading
+1312050005,Nagari Persiapan Koto Gunung Ujung Gading
+1312050006,Nagari Persiapan Koto Sawah Ujung Gading
+1312050007,Nagari Persiapan Salido Saroha Ujung Gading
+1312050008,Nagari Persiapan Kuamang Alai Ujung Gading
+1312050009,Nagari Persiapan Situak Ujung Gading
 1312060,Gunung Tuleh
-1312060010,Sungai Beremas
-1312060020,Ranah Batahan
-1312060030,Koto Balingka
-1312060040,Sungai Aur
-1312060050,Lembah Malintang
-1312060060,Gunung Tuleh
-1312060070,Talamau
-1312060080,Pasaman
-1312060090,Luhak Nan Duo
-1312060100,Sasak Ranah Pasisie
-1312060110,Kinali
+1312060001,Muaro Kiawai
+1312060002,Rabi Jongor
+1312060003,Nagari Persiapan Muaro Kiawai Barat
+1312060004,Nagari Persiapan Muaro Kiawai Hilir
+1312060005,Nagari Persiapan Seberang Kenaikan
+1312060006,Nagari Persiapan Bahoras
+1312060007,Nagari Persiapan Sungai Magelang
 1312070,Talamau
-1312070010,Sungai Beremas
-1312070020,Ranah Batahan
-1312070030,Koto Balingka
-1312070040,Sungai Aur
-1312070050,Lembah Malintang
-1312070060,Gunung Tuleh
-1312070070,Talamau
-1312070080,Pasaman
-1312070090,Luhak Nan Duo
-1312070100,Sasak Ranah Pasisie
-1312070110,Kinali
+1312070001,Kajai
+1312070002,Talu
+1312070003,Sinuruik
+1312070004,Nagari Persiapan Simpang Timbo Abu Kajai
+1312070005,Nagari Persiapan Kajai Selatan
+1312070006,Nagari Persiapan Sungai Janiah Talu
+1312070007,Nagari Persiapan Tabek Sirah Talu
+1312070008,Nagari Persiapan Tinggam Harapan
 1312080,Pasaman
-1312080010,Sungai Beremas
-1312080020,Ranah Batahan
-1312080030,Koto Balingka
-1312080040,Sungai Aur
-1312080050,Lembah Malintang
-1312080060,Gunung Tuleh
-1312080070,Talamau
-1312080080,Pasaman
-1312080090,Luhak Nan Duo
-1312080100,Sasak Ranah Pasisie
-1312080110,Kinali
+1312080001,Lingkuang Aua
+1312080002,Aua Kuniang
+1312080003,Aia Gadang
+1312080004,Nagari Persiapan Lingkuang Aua Timur
+1312080005,Nagari Persiapan Lingkuang Aua Baru
+1312080006,Nagari Persiapan Lingkuang Aua Bandarajo
+1312080007,Nagari Persiapan Lingkuang Aua Jambak
+1312080008,Nagari Persiapan Lingkuang Aua Koto Dalam
+1312080009,Nagari Persiapan Lingkuang Aua Barat
+1312080010,Nagari Persiapan Lingkuang Aua Hilia
+1312080011,Nagari Persiapan Pinaga Aua Kuniang
+1312080012,Nagari Persiapan Sukomananti Aua Kuniang
+1312080013,Nagari Persiapan Lubuak Landua Aua Kuniang
+1312080014,Nagari Persiapan Lembah Binuang Aua Kuniang
+1312080015,Nagari Persiapan Aia Gadang Timur
+1312080016,Nagari Persiapan Aia Gadang Barat
 1312090,Luhak Nan Duo
-1312090010,Sungai Beremas
-1312090020,Ranah Batahan
-1312090030,Koto Balingka
-1312090040,Sungai Aur
-1312090050,Lembah Malintang
-1312090060,Gunung Tuleh
-1312090070,Talamau
-1312090080,Pasaman
-1312090090,Luhak Nan Duo
-1312090100,Sasak Ranah Pasisie
-1312090110,Kinali
+1312090001,Koto Baru
+1312090002,Kapa
+1312090003,Nagari Persiapan Giri Maju
+1312090004,Nagari Persiapan Ophir
+1312090005,Nagari Persiapan Maha Karya
+1312090006,Nagari Persiapan Sariak
+1312090007,Nagari Persiapan Sungai Talang
+1312090008,Nagari Persiapan Jambak Selatan
+1312090009,Nagari Persiapan Pujo Rahayu
 1312100,Sasak Ranah Pasisie
-1312100010,Sungai Beremas
-1312100020,Ranah Batahan
-1312100030,Koto Balingka
-1312100040,Sungai Aur
-1312100050,Lembah Malintang
-1312100060,Gunung Tuleh
-1312100070,Talamau
-1312100080,Pasaman
-1312100090,Luhak Nan Duo
-1312100100,Sasak Ranah Pasisie
-1312100110,Kinali
+1312100001,Sasak
+1312100002,Nagari Persiapan Padang Harapan
+1312100003,Nagari Persiapan Ranah Pasisie
+1312100004,Nagari Persiapan Maligi
 1312110,Kinali
-1312110010,Sungai Beremas
-1312110020,Ranah Batahan
-1312110030,Koto Balingka
-1312110040,Sungai Aur
-1312110050,Lembah Malintang
-1312110060,Gunung Tuleh
-1312110070,Talamau
-1312110080,Pasaman
-1312110090,Luhak Nan Duo
-1312110100,Sasak Ranah Pasisie
-1312110110,Kinali
+1312110001,Katiagan
+1312110002,Kinali
+1312110003,Nagari Persiapan Iv Koto
+1312110004,Nagari Persiapan Iv Koto Barat
+1312110005,Nagari Persiapan Bancah Kariang
+1312110006,Nagari Persiapan Mudiak Labuah
+1312110007,Nagari Persiapan Tandikek
+1312110008,Nagari Persiapan Langgam Sepakat
+1312110009,Nagari Persiapan Langgam Saiyo
+1312110010,Nagari Persiapan Iv Koto Utara
+1312110011,Nagari Persiapan Iv Koto Selatan
+1312110012,Nagari Persiapan Sugunanti
+1312110013,Nagari Persiapan Bandua Balai
+1312110014,Nagari Persiapan Bunuik
+1312110015,Nagari Persiapan Padang Canduh
+1312110016,Nagari Persiapan Limau Purut
+1312110017,Nagari Persiapan Koto Gadang Jaya
 1371,Padang
 1371010,Bungus Teluk Kabung
-1371010010,Bungus Teluk Kabung
-1371010020,Lubuk Kilangan
-1371010030,Lubuk Begalung
-1371010040,Padang Selatan
-1371010050,Padang Timur
-1371010060,Padang Barat
-1371010070,Padang Utara
-1371010080,Nanggalo
-1371010090,Kuranji
-1371010100,Pauh
-1371010110,Koto Tangah
+1371010001,Teluk Kabung Selatan
+1371010007,Bungus Selatan
+1371010014,Teluk Kabung Tengah
+1371010015,Teluk Kabung Utara
+1371010016,Bungus Timur
+1371010017,Bungus Barat
 1371020,Lubuk Kilangan
-1371020010,Bungus Teluk Kabung
-1371020020,Lubuk Kilangan
-1371020030,Lubuk Begalung
-1371020040,Padang Selatan
-1371020050,Padang Timur
-1371020060,Padang Barat
-1371020070,Padang Utara
-1371020080,Nanggalo
-1371020090,Kuranji
-1371020100,Pauh
-1371020110,Koto Tangah
+1371020001,Tarantang
+1371020002,Beringin
+1371020003,Batu Gadang
+1371020004,Indarung
+1371020005,Padang Besi
+1371020006,Koto Lalang
+1371020007,Bandar Buat
 1371030,Lubuk Begalung
-1371030010,Bungus Teluk Kabung
-1371030020,Lubuk Kilangan
-1371030030,Lubuk Begalung
-1371030040,Padang Selatan
-1371030050,Padang Timur
-1371030060,Padang Barat
-1371030070,Padang Utara
-1371030080,Nanggalo
-1371030090,Kuranji
-1371030100,Pauh
-1371030110,Koto Tangah
+1371030007,Kampung Baru Nan Xx
+1371030010,Pampangan Nan Xx
+1371030011,Koto Baru Nan Xx
+1371030012,Tanjuang Aur Nan Xx
+1371030013,Gurun Laweh Nan Xx
+1371030014,Banuaran Nan Xx
+1371030016,Lubuk Begalung Nan Xx
+1371030020,Cengkeh Nan Xx
+1371030022,Gates Nan Xx
+1371030023,Pagambiran Ampulu Nan Xx
+1371030025,Parak Laweh Pulau Air Nan Xx
+1371030026,Tanjung Saba Pitameh Nan Xx
+1371030027,Tanah Sirah Piai Nan Xx
+1371030028,Kampung Jua Nan Xx
+1371030029,Batuang Taba Nan Xx
 1371040,Padang Selatan
-1371040010,Bungus Teluk Kabung
-1371040020,Lubuk Kilangan
-1371040030,Lubuk Begalung
-1371040040,Padang Selatan
-1371040050,Padang Timur
-1371040060,Padang Barat
-1371040070,Padang Utara
-1371040080,Nanggalo
-1371040090,Kuranji
-1371040100,Pauh
-1371040110,Koto Tangah
+1371040003,Air Manis
+1371040008,Bukik Gado Gado
+1371040010,Batang Arau
+1371040011,Seberang Palinggam
+1371040016,Pasa Gadang
+1371040021,Belakang Pondok
+1371040024,Alang Laweh
+1371040025,Taluak Bayua
+1371040026,Rawang
+1371040027,Mato Aie
+1371040028,Seberang Padang
+1371040029,Ranah Parak Rumbio
 1371050,Padang Timur
-1371050010,Bungus Teluk Kabung
-1371050020,Lubuk Kilangan
-1371050030,Lubuk Begalung
-1371050040,Padang Selatan
-1371050050,Padang Timur
-1371050060,Padang Barat
-1371050070,Padang Utara
-1371050080,Nanggalo
-1371050090,Kuranji
-1371050100,Pauh
-1371050110,Koto Tangah
+1371050020,Sawahan
+1371050028,Ganting Parak Gadang
+1371050029,Parak Gadang Timur
+1371050030,Kubu Marapalam
+1371050031,Kubu Parak Karakah
+1371050032,Andalas
+1371050033,Simpang Haru
+1371050034,Sawahan Timur
+1371050035,Jati Baru
+1371050036,Jati
 1371060,Padang Barat
-1371060010,Bungus Teluk Kabung
-1371060020,Lubuk Kilangan
-1371060030,Lubuk Begalung
-1371060040,Padang Selatan
-1371060050,Padang Timur
-1371060060,Padang Barat
-1371060070,Padang Utara
-1371060080,Nanggalo
-1371060090,Kuranji
-1371060100,Pauh
-1371060110,Koto Tangah
+1371060010,Belakang Tangsi
+1371060013,Olo
+1371060023,Ujung Gurun
+1371060031,Berok Nipah
+1371060032,Kampung Pondok
+1371060033,Kampung Jao
+1371060034,Purus
+1371060035,Padang Pasir
+1371060036,Rimbo Kaluang
+1371060037,Flamboyan Baru
 1371070,Padang Utara
-1371070010,Bungus Teluk Kabung
-1371070020,Lubuk Kilangan
-1371070030,Lubuk Begalung
-1371070040,Padang Selatan
-1371070050,Padang Timur
-1371070060,Padang Barat
-1371070070,Padang Utara
-1371070080,Nanggalo
-1371070090,Kuranji
-1371070100,Pauh
-1371070110,Koto Tangah
+1371070005,Gunung Pangilun
+1371070010,Ulak Karang Selatan
+1371070012,Ulak Karang Utara
+1371070017,Air Tawar Timur
+1371070018,Air Tawar Barat
+1371070019,Alai Parak Kopi
+1371070020,Lolong Belanti
 1371080,Nanggalo
-1371080010,Bungus Teluk Kabung
-1371080020,Lubuk Kilangan
-1371080030,Lubuk Begalung
-1371080040,Padang Selatan
-1371080050,Padang Timur
-1371080060,Padang Barat
-1371080070,Padang Utara
-1371080080,Nanggalo
-1371080090,Kuranji
-1371080100,Pauh
-1371080110,Koto Tangah
+1371080001,Tabiang Banda Gadang
+1371080002,Gurun Laweh
+1371080003,Kampung Olo
+1371080005,Kampung Lapai Baru
+1371080006,Surau Gadang
+1371080007,Kurao Pagang
 1371090,Kuranji
-1371090010,Bungus Teluk Kabung
-1371090020,Lubuk Kilangan
-1371090030,Lubuk Begalung
-1371090040,Padang Selatan
-1371090050,Padang Timur
-1371090060,Padang Barat
-1371090070,Padang Utara
-1371090080,Nanggalo
-1371090090,Kuranji
-1371090100,Pauh
-1371090110,Koto Tangah
+1371090001,Anduring
+1371090002,Pasar Ambacang
+1371090003,Lubuk Lintah
+1371090004,Ampang
+1371090005,Kalumbuk
+1371090006,Korong Gadang
+1371090007,Kuranji
+1371090008,Gunung Sarik
+1371090009,Sungai Sapih
 1371100,Pauh
-1371100010,Bungus Teluk Kabung
-1371100020,Lubuk Kilangan
-1371100030,Lubuk Begalung
-1371100040,Padang Selatan
-1371100050,Padang Timur
-1371100060,Padang Barat
-1371100070,Padang Utara
-1371100080,Nanggalo
-1371100090,Kuranji
-1371100100,Pauh
-1371100110,Koto Tangah
+1371100001,Pisang
+1371100002,Binuang Kampung Dalam
+1371100003,Piai Tangah
+1371100004,Cupak Tangah
+1371100005,Kapala Koto
+1371100008,Koto Luar
+1371100013,Lambung Bukit
+1371100014,Limau Manis Selatan
+1371100015,Limau Manis
 1371110,Koto Tangah
-1371110010,Bungus Teluk Kabung
-1371110020,Lubuk Kilangan
-1371110030,Lubuk Begalung
-1371110040,Padang Selatan
-1371110050,Padang Timur
-1371110060,Padang Barat
-1371110070,Padang Utara
-1371110080,Nanggalo
-1371110090,Kuranji
-1371110100,Pauh
-1371110110,Koto Tangah
+1371110001,Dadok Tunggul Hitam
+1371110002,Air Pacah
+1371110004,Lubuk Minturun
+1371110007,Bungo Pasang
+1371110008,Parupuk Tabing
+1371110012,Batang Kabung
+1371110021,Lubuk Buaya
+1371110023,Padang Sarai
+1371110025,Koto Panjang Ikua Koto
+1371110026,Pasir Nan Tigo
+1371110027,Koto Pulai
+1371110028,Balai Gadang
+1371110029,Batipuh Panjang
 1372,Solok
 1372010,Lubuk Sikarah
-1372010010,Lubuk Sikarah
-1372010020,Tanjung Harapan
+1372010001,Tanah Garam
+1372010002,Vi Suku
+1372010003,Sinapa Piliang
+1372010004,Ix Korong
+1372010005,Kampai Tabu Kerambil
+1372010006,Aro Iv Korong
+1372010007,Simpang Rumbio
 1372020,Tanjung Harapan
-1372020010,Lubuk Sikarah
-1372020020,Tanjung Harapan
+1372020001,Koto Panjang
+1372020002,Pasar Pandan Air Mati
+1372020003,Tanjung Paku
+1372020004,Nan Balimo
+1372020005,Kampung Jawa
+1372020006,Laing
 1373,Sawah Lunto
 1373010,Silungkang
-1373010010,Silungkang
-1373010020,Lembah Segar
-1373010030,Barangin
-1373010040,Talawi
+1373010001,Silungkang Oso
+1373010002,Taratak Boncah
+1373010003,Muaro Kalaban
+1373010004,Silungkang Tigo
+1373010005,Silungkang Duo
 1373020,Lembah Segar
-1373020010,Silungkang
-1373020020,Lembah Segar
-1373020030,Barangin
-1373020040,Talawi
+1373020001,Lunto Barat
+1373020002,Lunto Timur
+1373020003,Pasa Kubang
+1373020004,Kubang Tangah
+1373020005,Kubang Utara Sikabu
+1373020006,Pasar
+1373020007,Kubang Sirakuk Utara
+1373020008,Kubang Sirakuk Selatan
+1373020009,Aur Mulyo
+1373020010,Tanah Lapang
+1373020011,Aia Dingin
 1373030,Barangin
-1373030010,Silungkang
-1373030020,Lembah Segar
-1373030030,Barangin
-1373030040,Talawi
+1373030001,Lumindai
+1373030002,Balai Batu Sandaran
+1373030003,Saringan
+1373030004,Lubang Panjang
+1373030005,Durian I
+1373030006,Durian Ii
+1373030007,Talago Gunung
+1373030008,Santua
+1373030009,Kolok Mudiak
+1373030010,Kolok Nan Tuo
 1373040,Talawi
-1373040010,Silungkang
-1373040020,Lembah Segar
-1373040030,Barangin
-1373040040,Talawi
+1373040001,Sikalang
+1373040002,Rantih
+1373040003,Salak
+1373040004,Sijantang Koto
+1373040005,Talawi Hilie
+1373040006,Talawi Mudiak
+1373040007,Bukit Gadang
+1373040008,Batu Tanjung
+1373040009,Kumbayau
+1373040010,Data Mansiang
+1373040011,Tumpuk Tangah
 1374,Padang Panjang
 1374010,Padang Panjang Barat
-1374010010,Padang Panjang Barat
-1374010020,Padang Panjang Timur
+1374010001,Silaing Bawah
+1374010002,Silaing Atas
+1374010003,Pasar Usang
+1374010004,Kampung  Manggis
+1374010005,Tanah Hitam
+1374010006,Pasar Baru
+1374010007,Bukit Surungan
+1374010008,Balai-balai
 1374020,Padang Panjang Timur
-1374020010,Padang Panjang Barat
-1374020020,Padang Panjang Timur
+1374020001,Koto Panjang
+1374020002,Koto Katik
+1374020003,Ngalau
+1374020004,Ekor Lubuk
+1374020005,Sigando
+1374020006,Ganting
+1374020007,Guguk  Malintang
+1374020008,Tanah  Pak Lambik
 1375,Bukittinggi
 1375010,Guguk Panjang
-1375010010,Guguk Panjang
-1375010020,Mandiangin Koto Selayan
-1375010030,Aur Birugo Tigo Baleh
+1375010001,Bukit Cangang Kayu Ramang
+1375010002,Tarok Dipo
+1375010003,Pakan Kurai
+1375010004,Aur Tajungkang Tengah Sawah
+1375010005,Benteng Pasar Atas
+1375010006,Kayu Kubu
+1375010007,Bukit Apit Puhun
 1375020,Mandiangin Koto Selayan
-1375020010,Guguk Panjang
-1375020020,Mandiangin Koto Selayan
-1375020030,Aur Birugo Tigo Baleh
+1375020001,Pulai Anak Air
+1375020002,Koto Selayan
+1375020003,Garegeh
+1375020004,Manggis Ganting
+1375020005,Campago Ipuh
+1375020006,Puhun Tembok
+1375020007,Puhun Pintu Kabun
+1375020008,Kubu Gulai Bancah
+1375020009,Campago Guguk Bulek
 1375030,Aur Birugo Tigo Baleh
-1375030010,Guguk Panjang
-1375030020,Mandiangin Koto Selayan
-1375030030,Aur Birugo Tigo Baleh
+1375030001,Belakang Balok
+1375030002,Sapiran
+1375030003,Birugo
+1375030004,Aur Kuning
+1375030005,Pakan Labuh
+1375030006,Kubu Tanjung
+1375030007,Ladang Cakiah
+1375030008,Parit Antang
 1376,Payakumbuh
 1376010,Payakumbuh Barat
-1376010010,Payakumbuh Barat
-1376010011,Payakumbuh Selatan
-1376010020,Payakumbuh Timur
-1376010030,Payakumbuh Utara
-1376010031,Lamposi Tigo Nagori
+1376010010,Pakan Sinayan
+1376010011,Kubu Gadang
+1376010012,Bulakan Balai Kandi
+1376010013,Tanjuang Pauah
+1376010014,Ibuah
+1376010015,Labuah Basilang
+1376010018,Parak Batuang
+1376010019,Parik Rantang
+1376010025,Payolansek
+1376010029,Subarang Batuang
+1376010030,Koto Tangah
+1376010031,Talang
+1376010032,Nunang Daya Bangun
+1376010033,Padang Tinggi Piliang
+1376010034,Padangtongah Balainanduo
+1376010035,Tanjuanggodang Sungaipinago
+1376010036,Padangdata Tanahmati
 1376011,Payakumbuh Selatan
-1376011010,Payakumbuh Barat
-1376011011,Payakumbuh Selatan
-1376011020,Payakumbuh Timur
-1376011030,Payakumbuh Utara
-1376011031,Lamposi Tigo Nagori
+1376011001,Balai Panjang
+1376011002,Limbukan
+1376011004,Padang Karambia
+1376011010,Kototuo Limokampuang
+1376011011,Kapalo Koto Ampangan
+1376011012,Sawahpadang Aua Kuniang
 1376020,Payakumbuh Timur
-1376020010,Payakumbuh Barat
-1376020011,Payakumbuh Selatan
-1376020020,Payakumbuh Timur
-1376020030,Payakumbuh Utara
-1376020031,Lamposi Tigo Nagori
+1376020005,Padang Tangah Payobada
+1376020006,Balai Jaring
+1376020012,Payobasung
+1376020013,Koto Panjang
+1376020014,Koto Baru
+1376020015,Padang Alai Bodi
+1376020016,Padang Tiakar
+1376020017,Sicincin
+1376020018,Tiakar
 1376030,Payakumbuh Utara
-1376030010,Payakumbuh Barat
-1376030011,Payakumbuh Selatan
-1376030020,Payakumbuh Timur
-1376030030,Payakumbuh Utara
-1376030031,Lamposi Tigo Nagori
+1376030005,Napar
+1376030029,Ompang Tanah Sirah
+1376030030,Taratak Padang Kampuang
+1376030031,Tigo Koto Dibaruah
+1376030032,Tigo Koto Diate
+1376030033,Kapalo Koto Dibalai
+1376030034,Kotokociak Kubu Tapakrajo
+1376030035,Balai Tongah Koto
+1376030036,Ikua Koto Dibalai
 1376031,Lamposi Tigo Nagori
-1376031010,Payakumbuh Barat
-1376031011,Payakumbuh Selatan
-1376031020,Payakumbuh Timur
-1376031030,Payakumbuh Utara
-1376031031,Lamposi Tigo Nagori
+1376031001,Koto Panjang Padang
+1376031002,Koto Panjang Dalam
+1376031003,Parambahan
+1376031004,Padang Sikabu
+1376031005,Parit Muko Aie
+1376031006,Sungai Durian
 1377,Pariaman
 1377010,Pariaman Selatan
-1377010010,Pariaman Selatan
-1377010020,Pariaman Tengah
-1377010021,Pariaman Timur
-1377010030,Pariaman Utara
+1377010001,Pasir Sunur
+1377010002,Marunggi
+1377010003,Kampung Apar
+1377010004,Sikabu
+1377010005,Palak Aneh
+1377010006,Padang Cakur
+1377010007,Taluk
+1377010008,Marabau
+1377010009,Sungai Kasai
+1377010010,Batang Tajongkek
+1377010011,Balai Kurai Taji
+1377010012,Pauh Kurai Taji
+1377010013,Simpang
+1377010014,Toboh Palabah
+1377010018,Rambai
+1377010019,Punggung Lading
 1377020,Pariaman Tengah
-1377020010,Pariaman Selatan
-1377020020,Pariaman Tengah
-1377020021,Pariaman Timur
-1377020030,Pariaman Utara
+1377020001,Karan Aur
+1377020002,Jalan Baru
+1377020003,Ujung Batung
+1377020004,Jalan Kereta Api
+1377020005,Cimparuh
+1377020006,Alai Gelombang
+1377020007,Taratak
+1377020008,Kampung Baru
+1377020009,Lohong
+1377020010,Pasir
+1377020011,Kampung Perak
+1377020012,Pondok Ii
+1377020013,Jawi-jawi I
+1377020014,Jawi-jawi Ii
+1377020015,Kampung Jawa Ii
+1377020016,Kampung Jawa I
+1377020017,Kampung Pondok
+1377020018,Pauh Barat
+1377020019,Pauh Timur
+1377020020,Rawang
+1377020021,Jati Hilir
+1377020022,Jati Mudik
 1377021,Pariaman Timur
-1377021010,Pariaman Selatan
-1377021020,Pariaman Tengah
-1377021021,Pariaman Timur
-1377021030,Pariaman Utara
+1377021001,Kampung Gadang
+1377021002,Talago Sarik
+1377021003,Bato
+1377021004,Batang Kabung
+1377021005,Sungai Sirah
+1377021006,Bungo Tanjung
+1377021007,Kampung Kandang
+1377021008,Kaluat
+1377021009,Kajai
+1377021010,Kampung Tangah
+1377021011,Sungai Pasak
+1377021012,Air Santok
+1377021013,Cubadak Mentawai
+1377021014,Koto Marapak
+1377021015,Pakasai
+1377021016,Kampung Baru Padusunan
 1377030,Pariaman Utara
-1377030010,Pariaman Selatan
-1377030020,Pariaman Tengah
-1377030021,Pariaman Timur
-1377030030,Pariaman Utara
+1377030001,Ampalu
+1377030006,Tanjung Sabar
+1377030007,Apar
+1377030008,Manggung
+1377030009,Cubadak Air
+1377030010,Cubadak Air Selatan
+1377030011,Sikapak Timur
+1377030012,Sikapak Barat
+1377030013,Tungkal Selatan
+1377030014,Tungkal Utara
+1377030015,Cubadak Air Utara
+1377030016,Naras Hilir
+1377030017,Naras I
+1377030018,Balai Naras
+1377030019,Padang Birik-birik
+1377030020,Sintuk
+1377030021,Sungai Rambai

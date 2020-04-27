@@ -1,981 +1,500 @@
 2101,Karimun
 2101010,Moro
-2101010010,Moro
-2101010011,Durai
-2101010020,Kundur
-2101010021,Kundur Utara
-2101010022,Kundur Barat
-2101010023,Ungar
-2101010024,Belat
-2101010030,Karimun
-2101010031,Buru
-2101010032,Meral
-2101010033,Tebing
-2101010034,Meral Barat
+2101010003,Moro
+2101010004,Pauh
+2101010005,Sugie
+2101010006,Keban
+2101010007,Selat Mie
+2101010008,Tanjung Pelanduk
+2101010009,Jang
+2101010010,Moro Timur
+2101010011,Pulau Moro
+2101010012,Niur Permai
+2101010013,Rawa Jaya
+2101010014,Buluh Patah
 2101011,Durai
-2101011010,Moro
-2101011011,Durai
-2101011020,Kundur
-2101011021,Kundur Utara
-2101011022,Kundur Barat
-2101011023,Ungar
-2101011024,Belat
-2101011030,Karimun
-2101011031,Buru
-2101011032,Meral
-2101011033,Tebing
-2101011034,Meral Barat
+2101011001,Telaga Tujuh
+2101011002,Sanglar
+2101011003,Semembang
+2101011004,Tanjung Kilang
 2101020,Kundur
-2101020010,Moro
-2101020011,Durai
-2101020020,Kundur
-2101020021,Kundur Utara
-2101020022,Kundur Barat
-2101020023,Ungar
-2101020024,Belat
-2101020030,Karimun
-2101020031,Buru
-2101020032,Meral
-2101020033,Tebing
-2101020034,Meral Barat
+2101020001,Tanjung Batu Barat
+2101020002,Tanjung Batu Kota
+2101020004,Sungai Sebesi
+2101020005,Sungai Ungar
+2101020006,Lubuk
+2101020009,Gading Sari
 2101021,Kundur Utara
-2101021010,Moro
-2101021011,Durai
-2101021020,Kundur
-2101021021,Kundur Utara
-2101021022,Kundur Barat
-2101021023,Ungar
-2101021024,Belat
-2101021030,Karimun
-2101021031,Buru
-2101021032,Meral
-2101021033,Tebing
-2101021034,Meral Barat
+2101021001,Sungai Ungar Utara
+2101021005,Tanjung Berlian Kota
+2101021006,Teluk Radang
+2101021007,Tanjung Berlian Barat
+2101021008,Perayun
 2101022,Kundur Barat
-2101022010,Moro
-2101022011,Durai
-2101022020,Kundur
-2101022021,Kundur Utara
-2101022022,Kundur Barat
-2101022023,Ungar
-2101022024,Belat
-2101022030,Karimun
-2101022031,Buru
-2101022032,Meral
-2101022033,Tebing
-2101022034,Meral Barat
+2101022001,Sawang
+2101022002,Sawang Laut
+2101022003,Kundur
+2101022004,Sawang Selatan
+2101022005,Gemuruh
 2101023,Ungar
-2101023010,Moro
-2101023011,Durai
-2101023020,Kundur
-2101023021,Kundur Utara
-2101023022,Kundur Barat
-2101023023,Ungar
-2101023024,Belat
-2101023030,Karimun
-2101023031,Buru
-2101023032,Meral
-2101023033,Tebing
-2101023034,Meral Barat
+2101023003,Alai
+2101023007,Batu Limau
+2101023008,Ngal
+2101023010,Sungai Buluh
 2101024,Belat
-2101024010,Moro
-2101024011,Durai
-2101024020,Kundur
-2101024021,Kundur Utara
-2101024022,Kundur Barat
-2101024023,Ungar
-2101024024,Belat
-2101024030,Karimun
-2101024031,Buru
-2101024032,Meral
-2101024033,Tebing
-2101024034,Meral Barat
+2101024002,Lebuh
+2101024003,Penarah
+2101024004,Sebele
+2101024008,Sungai Asam
+2101024009,Degong
+2101024010,Tebias
 2101030,Karimun
-2101030010,Moro
-2101030011,Durai
-2101030020,Kundur
-2101030021,Kundur Utara
-2101030022,Kundur Barat
-2101030023,Ungar
-2101030024,Belat
-2101030030,Karimun
-2101030031,Buru
-2101030032,Meral
-2101030033,Tebing
-2101030034,Meral Barat
+2101030004,Parit
+2101030005,Tulang
+2101030006,Tanjung Balai
+2101030007,Teluk Air
+2101030008,Sungai Lakam Timur
+2101030009,Lubuk Semut
+2101030010,Selat Mendaun
+2101030011,Tanjung Balai Kota
+2101030012,Sungai Lakam Barat
 2101031,Buru
-2101031010,Moro
-2101031011,Durai
-2101031020,Kundur
-2101031021,Kundur Utara
-2101031022,Kundur Barat
-2101031023,Ungar
-2101031024,Belat
-2101031030,Karimun
-2101031031,Buru
-2101031032,Meral
-2101031033,Tebing
-2101031034,Meral Barat
+2101031001,Tanjung Hutan
+2101031002,Buru
+2101031003,Lubuk Puding
+2101031004,Tanjung Batu Kecil
 2101032,Meral
-2101032010,Moro
-2101032011,Durai
-2101032020,Kundur
-2101032021,Kundur Utara
-2101032022,Kundur Barat
-2101032023,Ungar
-2101032024,Belat
-2101032030,Karimun
-2101032031,Buru
-2101032032,Meral
-2101032033,Tebing
-2101032034,Meral Barat
+2101032001,Meral Kota
+2101032002,Baran Barat
+2101032003,Sungai Raya
+2101032006,Sungai Pasir
+2101032007,Baran Timur
+2101032008,Parit Benut
 2101033,Tebing
-2101033010,Moro
-2101033011,Durai
-2101033020,Kundur
-2101033021,Kundur Utara
-2101033022,Kundur Barat
-2101033023,Ungar
-2101033024,Belat
-2101033030,Karimun
-2101033031,Buru
-2101033032,Meral
-2101033033,Tebing
-2101033034,Meral Barat
+2101033001,Tebing
+2101033002,Teluk Uma
+2101033004,Kapling
+2101033005,Pamak
+2101033006,Harjosari
+2101033008,Pongkar
 2101034,Meral Barat
-2101034010,Moro
-2101034011,Durai
-2101034020,Kundur
-2101034021,Kundur Utara
-2101034022,Kundur Barat
-2101034023,Ungar
-2101034024,Belat
-2101034030,Karimun
-2101034031,Buru
-2101034032,Meral
-2101034033,Tebing
-2101034034,Meral Barat
+2101034004,Pasir Panjang
+2101034005,Pangke
+2101034007,Darusalam
+2101034009,Pangke Barat
 2102,Bintan
 2102040,Teluk Bintan
-2102040040,Teluk Bintan
-2102040050,Bintan Utara
-2102040051,Teluk Sebong
-2102040052,Seri Kuala Lobam
-2102040060,Bintan Timur
-2102040061,Gunung Kijang
-2102040062,Mantang
-2102040063,Bintan Pesisir
-2102040064,Toapaya
-2102040070,Tambelan
+2102040001,Pangkil
+2102040002,Pengujan
+2102040003,Penaga
+2102040004,Tembeling
+2102040005,Bintan Buyu
+2102040006,Tembeling Tanjung
 2102050,Bintan Utara
-2102050040,Teluk Bintan
-2102050050,Bintan Utara
-2102050051,Teluk Sebong
-2102050052,Seri Kuala Lobam
-2102050060,Bintan Timur
-2102050061,Gunung Kijang
-2102050062,Mantang
-2102050063,Bintan Pesisir
-2102050064,Toapaya
-2102050070,Tambelan
+2102050003,Lancang Kuning
+2102050004,Tanjung Uban Selatan
+2102050005,Tanjung Uban Kota
+2102050006,Tanjung Uban Utara
+2102050009,Tanjung Uban Timur
 2102051,Teluk Sebong
-2102051040,Teluk Bintan
-2102051050,Bintan Utara
-2102051051,Teluk Sebong
-2102051052,Seri Kuala Lobam
-2102051060,Bintan Timur
-2102051061,Gunung Kijang
-2102051062,Mantang
-2102051063,Bintan Pesisir
-2102051064,Toapaya
-2102051070,Tambelan
+2102051001,Sebong Pereh
+2102051002,Sebong Lagoi
+2102051003,Ekang Anculai
+2102051004,Sri Bintan
+2102051005,Pengudang
+2102051006,Berakit
+2102051007,Kota Baru
 2102052,Seri Kuala Lobam
-2102052040,Teluk Bintan
-2102052050,Bintan Utara
-2102052051,Teluk Sebong
-2102052052,Seri Kuala Lobam
-2102052060,Bintan Timur
-2102052061,Gunung Kijang
-2102052062,Mantang
-2102052063,Bintan Pesisir
-2102052064,Toapaya
-2102052070,Tambelan
+2102052001,Kuala Sempang
+2102052002,Busung
+2102052003,Teluk Sasah
+2102052004,Teluk Lobam
+2102052005,Tanjung Permai
 2102060,Bintan Timur
-2102060040,Teluk Bintan
-2102060050,Bintan Utara
-2102060051,Teluk Sebong
-2102060052,Seri Kuala Lobam
-2102060060,Bintan Timur
-2102060061,Gunung Kijang
-2102060062,Mantang
-2102060063,Bintan Pesisir
-2102060064,Toapaya
-2102060070,Tambelan
+2102060005,Kijang Kota
+2102060006,Sungai Enam
+2102060007,Gunung Lengkuas
+2102060008,Sungai Lekop
 2102061,Gunung Kijang
-2102061040,Teluk Bintan
-2102061050,Bintan Utara
-2102061051,Teluk Sebong
-2102061052,Seri Kuala Lobam
-2102061060,Bintan Timur
-2102061061,Gunung Kijang
-2102061062,Mantang
-2102061063,Bintan Pesisir
-2102061064,Toapaya
-2102061070,Tambelan
+2102061001,Gunung Kijang
+2102061003,Kawal
+2102061004,Teluk Bakau
+2102061005,Malang Rapat
 2102062,Mantang
-2102062040,Teluk Bintan
-2102062050,Bintan Utara
-2102062051,Teluk Sebong
-2102062052,Seri Kuala Lobam
-2102062060,Bintan Timur
-2102062061,Gunung Kijang
-2102062062,Mantang
-2102062063,Bintan Pesisir
-2102062064,Toapaya
-2102062070,Tambelan
+2102062001,Mantang Lama
+2102062002,Mantang Besar
+2102062003,Mantang Baru
+2102062004,Dendun
 2102063,Bintan Pesisir
-2102063040,Teluk Bintan
-2102063050,Bintan Utara
-2102063051,Teluk Sebong
-2102063052,Seri Kuala Lobam
-2102063060,Bintan Timur
-2102063061,Gunung Kijang
-2102063062,Mantang
-2102063063,Bintan Pesisir
-2102063064,Toapaya
-2102063070,Tambelan
+2102063001,Mapur
+2102063002,Numbing
+2102063003,Kelong
+2102063004,Air Glubi
 2102064,Toapaya
-2102064040,Teluk Bintan
-2102064050,Bintan Utara
-2102064051,Teluk Sebong
-2102064052,Seri Kuala Lobam
-2102064060,Bintan Timur
-2102064061,Gunung Kijang
-2102064062,Mantang
-2102064063,Bintan Pesisir
-2102064064,Toapaya
-2102064070,Tambelan
+2102064001,Toapaya Utara
+2102064002,Toapaya
+2102064003,Toapaya Asri
+2102064004,Toapaya Selatan
 2102070,Tambelan
-2102070040,Teluk Bintan
-2102070050,Bintan Utara
-2102070051,Teluk Sebong
-2102070052,Seri Kuala Lobam
-2102070060,Bintan Timur
-2102070061,Gunung Kijang
-2102070062,Mantang
-2102070063,Bintan Pesisir
-2102070064,Toapaya
-2102070070,Tambelan
+2102070001,Pulau Pinang
+2102070002,Pulau Mentebung
+2102070003,Kampung Melayu
+2102070004,Kampung Hilir
+2102070005,Teluk Sekuni
+2102070006,Batu Lepuk
+2102070007,Kukup
+2102070008,Pengikik
 2103,Natuna
 2103030,Midai
-2103030030,Midai
-2103030031,Suak Midai
-2103030040,Bunguran Barat
-2103030041,Bunguran Utara
-2103030042,Pulau Laut
-2103030043,Pulau Tiga
-2103030044,Bunguran Batubi
-2103030045,Pulau Tiga Barat
-2103030050,Bunguran Timur
-2103030051,Bunguran Timur Laut
-2103030052,Bunguran Tengah
-2103030053,Bunguran Selatan
-2103030060,Serasan
-2103030061,Subi
-2103030062,Serasan Timur
+2103030001,Sebelat
+2103030003,Sabang Barat
+2103030005,Air Putih
 2103031,Suak Midai
-2103031030,Midai
-2103031031,Suak Midai
-2103031040,Bunguran Barat
-2103031041,Bunguran Utara
-2103031042,Pulau Laut
-2103031043,Pulau Tiga
-2103031044,Bunguran Batubi
-2103031045,Pulau Tiga Barat
-2103031050,Bunguran Timur
-2103031051,Bunguran Timur Laut
-2103031052,Bunguran Tengah
-2103031053,Bunguran Selatan
-2103031060,Serasan
-2103031061,Subi
-2103031062,Serasan Timur
+2103031001,Batu Belanak
+2103031002,Gunung Jambat
+2103031003,Air Kumpai
 2103040,Bunguran Barat
-2103040030,Midai
-2103040031,Suak Midai
-2103040040,Bunguran Barat
-2103040041,Bunguran Utara
-2103040042,Pulau Laut
-2103040043,Pulau Tiga
-2103040044,Bunguran Batubi
-2103040045,Pulau Tiga Barat
-2103040050,Bunguran Timur
-2103040051,Bunguran Timur Laut
-2103040052,Bunguran Tengah
-2103040053,Bunguran Selatan
-2103040060,Serasan
-2103040061,Subi
-2103040062,Serasan Timur
+2103040008,Sedanau
+2103040014,Mekar Jaya
+2103040015,Binjai
+2103040016,Pian Tengah
+2103040018,Selaut
 2103041,Bunguran Utara
-2103041030,Midai
-2103041031,Suak Midai
-2103041040,Bunguran Barat
-2103041041,Bunguran Utara
-2103041042,Pulau Laut
-2103041043,Pulau Tiga
-2103041044,Bunguran Batubi
-2103041045,Pulau Tiga Barat
-2103041050,Bunguran Timur
-2103041051,Bunguran Timur Laut
-2103041052,Bunguran Tengah
-2103041053,Bunguran Selatan
-2103041060,Serasan
-2103041061,Subi
-2103041062,Serasan Timur
+2103041001,Kelarik Barat
+2103041002,Kelarik
+2103041003,Kelarik Utara
+2103041004,Kelarik Air Mali
+2103041005,Teluk Buton
+2103041006,Belakang Gunung
+2103041007,Seluan Barat
+2103041008,Gunung Durian
 2103042,Pulau Laut
-2103042030,Midai
-2103042031,Suak Midai
-2103042040,Bunguran Barat
-2103042041,Bunguran Utara
-2103042042,Pulau Laut
-2103042043,Pulau Tiga
-2103042044,Bunguran Batubi
-2103042045,Pulau Tiga Barat
-2103042050,Bunguran Timur
-2103042051,Bunguran Timur Laut
-2103042052,Bunguran Tengah
-2103042053,Bunguran Selatan
-2103042060,Serasan
-2103042061,Subi
-2103042062,Serasan Timur
+2103042001,Air Payang
+2103042002,Tanjung Pala
+2103042003,Kadur
 2103043,Pulau Tiga
-2103043030,Midai
-2103043031,Suak Midai
-2103043040,Bunguran Barat
-2103043041,Bunguran Utara
-2103043042,Pulau Laut
-2103043043,Pulau Tiga
-2103043044,Bunguran Batubi
-2103043045,Pulau Tiga Barat
-2103043050,Bunguran Timur
-2103043051,Bunguran Timur Laut
-2103043052,Bunguran Tengah
-2103043053,Bunguran Selatan
-2103043060,Serasan
-2103043061,Subi
-2103043062,Serasan Timur
+2103043001,Sededap
+2103043002,Sabang Mawang
+2103043004,Tanjung Batang
+2103043005,Serantas
+2103043006,Sabang Mawang Barat
+2103043010,Teluk Labuh
 2103044,Bunguran Batubi
-2103044030,Midai
-2103044031,Suak Midai
-2103044040,Bunguran Barat
-2103044041,Bunguran Utara
-2103044042,Pulau Laut
-2103044043,Pulau Tiga
-2103044044,Bunguran Batubi
-2103044045,Pulau Tiga Barat
-2103044050,Bunguran Timur
-2103044051,Bunguran Timur Laut
-2103044052,Bunguran Tengah
-2103044053,Bunguran Selatan
-2103044060,Serasan
-2103044061,Subi
-2103044062,Serasan Timur
+2103044001,Sedanau Timur
+2103044002,Sedarat Baru
+2103044003,Batubi Jaya
+2103044004,Gunung Putri
+2103044005,Semedang
 2103045,Pulau Tiga Barat
-2103045030,Midai
-2103045031,Suak Midai
-2103045040,Bunguran Barat
-2103045041,Bunguran Utara
-2103045042,Pulau Laut
-2103045043,Pulau Tiga
-2103045044,Bunguran Batubi
-2103045045,Pulau Tiga Barat
-2103045050,Bunguran Timur
-2103045051,Bunguran Timur Laut
-2103045052,Bunguran Tengah
-2103045053,Bunguran Selatan
-2103045060,Serasan
-2103045061,Subi
-2103045062,Serasan Timur
+2103045001,Pulau Tiga
+2103045002,Tanjung Kumbik Utara
+2103045003,Setumuk
+2103045004,Selading
 2103050,Bunguran Timur
-2103050030,Midai
-2103050031,Suak Midai
-2103050040,Bunguran Barat
-2103050041,Bunguran Utara
-2103050042,Pulau Laut
-2103050043,Pulau Tiga
-2103050044,Bunguran Batubi
-2103050045,Pulau Tiga Barat
-2103050050,Bunguran Timur
-2103050051,Bunguran Timur Laut
-2103050052,Bunguran Tengah
-2103050053,Bunguran Selatan
-2103050060,Serasan
-2103050061,Subi
-2103050062,Serasan Timur
+2103050002,Sungai Ulu
+2103050003,Ranai
+2103050008,Sepempang
+2103050014,Batu Gajah
+2103050015,Ranai Darat
+2103050016,Bandarsyah
+2103050017,Batu Hitam
 2103051,Bunguran Timur Laut
-2103051030,Midai
-2103051031,Suak Midai
-2103051040,Bunguran Barat
-2103051041,Bunguran Utara
-2103051042,Pulau Laut
-2103051043,Pulau Tiga
-2103051044,Bunguran Batubi
-2103051045,Pulau Tiga Barat
-2103051050,Bunguran Timur
-2103051051,Bunguran Timur Laut
-2103051052,Bunguran Tengah
-2103051053,Bunguran Selatan
-2103051060,Serasan
-2103051061,Subi
-2103051062,Serasan Timur
+2103051001,Ceruk
+2103051002,Tanjung
+2103051003,Kelanga
+2103051004,Pengadah
+2103051005,Sebadai Hulu
+2103051006,Limau Manis
+2103051007,Selemam
 2103052,Bunguran Tengah
-2103052030,Midai
-2103052031,Suak Midai
-2103052040,Bunguran Barat
-2103052041,Bunguran Utara
-2103052042,Pulau Laut
-2103052043,Pulau Tiga
-2103052044,Bunguran Batubi
-2103052045,Pulau Tiga Barat
-2103052050,Bunguran Timur
-2103052051,Bunguran Timur Laut
-2103052052,Bunguran Tengah
-2103052053,Bunguran Selatan
-2103052060,Serasan
-2103052061,Subi
-2103052062,Serasan Timur
+2103052001,Harapan Jaya
+2103052002,Tapau
+2103052003,Air Lengit
 2103053,Bunguran Selatan
-2103053030,Midai
-2103053031,Suak Midai
-2103053040,Bunguran Barat
-2103053041,Bunguran Utara
-2103053042,Pulau Laut
-2103053043,Pulau Tiga
-2103053044,Bunguran Batubi
-2103053045,Pulau Tiga Barat
-2103053050,Bunguran Timur
-2103053051,Bunguran Timur Laut
-2103053052,Bunguran Tengah
-2103053053,Bunguran Selatan
-2103053060,Serasan
-2103053061,Subi
-2103053062,Serasan Timur
+2103053001,Cemaga
+2103053002,Cemaga Utara
+2103053003,Cemaga Selatan
+2103053004,Cemaga Tengah
 2103060,Serasan
-2103060030,Midai
-2103060031,Suak Midai
-2103060040,Bunguran Barat
-2103060041,Bunguran Utara
-2103060042,Pulau Laut
-2103060043,Pulau Tiga
-2103060044,Bunguran Batubi
-2103060045,Pulau Tiga Barat
-2103060050,Bunguran Timur
-2103060051,Bunguran Timur Laut
-2103060052,Bunguran Tengah
-2103060053,Bunguran Selatan
-2103060060,Serasan
-2103060061,Subi
-2103060062,Serasan Timur
+2103060001,Kampung Hilir
+2103060002,Serasan
+2103060005,Batu Berian
+2103060006,Tanjung Setelung
+2103060007,Tanjung Balau
+2103060008,Pangkalan
+2103060009,Jermalik
 2103061,Subi
-2103061030,Midai
-2103061031,Suak Midai
-2103061040,Bunguran Barat
-2103061041,Bunguran Utara
-2103061042,Pulau Laut
-2103061043,Pulau Tiga
-2103061044,Bunguran Batubi
-2103061045,Pulau Tiga Barat
-2103061050,Bunguran Timur
-2103061051,Bunguran Timur Laut
-2103061052,Bunguran Tengah
-2103061053,Bunguran Selatan
-2103061060,Serasan
-2103061061,Subi
-2103061062,Serasan Timur
+2103061001,Pulau Panjang
+2103061002,Subi Besar
+2103061003,Subi
+2103061004,Meliah
+2103061005,Terayak
+2103061006,Kerdau
+2103061007,Subi Besar Timur
+2103061008,Meliah Selatan
 2103062,Serasan Timur
-2103062030,Midai
-2103062031,Suak Midai
-2103062040,Bunguran Barat
-2103062041,Bunguran Utara
-2103062042,Pulau Laut
-2103062043,Pulau Tiga
-2103062044,Bunguran Batubi
-2103062045,Pulau Tiga Barat
-2103062050,Bunguran Timur
-2103062051,Bunguran Timur Laut
-2103062052,Bunguran Tengah
-2103062053,Bunguran Selatan
-2103062060,Serasan
-2103062061,Subi
-2103062062,Serasan Timur
+2103062001,Arung Ayam
+2103062002,Air Nusa
+2103062003,Air Ringau
+2103062004,Payak
 2104,Lingga
 2104010,Singkep Barat
-2104010010,Singkep Barat
-2104010011,Kepulauan Posek
-2104010020,Singkep
-2104010021,Singkep Selatan
-2104010022,Singkep Pesisir
-2104010030,Lingga
-2104010031,Selayar
-2104010032,Lingga Timur
-2104010040,Lingga Utara
-2104010050,Senayang
-2104010051,Bakung Serumpun
-2104010052,Temiang Pesisir
-2104010053,Katang Bidare
+2104010001,Marok Tua
+2104010002,Sungai Buluh
+2104010003,Kuala Raya
+2104010004,Bakong
+2104010006,Sungai Harapan
+2104010007,Jagoh
+2104010008,Sungai Raya
+2104010009,Raya
+2104010010,Bukit Belah
+2104010011,Tanjung Irat
+2104010012,Langkap
+2104010013,Tinjul
 2104011,Kepulauan Posek
-2104011010,Singkep Barat
-2104011011,Kepulauan Posek
-2104011020,Singkep
-2104011021,Singkep Selatan
-2104011022,Singkep Pesisir
-2104011030,Lingga
-2104011031,Selayar
-2104011032,Lingga Timur
-2104011040,Lingga Utara
-2104011050,Senayang
-2104011051,Bakung Serumpun
-2104011052,Temiang Pesisir
-2104011053,Katang Bidare
+2104011001,Posek
+2104011002,Suak Buaya
+2104011003,Busung Panjang
 2104020,Singkep
-2104020010,Singkep Barat
-2104020011,Kepulauan Posek
-2104020020,Singkep
-2104020021,Singkep Selatan
-2104020022,Singkep Pesisir
-2104020030,Lingga
-2104020031,Selayar
-2104020032,Lingga Timur
-2104020040,Lingga Utara
-2104020050,Senayang
-2104020051,Bakung Serumpun
-2104020052,Temiang Pesisir
-2104020053,Katang Bidare
+2104020003,Dabo
+2104020008,Batu Berdaun
+2104020009,Dabo Lama
+2104020010,Batu Kacang
+2104020011,Tanjung Harapan
+2104020012,Sungai Lumpur
 2104021,Singkep Selatan
-2104021010,Singkep Barat
-2104021011,Kepulauan Posek
-2104021020,Singkep
-2104021021,Singkep Selatan
-2104021022,Singkep Pesisir
-2104021030,Lingga
-2104021031,Selayar
-2104021032,Lingga Timur
-2104021040,Lingga Utara
-2104021050,Senayang
-2104021051,Bakung Serumpun
-2104021052,Temiang Pesisir
-2104021053,Katang Bidare
+2104021001,Berhala
+2104021002,Marok Kecil
+2104021003,Resang
 2104022,Singkep Pesisir
-2104022010,Singkep Barat
-2104022011,Kepulauan Posek
-2104022020,Singkep
-2104022021,Singkep Selatan
-2104022022,Singkep Pesisir
-2104022030,Lingga
-2104022031,Selayar
-2104022032,Lingga Timur
-2104022040,Lingga Utara
-2104022050,Senayang
-2104022051,Bakung Serumpun
-2104022052,Temiang Pesisir
-2104022053,Katang Bidare
+2104022001,Berindat
+2104022002,Persing
+2104022003,Sedamai
+2104022004,Lanjut
+2104022005,Kote
+2104022006,Pelakak
 2104030,Lingga
-2104030010,Singkep Barat
-2104030011,Kepulauan Posek
-2104030020,Singkep
-2104030021,Singkep Selatan
-2104030022,Singkep Pesisir
-2104030030,Lingga
-2104030031,Selayar
-2104030032,Lingga Timur
-2104030040,Lingga Utara
-2104030050,Senayang
-2104030051,Bakung Serumpun
-2104030052,Temiang Pesisir
-2104030053,Katang Bidare
+2104030001,Pekajang
+2104030004,Kelumu
+2104030005,Mepar
+2104030006,Kelombok
+2104030007,Merawang
+2104030008,Daik
+2104030009,Panggak Darat
+2104030010,Panggak Laut
+2104030011,Musai
+2104030016,Mentuda
+2104030017,Nerekeh
 2104031,Selayar
-2104031010,Singkep Barat
-2104031011,Kepulauan Posek
-2104031020,Singkep
-2104031021,Singkep Selatan
-2104031022,Singkep Pesisir
-2104031030,Lingga
-2104031031,Selayar
-2104031032,Lingga Timur
-2104031040,Lingga Utara
-2104031050,Senayang
-2104031051,Bakung Serumpun
-2104031052,Temiang Pesisir
-2104031053,Katang Bidare
+2104031001,Selayar
+2104031002,Penuba
+2104031003,Pantai Harapan
+2104031004,Penuba Timur
 2104032,Lingga Timur
-2104032010,Singkep Barat
-2104032011,Kepulauan Posek
-2104032020,Singkep
-2104032021,Singkep Selatan
-2104032022,Singkep Pesisir
-2104032030,Lingga
-2104032031,Selayar
-2104032032,Lingga Timur
-2104032040,Lingga Utara
-2104032050,Senayang
-2104032051,Bakung Serumpun
-2104032052,Temiang Pesisir
-2104032053,Katang Bidare
+2104032001,Bukit Langkap
+2104032002,Kerandin
+2104032003,Pekaka
+2104032004,Keton
+2104032005,Sungai Pinang
+2104032006,Kudung
 2104040,Lingga Utara
-2104040010,Singkep Barat
-2104040011,Kepulauan Posek
-2104040020,Singkep
-2104040021,Singkep Selatan
-2104040022,Singkep Pesisir
-2104040030,Lingga
-2104040031,Selayar
-2104040032,Lingga Timur
-2104040040,Lingga Utara
-2104040050,Senayang
-2104040051,Bakung Serumpun
-2104040052,Temiang Pesisir
-2104040053,Katang Bidare
+2104040001,Sekanah
+2104040002,Duara
+2104040003,Resun
+2104040004,Limbung
+2104040005,Bukit Harapan
+2104040006,Teluk
+2104040007,Linau
+2104040008,Pancur
+2104040009,Rantau Panjang
+2104040010,Sungai Besar
+2104040011,Resun Pesisir
+2104040012,Belungkur
 2104050,Senayang
-2104050010,Singkep Barat
-2104050011,Kepulauan Posek
-2104050020,Singkep
-2104050021,Singkep Selatan
-2104050022,Singkep Pesisir
-2104050030,Lingga
-2104050031,Selayar
-2104050032,Lingga Timur
-2104050040,Lingga Utara
-2104050050,Senayang
-2104050051,Bakung Serumpun
-2104050052,Temiang Pesisir
-2104050053,Katang Bidare
+2104050001,Mamut
+2104050002,Senayang
+2104050013,Penaah
+2104050014,Laboh
+2104050015,Baran
 2104051,Bakung Serumpun
-2104051010,Singkep Barat
-2104051011,Kepulauan Posek
-2104051020,Singkep
-2104051021,Singkep Selatan
-2104051022,Singkep Pesisir
-2104051030,Lingga
-2104051031,Selayar
-2104051032,Lingga Timur
-2104051040,Lingga Utara
-2104051050,Senayang
-2104051051,Bakung Serumpun
-2104051052,Temiang Pesisir
-2104051053,Katang Bidare
+2104051001,Batu Belubang
+2104051002,Cempa
+2104051003,Tanjung Kelit
+2104051004,Pasir Panjang
+2104051005,Tanjung Lipat
+2104051006,Rejai
 2104052,Temiang Pesisir
-2104052010,Singkep Barat
-2104052011,Kepulauan Posek
-2104052020,Singkep
-2104052021,Singkep Selatan
-2104052022,Singkep Pesisir
-2104052030,Lingga
-2104052031,Selayar
-2104052032,Lingga Timur
-2104052040,Lingga Utara
-2104052050,Senayang
-2104052051,Bakung Serumpun
-2104052052,Temiang Pesisir
-2104052053,Katang Bidare
+2104052001,Pulau Batang
+2104052002,Tajur Biru
+2104052003,Temiang
 2104053,Katang Bidare
-2104053010,Singkep Barat
-2104053011,Kepulauan Posek
-2104053020,Singkep
-2104053021,Singkep Selatan
-2104053022,Singkep Pesisir
-2104053030,Lingga
-2104053031,Selayar
-2104053032,Lingga Timur
-2104053040,Lingga Utara
-2104053050,Senayang
-2104053051,Bakung Serumpun
-2104053052,Temiang Pesisir
-2104053053,Katang Bidare
+2104053001,Pulau Medang
+2104053002,Pulau Duyung
+2104053003,Mensanak
+2104053004,Pulau Bukit
+2104053005,Benan
 2105,Kepulauan Anambas
 2105010,Jemaja
-2105010010,Jemaja
-2105010011,Jemaja Barat
-2105010020,Jemaja Timur
-2105010030,Siantan Selatan
-2105010040,Siantan
-2105010050,Siantan Timur
-2105010060,Siantan Tengah
-2105010070,Palmatak
-2105010071,Siantan Utara
-2105010072,Kute Siantan
+2105010004,Mampok
+2105010005,Letung
+2105010006,Rewak
+2105010009,Air Biru
+2105010011,Batu Berapit
+2105010012,Landak
 2105011,Jemaja Barat
-2105011010,Jemaja
-2105011011,Jemaja Barat
-2105011020,Jemaja Timur
-2105011030,Siantan Selatan
-2105011040,Siantan
-2105011050,Siantan Timur
-2105011060,Siantan Tengah
-2105011070,Palmatak
-2105011071,Siantan Utara
-2105011072,Kute Siantan
+2105011001,Keramut
+2105011002,Impol
+2105011003,Sunggak
 2105020,Jemaja Timur
-2105020010,Jemaja
-2105020011,Jemaja Barat
-2105020020,Jemaja Timur
-2105020030,Siantan Selatan
-2105020040,Siantan
-2105020050,Siantan Timur
-2105020060,Siantan Tengah
-2105020070,Palmatak
-2105020071,Siantan Utara
-2105020072,Kute Siantan
+2105020001,Ulu Maras
+2105020002,Kuala Maras
+2105020003,Bukit Padi
+2105020004,Genting Pulur
 2105030,Siantan Selatan
-2105030010,Jemaja
-2105030011,Jemaja Barat
-2105030020,Jemaja Timur
-2105030030,Siantan Selatan
-2105030040,Siantan
-2105030050,Siantan Timur
-2105030060,Siantan Tengah
-2105030070,Palmatak
-2105030071,Siantan Utara
-2105030072,Kute Siantan
+2105030001,Kiabu
+2105030002,Telaga
+2105030003,Mengkait
+2105030004,Tiangau
+2105030005,Telaga Kecil
+2105030006,Lingai
+2105030007,Air Bini
 2105040,Siantan
-2105040010,Jemaja
-2105040011,Jemaja Barat
-2105040020,Jemaja Timur
-2105040030,Siantan Selatan
-2105040040,Siantan
-2105040050,Siantan Timur
-2105040060,Siantan Tengah
-2105040070,Palmatak
-2105040071,Siantan Utara
-2105040072,Kute Siantan
+2105040003,Tarempa Barat
+2105040004,Tarempa
+2105040005,Tarempa Selatan
+2105040006,Tarempa Timur
+2105040007,Sri Tanjung
+2105040008,Tarempa Barat Daya
+2105040009,Pesisir Timur
 2105050,Siantan Timur
-2105050010,Jemaja
-2105050011,Jemaja Barat
-2105050020,Jemaja Timur
-2105050030,Siantan Selatan
-2105050040,Siantan
-2105050050,Siantan Timur
-2105050060,Siantan Tengah
-2105050070,Palmatak
-2105050071,Siantan Utara
-2105050072,Kute Siantan
+2105050001,Nyamuk
+2105050002,Batu Belah
+2105050003,Munjan
+2105050004,Serat
+2105050005,Air Putih
+2105050006,Temburun
 2105060,Siantan Tengah
-2105060010,Jemaja
-2105060011,Jemaja Barat
-2105060020,Jemaja Timur
-2105060030,Siantan Selatan
-2105060040,Siantan
-2105060050,Siantan Timur
-2105060060,Siantan Tengah
-2105060070,Palmatak
-2105060071,Siantan Utara
-2105060072,Kute Siantan
+2105060001,Air Asuk
+2105060002,Air Sena
+2105060003,Teluk Siantan
+2105060004,Liuk
+2105060005,Lidi
+2105060006,Teluk Sunting
 2105070,Palmatak
-2105070010,Jemaja
-2105070011,Jemaja Barat
-2105070020,Jemaja Timur
-2105070030,Siantan Selatan
-2105070040,Siantan
-2105070050,Siantan Timur
-2105070060,Siantan Tengah
-2105070070,Palmatak
-2105070071,Siantan Utara
-2105070072,Kute Siantan
+2105070002,Tebang
+2105070003,Ladan
+2105070008,Putik
+2105070010,Piabung
+2105070011,Langir
+2105070012,Candi
+2105070014,Belibak
 2105071,Siantan Utara
-2105071010,Jemaja
-2105071011,Jemaja Barat
-2105071020,Jemaja Timur
-2105071030,Siantan Selatan
-2105071040,Siantan
-2105071050,Siantan Timur
-2105071060,Siantan Tengah
-2105071070,Palmatak
-2105071071,Siantan Utara
-2105071072,Kute Siantan
+2105071001,Mubur
+2105071002,Bayat
+2105071003,Piasan
 2105072,Kute Siantan
-2105072010,Jemaja
-2105072011,Jemaja Barat
-2105072020,Jemaja Timur
-2105072030,Siantan Selatan
-2105072040,Siantan
-2105072050,Siantan Timur
-2105072060,Siantan Tengah
-2105072070,Palmatak
-2105072071,Siantan Utara
-2105072072,Kute Siantan
+2105072001,Payalaman
+2105072002,Teluk Bayur
+2105072003,Matak
+2105072004,Payamaram
+2105072005,Batu Ampar
 2171,B A T A M
 2171010,Belakang Padang
-2171010010,Belakang Padang
-2171010020,Bulang
-2171010030,Galang
-2171010040,Sei Beduk
-2171010041,Sagulung
-2171010050,Nongsa
-2171010051,Batam Kota
-2171010060,Sekupang
-2171010061,Batu Aji
-2171010070,Lubuk Baja
-2171010080,Batu Ampar
-2171010081,Bengkong
+2171010001,Pulau Terong
+2171010002,Pecong
+2171010003,Kasu
+2171010004,Pemping
+2171010006,Tanjung Sari
+2171010007,Sekanak Raya
 2171020,Bulang
-2171020010,Belakang Padang
-2171020020,Bulang
-2171020030,Galang
-2171020040,Sei Beduk
-2171020041,Sagulung
-2171020050,Nongsa
-2171020051,Batam Kota
-2171020060,Sekupang
-2171020061,Batu Aji
-2171020070,Lubuk Baja
-2171020080,Batu Ampar
-2171020081,Bengkong
+2171020001,Pantai Gelam
+2171020002,Temoyong
+2171020003,Pulau Setokok
+2171020004,Batu Legong
+2171020005,Bulang Lintang
+2171020006,Pulau Buluh
 2171030,Galang
-2171030010,Belakang Padang
-2171030020,Bulang
-2171030030,Galang
-2171030040,Sei Beduk
-2171030041,Sagulung
-2171030050,Nongsa
-2171030051,Batam Kota
-2171030060,Sekupang
-2171030061,Batu Aji
-2171030070,Lubuk Baja
-2171030080,Batu Ampar
-2171030081,Bengkong
+2171030001,Pulau Abang
+2171030002,Karas
+2171030003,Sijantung
+2171030004,Sembulang
+2171030005,Rempang Cate
+2171030006,Subang Mas
+2171030007,Galang Baru
+2171030008,Air Raja
 2171040,Sei Beduk
-2171040010,Belakang Padang
-2171040020,Bulang
-2171040030,Galang
-2171040040,Sei Beduk
-2171040041,Sagulung
-2171040050,Nongsa
-2171040051,Batam Kota
-2171040060,Sekupang
-2171040061,Batu Aji
-2171040070,Lubuk Baja
-2171040080,Batu Ampar
-2171040081,Bengkong
+2171040003,Tanjung Piayu
+2171040004,Muka Kuning
+2171040005,Duriangkang
+2171040006,Mangsang
 2171041,Sagulung
-2171041010,Belakang Padang
-2171041020,Bulang
-2171041030,Galang
-2171041040,Sei Beduk
-2171041041,Sagulung
-2171041050,Nongsa
-2171041051,Batam Kota
-2171041060,Sekupang
-2171041061,Batu Aji
-2171041070,Lubuk Baja
-2171041080,Batu Ampar
-2171041081,Bengkong
+2171041001,Tembesi
+2171041002,Sungai Binti
+2171041003,Sungai Lekop
+2171041004,Sagulung Kota
+2171041005,Sungai Langkai
+2171041006,Sungai Pelunggut
 2171050,Nongsa
-2171050010,Belakang Padang
-2171050020,Bulang
-2171050030,Galang
-2171050040,Sei Beduk
-2171050041,Sagulung
-2171050050,Nongsa
-2171050051,Batam Kota
-2171050060,Sekupang
-2171050061,Batu Aji
-2171050070,Lubuk Baja
-2171050080,Batu Ampar
-2171050081,Bengkong
+2171050001,Ngenang
+2171050002,Kabil
+2171050003,Batu Besar
+2171050008,Sambau
 2171051,Batam Kota
-2171051010,Belakang Padang
-2171051020,Bulang
-2171051030,Galang
-2171051040,Sei Beduk
-2171051041,Sagulung
-2171051050,Nongsa
-2171051051,Batam Kota
-2171051060,Sekupang
-2171051061,Batu Aji
-2171051070,Lubuk Baja
-2171051080,Batu Ampar
-2171051081,Bengkong
+2171051001,Taman Baloi
+2171051002,Baloi Permai
+2171051003,Belian
+2171051004,Teluk Tering
+2171051005,Sungai Panas
+2171051006,Sukajadi
 2171060,Sekupang
-2171060010,Belakang Padang
-2171060020,Bulang
-2171060030,Galang
-2171060040,Sei Beduk
-2171060041,Sagulung
-2171060050,Nongsa
-2171060051,Batam Kota
-2171060060,Sekupang
-2171060061,Batu Aji
-2171060070,Lubuk Baja
-2171060080,Batu Ampar
-2171060081,Bengkong
+2171060002,Tanjung Riau
+2171060003,Tiban Baru
+2171060004,Tiban Lama
+2171060005,Tiban Indah
+2171060006,Patam Lestari
+2171060007,Sungai Harapan
+2171060008,Tanjung Pinggir
 2171061,Batu Aji
-2171061010,Belakang Padang
-2171061020,Bulang
-2171061030,Galang
-2171061040,Sei Beduk
-2171061041,Sagulung
-2171061050,Nongsa
-2171061051,Batam Kota
-2171061060,Sekupang
-2171061061,Batu Aji
-2171061070,Lubuk Baja
-2171061080,Batu Ampar
-2171061081,Bengkong
+2171061001,Tanjung Uncang
+2171061002,Bukit Tempayan
+2171061003,Buliang
+2171061004,Kibing
 2171070,Lubuk Baja
-2171070010,Belakang Padang
-2171070020,Bulang
-2171070030,Galang
-2171070040,Sei Beduk
-2171070041,Sagulung
-2171070050,Nongsa
-2171070051,Batam Kota
-2171070060,Sekupang
-2171070061,Batu Aji
-2171070070,Lubuk Baja
-2171070080,Batu Ampar
-2171070081,Bengkong
+2171070001,Baloi Indah
+2171070002,Batu Selicin
+2171070003,Kampung Pelita
+2171070004,Lubuk Baja Kota
+2171070005,Tanjung Uma
 2171080,Batu Ampar
-2171080010,Belakang Padang
-2171080020,Bulang
-2171080030,Galang
-2171080040,Sei Beduk
-2171080041,Sagulung
-2171080050,Nongsa
-2171080051,Batam Kota
-2171080060,Sekupang
-2171080061,Batu Aji
-2171080070,Lubuk Baja
-2171080080,Batu Ampar
-2171080081,Bengkong
+2171080004,Kampung Seraya
+2171080005,Sungai Jodoh
+2171080007,Tanjung Sengkuang
+2171080008,Batu Merah
 2171081,Bengkong
-2171081010,Belakang Padang
-2171081020,Bulang
-2171081030,Galang
-2171081040,Sei Beduk
-2171081041,Sagulung
-2171081050,Nongsa
-2171081051,Batam Kota
-2171081060,Sekupang
-2171081061,Batu Aji
-2171081070,Lubuk Baja
-2171081080,Batu Ampar
-2171081081,Bengkong
+2171081001,Bengkong Laut
+2171081002,Bengkong Indah
+2171081003,Sadai
+2171081004,Tanjung Buntung
 2172,Tanjung Pinang
 2172010,Bukit Bestari
-2172010010,Bukit Bestari
-2172010020,Tanjungpinang Timur
-2172010030,Tanjungpinang Kota
-2172010040,Tanjungpinang Barat
+2172010001,Dompak
+2172010002,Tanjungpinang Timur
+2172010003,Tanjung Ayun Sakti
+2172010004,Sei Jang
+2172010005,Tanjung Unggat
 2172020,Tanjungpinang Timur
-2172020010,Bukit Bestari
-2172020020,Tanjungpinang Timur
-2172020030,Tanjungpinang Kota
-2172020040,Tanjungpinang Barat
+2172020001,Batu Sembilan
+2172020002,Melayu Kota Piring
+2172020003,Air Raja
+2172020004,Pinang Kencana
+2172020005,Kampung Bulang
 2172030,Tanjungpinang Kota
-2172030010,Bukit Bestari
-2172030020,Tanjungpinang Timur
-2172030030,Tanjungpinang Kota
-2172030040,Tanjungpinang Barat
+2172030001,Tanjungpinang Kota
+2172030002,Penyengat
+2172030003,Kampung Bugis
+2172030004,Senggarang
 2172040,Tanjungpinang Barat
-2172040010,Bukit Bestari
-2172040020,Tanjungpinang Timur
-2172040030,Tanjungpinang Kota
-2172040040,Tanjungpinang Barat
+2172040001,Tanjungpinang Barat
+2172040002,Kemboja
+2172040003,Kampung Baru
+2172040004,Bukit Cermin

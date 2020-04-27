@@ -1,867 +1,542 @@
 6501,Malinau
 6501010,Sungai Boh
-6501010010,Sungai Boh
-6501010020,Kayan Selatan
-6501010030,Kayan Hulu
-6501010040,Kayan Hilir
-6501010050,Pujungan
-6501010060,Bahau Hulu
-6501010070,Sungai Tubu
-6501010080,Malinau Selatan Hulu
-6501010090,Malinau Selatan
-6501010100,Malinau Selatan Hilir
-6501010110,Mentarang
-6501010120,Mentarang Hulu
-6501010130,Malinau Utara
-6501010140,Malinau Barat
-6501010150,Malinau Kota
+6501010001,Mahak Baru
+6501010002,Dumu Mahak
+6501010003,Long Top
+6501010004,Data Baru
+6501010005,Long Lebusan
+6501010006,Agung Baru
 6501020,Kayan Selatan
-6501020010,Sungai Boh
-6501020020,Kayan Selatan
-6501020030,Kayan Hulu
-6501020040,Kayan Hilir
-6501020050,Pujungan
-6501020060,Bahau Hulu
-6501020070,Sungai Tubu
-6501020080,Malinau Selatan Hulu
-6501020090,Malinau Selatan
-6501020100,Malinau Selatan Hilir
-6501020110,Mentarang
-6501020120,Mentarang Hulu
-6501020130,Malinau Utara
-6501020140,Malinau Barat
-6501020150,Malinau Kota
+6501020001,Long Ampung
+6501020002,Sungai Barang
+6501020003,Lidung Payau
+6501020004,Long Uro
+6501020005,Metulang
 6501030,Kayan Hulu
-6501030010,Sungai Boh
-6501030020,Kayan Selatan
-6501030030,Kayan Hulu
-6501030040,Kayan Hilir
-6501030050,Pujungan
-6501030060,Bahau Hulu
-6501030070,Sungai Tubu
-6501030080,Malinau Selatan Hulu
-6501030090,Malinau Selatan
-6501030100,Malinau Selatan Hilir
-6501030110,Mentarang
-6501030120,Mentarang Hulu
-6501030130,Malinau Utara
-6501030140,Malinau Barat
-6501030150,Malinau Kota
+6501030001,Long Temuyat
+6501030002,Nawang Baru
+6501030003,Long Betaoh
+6501030004,Long Nawang
+6501030005,Long Payau
 6501040,Kayan Hilir
-6501040010,Sungai Boh
-6501040020,Kayan Selatan
-6501040030,Kayan Hulu
-6501040040,Kayan Hilir
-6501040050,Pujungan
-6501040060,Bahau Hulu
-6501040070,Sungai Tubu
-6501040080,Malinau Selatan Hulu
-6501040090,Malinau Selatan
-6501040100,Malinau Selatan Hilir
-6501040110,Mentarang
-6501040120,Mentarang Hulu
-6501040130,Malinau Utara
-6501040140,Malinau Barat
-6501040150,Malinau Kota
+6501040001,Long Metun
+6501040002,Sungai Anai
+6501040003,Long Pipa
+6501040004,Long Sule
+6501040005,Data Dian
 6501050,Pujungan
-6501050010,Sungai Boh
-6501050020,Kayan Selatan
-6501050030,Kayan Hulu
-6501050040,Kayan Hilir
-6501050050,Pujungan
-6501050060,Bahau Hulu
-6501050070,Sungai Tubu
-6501050080,Malinau Selatan Hulu
-6501050090,Malinau Selatan
-6501050100,Malinau Selatan Hilir
-6501050110,Mentarang
-6501050120,Mentarang Hulu
-6501050130,Malinau Utara
-6501050140,Malinau Barat
-6501050150,Malinau Kota
+6501050001,Long Belaka Pitau
+6501050002,Long Jelet
+6501050003,Long Pua
+6501050004,Long Ketaman
+6501050005,Long Aran
+6501050006,Long Lame
+6501050007,Long Pujungan
+6501050008,Long Paliran
+6501050009,Long Bena
 6501060,Bahau Hulu
-6501060010,Sungai Boh
-6501060020,Kayan Selatan
-6501060030,Kayan Hulu
-6501060040,Kayan Hilir
-6501060050,Pujungan
-6501060060,Bahau Hulu
-6501060070,Sungai Tubu
-6501060080,Malinau Selatan Hulu
-6501060090,Malinau Selatan
-6501060100,Malinau Selatan Hilir
-6501060110,Mentarang
-6501060120,Mentarang Hulu
-6501060130,Malinau Utara
-6501060140,Malinau Barat
-6501060150,Malinau Kota
+6501060001,Long Uli
+6501060002,Long Tebulo
+6501060003,Long Alango
+6501060004,Long Kemuat
+6501060005,Long Berini
+6501060006,Apau Ping
 6501070,Sungai Tubu
-6501070010,Sungai Boh
-6501070020,Kayan Selatan
-6501070030,Kayan Hulu
-6501070040,Kayan Hilir
-6501070050,Pujungan
-6501070060,Bahau Hulu
-6501070070,Sungai Tubu
-6501070080,Malinau Selatan Hulu
-6501070090,Malinau Selatan
-6501070100,Malinau Selatan Hilir
-6501070110,Mentarang
-6501070120,Mentarang Hulu
-6501070130,Malinau Utara
-6501070140,Malinau Barat
-6501070150,Malinau Kota
+6501070001,Long Pada
+6501070002,Long Nyau
+6501070003,Long Titi
+6501070004,Long Ranau
+6501070005,Rian Tubu
 6501080,Malinau Selatan Hulu
-6501080010,Sungai Boh
-6501080020,Kayan Selatan
-6501080030,Kayan Hulu
-6501080040,Kayan Hilir
-6501080050,Pujungan
-6501080060,Bahau Hulu
-6501080070,Sungai Tubu
-6501080080,Malinau Selatan Hulu
-6501080090,Malinau Selatan
-6501080100,Malinau Selatan Hilir
-6501080110,Mentarang
-6501080120,Mentarang Hulu
-6501080130,Malinau Utara
-6501080140,Malinau Barat
-6501080150,Malinau Kota
+6501080001,Long Jalan
+6501080002,Tanjung Nanga
+6501080003,Nahakramo
+6501080004,Metut
+6501080005,Long Lake
+6501080006,Halanga
+6501080007,Punan Mirau
+6501080008,Long Rat
 6501090,Malinau Selatan
-6501090010,Sungai Boh
-6501090020,Kayan Selatan
-6501090030,Kayan Hulu
-6501090040,Kayan Hilir
-6501090050,Pujungan
-6501090060,Bahau Hulu
-6501090070,Sungai Tubu
-6501090080,Malinau Selatan Hulu
-6501090090,Malinau Selatan
-6501090100,Malinau Selatan Hilir
-6501090110,Mentarang
-6501090120,Mentarang Hulu
-6501090130,Malinau Utara
-6501090140,Malinau Barat
-6501090150,Malinau Kota
+6501090001,Langap
+6501090002,Laban Nyarit
+6501090003,Nunuk Tanah Kibang
+6501090004,Sengayan
+6501090005,Pelencau
+6501090006,Bila Bekayuk
+6501090007,Long Loreh
+6501090008,Paya Seturan
+6501090009,Punan Rian
 6501100,Malinau Selatan Hilir
-6501100010,Sungai Boh
-6501100020,Kayan Selatan
-6501100030,Kayan Hulu
-6501100040,Kayan Hilir
-6501100050,Pujungan
-6501100060,Bahau Hulu
-6501100070,Sungai Tubu
-6501100080,Malinau Selatan Hulu
-6501100090,Malinau Selatan
-6501100100,Malinau Selatan Hilir
-6501100110,Mentarang
-6501100120,Mentarang Hulu
-6501100130,Malinau Utara
-6501100140,Malinau Barat
-6501100150,Malinau Kota
+6501100001,Long Adiu
+6501100002,Punan Gong Solok
+6501100003,Batu Kajang
+6501100004,Gong Solok
+6501100005,Punan Long Adiu
+6501100006,Punan Setarap
+6501100007,Setarap
+6501100008,Setulang
 6501110,Mentarang
-6501110010,Sungai Boh
-6501110020,Kayan Selatan
-6501110030,Kayan Hulu
-6501110040,Kayan Hilir
-6501110050,Pujungan
-6501110060,Bahau Hulu
-6501110070,Sungai Tubu
-6501110080,Malinau Selatan Hulu
-6501110090,Malinau Selatan
-6501110100,Malinau Selatan Hilir
-6501110110,Mentarang
-6501110120,Mentarang Hulu
-6501110130,Malinau Utara
-6501110140,Malinau Barat
-6501110150,Malinau Kota
+6501110001,Harapan Maju
+6501110002,Paking
+6501110003,Long Liku
+6501110004,Mentarang Baru
+6501110005,Long Bisai
+6501110006,Long Gafid
+6501110007,Temalang
+6501110008,Lidung Kemenci
+6501110009,Pulau Sapi
 6501120,Mentarang Hulu
-6501120010,Sungai Boh
-6501120020,Kayan Selatan
-6501120030,Kayan Hulu
-6501120040,Kayan Hilir
-6501120050,Pujungan
-6501120060,Bahau Hulu
-6501120070,Sungai Tubu
-6501120080,Malinau Selatan Hulu
-6501120090,Malinau Selatan
-6501120100,Malinau Selatan Hilir
-6501120110,Mentarang
-6501120120,Mentarang Hulu
-6501120130,Malinau Utara
-6501120140,Malinau Barat
-6501120150,Malinau Kota
+6501120001,Lung Semamu
+6501120002,Lung Barang
+6501120003,Lung Simau
+6501120004,Lung Fala
+6501120005,Lung Mekatip
+6501120006,Lung Kebinu
+6501120007,Lung Sulit
 6501130,Malinau Utara
-6501130010,Sungai Boh
-6501130020,Kayan Selatan
-6501130030,Kayan Hulu
-6501130040,Kayan Hilir
-6501130050,Pujungan
-6501130060,Bahau Hulu
-6501130070,Sungai Tubu
-6501130080,Malinau Selatan Hulu
-6501130090,Malinau Selatan
-6501130100,Malinau Selatan Hilir
-6501130110,Mentarang
-6501130120,Mentarang Hulu
-6501130130,Malinau Utara
-6501130140,Malinau Barat
-6501130150,Malinau Kota
+6501130001,Sembuak Warod
+6501130002,Luso
+6501130003,Respen Tubu
+6501130004,Kaliamok
+6501130005,Malinau Seberang
+6501130006,Lubak Manis
+6501130007,Semengaris
+6501130008,Kelapis
+6501130009,Belayan
+6501130010,Putat
+6501130011,Salap
+6501130012,Seruyung
 6501140,Malinau Barat
-6501140010,Sungai Boh
-6501140020,Kayan Selatan
-6501140030,Kayan Hulu
-6501140040,Kayan Hilir
-6501140050,Pujungan
-6501140060,Bahau Hulu
-6501140070,Sungai Tubu
-6501140080,Malinau Selatan Hulu
-6501140090,Malinau Selatan
-6501140100,Malinau Selatan Hilir
-6501140110,Mentarang
-6501140120,Mentarang Hulu
-6501140130,Malinau Utara
-6501140140,Malinau Barat
-6501140150,Malinau Kota
+6501140001,Punan Bengalun
+6501140002,Sesua
+6501140003,Sempayang
+6501140004,Kuala Lapang
+6501140005,Tanjung Lapang
+6501140006,Taras
+6501140007,Long Kenipe
+6501140008,Sentaban
+6501140009,Long Bila
 6501150,Malinau Kota
-6501150010,Sungai Boh
-6501150020,Kayan Selatan
-6501150030,Kayan Hulu
-6501150040,Kayan Hilir
-6501150050,Pujungan
-6501150060,Bahau Hulu
-6501150070,Sungai Tubu
-6501150080,Malinau Selatan Hulu
-6501150090,Malinau Selatan
-6501150100,Malinau Selatan Hilir
-6501150110,Mentarang
-6501150120,Mentarang Hulu
-6501150130,Malinau Utara
-6501150140,Malinau Barat
-6501150150,Malinau Kota
+6501150001,Batu Lidung
+6501150002,Tanjung Keranjang
+6501150003,Malinau Hilir
+6501150004,Malinau Kota
+6501150005,Pelita Kanaan
+6501150006,Malinau Hulu
 6502,Bulungan
 6502010,Peso
-6502010010,Peso
-6502010020,Peso Hilir
-6502010030,Tanjung Palas Barat
-6502010040,Tanjung Palas
-6502010050,Tanjung Selor
-6502010060,Tanjung Palas Timur
-6502010070,Tanjung Palas Tengah
-6502010080,Tanjung Palas Utara
-6502010090,Sekatak
-6502010100,Bunyu
+6502010001,Long Lejuh
+6502010002,Long Peleban
+6502010003,Long Yiin/pelaah
+6502010004,Long Buang
+6502010005,Long Lian
+6502010006,Muara Pengean
+6502010007,Long Peso
+6502010008,Long Bia
+6502010009,Lepak Aru
+6502010010,Long Lasan
 6502020,Peso Hilir
-6502020010,Peso
-6502020020,Peso Hilir
-6502020030,Tanjung Palas Barat
-6502020040,Tanjung Palas
-6502020050,Tanjung Selor
-6502020060,Tanjung Palas Timur
-6502020070,Tanjung Palas Tengah
-6502020080,Tanjung Palas Utara
-6502020090,Sekatak
-6502020100,Bunyu
+6502020001,Naha Aya
+6502020002,Long Telenjau
+6502020003,Long Bang Hulu
+6502020004,Long Bang
+6502020005,Long Tungu
+6502020006,Long Lembu
 6502030,Tanjung Palas Barat
-6502030010,Peso
-6502030020,Peso Hilir
-6502030030,Tanjung Palas Barat
-6502030040,Tanjung Palas
-6502030050,Tanjung Selor
-6502030060,Tanjung Palas Timur
-6502030070,Tanjung Palas Tengah
-6502030080,Tanjung Palas Utara
-6502030090,Sekatak
-6502030100,Bunyu
+6502030001,Long Beluah
+6502030002,Long Sam
+6502030003,Long Pari
+6502030004,Mara Satu
+6502030005,Mara Hilir
 6502040,Tanjung Palas
-6502040010,Peso
-6502040020,Peso Hilir
-6502040030,Tanjung Palas Barat
-6502040040,Tanjung Palas
-6502040050,Tanjung Selor
-6502040060,Tanjung Palas Timur
-6502040070,Tanjung Palas Tengah
-6502040080,Tanjung Palas Utara
-6502040090,Sekatak
-6502040100,Bunyu
+6502040001,Antutan
+6502040002,Pejalin
+6502040003,Tanjung Palas Hulu
+6502040004,Tanjung Palas Tengah
+6502040005,Karang Anyar
+6502040006,Gunung Putih/kr. Jenawi
+6502040007,Tanjung Palas Hilir
+6502040008,Teras Baru
+6502040009,Teras Nawang
 6502050,Tanjung Selor
-6502050010,Peso
-6502050020,Peso Hilir
-6502050030,Tanjung Palas Barat
-6502050040,Tanjung Palas
-6502050050,Tanjung Selor
-6502050060,Tanjung Palas Timur
-6502050070,Tanjung Palas Tengah
-6502050080,Tanjung Palas Utara
-6502050090,Sekatak
-6502050100,Bunyu
+6502050001,Gunung Seriang
+6502050002,Tanjung Selor Hulu
+6502050003,Jelarai Selor
+6502050004,Gunung Sari
+6502050005,Bumi Rahayu
+6502050006,Apung
+6502050007,Tengkapak
+6502050008,Tanjung Selor Timur
+6502050009,Tanjung Selor Hilir
 6502060,Tanjung Palas Timur
-6502060010,Peso
-6502060020,Peso Hilir
-6502060030,Tanjung Palas Barat
-6502060040,Tanjung Palas
-6502060050,Tanjung Selor
-6502060060,Tanjung Palas Timur
-6502060070,Tanjung Palas Tengah
-6502060080,Tanjung Palas Utara
-6502060090,Sekatak
-6502060100,Bunyu
+6502060001,Mangku Padi
+6502060002,Tanah Kuning
+6502060003,Binai
+6502060004,Sajau
+6502060005,Pura Sajau
+6502060006,Sajau Hilir
+6502060007,Wono Mulyo
+6502060008,Tanjung Agung
 6502070,Tanjung Palas Tengah
-6502070010,Peso
-6502070020,Peso Hilir
-6502070030,Tanjung Palas Barat
-6502070040,Tanjung Palas
-6502070050,Tanjung Selor
-6502070060,Tanjung Palas Timur
-6502070070,Tanjung Palas Tengah
-6502070080,Tanjung Palas Utara
-6502070090,Sekatak
-6502070100,Bunyu
+6502070001,Tanjung Buka
+6502070002,Salim Batu
+6502070003,Silva Rahayu
 6502080,Tanjung Palas Utara
-6502080010,Peso
-6502080020,Peso Hilir
-6502080030,Tanjung Palas Barat
-6502080040,Tanjung Palas
-6502080050,Tanjung Selor
-6502080060,Tanjung Palas Timur
-6502080070,Tanjung Palas Tengah
-6502080080,Tanjung Palas Utara
-6502080090,Sekatak
-6502080100,Bunyu
+6502080001,Pimping
+6502080002,Kelubir
+6502080003,Karang Agung
+6502080004,Ruhui Rahayu
+6502080005,Panca Agung
+6502080006,Ardi Mulya
 6502090,Sekatak
-6502090010,Peso
-6502090020,Peso Hilir
-6502090030,Tanjung Palas Barat
-6502090040,Tanjung Palas
-6502090050,Tanjung Selor
-6502090060,Tanjung Palas Timur
-6502090070,Tanjung Palas Tengah
-6502090080,Tanjung Palas Utara
-6502090090,Sekatak
-6502090100,Bunyu
+6502090001,Ujang
+6502090002,Tenggiling
+6502090003,Terindak
+6502090004,Pungit
+6502090005,Sekatak Bengara
+6502090006,Pentian
+6502090007,Ambalat
+6502090008,Kendari
+6502090009,Kelincawan
+6502090010,Bunau
+6502090011,Anjar Arip
+6502090012,Paru Abang
+6502090013,Kelising
+6502090014,Bekiliu
+6502090015,Punan Dulau
+6502090016,Bambang
+6502090017,Kelembunan
+6502090018,Maritam
+6502090019,Turung
+6502090020,Keriting
+6502090021,Sekatak Buji
+6502090022,Liagu
 6502100,Bunyu
-6502100010,Peso
-6502100020,Peso Hilir
-6502100030,Tanjung Palas Barat
-6502100040,Tanjung Palas
-6502100050,Tanjung Selor
-6502100060,Tanjung Palas Timur
-6502100070,Tanjung Palas Tengah
-6502100080,Tanjung Palas Utara
-6502100090,Sekatak
-6502100100,Bunyu
+6502100001,Bunyu Barat
+6502100002,Bunyu Selatan
+6502100003,Bunyu Timur
 6503,Tana Tidung
 6503010,Muruk Rian
-6503010010,Muruk Rian
-6503010020,Sesayap
-6503010030,Betayau
-6503010040,Sesayap Hilir
-6503010050,Tana Lia
+6503010001,Balayan Ari
+6503010002,Seputuk
+6503010003,Rian
+6503010004,Kapuak
+6503010005,Rian Rayo
+6503010006,Sapari
 6503020,Sesayap
-6503020010,Muruk Rian
-6503020020,Sesayap
-6503020030,Betayau
-6503020040,Sesayap Hilir
-6503020050,Tana Lia
+6503020001,Sedulun
+6503020002,Limbu Sedulun
+6503020003,Gunawan
+6503020004,Tideng Pale
+6503020005,Tideng Pale Timur
+6503020006,Sebidai
+6503020007,Sebawang
 6503030,Betayau
-6503030010,Muruk Rian
-6503030020,Sesayap
-6503030030,Betayau
-6503030040,Sesayap Hilir
-6503030050,Tana Lia
+6503030001,Mendupo
+6503030002,Periuk
+6503030003,Bebakung
+6503030004,Kujau
+6503030005,Maning
+6503030006,Buong Baru
 6503040,Sesayap Hilir
-6503040010,Muruk Rian
-6503040020,Sesayap
-6503040030,Betayau
-6503040040,Sesayap Hilir
-6503040050,Tana Lia
+6503040001,Seludau
+6503040002,Sesayap
+6503040003,Sepala Dalung
+6503040004,Bandan Bikis
+6503040005,Bebatu
+6503040006,Sengkong
+6503040007,Menjelutung
+6503040008,Sesayap Selor
 6503050,Tana Lia
-6503050010,Muruk Rian
-6503050020,Sesayap
-6503050030,Betayau
-6503050040,Sesayap Hilir
-6503050050,Tana Lia
+6503050001,Tanah Merah
+6503050002,Sambungan
+6503050003,Tengku Dacing
+6503050004,Tanah Merah Barat
+6503050005,Sambungan Selatan
 6504,Nunukan
 6504010,Krayan Selatan
-6504010010,Krayan Selatan
-6504010011,Krayan Tengah
-6504010020,Krayan
-6504010021,Krayan Timur
-6504010022,Krayan Barat
-6504010030,Lumbis Ogong
-6504010031,Lumbis Pansiangan
-6504010032,Lumbis Hulu
-6504010040,Lumbis
-6504010050,Sembakung Atulai
-6504010060,Sembakung
-6504010070,Sebuku
-6504010080,Tulin Onsoi
-6504010090,Sei Menggaris
-6504010100,Nunukan
-6504010110,Nunukan Selatan
-6504010120,Sebatik Barat
-6504010130,Sebatik
-6504010140,Sebatik Timur
-6504010150,Sebatik Tengah
-6504010160,Sebatik Utara
+6504010001,Long Pasia
+6504010002,Liang Lunuk
+6504010003,Pa Ibang
+6504010004,Pa Amai
+6504010005,Pa Kaber
+6504010006,Pa Tera
+6504010007,Pa Sing
+6504010008,Long Budung
+6504010009,Pa Dalan
+6504010010,Pa Urang
+6504010011,Long Birar
+6504010012,Pa Upan
+6504010017,Long Pupung
 6504011,Krayan Tengah
-6504011010,Krayan Selatan
-6504011011,Krayan Tengah
-6504011020,Krayan
-6504011021,Krayan Timur
-6504011022,Krayan Barat
-6504011030,Lumbis Ogong
-6504011031,Lumbis Pansiangan
-6504011032,Lumbis Hulu
-6504011040,Lumbis
-6504011050,Sembakung Atulai
-6504011060,Sembakung
-6504011070,Sebuku
-6504011080,Tulin Onsoi
-6504011090,Sei Menggaris
-6504011100,Nunukan
-6504011110,Nunukan Selatan
-6504011120,Sebatik Barat
-6504011130,Sebatik
-6504011140,Sebatik Timur
-6504011150,Sebatik Tengah
-6504011160,Sebatik Utara
+6504011001,Tang Paye
+6504011002,Long Kelupan
+6504011003,Long Rungan
+6504011004,Pa Milau
+6504011005,Pa Yalau
+6504011006,Long Mutan
+6504011007,Tang Badui
+6504011008,Long Padi
+6504011009,Long Rian
+6504011010,Ba Liku
+6504011011,Binuang
 6504020,Krayan
-6504020010,Krayan Selatan
-6504020011,Krayan Tengah
-6504020020,Krayan
-6504020021,Krayan Timur
-6504020022,Krayan Barat
-6504020030,Lumbis Ogong
-6504020031,Lumbis Pansiangan
-6504020032,Lumbis Hulu
-6504020040,Lumbis
-6504020050,Sembakung Atulai
-6504020060,Sembakung
-6504020070,Sebuku
-6504020080,Tulin Onsoi
-6504020090,Sei Menggaris
-6504020100,Nunukan
-6504020110,Nunukan Selatan
-6504020120,Sebatik Barat
-6504020130,Sebatik
-6504020140,Sebatik Timur
-6504020150,Sebatik Tengah
-6504020160,Sebatik Utara
+6504020009,Pa Matung
+6504020010,Pa Putuk
+6504020011,Cinglat
+6504020020,Pa Padi
+6504020021,Liang Biadung
+6504020022,Wa Laya
+6504020023,Long Matung
+6504020024,Long Rupan
+6504020025,Long Katung
+6504020028,Pa Terutun
+6504020029,Long Bawan
+6504020033,Pa Rupai
+6504020034,Buduk Tumu
+6504020035,Long Nawang
+6504020040,Buduk Kinangan
+6504020041,Wa Yanud
+6504020053,Pa Sire
+6504020057,Pa Nado
+6504020058,Liang Tuer
+6504020059,Long Api
+6504020060,Ba Sikor
+6504020061,Long Berayang
+6504020063,Liang Butan
 6504021,Krayan Timur
-6504021010,Krayan Selatan
-6504021011,Krayan Tengah
-6504021020,Krayan
-6504021021,Krayan Timur
-6504021022,Krayan Barat
-6504021030,Lumbis Ogong
-6504021031,Lumbis Pansiangan
-6504021032,Lumbis Hulu
-6504021040,Lumbis
-6504021050,Sembakung Atulai
-6504021060,Sembakung
-6504021070,Sebuku
-6504021080,Tulin Onsoi
-6504021090,Sei Menggaris
-6504021100,Nunukan
-6504021110,Nunukan Selatan
-6504021120,Sebatik Barat
-6504021130,Sebatik
-6504021140,Sebatik Timur
-6504021150,Sebatik Tengah
-6504021160,Sebatik Utara
+6504021001,Kampung Baru
+6504021002,Long Umung
+6504021003,Pa Kebuan
+6504021004,Pa Betung
+6504021005,Bungayan
+6504021006,Wa Yagung
+6504021007,Pa Melade
+6504021008,Long Sepayang
+6504021009,Pa Umung
+6504021010,Pa Pawan
+6504021011,Long Nuat
+6504021012,Long Tenem
+6504021013,Pa Lidung
+6504021014,Pa Rangeb
+6504021015,Pa Raye
+6504021016,Pa Pala
+6504021017,Sinar Baru
 6504022,Krayan Barat
-6504022010,Krayan Selatan
-6504022011,Krayan Tengah
-6504022020,Krayan
-6504022021,Krayan Timur
-6504022022,Krayan Barat
-6504022030,Lumbis Ogong
-6504022031,Lumbis Pansiangan
-6504022032,Lumbis Hulu
-6504022040,Lumbis
-6504022050,Sembakung Atulai
-6504022060,Sembakung
-6504022070,Sebuku
-6504022080,Tulin Onsoi
-6504022090,Sei Menggaris
-6504022100,Nunukan
-6504022110,Nunukan Selatan
-6504022120,Sebatik Barat
-6504022130,Sebatik
-6504022140,Sebatik Timur
-6504022150,Sebatik Tengah
-6504022160,Sebatik Utara
+6504022001,Pa Inan
+6504022002,Pa Mulak
+6504022003,Long Mangan
+6504022004,Long Kabid
+6504022005,Pa Butal
+6504022006,Pa Urud
+6504022007,Pa Kemut
+6504022008,Buduk Kubul
+6504022009,Long Tugul
+6504022010,Long Puak
+6504022011,Lembudud
+6504022012,Pa Delung
+6504022013,Pa Kidang
+6504022014,Lembada
+6504022015,Liang Turan
+6504022016,Liang Alig
+6504022017,Pa Payak
+6504022018,Pa Mering
+6504022019,Lepatar
+6504022020,Liang Bua
+6504022021,Pa Pirit
+6504022022,Ma Libu
+6504022023,Pa Lutut
+6504022024,Sembudud
+6504022025,Pa Pani
 6504030,Lumbis Ogong
-6504030010,Krayan Selatan
-6504030011,Krayan Tengah
-6504030020,Krayan
-6504030021,Krayan Timur
-6504030022,Krayan Barat
-6504030030,Lumbis Ogong
-6504030031,Lumbis Pansiangan
-6504030032,Lumbis Hulu
-6504030040,Lumbis
-6504030050,Sembakung Atulai
-6504030060,Sembakung
-6504030070,Sebuku
-6504030080,Tulin Onsoi
-6504030090,Sei Menggaris
-6504030100,Nunukan
-6504030110,Nunukan Selatan
-6504030120,Sebatik Barat
-6504030130,Sebatik
-6504030140,Sebatik Timur
-6504030150,Sebatik Tengah
-6504030160,Sebatik Utara
+6504030001,Payang
+6504030002,Suyadon
+6504030003,Tukulon
+6504030004,Bulu Mengelom
+6504030005,Batung
+6504030006,Ubel Sulok
+6504030007,Ubel Alung
+6504030008,Nan Sapan
+6504030009,Sedalit
+6504030010,Tambalang Hilir
+6504030011,Paluan
+6504030012,Jukup
+6504030013,Long Bulu
+6504030014,Kalam Buku
+6504030015,Tadungus
+6504030016,Semata
+6504030017,Linsayung
+6504030018,Salan
+6504030019,Sungoi
+6504030020,Sinampala I
+6504030021,Samunti
+6504030022,Sinampala Ii
+6504030023,Limpakon
+6504030024,Labuk
+6504030026,Sanal
+6504030027,Tumatalas
 6504031,Lumbis Pansiangan
-6504031010,Krayan Selatan
-6504031011,Krayan Tengah
-6504031020,Krayan
-6504031021,Krayan Timur
-6504031022,Krayan Barat
-6504031030,Lumbis Ogong
-6504031031,Lumbis Pansiangan
-6504031032,Lumbis Hulu
-6504031040,Lumbis
-6504031050,Sembakung Atulai
-6504031060,Sembakung
-6504031070,Sebuku
-6504031080,Tulin Onsoi
-6504031090,Sei Menggaris
-6504031100,Nunukan
-6504031110,Nunukan Selatan
-6504031120,Sebatik Barat
-6504031130,Sebatik
-6504031140,Sebatik Timur
-6504031150,Sebatik Tengah
-6504031160,Sebatik Utara
+6504031001,Sumentobol
+6504031002,Nantukidan
+6504031003,Labang
+6504031004,Sumantipal
+6504031005,Ngawol
+6504031006,Bulu Laun Hilir
+6504031007,Lagas
+6504031008,Tantalujuk
+6504031009,Panas
+6504031010,Kuyo
+6504031011,Bokok
+6504031012,Tambalang Hulu
+6504031013,Langgason
 6504032,Lumbis Hulu
-6504032010,Krayan Selatan
-6504032011,Krayan Tengah
-6504032020,Krayan
-6504032021,Krayan Timur
-6504032022,Krayan Barat
-6504032030,Lumbis Ogong
-6504032031,Lumbis Pansiangan
-6504032032,Lumbis Hulu
-6504032040,Lumbis
-6504032050,Sembakung Atulai
-6504032060,Sembakung
-6504032070,Sebuku
-6504032080,Tulin Onsoi
-6504032090,Sei Menggaris
-6504032100,Nunukan
-6504032110,Nunukan Selatan
-6504032120,Sebatik Barat
-6504032130,Sebatik
-6504032140,Sebatik Timur
-6504032150,Sebatik Tengah
-6504032160,Sebatik Utara
+6504032001,Sibalu
+6504032002,Mamasin
+6504032003,Duyan
+6504032004,Tau Lumbis
+6504032005,Kabungalor
+6504032006,Tetagas
+6504032007,Bulu Laun Hulu
+6504032008,Tantu Libing
+6504032009,Kalisun
+6504032010,Lepaga
 6504040,Lumbis
-6504040010,Krayan Selatan
-6504040011,Krayan Tengah
-6504040020,Krayan
-6504040021,Krayan Timur
-6504040022,Krayan Barat
-6504040030,Lumbis Ogong
-6504040031,Lumbis Pansiangan
-6504040032,Lumbis Hulu
-6504040040,Lumbis
-6504040050,Sembakung Atulai
-6504040060,Sembakung
-6504040070,Sebuku
-6504040080,Tulin Onsoi
-6504040090,Sei Menggaris
-6504040100,Nunukan
-6504040110,Nunukan Selatan
-6504040120,Sebatik Barat
-6504040130,Sebatik
-6504040140,Sebatik Timur
-6504040150,Sebatik Tengah
-6504040160,Sebatik Utara
+6504040001,Sangkup
+6504040002,Pa Loo
+6504040003,Libang
+6504040004,Kalampising
+6504040005,Sedongon
+6504040006,Mansalong
+6504040007,Deralon
+6504040008,Siawang
+6504040009,Semalat
+6504040010,Dubulon
+6504040011,Pa Lemumut
+6504040012,Saludan
+6504040013,Sumalumung
+6504040014,Tanjung Hilir
+6504040015,Tanjung Hulu
+6504040016,Bulan Bulan
+6504040017,Liang
+6504040018,Sapuyan
+6504040019,Nainsid
+6504040020,Likos
+6504040021,Tubus
+6504040022,Sasibu
+6504040023,Taluan
+6504040024,Pulu Bulawan
+6504040025,Lintong
+6504040026,Patal I
+6504040027,Patal Ii
+6504040028,Podong
 6504050,Sembakung Atulai
-6504050010,Krayan Selatan
-6504050011,Krayan Tengah
-6504050020,Krayan
-6504050021,Krayan Timur
-6504050022,Krayan Barat
-6504050030,Lumbis Ogong
-6504050031,Lumbis Pansiangan
-6504050032,Lumbis Hulu
-6504050040,Lumbis
-6504050050,Sembakung Atulai
-6504050060,Sembakung
-6504050070,Sebuku
-6504050080,Tulin Onsoi
-6504050090,Sei Menggaris
-6504050100,Nunukan
-6504050110,Nunukan Selatan
-6504050120,Sebatik Barat
-6504050130,Sebatik
-6504050140,Sebatik Timur
-6504050150,Sebatik Tengah
-6504050160,Sebatik Utara
+6504050001,Liuk Bulu
+6504050002,Binanun
+6504050003,Pulau Keras
+6504050004,Sabuluan
+6504050005,Tulang
+6504050006,Saduman
+6504050007,Pagaluyon
+6504050008,Mambulu
+6504050009,Katul
+6504050010,Lubok Buat
 6504060,Sembakung
-6504060010,Krayan Selatan
-6504060011,Krayan Tengah
-6504060020,Krayan
-6504060021,Krayan Timur
-6504060022,Krayan Barat
-6504060030,Lumbis Ogong
-6504060031,Lumbis Pansiangan
-6504060032,Lumbis Hulu
-6504060040,Lumbis
-6504060050,Sembakung Atulai
-6504060060,Sembakung
-6504060070,Sebuku
-6504060080,Tulin Onsoi
-6504060090,Sei Menggaris
-6504060100,Nunukan
-6504060110,Nunukan Selatan
-6504060120,Sebatik Barat
-6504060130,Sebatik
-6504060140,Sebatik Timur
-6504060150,Sebatik Tengah
-6504060160,Sebatik Utara
+6504060001,Butas Bagu
+6504060002,Labuk
+6504060003,Pagar
+6504060004,Tujung
+6504060005,Manuk Bungkul
+6504060006,Atap
+6504060007,Lubakan
+6504060008,Tagul
+6504060009,Plaju
+6504060010,Tepian
 6504070,Sebuku
-6504070010,Krayan Selatan
-6504070011,Krayan Tengah
-6504070020,Krayan
-6504070021,Krayan Timur
-6504070022,Krayan Barat
-6504070030,Lumbis Ogong
-6504070031,Lumbis Pansiangan
-6504070032,Lumbis Hulu
-6504070040,Lumbis
-6504070050,Sembakung Atulai
-6504070060,Sembakung
-6504070070,Sebuku
-6504070080,Tulin Onsoi
-6504070090,Sei Menggaris
-6504070100,Nunukan
-6504070110,Nunukan Selatan
-6504070120,Sebatik Barat
-6504070130,Sebatik
-6504070140,Sebatik Timur
-6504070150,Sebatik Tengah
-6504070160,Sebatik Utara
+6504070001,Sujau
+6504070002,Lulu
+6504070003,Melasu Baru
+6504070004,Bebanas
+6504070005,Tetaban
+6504070006,Kunyit
+6504070007,Kekayap
+6504070008,Apas
+6504070009,Harapan
+6504070010,Pembeliangan
 6504080,Tulin Onsoi
-6504080010,Krayan Selatan
-6504080011,Krayan Tengah
-6504080020,Krayan
-6504080021,Krayan Timur
-6504080022,Krayan Barat
-6504080030,Lumbis Ogong
-6504080031,Lumbis Pansiangan
-6504080032,Lumbis Hulu
-6504080040,Lumbis
-6504080050,Sembakung Atulai
-6504080060,Sembakung
-6504080070,Sebuku
-6504080080,Tulin Onsoi
-6504080090,Sei Menggaris
-6504080100,Nunukan
-6504080110,Nunukan Selatan
-6504080120,Sebatik Barat
-6504080130,Sebatik
-6504080140,Sebatik Timur
-6504080150,Sebatik Tengah
-6504080160,Sebatik Utara
+6504080001,Belatikan
+6504080002,Naputi
+6504080003,Tau Baru
+6504080004,Tinampak Ii
+6504080005,Tinampak I
+6504080006,Salang
+6504080007,Tembalang
+6504080008,Kalun Sayan
+6504080009,Sekikilan
+6504080010,Semunad
+6504080011,Sanur
+6504080012,Makmur
 6504090,Sei Menggaris
-6504090010,Krayan Selatan
-6504090011,Krayan Tengah
-6504090020,Krayan
-6504090021,Krayan Timur
-6504090022,Krayan Barat
-6504090030,Lumbis Ogong
-6504090031,Lumbis Pansiangan
-6504090032,Lumbis Hulu
-6504090040,Lumbis
-6504090050,Sembakung Atulai
-6504090060,Sembakung
-6504090070,Sebuku
-6504090080,Tulin Onsoi
-6504090090,Sei Menggaris
-6504090100,Nunukan
-6504090110,Nunukan Selatan
-6504090120,Sebatik Barat
-6504090130,Sebatik
-6504090140,Sebatik Timur
-6504090150,Sebatik Tengah
-6504090160,Sebatik Utara
+6504090001,Tabur Lestari
+6504090002,Samaenre Semaja
+6504090003,Sri Nanti
+6504090004,Sekaduyan Taka
 6504100,Nunukan
-6504100010,Krayan Selatan
-6504100011,Krayan Tengah
-6504100020,Krayan
-6504100021,Krayan Timur
-6504100022,Krayan Barat
-6504100030,Lumbis Ogong
-6504100031,Lumbis Pansiangan
-6504100032,Lumbis Hulu
-6504100040,Lumbis
-6504100050,Sembakung Atulai
-6504100060,Sembakung
-6504100070,Sebuku
-6504100080,Tulin Onsoi
-6504100090,Sei Menggaris
-6504100100,Nunukan
-6504100110,Nunukan Selatan
-6504100120,Sebatik Barat
-6504100130,Sebatik
-6504100140,Sebatik Timur
-6504100150,Sebatik Tengah
-6504100160,Sebatik Utara
+6504100001,Nunukan Barat
+6504100002,Binusan
+6504100003,Nunukan Tengah
+6504100004,Nunukan Timur
+6504100005,Nunukan Utara
 6504110,Nunukan Selatan
-6504110010,Krayan Selatan
-6504110011,Krayan Tengah
-6504110020,Krayan
-6504110021,Krayan Timur
-6504110022,Krayan Barat
-6504110030,Lumbis Ogong
-6504110031,Lumbis Pansiangan
-6504110032,Lumbis Hulu
-6504110040,Lumbis
-6504110050,Sembakung Atulai
-6504110060,Sembakung
-6504110070,Sebuku
-6504110080,Tulin Onsoi
-6504110090,Sei Menggaris
-6504110100,Nunukan
-6504110110,Nunukan Selatan
-6504110120,Sebatik Barat
-6504110130,Sebatik
-6504110140,Sebatik Timur
-6504110150,Sebatik Tengah
-6504110160,Sebatik Utara
+6504110001,Tanjung Harapan
+6504110002,Mansapa
+6504110003,Nunukan Selatan
+6504110004,Selisun
 6504120,Sebatik Barat
-6504120010,Krayan Selatan
-6504120011,Krayan Tengah
-6504120020,Krayan
-6504120021,Krayan Timur
-6504120022,Krayan Barat
-6504120030,Lumbis Ogong
-6504120031,Lumbis Pansiangan
-6504120032,Lumbis Hulu
-6504120040,Lumbis
-6504120050,Sembakung Atulai
-6504120060,Sembakung
-6504120070,Sebuku
-6504120080,Tulin Onsoi
-6504120090,Sei Menggaris
-6504120100,Nunukan
-6504120110,Nunukan Selatan
-6504120120,Sebatik Barat
-6504120130,Sebatik
-6504120140,Sebatik Timur
-6504120150,Sebatik Tengah
-6504120160,Sebatik Utara
+6504120001,Bambangan
+6504120002,Liang Bunyu
+6504120003,Binalawan
+6504120004,Setabu
 6504130,Sebatik
-6504130010,Krayan Selatan
-6504130011,Krayan Tengah
-6504130020,Krayan
-6504130021,Krayan Timur
-6504130022,Krayan Barat
-6504130030,Lumbis Ogong
-6504130031,Lumbis Pansiangan
-6504130032,Lumbis Hulu
-6504130040,Lumbis
-6504130050,Sembakung Atulai
-6504130060,Sembakung
-6504130070,Sebuku
-6504130080,Tulin Onsoi
-6504130090,Sei Menggaris
-6504130100,Nunukan
-6504130110,Nunukan Selatan
-6504130120,Sebatik Barat
-6504130130,Sebatik
-6504130140,Sebatik Timur
-6504130150,Sebatik Tengah
-6504130160,Sebatik Utara
+6504130001,Balansiku
+6504130002,Tanjung Karang
+6504130003,Sei Manurung
+6504130004,Padaidi
 6504140,Sebatik Timur
-6504140010,Krayan Selatan
-6504140011,Krayan Tengah
-6504140020,Krayan
-6504140021,Krayan Timur
-6504140022,Krayan Barat
-6504140030,Lumbis Ogong
-6504140031,Lumbis Pansiangan
-6504140032,Lumbis Hulu
-6504140040,Lumbis
-6504140050,Sembakung Atulai
-6504140060,Sembakung
-6504140070,Sebuku
-6504140080,Tulin Onsoi
-6504140090,Sei Menggaris
-6504140100,Nunukan
-6504140110,Nunukan Selatan
-6504140120,Sebatik Barat
-6504140130,Sebatik
-6504140140,Sebatik Timur
-6504140150,Sebatik Tengah
-6504140160,Sebatik Utara
+6504140001,Sungai Nyamuk
+6504140002,Tanjung Harapan
+6504140003,Bukit Aru Indah
+6504140004,Tanjung Aru
 6504150,Sebatik Tengah
-6504150010,Krayan Selatan
-6504150011,Krayan Tengah
-6504150020,Krayan
-6504150021,Krayan Timur
-6504150022,Krayan Barat
-6504150030,Lumbis Ogong
-6504150031,Lumbis Pansiangan
-6504150032,Lumbis Hulu
-6504150040,Lumbis
-6504150050,Sembakung Atulai
-6504150060,Sembakung
-6504150070,Sebuku
-6504150080,Tulin Onsoi
-6504150090,Sei Menggaris
-6504150100,Nunukan
-6504150110,Nunukan Selatan
-6504150120,Sebatik Barat
-6504150130,Sebatik
-6504150140,Sebatik Timur
-6504150150,Sebatik Tengah
-6504150160,Sebatik Utara
+6504150001,Sungai Limau
+6504150002,Maspul
+6504150003,Aji Kuning
+6504150004,Bukit Harapan
 6504160,Sebatik Utara
-6504160010,Krayan Selatan
-6504160011,Krayan Tengah
-6504160020,Krayan
-6504160021,Krayan Timur
-6504160022,Krayan Barat
-6504160030,Lumbis Ogong
-6504160031,Lumbis Pansiangan
-6504160032,Lumbis Hulu
-6504160040,Lumbis
-6504160050,Sembakung Atulai
-6504160060,Sembakung
-6504160070,Sebuku
-6504160080,Tulin Onsoi
-6504160090,Sei Menggaris
-6504160100,Nunukan
-6504160110,Nunukan Selatan
-6504160120,Sebatik Barat
-6504160130,Sebatik
-6504160140,Sebatik Timur
-6504160150,Sebatik Tengah
-6504160160,Sebatik Utara
+6504160001,Lapri
+6504160002,Pancang
+6504160003,Seberang
 6571,Tarakan
 6571010,Tarakan Timur
-6571010010,Tarakan Timur
-6571010020,Tarakan Tengah
-6571010030,Tarakan Barat
-6571010040,Tarakan Utara
+6571010001,Mamburungan
+6571010002,Mamburungan Timur
+6571010003,Pantai Amal
+6571010004,Kampung Enam
+6571010005,Kampung Empat
+6571010006,Gunung Lingkas
+6571010007,Lingkas Ujung
 6571020,Tarakan Tengah
-6571020010,Tarakan Timur
-6571020020,Tarakan Tengah
-6571020030,Tarakan Barat
-6571020040,Tarakan Utara
+6571020001,Selumit Pantai
+6571020002,Selumit
+6571020003,Sebengkok
+6571020004,Pamusian
+6571020005,Kampung Satu Skip
 6571030,Tarakan Barat
-6571030010,Tarakan Timur
-6571030020,Tarakan Tengah
-6571030030,Tarakan Barat
-6571030040,Tarakan Utara
+6571030001,Karang Rejo
+6571030002,Karang Balik
+6571030003,Karang Anyar
+6571030004,Karang Anyar Pantai
+6571030005,Karang Harapan
 6571040,Tarakan Utara
-6571040010,Tarakan Timur
-6571040020,Tarakan Tengah
-6571040030,Tarakan Barat
-6571040040,Tarakan Utara
+6571040001,Juata Permai
+6571040002,Juata Kerikil
+6571040003,Juata Laut

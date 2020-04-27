@@ -21,7 +21,7 @@ function getMfd($id = '')
 	$url = 'https://mfdonline.bps.go.id/rekap/cetak/cetak_rekap_prov.php';
 	if (strlen($id) === 2) $url = 'https://mfdonline.bps.go.id/rekap/cetak/cetak_rekap_kab.php?pr='.substr($id, 0, 2);
 	elseif (strlen($id) === 4) $url = 'https://mfdonline.bps.go.id/rekap/cetak/cetak_rekap_kec.php?pr='.substr($id, 0, 2).'&kb='.substr($id, 2, 2);
-	elseif (strlen($id) === 7) $url = 'https://mfdonline.bps.go.id/rekap/cetak/cetak_rekap_kec.php?pr='.substr($id, 0, 2).'&kb='.substr($id, 2, 2).'&kc='.substr($id, -3);
+	elseif (strlen($id) === 7) $url = 'https://mfdonline.bps.go.id/rekap/cetak/cetak_rekap_desa.php?pr='.substr($id, 0, 2).'&kb='.substr($id, 2, 2).'&kc='.substr($id, -3);
 
 	$ch = curl_init();
 	curl_setopt($ch, CURLOPT_URL, $url);

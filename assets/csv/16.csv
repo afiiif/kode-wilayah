@@ -1,4313 +1,3547 @@
 1601,Ogan Komering Ulu
 1601052,Lengkiti
-1601052052,Lengkiti
-1601052070,Sosoh Buay Rayap
-1601052080,Pengandonan
-1601052081,Semidang Aji
-1601052082,Ulu Ogan
-1601052083,Muara Jaya
-1601052090,Peninjauan
-1601052091,Lubuk Batang
-1601052092,Sinar Peninjauan
-1601052093,Kedaton Peninjauan Raya
-1601052130,Batu Raja Timur
-1601052131,Lubuk Raja
-1601052140,Batu Raja Barat
+1601052001,Bandar Jaya
+1601052002,Karang Endah
+1601052003,Pajar Bulan
+1601052004,Pagar Dewa
+1601052005,Tanjung Lengkayap
+1601052006,Bumi Kawa
+1601052007,Negeri Ratu
+1601052008,Lubuk Dalam
+1601052009,Segara Kembang
+1601052010,Sukaraja
+1601052011,Gedung Pakuan
+1601052012,Tualang
+1601052013,Sundan
+1601052014,Tihang
+1601052015,Lubuk Hara
+1601052016,Negeri Agung
+1601052017,Way Heling
+1601052018,Bunga Tanjung
+1601052019,Umpam
+1601052020,Tanjung Agung
+1601052021,Simpang Empat
+1601052022,Fajar Jaya
 1601070,Sosoh Buay Rayap
-1601070052,Lengkiti
-1601070070,Sosoh Buay Rayap
-1601070080,Pengandonan
-1601070081,Semidang Aji
-1601070082,Ulu Ogan
-1601070083,Muara Jaya
-1601070090,Peninjauan
-1601070091,Lubuk Batang
-1601070092,Sinar Peninjauan
-1601070093,Kedaton Peninjauan Raya
-1601070130,Batu Raja Timur
-1601070131,Lubuk Raja
-1601070140,Batu Raja Barat
+1601070001,Negeri Sindang
+1601070002,Rantau Kumpai
+1601070003,Tungku Jaya
+1601070004,Lubuk Baru
+1601070005,Bandar
+1601070006,Lubuk Leban
+1601070007,Penyandingan
+1601070008,Kungkilan
+1601070009,Mekar Jaya
+1601070010,Penantian
+1601070011,Mekar Sari
 1601080,Pengandonan
-1601080052,Lengkiti
-1601080070,Sosoh Buay Rayap
-1601080080,Pengandonan
-1601080081,Semidang Aji
-1601080082,Ulu Ogan
-1601080083,Muara Jaya
-1601080090,Peninjauan
-1601080091,Lubuk Batang
-1601080092,Sinar Peninjauan
-1601080093,Kedaton Peninjauan Raya
-1601080130,Batu Raja Timur
-1601080131,Lubuk Raja
-1601080140,Batu Raja Barat
+1601080008,Gunung Meraksa
+1601080010,Tanjung Pura
+1601080011,Tanjung Sari
+1601080012,Tangsi Lontar
+1601080017,Belambangan
+1601080018,Kesambi Rata
+1601080021,Gunung Liwat
+1601080022,Semanding
+1601080023,Pengandonan
+1601080024,Tanjungan
+1601080025,Ujan Mas
+1601080026,Gunung Kuripan
 1601081,Semidang Aji
-1601081052,Lengkiti
-1601081070,Sosoh Buay Rayap
-1601081080,Pengandonan
-1601081081,Semidang Aji
-1601081082,Ulu Ogan
-1601081083,Muara Jaya
-1601081090,Peninjauan
-1601081091,Lubuk Batang
-1601081092,Sinar Peninjauan
-1601081093,Kedaton Peninjauan Raya
-1601081130,Batu Raja Timur
-1601081131,Lubuk Raja
-1601081140,Batu Raja Barat
+1601081001,Tanjung Kurung
+1601081002,Sukarami
+1601081003,Batang Hari
+1601081004,Nyiur Sayak
+1601081005,Suka Merindu
+1601081006,Padang Bindu
+1601081007,Panggal Panggal
+1601081008,Bedegung
+1601081009,Ulak Pandan
+1601081010,Kebon Agung
+1601081011,Tubohan
+1601081012,Raksa Jiwa
+1601081013,Guna Makmur
+1601081014,Seleman
+1601081015,Kebun Jati
+1601081016,Singapura
+1601081017,Pengaringan
+1601081018,Panai Makmur
+1601081019,Banjar Sari
+1601081020,Pandan Dulang
+1601081021,Tebing Kampung
 1601082,Ulu Ogan
-1601082052,Lengkiti
-1601082070,Sosoh Buay Rayap
-1601082080,Pengandonan
-1601082081,Semidang Aji
-1601082082,Ulu Ogan
-1601082083,Muara Jaya
-1601082090,Peninjauan
-1601082091,Lubuk Batang
-1601082092,Sinar Peninjauan
-1601082093,Kedaton Peninjauan Raya
-1601082130,Batu Raja Timur
-1601082131,Lubuk Raja
-1601082140,Batu Raja Barat
+1601082001,Kelumpang
+1601082002,Mendingin
+1601082003,Sukajadi
+1601082004,Gunung Tiga
+1601082005,Ulak Lebar
+1601082006,Pedataran
+1601082007,Belandang
 1601083,Muara Jaya
-1601083052,Lengkiti
-1601083070,Sosoh Buay Rayap
-1601083080,Pengandonan
-1601083081,Semidang Aji
-1601083082,Ulu Ogan
-1601083083,Muara Jaya
-1601083090,Peninjauan
-1601083091,Lubuk Batang
-1601083092,Sinar Peninjauan
-1601083093,Kedaton Peninjauan Raya
-1601083130,Batu Raja Timur
-1601083131,Lubuk Raja
-1601083140,Batu Raja Barat
+1601083001,Kemala Jaya
+1601083002,Lontar
+1601083003,Lubuk Tupak
+1601083004,Beringin
+1601083005,Muara Saeh
+1601083006,Surau
+1601083007,Karang Lantang
 1601090,Peninjauan
-1601090052,Lengkiti
-1601090070,Sosoh Buay Rayap
-1601090080,Pengandonan
-1601090081,Semidang Aji
-1601090082,Ulu Ogan
-1601090083,Muara Jaya
-1601090090,Peninjauan
-1601090091,Lubuk Batang
-1601090092,Sinar Peninjauan
-1601090093,Kedaton Peninjauan Raya
-1601090130,Batu Raja Timur
-1601090131,Lubuk Raja
-1601090140,Batu Raja Barat
+1601090015,Kepayang
+1601090017,Kedondong
+1601090018,Belimbing
+1601090021,Durian
+1601090022,Espe Tiga
+1601090023,Lubuk Rukam
+1601090024,Bindu
+1601090028,Mendala
+1601090029,Panji Jaya
+1601090030,Makarti Jaya
+1601090031,Makarti Tama
+1601090032,Penilikan/mitra Ogan
+1601090033,Peninjauan
+1601090034,Saung Naga
+1601090035,Mitra Kencana
+1601090044,Karang Dapo
 1601091,Lubuk Batang
-1601091052,Lengkiti
-1601091070,Sosoh Buay Rayap
-1601091080,Pengandonan
-1601091081,Semidang Aji
-1601091082,Ulu Ogan
-1601091083,Muara Jaya
-1601091090,Peninjauan
-1601091091,Lubuk Batang
-1601091092,Sinar Peninjauan
-1601091093,Kedaton Peninjauan Raya
-1601091130,Batu Raja Timur
-1601091131,Lubuk Raja
-1601091140,Batu Raja Barat
+1601091001,Merbau
+1601091002,Gunung Meraksa
+1601091003,Kurup
+1601091004,Banu Ayu
+1601091006,Tanjung Dalam
+1601091007,Lubuk Batang Baru
+1601091008,Lubuk Batang Lama
+1601091010,Belatung
+1601091011,Karta Mulia
+1601091012,Markisa
+1601091013,Lunggaian Baru/air Wal
+1601091014,Lunggaian
+1601091015,Tanjung Manggus
+1601091016,Bandar Agung
+1601091017,Sumber Bahagia
 1601092,Sinar Peninjauan
-1601092052,Lengkiti
-1601092070,Sosoh Buay Rayap
-1601092080,Pengandonan
-1601092081,Semidang Aji
-1601092082,Ulu Ogan
-1601092083,Muara Jaya
-1601092090,Peninjauan
-1601092091,Lubuk Batang
-1601092092,Sinar Peninjauan
-1601092093,Kedaton Peninjauan Raya
-1601092130,Batu Raja Timur
-1601092131,Lubuk Raja
-1601092140,Batu Raja Barat
+1601092001,Marga Bakti
+1601092002,Karya Mukti
+1601092003,Karya Jaya
+1601092004,Sri Mulya
+1601092005,Marga Mulya
+1601092006,Tanjung Makmur
 1601093,Kedaton Peninjauan Raya
-1601093052,Lengkiti
-1601093070,Sosoh Buay Rayap
-1601093080,Pengandonan
-1601093081,Semidang Aji
-1601093082,Ulu Ogan
-1601093083,Muara Jaya
-1601093090,Peninjauan
-1601093091,Lubuk Batang
-1601093092,Sinar Peninjauan
-1601093093,Kedaton Peninjauan Raya
-1601093130,Batu Raja Timur
-1601093131,Lubuk Raja
-1601093140,Batu Raja Barat
+1601093001,Bunglai
+1601093002,Kedaton
+1601093003,Kampai
+1601093004,Rantau Panjang
+1601093005,Suka Pindah
+1601093006,Lubuk Kemiling
+1601093007,Sinar Kedaton
+1601093008,Kedaton Timur
 1601130,Batu Raja Timur
-1601130052,Lengkiti
-1601130070,Sosoh Buay Rayap
-1601130080,Pengandonan
-1601130081,Semidang Aji
-1601130082,Ulu Ogan
-1601130083,Muara Jaya
-1601130090,Peninjauan
-1601130091,Lubuk Batang
-1601130092,Sinar Peninjauan
-1601130093,Kedaton Peninjauan Raya
-1601130130,Batu Raja Timur
-1601130131,Lubuk Raja
-1601130140,Batu Raja Barat
+1601130004,Tanjung Baru
+1601130005,Pasar Baru
+1601130007,Kemala Raja
+1601130008,Sukaraya
+1601130009,Tanjung Kemala
+1601130010,Sukajadi
+1601130011,Air Pauh
+1601130012,Baturaja Permai
+1601130013,Terusan
+1601130014,Sekar Jaya
+1601130015,Sepancar Lawang Kulon
+1601130016,Kemelak Bindung Langit
+1601130017,Baturaja Lama
 1601131,Lubuk Raja
-1601131052,Lengkiti
-1601131070,Sosoh Buay Rayap
-1601131080,Pengandonan
-1601131081,Semidang Aji
-1601131082,Ulu Ogan
-1601131083,Muara Jaya
-1601131090,Peninjauan
-1601131091,Lubuk Batang
-1601131092,Sinar Peninjauan
-1601131093,Kedaton Peninjauan Raya
-1601131130,Batu Raja Timur
-1601131131,Lubuk Raja
-1601131140,Batu Raja Barat
+1601131001,Batumarta I
+1601131002,Batumarta Ii
+1601131003,Battu Winangun
+1601131004,Lekis Rejo
+1601131005,Lubuk Banjar
+1601131006,Batu Raden
+1601131007,Marta Jaya
 1601140,Batu Raja Barat
-1601140052,Lengkiti
-1601140070,Sosoh Buay Rayap
-1601140080,Pengandonan
-1601140081,Semidang Aji
-1601140082,Ulu Ogan
-1601140083,Muara Jaya
-1601140090,Peninjauan
-1601140091,Lubuk Batang
-1601140092,Sinar Peninjauan
-1601140093,Kedaton Peninjauan Raya
-1601140130,Batu Raja Timur
-1601140131,Lubuk Raja
-1601140140,Batu Raja Barat
+1601140001,Batu Putih
+1601140002,Laya
+1601140003,Saung Naga
+1601140004,Tanjung Agung
+1601140005,Talang Jawa
+1601140006,Air Gading
+1601140007,Pusar
+1601140008,Batu Kuning
+1601140009,Karang Agung
+1601140010,Karang Endah
+1601140011,Tanjung Karang
+1601140012,Suka Maju
 1602,Ogan Komering Ilir
 1602010,Lempuing
-1602010010,Lempuing
-1602010011,Lempuing Jaya
-1602010020,Mesuji
-1602010021,Sungai Menang
-1602010022,Mesuji Makmur
-1602010023,Mesuji Raya
-1602010030,Tulung Selapan
-1602010031,Cengal
-1602010040,Pedamaran
-1602010041,Pedamaran Timur
-1602010050,Tanjung Lubuk
-1602010051,Teluk Gelam
-1602010060,Kota Kayu Agung
-1602010120,Sirah Pulau Padang
-1602010121,Jejawi
-1602010130,Pampangan
-1602010131,Pangkalan Lapam
-1602010140,Air Sugihan
+1602010001,Cahya Bumi
+1602010002,Bumi Arjo
+1602010003,Kuta Pandan
+1602010004,Dabuk Rejo
+1602010005,Sukamulya
+1602010007,Tebing Suluh
+1602010008,Cahya Maju
+1602010009,Tulung Harapan
+1602010010,Bumi Agung
+1602010011,Sindang Sari
+1602010012,Sumber Agung
+1602010014,Kepahyang
+1602010015,Tugumulyo
+1602010016,Tugu Agung
+1602010017,Tugu Jaya
+1602010018,Mekar Jaya
+1602010019,Sumber Makmur
+1602010020,Bumi Arjo Makmur
+1602010021,Cahya Makmur
 1602011,Lempuing Jaya
-1602011010,Lempuing
-1602011011,Lempuing Jaya
-1602011020,Mesuji
-1602011021,Sungai Menang
-1602011022,Mesuji Makmur
-1602011023,Mesuji Raya
-1602011030,Tulung Selapan
-1602011031,Cengal
-1602011040,Pedamaran
-1602011041,Pedamaran Timur
-1602011050,Tanjung Lubuk
-1602011051,Teluk Gelam
-1602011060,Kota Kayu Agung
-1602011120,Sirah Pulau Padang
-1602011121,Jejawi
-1602011130,Pampangan
-1602011131,Pangkalan Lapam
-1602011140,Air Sugihan
+1602011001,Lempuing Indah
+1602011002,Mukti Sari
+1602011003,Sungai Belida
+1602011004,Lubuk Seberuk
+1602011005,Muara Burnai Ii
+1602011006,Tania Makmur
+1602011007,Muara Burnai
+1602011008,Rantau Durian Ii
+1602011009,Rantau Durian
+1602011010,Sukamaju
+1602011011,Suka Jaya
+1602011012,Tanjung Sari Ii
+1602011013,Tanjung Sari
+1602011014,Purwo Asri
+1602011015,Lubuk Makmur
+1602011016,Rantau Durian Asli
 1602020,Mesuji
-1602020010,Lempuing
-1602020011,Lempuing Jaya
-1602020020,Mesuji
-1602020021,Sungai Menang
-1602020022,Mesuji Makmur
-1602020023,Mesuji Raya
-1602020030,Tulung Selapan
-1602020031,Cengal
-1602020040,Pedamaran
-1602020041,Pedamaran Timur
-1602020050,Tanjung Lubuk
-1602020051,Teluk Gelam
-1602020060,Kota Kayu Agung
-1602020120,Sirah Pulau Padang
-1602020121,Jejawi
-1602020130,Pampangan
-1602020131,Pangkalan Lapam
-1602020140,Air Sugihan
+1602020015,Kali Deras
+1602020016,Sumber Deras
+1602020017,Pematang Panggang
+1602020018,Kembang Jajar Sp7 At
+1602020025,Suryaadi
+1602020026,Jaya Bhakti
+1602020027,Margo Bhakti
+1602020028,Makarti Mulya
+1602020029,Suka Mukti
+1602020031,Sungai Sodong
+1602020032,Mekar Wangi
+1602020033,Karya Mukti
+1602020049,Pagar Dewa
+1602020050,Kota Baru
+1602020051,Sido Basuki
+1602020052,Pematang Kasih
+1602020053,Labuhan Jaya
 1602021,Sungai Menang
-1602021010,Lempuing
-1602021011,Lempuing Jaya
-1602021020,Mesuji
-1602021021,Sungai Menang
-1602021022,Mesuji Makmur
-1602021023,Mesuji Raya
-1602021030,Tulung Selapan
-1602021031,Cengal
-1602021040,Pedamaran
-1602021041,Pedamaran Timur
-1602021050,Tanjung Lubuk
-1602021051,Teluk Gelam
-1602021060,Kota Kayu Agung
-1602021120,Sirah Pulau Padang
-1602021121,Jejawi
-1602021130,Pampangan
-1602021131,Pangkalan Lapam
-1602021140,Air Sugihan
+1602021001,Sungai Tepuk
+1602021002,Sido Mulyo
+1602021003,Talang Jaya
+1602021004,Sungai Menang
+1602021005,Karangsia
+1602021006,Talang Makmur
+1602021007,Harapan Jaya
+1602021008,Sungai Ceper
+1602021009,Gajah Mati
+1602021010,Bumi Pratama Mandira
+1602021011,Pinang Indah
+1602021012,Sungai Sibur
+1602021013,Gajah Mukti
+1602021014,Gajah Mulya
+1602021015,Gajah Makmur
+1602021016,Sari Gading
+1602021017,Gading Mas
+1602021018,Gading Jaya
 1602022,Mesuji Makmur
-1602022010,Lempuing
-1602022011,Lempuing Jaya
-1602022020,Mesuji
-1602022021,Sungai Menang
-1602022022,Mesuji Makmur
-1602022023,Mesuji Raya
-1602022030,Tulung Selapan
-1602022031,Cengal
-1602022040,Pedamaran
-1602022041,Pedamaran Timur
-1602022050,Tanjung Lubuk
-1602022051,Teluk Gelam
-1602022060,Kota Kayu Agung
-1602022120,Sirah Pulau Padang
-1602022121,Jejawi
-1602022130,Pampangan
-1602022131,Pangkalan Lapam
-1602022140,Air Sugihan
+1602022001,Kampung Baru
+1602022002,Mesuji Jaya
+1602022003,Beringin Jaya
+1602022004,Pematang Bhina Tani
+1602022005,Bhina Karsa
+1602022006,Cahaya Mas
+1602022007,Pematang Sari
+1602022008,Pematang Jaya
+1602022009,Gading Sari
+1602022010,Karya Usaha
+1602022011,Pematang Sukatani
+1602022012,Karya Jaya
+1602022013,Mukti Karya
+1602022015,Surya Karta
+1602022016,Catur Tunggal
+1602022017,Pematang Sukaramah
+1602022018,Sumber Mulya
+1602022019,Cahaya Mulya
+1602022020,Tegal Sari
 1602023,Mesuji Raya
-1602023010,Lempuing
-1602023011,Lempuing Jaya
-1602023020,Mesuji
-1602023021,Sungai Menang
-1602023022,Mesuji Makmur
-1602023023,Mesuji Raya
-1602023030,Tulung Selapan
-1602023031,Cengal
-1602023040,Pedamaran
-1602023041,Pedamaran Timur
-1602023050,Tanjung Lubuk
-1602023051,Teluk Gelam
-1602023060,Kota Kayu Agung
-1602023120,Sirah Pulau Padang
-1602023121,Jejawi
-1602023130,Pampangan
-1602023131,Pangkalan Lapam
-1602023140,Air Sugihan
+1602023001,Balian Makmur
+1602023002,Mulya Jaya
+1602023003,Sumber Baru
+1602023004,Cipta Sari
+1602023005,Sumbu Sari
+1602023006,Suka Sari
+1602023007,Kemang Indah
+1602023008,Mataram Jaya
+1602023009,Rotan Mulya
+1602023010,Gedung Rejo
+1602023011,Sedyo Mulyo
+1602023012,Kerta Mukti
+1602023013,Embacang Permai
+1602023014,Bumi Makmur
+1602023015,Embacang
+1602023016,Balian
+1602023017,Dabuk Makmur
 1602030,Tulung Selapan
-1602030010,Lempuing
-1602030011,Lempuing Jaya
-1602030020,Mesuji
-1602030021,Sungai Menang
-1602030022,Mesuji Makmur
-1602030023,Mesuji Raya
-1602030030,Tulung Selapan
-1602030031,Cengal
-1602030040,Pedamaran
-1602030041,Pedamaran Timur
-1602030050,Tanjung Lubuk
-1602030051,Teluk Gelam
-1602030060,Kota Kayu Agung
-1602030120,Sirah Pulau Padang
-1602030121,Jejawi
-1602030130,Pampangan
-1602030131,Pangkalan Lapam
-1602030140,Air Sugihan
+1602030010,Pulu Beruang
+1602030011,Tulung Selapan Ilir
+1602030012,Tulung Selapan Ulu
+1602030013,Petaling
+1602030014,Kayu Ara
+1602030015,Penyandingan
+1602030016,Tanjung Batu
+1602030017,Cambai
+1602030018,Toman
+1602030019,Jerambah Rengas
+1602030020,Penanggoan Duren
+1602030021,Lebung Itam
+1602030022,Lebung Gajah
+1602030023,Ujung Tanjung
+1602030024,Simpang Tiga
+1602030025,Simpang Tiga Sakti
+1602030026,Simpang Tiga Makmur
+1602030027,Simpang Tiga Jaya
+1602030028,Rantau Lurus
+1602030029,Tulung Seluang
+1602030030,Simpang Tiga Abadi
+1602030031,Kuala Dua Belas
+1602030032,Tulung Selapan Timur
 1602031,Cengal
-1602031010,Lempuing
-1602031011,Lempuing Jaya
-1602031020,Mesuji
-1602031021,Sungai Menang
-1602031022,Mesuji Makmur
-1602031023,Mesuji Raya
-1602031030,Tulung Selapan
-1602031031,Cengal
-1602031040,Pedamaran
-1602031041,Pedamaran Timur
-1602031050,Tanjung Lubuk
-1602031051,Teluk Gelam
-1602031060,Kota Kayu Agung
-1602031120,Sirah Pulau Padang
-1602031121,Jejawi
-1602031130,Pampangan
-1602031131,Pangkalan Lapam
-1602031140,Air Sugihan
+1602031001,Sungai Somor
+1602031002,Sungai Pasir
+1602031003,Sungai Jeruju
+1602031004,Sungai Lumpur
+1602031005,Ulak Kedondong
+1602031006,Sungai Ketupak
+1602031007,Pelimbangan
+1602031008,Cengal
+1602031009,Talang Rimba
+1602031010,Kuala Sungai Pasir
+1602031011,Kuala Sungai Jeruju
+1602031012,Parit Raya
+1602031013,Lebak Beriang
+1602031014,Balam Jeruju
+1602031015,Pantai Harapan
+1602031016,Adil Makmur
+1602031017,Kebon Cabe
 1602040,Pedamaran
-1602040010,Lempuing
-1602040011,Lempuing Jaya
-1602040020,Mesuji
-1602040021,Sungai Menang
-1602040022,Mesuji Makmur
-1602040023,Mesuji Raya
-1602040030,Tulung Selapan
-1602040031,Cengal
-1602040040,Pedamaran
-1602040041,Pedamaran Timur
-1602040050,Tanjung Lubuk
-1602040051,Teluk Gelam
-1602040060,Kota Kayu Agung
-1602040120,Sirah Pulau Padang
-1602040121,Jejawi
-1602040130,Pampangan
-1602040131,Pangkalan Lapam
-1602040140,Air Sugihan
+1602040001,Burnai Timur
+1602040002,Suka Pulih
+1602040003,Menang Raya
+1602040004,Pedamaran Vi
+1602040005,Pedamaran V
+1602040006,Pedamaran Iv
+1602040007,Pedamaran Iii
+1602040008,Pedamaran Ii
+1602040009,Pedamaran I
+1602040010,Sukaraja
+1602040011,Serinanti
+1602040012,Suka Damai
+1602040013,Cinta Jaya
+1602040014,Lebuh Rarak
 1602041,Pedamaran Timur
-1602041010,Lempuing
-1602041011,Lempuing Jaya
-1602041020,Mesuji
-1602041021,Sungai Menang
-1602041022,Mesuji Makmur
-1602041023,Mesuji Raya
-1602041030,Tulung Selapan
-1602041031,Cengal
-1602041040,Pedamaran
-1602041041,Pedamaran Timur
-1602041050,Tanjung Lubuk
-1602041051,Teluk Gelam
-1602041060,Kota Kayu Agung
-1602041120,Sirah Pulau Padang
-1602041121,Jejawi
-1602041130,Pampangan
-1602041131,Pangkalan Lapam
-1602041140,Air Sugihan
+1602041001,Mari Baya
+1602041002,Pulau Geronggang
+1602041003,Gading Raja
+1602041004,Sumber Hidup
+1602041005,Pancawarna
+1602041006,Tanjung Makmur
+1602041007,Kayu Labu
 1602050,Tanjung Lubuk
-1602050010,Lempuing
-1602050011,Lempuing Jaya
-1602050020,Mesuji
-1602050021,Sungai Menang
-1602050022,Mesuji Makmur
-1602050023,Mesuji Raya
-1602050030,Tulung Selapan
-1602050031,Cengal
-1602050040,Pedamaran
-1602050041,Pedamaran Timur
-1602050050,Tanjung Lubuk
-1602050051,Teluk Gelam
-1602050060,Kota Kayu Agung
-1602050120,Sirah Pulau Padang
-1602050121,Jejawi
-1602050130,Pampangan
-1602050131,Pangkalan Lapam
-1602050140,Air Sugihan
+1602050001,Ulak Kapal
+1602050002,Tanjung Merindu
+1602050003,Tanjung Baru
+1602050004,Seri Tanjung
+1602050005,Pengarayan
+1602050006,Sukarami
+1602050012,Sukamulia
+1602050014,Pulau Gemantung
+1602050015,Bumi Agung
+1602050016,Kotabumi
+1602050017,Tanjung Beringin
+1602050018,Juk Dadak
+1602050019,Ulak Balam
+1602050020,Tanjung Laut
+1602050021,Tanjung Laga
+1602050022,Tanjung Lubuk
+1602050026,Jambu Ilir
+1602050027,Atar Balam
+1602050028,Tanjung Harapan
+1602050029,Pulau Gemantung Darat
+1602050030,Pulau Gemantung Ulu
+1602050031,Pulau Gemantung Ilir
 1602051,Teluk Gelam
-1602051010,Lempuing
-1602051011,Lempuing Jaya
-1602051020,Mesuji
-1602051021,Sungai Menang
-1602051022,Mesuji Makmur
-1602051023,Mesuji Raya
-1602051030,Tulung Selapan
-1602051031,Cengal
-1602051040,Pedamaran
-1602051041,Pedamaran Timur
-1602051050,Tanjung Lubuk
-1602051051,Teluk Gelam
-1602051060,Kota Kayu Agung
-1602051120,Sirah Pulau Padang
-1602051121,Jejawi
-1602051130,Pampangan
-1602051131,Pangkalan Lapam
-1602051140,Air Sugihan
+1602051001,Benawa
+1602051002,Panca Tunggal Benawa
+1602051003,Sinar Harapan Mulya
+1602051004,Bumi Harapan
+1602051005,Mulya Guna
+1602051006,Serapek
+1602051007,Sugih Waras
+1602051008,Seriguna
+1602051009,Muara Telang
+1602051010,Kuripan
+1602051011,Penyandingan
+1602051012,Talang Pangeran
+1602051013,Cintamarga
+1602051014,Ulak Ketapang
 1602060,Kota Kayu Agung
-1602060010,Lempuing
-1602060011,Lempuing Jaya
-1602060020,Mesuji
-1602060021,Sungai Menang
-1602060022,Mesuji Makmur
-1602060023,Mesuji Raya
-1602060030,Tulung Selapan
-1602060031,Cengal
-1602060040,Pedamaran
-1602060041,Pedamaran Timur
-1602060050,Tanjung Lubuk
-1602060051,Teluk Gelam
-1602060060,Kota Kayu Agung
-1602060120,Sirah Pulau Padang
-1602060121,Jejawi
-1602060130,Pampangan
-1602060131,Pangkalan Lapam
-1602060140,Air Sugihan
+1602060001,Buluh Cawang
+1602060002,Banding Anyar
+1602060003,Muara Baru
+1602060004,Anyar
+1602060005,Lubuk Dalam
+1602060006,Kedaton
+1602060007,Jua Jua
+1602060008,Sidakersa
+1602060009,Kota Raya
+1602060010,Perigi
+1602060011,Mangun Jaya
+1602060012,Cinta Raja
+1602060013,Celikah
+1602060014,Paku
+1602060015,Kayu Agung
+1602060016,Tanjung Serang
+1602060017,Tanjung Lubuk
+1602060018,Arisan Buntal
+1602060019,Sukadana
+1602060020,Serigeni Lama
+1602060021,Serigeni Baru
+1602060022,Teloko
+1602060023,Kijang Ulu
+1602060024,Tanjung Menang
+1602060025,Tanjung Rancing
 1602120,Sirah Pulau Padang
-1602120010,Lempuing
-1602120011,Lempuing Jaya
-1602120020,Mesuji
-1602120021,Sungai Menang
-1602120022,Mesuji Makmur
-1602120023,Mesuji Raya
-1602120030,Tulung Selapan
-1602120031,Cengal
-1602120040,Pedamaran
-1602120041,Pedamaran Timur
-1602120050,Tanjung Lubuk
-1602120051,Teluk Gelam
-1602120060,Kota Kayu Agung
-1602120120,Sirah Pulau Padang
-1602120121,Jejawi
-1602120130,Pampangan
-1602120131,Pangkalan Lapam
-1602120140,Air Sugihan
+1602120001,Tanjung Alai
+1602120002,Ulak Jermun
+1602120003,Mangun Jaya
+1602120004,Batu Ampar
+1602120005,Awal Terusan
+1602120006,Terusan Menang
+1602120007,Belanti
+1602120008,Rengas Pitu
+1602120009,Terate
+1602120010,Sp Padang
+1602120011,Rawang Besar
+1602120012,Pematang Buluran
+1602120015,Serdang Menang
+1602120016,Pantai
+1602120017,Bungin Tinggi
+1602120020,Penyandingan
+1602120021,Berkat
+1602120022,Sukaraja
+1602120023,Batu Ampar Baru
+1602120024,Terusan Laut
 1602121,Jejawi
-1602121010,Lempuing
-1602121011,Lempuing Jaya
-1602121020,Mesuji
-1602121021,Sungai Menang
-1602121022,Mesuji Makmur
-1602121023,Mesuji Raya
-1602121030,Tulung Selapan
-1602121031,Cengal
-1602121040,Pedamaran
-1602121041,Pedamaran Timur
-1602121050,Tanjung Lubuk
-1602121051,Teluk Gelam
-1602121060,Kota Kayu Agung
-1602121120,Sirah Pulau Padang
-1602121121,Jejawi
-1602121130,Pampangan
-1602121131,Pangkalan Lapam
-1602121140,Air Sugihan
+1602121001,Pematang Kijang
+1602121002,Bubusan
+1602121003,Air Hitam
+1602121004,Jejawi
+1602121005,Karang Agung
+1602121006,Talang Cempedak
+1602121007,Lubuk Ketepeng
+1602121008,Tanjung Aur
+1602121009,Lingkis
+1602121010,Muara Batun
+1602121011,Terusan Jawa
+1602121012,Simpang Empat
+1602121013,Pedu
+1602121014,Ulak Tembaga
+1602121015,Sukadarma
+1602121016,Tanjung Ali
+1602121017,Padang Bulan
+1602121018,Batun Baru
+1602121019,Danau Ceper
 1602130,Pampangan
-1602130010,Lempuing
-1602130011,Lempuing Jaya
-1602130020,Mesuji
-1602130021,Sungai Menang
-1602130022,Mesuji Makmur
-1602130023,Mesuji Raya
-1602130030,Tulung Selapan
-1602130031,Cengal
-1602130040,Pedamaran
-1602130041,Pedamaran Timur
-1602130050,Tanjung Lubuk
-1602130051,Teluk Gelam
-1602130060,Kota Kayu Agung
-1602130120,Sirah Pulau Padang
-1602130121,Jejawi
-1602130130,Pampangan
-1602130131,Pangkalan Lapam
-1602130140,Air Sugihan
+1602130001,Ulak Kemang
+1602130002,Sepang
+1602130003,Keman
+1602130004,Kandis
+1602130005,Ulak Depati
+1602130006,Jungkal
+1602130015,Serdang
+1602130016,Serimenang
+1602130017,Pampangan
+1602130018,Pulau Betung
+1602130019,Tapus
+1602130020,Pulau Layang
+1602130021,Kuro
+1602130022,Bangsal
+1602130023,Menggeris
+1602130024,Secondong
+1602130025,Jermun
+1602130035,Tanjung Kemang
+1602130036,Ulak Pianggu
+1602130037,Ulak Kemang Baru
+1602130038,Keman Baru
+1602130039,Sri Mulya
 1602131,Pangkalan Lapam
-1602131010,Lempuing
-1602131011,Lempuing Jaya
-1602131020,Mesuji
-1602131021,Sungai Menang
-1602131022,Mesuji Makmur
-1602131023,Mesuji Raya
-1602131030,Tulung Selapan
-1602131031,Cengal
-1602131040,Pedamaran
-1602131041,Pedamaran Timur
-1602131050,Tanjung Lubuk
-1602131051,Teluk Gelam
-1602131060,Kota Kayu Agung
-1602131120,Sirah Pulau Padang
-1602131121,Jejawi
-1602131130,Pampangan
-1602131131,Pangkalan Lapam
-1602131140,Air Sugihan
+1602131001,Sungai Bungin
+1602131002,Suka Raja
+1602131003,Darat
+1602131004,Sukadamai
+1602131005,Lebung Batang
+1602131006,Pangkalan Lampam
+1602131007,Lirik
+1602131008,Deling
+1602131009,Talang Daya
+1602131010,Air Pedara
+1602131011,Rimba Samak
+1602131012,Pulawan
+1602131013,Riding
+1602131014,Sunggutan
+1602131015,Air Rumbai
+1602131016,Rambai
+1602131017,Perigi
+1602131018,Bukit Batu
+1602131019,Rawa Tenam
 1602140,Air Sugihan
-1602140010,Lempuing
-1602140011,Lempuing Jaya
-1602140020,Mesuji
-1602140021,Sungai Menang
-1602140022,Mesuji Makmur
-1602140023,Mesuji Raya
-1602140030,Tulung Selapan
-1602140031,Cengal
-1602140040,Pedamaran
-1602140041,Pedamaran Timur
-1602140050,Tanjung Lubuk
-1602140051,Teluk Gelam
-1602140060,Kota Kayu Agung
-1602140120,Sirah Pulau Padang
-1602140121,Jejawi
-1602140130,Pampangan
-1602140131,Pangkalan Lapam
-1602140140,Air Sugihan
+1602140001,Sungai Batang
+1602140002,Bukit Batu
+1602140003,Rengas Abang
+1602140004,Simpang Heran
+1602140005,Banyu Biru
+1602140006,Pangkalan Sakti
+1602140007,Rantau Karya
+1602140008,Nusa Karta
+1602140009,Sri Jaya Baru
+1602140010,Jadi Mulya
+1602140011,Suka Mulya
+1602140012,Mukti Jaya
+1602140013,Kerta Mukti
+1602140014,Negeri Sakti
+1602140015,Pangkalan Damai
+1602140016,Nusantara
+1602140017,Bandar Jaya
+1602140018,Tirta Mulya
+1602140019,Marga Tani
 1603,Muara Enim
 1603010,Semendo Darat Laut
-1603010010,Semendo Darat Laut
-1603010011,Semendo Darat Ulu
-1603010012,Semendo Darat Tengah
-1603010020,Tanjung Agung
-1603010021,Panang Enim
-1603010031,Rambang
-1603010032,Lubai
-1603010033,Lubai Ulu
-1603010040,Lawang Kidul
-1603010050,Muara Enim
-1603010051,Ujan Mas
-1603010060,Gunung Megang
-1603010061,Benakat
-1603010062,Belimbing
-1603010070,Rambang Niru
-1603010071,Empat Petulai Dangku
-1603010090,Gelumbang
-1603010091,Lembak
-1603010092,Sungai Rotan
-1603010093,Muara Belida
-1603010094,Kelekar
-1603010095,Belida Darat
+1603010001,Penindaian
+1603010002,Babatan
+1603010003,Muara Dua
+1603010004,Pulau Panggung
+1603010005,Muara Danau
+1603010006,Penyandingan
+1603010007,Tanah Abang
+1603010008,Karya Nyata
+1603010009,Pagar Agung
+1603010010,Perapau
 1603011,Semendo Darat Ulu
-1603011010,Semendo Darat Laut
-1603011011,Semendo Darat Ulu
-1603011012,Semendo Darat Tengah
-1603011020,Tanjung Agung
-1603011021,Panang Enim
-1603011031,Rambang
-1603011032,Lubai
-1603011033,Lubai Ulu
-1603011040,Lawang Kidul
-1603011050,Muara Enim
-1603011051,Ujan Mas
-1603011060,Gunung Megang
-1603011061,Benakat
-1603011062,Belimbing
-1603011070,Rambang Niru
-1603011071,Empat Petulai Dangku
-1603011090,Gelumbang
-1603011091,Lembak
-1603011092,Sungai Rotan
-1603011093,Muara Belida
-1603011094,Kelekar
-1603011095,Belida Darat
+1603011001,Segamit
+1603011002,Cahaya Alam
+1603011003,Tanjung Tiga
+1603011004,Tanjung Agung
+1603011005,Datar Lebar
+1603011006,Siring Agung
+1603011007,Aremantai
+1603011008,Pajar Bulan
+1603011009,Pelakat
+1603011010,Danau Gerak
 1603012,Semendo Darat Tengah
-1603012010,Semendo Darat Laut
-1603012011,Semendo Darat Ulu
-1603012012,Semendo Darat Tengah
-1603012020,Tanjung Agung
-1603012021,Panang Enim
-1603012031,Rambang
-1603012032,Lubai
-1603012033,Lubai Ulu
-1603012040,Lawang Kidul
-1603012050,Muara Enim
-1603012051,Ujan Mas
-1603012060,Gunung Megang
-1603012061,Benakat
-1603012062,Belimbing
-1603012070,Rambang Niru
-1603012071,Empat Petulai Dangku
-1603012090,Gelumbang
-1603012091,Lembak
-1603012092,Sungai Rotan
-1603012093,Muara Belida
-1603012094,Kelekar
-1603012095,Belida Darat
+1603012001,Gunung Agung
+1603012002,Kota Padang
+1603012003,Tenam Bungkuk
+1603012004,Tanjung Raya
+1603012005,Muara Tenang
+1603012006,Seri Tanjung
+1603012007,Tebing Abang
+1603012008,Batu Surau
+1603012009,Rekimai Jaya
+1603012010,Palak Tanah
+1603012011,Kota Agung
+1603012012,Swarna Dwipa
 1603020,Tanjung Agung
-1603020010,Semendo Darat Laut
-1603020011,Semendo Darat Ulu
-1603020012,Semendo Darat Tengah
-1603020020,Tanjung Agung
-1603020021,Panang Enim
-1603020031,Rambang
-1603020032,Lubai
-1603020033,Lubai Ulu
-1603020040,Lawang Kidul
-1603020050,Muara Enim
-1603020051,Ujan Mas
-1603020060,Gunung Megang
-1603020061,Benakat
-1603020062,Belimbing
-1603020070,Rambang Niru
-1603020071,Empat Petulai Dangku
-1603020090,Gelumbang
-1603020091,Lembak
-1603020092,Sungai Rotan
-1603020093,Muara Belida
-1603020094,Kelekar
-1603020095,Belida Darat
+1603020011,Pandan Enim
+1603020012,Paduraksa
+1603020013,Embawang
+1603020014,Pagar Dewa
+1603020015,Tanjung Bulan
+1603020016,Lesung Batu
+1603020017,Matas
+1603020018,Tanjung Agung
+1603020019,Tanjung Karangan
+1603020020,Seleman
+1603020021,Penyandingan
+1603020022,Tanjung Lalang
+1603020023,Pulau Panggung
+1603020024,Muara Emil
 1603021,Panang Enim
-1603021010,Semendo Darat Laut
-1603021011,Semendo Darat Ulu
-1603021012,Semendo Darat Tengah
-1603021020,Tanjung Agung
-1603021021,Panang Enim
-1603021031,Rambang
-1603021032,Lubai
-1603021033,Lubai Ulu
-1603021040,Lawang Kidul
-1603021050,Muara Enim
-1603021051,Ujan Mas
-1603021060,Gunung Megang
-1603021061,Benakat
-1603021062,Belimbing
-1603021070,Rambang Niru
-1603021071,Empat Petulai Dangku
-1603021090,Gelumbang
-1603021091,Lembak
-1603021092,Sungai Rotan
-1603021093,Muara Belida
-1603021094,Kelekar
-1603021095,Belida Darat
+1603021001,Lubuk Nipis
+1603021002,Padang Bindu
+1603021003,Bedegung
+1603021004,Indramayu
+1603021005,Muara Meo
+1603021006,Pandan Dulang
+1603021007,Suka Raja
+1603021008,Tanjung Baru
+1603021009,Lambur
+1603021010,Lebak Budi
+1603021011,Sugih Waras
+1603021012,Pagar Jati
 1603031,Rambang
-1603031010,Semendo Darat Laut
-1603031011,Semendo Darat Ulu
-1603031012,Semendo Darat Tengah
-1603031020,Tanjung Agung
-1603031021,Panang Enim
-1603031031,Rambang
-1603031032,Lubai
-1603031033,Lubai Ulu
-1603031040,Lawang Kidul
-1603031050,Muara Enim
-1603031051,Ujan Mas
-1603031060,Gunung Megang
-1603031061,Benakat
-1603031062,Belimbing
-1603031070,Rambang Niru
-1603031071,Empat Petulai Dangku
-1603031090,Gelumbang
-1603031091,Lembak
-1603031092,Sungai Rotan
-1603031093,Muara Belida
-1603031094,Kelekar
-1603031095,Belida Darat
+1603031001,Marga Mulia
+1603031002,Sumber Rahayu
+1603031003,Kencana Mulia
+1603031004,Sugih Waras
+1603031005,Pagar Agung
+1603031006,Tanjung Raya
+1603031007,Tanjung Dalam
+1603031008,Sukarami
+1603031009,Sugihan
+1603031010,Negeri Agung
+1603031011,Baru Rambang
+1603031012,Air Keruh
+1603031013,Sugih Waras Barat
 1603032,Lubai
-1603032010,Semendo Darat Laut
-1603032011,Semendo Darat Ulu
-1603032012,Semendo Darat Tengah
-1603032020,Tanjung Agung
-1603032021,Panang Enim
-1603032031,Rambang
-1603032032,Lubai
-1603032033,Lubai Ulu
-1603032040,Lawang Kidul
-1603032050,Muara Enim
-1603032051,Ujan Mas
-1603032060,Gunung Megang
-1603032061,Benakat
-1603032062,Belimbing
-1603032070,Rambang Niru
-1603032071,Empat Petulai Dangku
-1603032090,Gelumbang
-1603032091,Lembak
-1603032092,Sungai Rotan
-1603032093,Muara Belida
-1603032094,Kelekar
-1603032095,Belida Darat
+1603032010,Aur
+1603032011,Beringin
+1603032012,Suka Merindu
+1603032013,Kota Baru
+1603032014,Pagar Gunung
+1603032015,Jiwa Baru
+1603032016,Gunung Raja
+1603032017,Tanjung Kemala
+1603032020,Menanti
+1603032021,Air Asam
 1603033,Lubai Ulu
-1603033010,Semendo Darat Laut
-1603033011,Semendo Darat Ulu
-1603033012,Semendo Darat Tengah
-1603033020,Tanjung Agung
-1603033021,Panang Enim
-1603033031,Rambang
-1603033032,Lubai
-1603033033,Lubai Ulu
-1603033040,Lawang Kidul
-1603033050,Muara Enim
-1603033051,Ujan Mas
-1603033060,Gunung Megang
-1603033061,Benakat
-1603033062,Belimbing
-1603033070,Rambang Niru
-1603033071,Empat Petulai Dangku
-1603033090,Gelumbang
-1603033091,Lembak
-1603033092,Sungai Rotan
-1603033093,Muara Belida
-1603033094,Kelekar
-1603033095,Belida Darat
+1603033001,Lubai Persada
+1603033002,Lubai Makmur
+1603033003,Mekar Jaya
+1603033004,Lecah
+1603033005,Prabu Menang
+1603033006,Pagar Dewa
+1603033007,Sumber Mulya
+1603033008,Karang Mulya
+1603033009,Karang Agung
+1603033010,Sumber Asri
+1603033011,Karang Sari
 1603040,Lawang Kidul
-1603040010,Semendo Darat Laut
-1603040011,Semendo Darat Ulu
-1603040012,Semendo Darat Tengah
-1603040020,Tanjung Agung
-1603040021,Panang Enim
-1603040031,Rambang
-1603040032,Lubai
-1603040033,Lubai Ulu
-1603040040,Lawang Kidul
-1603040050,Muara Enim
-1603040051,Ujan Mas
-1603040060,Gunung Megang
-1603040061,Benakat
-1603040062,Belimbing
-1603040070,Rambang Niru
-1603040071,Empat Petulai Dangku
-1603040090,Gelumbang
-1603040091,Lembak
-1603040092,Sungai Rotan
-1603040093,Muara Belida
-1603040094,Kelekar
-1603040095,Belida Darat
+1603040001,Darmo
+1603040002,Keban Agung
+1603040003,Tanjung Enim Selatan
+1603040004,Tanjung Enim
+1603040005,Pasar Tanjung Enim
+1603040006,Tegal Rejo
+1603040007,Lingga
 1603050,Muara Enim
-1603050010,Semendo Darat Laut
-1603050011,Semendo Darat Ulu
-1603050012,Semendo Darat Tengah
-1603050020,Tanjung Agung
-1603050021,Panang Enim
-1603050031,Rambang
-1603050032,Lubai
-1603050033,Lubai Ulu
-1603050040,Lawang Kidul
-1603050050,Muara Enim
-1603050051,Ujan Mas
-1603050060,Gunung Megang
-1603050061,Benakat
-1603050062,Belimbing
-1603050070,Rambang Niru
-1603050071,Empat Petulai Dangku
-1603050090,Gelumbang
-1603050091,Lembak
-1603050092,Sungai Rotan
-1603050093,Muara Belida
-1603050094,Kelekar
-1603050095,Belida Darat
+1603050001,Tanjung Raja
+1603050002,Karang Raja
+1603050003,Saka Jaya
+1603050004,Pasar I
+1603050005,Pasar Ii
+1603050006,Pasar Iii
+1603050007,Tungkal
+1603050008,Lubuk Empelas
+1603050009,Tanjung Jati
+1603050010,Muara Lawai
+1603050011,Muara Enim
+1603050012,Harapan Jaya
+1603050013,Muara Harapan
+1603050014,Kepur
+1603050015,Tanjung Serian
+1603050016,Air Lintang
 1603051,Ujan Mas
-1603051010,Semendo Darat Laut
-1603051011,Semendo Darat Ulu
-1603051012,Semendo Darat Tengah
-1603051020,Tanjung Agung
-1603051021,Panang Enim
-1603051031,Rambang
-1603051032,Lubai
-1603051033,Lubai Ulu
-1603051040,Lawang Kidul
-1603051050,Muara Enim
-1603051051,Ujan Mas
-1603051060,Gunung Megang
-1603051061,Benakat
-1603051062,Belimbing
-1603051070,Rambang Niru
-1603051071,Empat Petulai Dangku
-1603051090,Gelumbang
-1603051091,Lembak
-1603051092,Sungai Rotan
-1603051093,Muara Belida
-1603051094,Kelekar
-1603051095,Belida Darat
+1603051001,Tanjung Raman
+1603051002,Muara Gula Baru
+1603051003,Muara Gula Lama
+1603051004,Pinang Belarik
+1603051005,Ujanmas Lama
+1603051006,Ujanmas Baru
+1603051007,Guci
+1603051008,Ulak Bandung
+1603051009,Ujanmas Ulu
 1603060,Gunung Megang
-1603060010,Semendo Darat Laut
-1603060011,Semendo Darat Ulu
-1603060012,Semendo Darat Tengah
-1603060020,Tanjung Agung
-1603060021,Panang Enim
-1603060031,Rambang
-1603060032,Lubai
-1603060033,Lubai Ulu
-1603060040,Lawang Kidul
-1603060050,Muara Enim
-1603060051,Ujan Mas
-1603060060,Gunung Megang
-1603060061,Benakat
-1603060062,Belimbing
-1603060070,Rambang Niru
-1603060071,Empat Petulai Dangku
-1603060090,Gelumbang
-1603060091,Lembak
-1603060092,Sungai Rotan
-1603060093,Muara Belida
-1603060094,Kelekar
-1603060095,Belida Darat
+1603060001,Bangun Sari
+1603060002,Sumaja Makmur
+1603060003,Fajar Indah
+1603060004,Kayu Ara Sakti
+1603060005,Penanggiran
+1603060006,Sidomulyo
+1603060007,Gunung Megang Dalam
+1603060008,Gunung Megang Luar
+1603060009,Lubuk Mumpo
+1603060010,Perjito
+1603060011,Tanjung Terang
+1603060012,Tanjung Muning
+1603060021,Panang Jaya
 1603061,Benakat
-1603061010,Semendo Darat Laut
-1603061011,Semendo Darat Ulu
-1603061012,Semendo Darat Tengah
-1603061020,Tanjung Agung
-1603061021,Panang Enim
-1603061031,Rambang
-1603061032,Lubai
-1603061033,Lubai Ulu
-1603061040,Lawang Kidul
-1603061050,Muara Enim
-1603061051,Ujan Mas
-1603061060,Gunung Megang
-1603061061,Benakat
-1603061062,Belimbing
-1603061070,Rambang Niru
-1603061071,Empat Petulai Dangku
-1603061090,Gelumbang
-1603061091,Lembak
-1603061092,Sungai Rotan
-1603061093,Muara Belida
-1603061094,Kelekar
-1603061095,Belida Darat
+1603061001,Padang Bindu
+1603061002,Pagar Dewa
+1603061003,Pagar Jati
+1603061004,Betung
+1603061005,Hidup Baru
+1603061006,Rami Pasai
 1603062,Belimbing
-1603062010,Semendo Darat Laut
-1603062011,Semendo Darat Ulu
-1603062012,Semendo Darat Tengah
-1603062020,Tanjung Agung
-1603062021,Panang Enim
-1603062031,Rambang
-1603062032,Lubai
-1603062033,Lubai Ulu
-1603062040,Lawang Kidul
-1603062050,Muara Enim
-1603062051,Ujan Mas
-1603062060,Gunung Megang
-1603062061,Benakat
-1603062062,Belimbing
-1603062070,Rambang Niru
-1603062071,Empat Petulai Dangku
-1603062090,Gelumbang
-1603062091,Lembak
-1603062092,Sungai Rotan
-1603062093,Muara Belida
-1603062094,Kelekar
-1603062095,Belida Darat
+1603062013,Berugo
+1603062014,Tanjung
+1603062015,Cinta Kasih
+1603062016,Darmo Kasih
+1603062017,Teluk Lubuk
+1603062018,Belimbing
+1603062019,Bulang
+1603062020,Dalam
+1603062022,Belimbing Jaya
+1603062023,Simpang Tanjung
 1603070,Rambang Niru
-1603070010,Semendo Darat Laut
-1603070011,Semendo Darat Ulu
-1603070012,Semendo Darat Tengah
-1603070020,Tanjung Agung
-1603070021,Panang Enim
-1603070031,Rambang
-1603070032,Lubai
-1603070033,Lubai Ulu
-1603070040,Lawang Kidul
-1603070050,Muara Enim
-1603070051,Ujan Mas
-1603070060,Gunung Megang
-1603070061,Benakat
-1603070062,Belimbing
-1603070070,Rambang Niru
-1603070071,Empat Petulai Dangku
-1603070090,Gelumbang
-1603070091,Lembak
-1603070092,Sungai Rotan
-1603070093,Muara Belida
-1603070094,Kelekar
-1603070095,Belida Darat
+1603070001,Suban Jeriji
+1603070002,Gemawang
+1603070003,Aur Duri
+1603070004,Manunggal Jaya
+1603070005,Manunggal Makmur
+1603070006,Air Enau Upt Xi
+1603070007,Air Talas
+1603070008,Jemenang
+1603070009,Muara Emburung
+1603070010,Tanjung Menang
+1603070011,Tebat Agung
+1603070012,Lubuk Raman
+1603070013,Air Limau
+1603070014,Gerinam
+1603070023,Kasih Dewa
+1603070024,Air Cekdam
 1603071,Empat Petulai Dangku
-1603071010,Semendo Darat Laut
-1603071011,Semendo Darat Ulu
-1603071012,Semendo Darat Tengah
-1603071020,Tanjung Agung
-1603071021,Panang Enim
-1603071031,Rambang
-1603071032,Lubai
-1603071033,Lubai Ulu
-1603071040,Lawang Kidul
-1603071050,Muara Enim
-1603071051,Ujan Mas
-1603071060,Gunung Megang
-1603071061,Benakat
-1603071062,Belimbing
-1603071070,Rambang Niru
-1603071071,Empat Petulai Dangku
-1603071090,Gelumbang
-1603071091,Lembak
-1603071092,Sungai Rotan
-1603071093,Muara Belida
-1603071094,Kelekar
-1603071095,Belida Darat
+1603071001,Muara Niru
+1603071002,Banuayu
+1603071003,Kuripan
+1603071004,Gunung Raja
+1603071005,Pangkalan Babat
+1603071006,Batu Raja
+1603071007,Dangku
+1603071008,Siku
+1603071009,Kahuripan Baru
+1603071010,Kuripan Selatan
 1603090,Gelumbang
-1603090010,Semendo Darat Laut
-1603090011,Semendo Darat Ulu
-1603090012,Semendo Darat Tengah
-1603090020,Tanjung Agung
-1603090021,Panang Enim
-1603090031,Rambang
-1603090032,Lubai
-1603090033,Lubai Ulu
-1603090040,Lawang Kidul
-1603090050,Muara Enim
-1603090051,Ujan Mas
-1603090060,Gunung Megang
-1603090061,Benakat
-1603090062,Belimbing
-1603090070,Rambang Niru
-1603090071,Empat Petulai Dangku
-1603090090,Gelumbang
-1603090091,Lembak
-1603090092,Sungai Rotan
-1603090093,Muara Belida
-1603090094,Kelekar
-1603090095,Belida Darat
+1603090001,Karang Endah Selatan
+1603090002,Karang Endah
+1603090003,Tambangan Kelekar
+1603090004,Sigam
+1603090005,Midar
+1603090006,Jambu
+1603090007,Gaung Telang
+1603090008,Melilian
+1603090009,Pedataran
+1603090010,Sebau
+1603090011,Paya Bakal
+1603090012,Gelumbang
+1603090013,Talang Taling
+1603090014,Pinang Banjar
+1603090015,Segayam
+1603090016,Putak
+1603090017,Suka Menang
+1603090018,Bitis
+1603090019,Gumai
+1603090020,Suka Jaya
+1603090021,Kartamulia
+1603090022,Teluk Limau
+1603090023,Betung
 1603091,Lembak
-1603091010,Semendo Darat Laut
-1603091011,Semendo Darat Ulu
-1603091012,Semendo Darat Tengah
-1603091020,Tanjung Agung
-1603091021,Panang Enim
-1603091031,Rambang
-1603091032,Lubai
-1603091033,Lubai Ulu
-1603091040,Lawang Kidul
-1603091050,Muara Enim
-1603091051,Ujan Mas
-1603091060,Gunung Megang
-1603091061,Benakat
-1603091062,Belimbing
-1603091070,Rambang Niru
-1603091071,Empat Petulai Dangku
-1603091090,Gelumbang
-1603091091,Lembak
-1603091092,Sungai Rotan
-1603091093,Muara Belida
-1603091094,Kelekar
-1603091095,Belida Darat
+1603091007,Kemang
+1603091008,Lembak
+1603091009,Sungai Duren
+1603091010,Tapus
+1603091011,Petanang
+1603091012,Talang Nangka
+1603091013,Alai
+1603091017,Tanjung Baru
+1603091020,Lubuk Enau
+1603091021,Alai Selatan
 1603092,Sungai Rotan
-1603092010,Semendo Darat Laut
-1603092011,Semendo Darat Ulu
-1603092012,Semendo Darat Tengah
-1603092020,Tanjung Agung
-1603092021,Panang Enim
-1603092031,Rambang
-1603092032,Lubai
-1603092033,Lubai Ulu
-1603092040,Lawang Kidul
-1603092050,Muara Enim
-1603092051,Ujan Mas
-1603092060,Gunung Megang
-1603092061,Benakat
-1603092062,Belimbing
-1603092070,Rambang Niru
-1603092071,Empat Petulai Dangku
-1603092090,Gelumbang
-1603092091,Lembak
-1603092092,Sungai Rotan
-1603092093,Muara Belida
-1603092094,Kelekar
-1603092095,Belida Darat
+1603092001,Modong
+1603092002,Tanjung Miring
+1603092003,Suka Cinta
+1603092004,Penandingan
+1603092005,Danau Rata
+1603092006,Suka Maju
+1603092007,Sukarami
+1603092008,Suka Jadi
+1603092009,Suka Dana
+1603092010,Petar Dalam
+1603092011,Paya Angus
+1603092012,Danau Tampang
+1603092013,Kasai
+1603092014,Sungai Rotan
+1603092015,Suka Merindu
+1603092016,Tanding Marga
+1603092017,Muara Lematang
+1603092018,Danau Baru
+1603092019,Petar Luar
 1603093,Muara Belida
-1603093010,Semendo Darat Laut
-1603093011,Semendo Darat Ulu
-1603093012,Semendo Darat Tengah
-1603093020,Tanjung Agung
-1603093021,Panang Enim
-1603093031,Rambang
-1603093032,Lubai
-1603093033,Lubai Ulu
-1603093040,Lawang Kidul
-1603093050,Muara Enim
-1603093051,Ujan Mas
-1603093060,Gunung Megang
-1603093061,Benakat
-1603093062,Belimbing
-1603093070,Rambang Niru
-1603093071,Empat Petulai Dangku
-1603093090,Gelumbang
-1603093091,Lembak
-1603093092,Sungai Rotan
-1603093093,Muara Belida
-1603093094,Kelekar
-1603093095,Belida Darat
+1603093001,Harapan Mulia
+1603093002,Arisan Musi
+1603093003,Gedung Buruk
+1603093004,Kayu Ara Batu
+1603093005,Arisan Musi Timur
+1603093006,Patra Tani
+1603093007,Tanjung Baru
+1603093008,Mulia Abadi
 1603094,Kelekar
-1603094010,Semendo Darat Laut
-1603094011,Semendo Darat Ulu
-1603094012,Semendo Darat Tengah
-1603094020,Tanjung Agung
-1603094021,Panang Enim
-1603094031,Rambang
-1603094032,Lubai
-1603094033,Lubai Ulu
-1603094040,Lawang Kidul
-1603094050,Muara Enim
-1603094051,Ujan Mas
-1603094060,Gunung Megang
-1603094061,Benakat
-1603094062,Belimbing
-1603094070,Rambang Niru
-1603094071,Empat Petulai Dangku
-1603094090,Gelumbang
-1603094091,Lembak
-1603094092,Sungai Rotan
-1603094093,Muara Belida
-1603094094,Kelekar
-1603094095,Belida Darat
+1603094001,Embacang Kelekar
+1603094002,Teluk Jaya
+1603094003,Menanti
+1603094004,Suban Baru
+1603094005,Pelempang
+1603094006,Tanjung Medang
+1603094007,Menanti Selatan
 1603095,Belida Darat
-1603095010,Semendo Darat Laut
-1603095011,Semendo Darat Ulu
-1603095012,Semendo Darat Tengah
-1603095020,Tanjung Agung
-1603095021,Panang Enim
-1603095031,Rambang
-1603095032,Lubai
-1603095033,Lubai Ulu
-1603095040,Lawang Kidul
-1603095050,Muara Enim
-1603095051,Ujan Mas
-1603095060,Gunung Megang
-1603095061,Benakat
-1603095062,Belimbing
-1603095070,Rambang Niru
-1603095071,Empat Petulai Dangku
-1603095090,Gelumbang
-1603095091,Lembak
-1603095092,Sungai Rotan
-1603095093,Muara Belida
-1603095094,Kelekar
-1603095095,Belida Darat
+1603095001,Babat
+1603095002,Talang Balai
+1603095003,Sialingan
+1603095004,Tanjung Bunut
+1603095005,Ibul
+1603095006,Gaung Asam
+1603095014,Lubuk Semantung
+1603095016,Lubuk Getam
+1603095018,Tanjung Tiga
+1603095019,Talang Beliung
 1604,Lahat
 1604011,Tanjung Sakti Pumi
-1604011011,Tanjung Sakti Pumi
-1604011012,Tanjung Sakti Pumu
-1604011040,Kota Agung
-1604011041,Mulak Ulu
-1604011042,Tanjung Tebat
-1604011043,Mulak Sebingkai
-1604011050,Pulau Pinang
-1604011051,Pagar Gunung
-1604011052,Gumay Ulu
-1604011060,Jarai
-1604011061,Pajar Bulan
-1604011062,Muara Payang
-1604011063,Sukamerindu
-1604011111,Kikim Barat
-1604011112,Kikim Timur
-1604011113,Kikim Selatan
-1604011114,Kikim Tengah
-1604011120,Lahat
-1604011121,Gumay Talang
-1604011122,Pseksu
-1604011123,Lahat Selatan
-1604011131,Merapi Barat
-1604011132,Merapi Timur
-1604011133,Merapi Selatan
+1604011001,Tanjung Sakti
+1604011002,Penandingan
+1604011003,Tanjung Bulan
+1604011004,Pajar Bulan
+1604011005,Negeri Kaya
+1604011006,Gunung Kerto
+1604011007,Pulau Panggung
+1604011008,Masam Bulau
+1604011009,Gunung Agung
+1604011010,Ulak Lebar
+1604011011,Pagar Agung
+1604011012,Benteng
+1604011013,Pagar Jati
+1604011014,Lubuk Tabun
+1604011015,Lubuk Dalam
+1604011016,Gunung Kembang
+1604011017,Pulau Panas
+1604011018,Sindang Panjang
 1604012,Tanjung Sakti Pumu
-1604012011,Tanjung Sakti Pumi
-1604012012,Tanjung Sakti Pumu
-1604012040,Kota Agung
-1604012041,Mulak Ulu
-1604012042,Tanjung Tebat
-1604012043,Mulak Sebingkai
-1604012050,Pulau Pinang
-1604012051,Pagar Gunung
-1604012052,Gumay Ulu
-1604012060,Jarai
-1604012061,Pajar Bulan
-1604012062,Muara Payang
-1604012063,Sukamerindu
-1604012111,Kikim Barat
-1604012112,Kikim Timur
-1604012113,Kikim Selatan
-1604012114,Kikim Tengah
-1604012120,Lahat
-1604012121,Gumay Talang
-1604012122,Pseksu
-1604012123,Lahat Selatan
-1604012131,Merapi Barat
-1604012132,Merapi Timur
-1604012133,Merapi Selatan
+1604012001,Karang Agung
+1604012002,Gunung Raya
+1604012003,Talang Tinggi
+1604012004,Simpang Iii Pumu
+1604012005,Kepala Siring
+1604012006,Genting
+1604012007,Suban
+1604012008,Muara Cawang
+1604012009,Gunung Ayu
+1604012010,Ujung Pulau
+1604012011,Tanjung Alam
+1604012012,Batu Rancing
+1604012013,Gunung Meraksa
+1604012014,Kembang Ayun
 1604040,Kota Agung
-1604040011,Tanjung Sakti Pumi
-1604040012,Tanjung Sakti Pumu
-1604040040,Kota Agung
-1604040041,Mulak Ulu
-1604040042,Tanjung Tebat
-1604040043,Mulak Sebingkai
-1604040050,Pulau Pinang
-1604040051,Pagar Gunung
-1604040052,Gumay Ulu
-1604040060,Jarai
-1604040061,Pajar Bulan
-1604040062,Muara Payang
-1604040063,Sukamerindu
-1604040111,Kikim Barat
-1604040112,Kikim Timur
-1604040113,Kikim Selatan
-1604040114,Kikim Tengah
-1604040120,Lahat
-1604040121,Gumay Talang
-1604040122,Pseksu
-1604040123,Lahat Selatan
-1604040131,Merapi Barat
-1604040132,Merapi Timur
-1604040133,Merapi Selatan
+1604040001,Bangke
+1604040002,Tebat Langsat
+1604040003,Tunggul Bute
+1604040004,Tanjung Raman
+1604040005,Gunung Liwat
+1604040006,Singapura
+1604040007,Kebon Jati
+1604040008,Bintuhan
+1604040009,Muntar Alam Baru
+1604040010,Muntar Alam Lama
+1604040011,Pandan Arang Ulu
+1604040012,Karang Endah
+1604040013,Lawang Agung
+1604040014,Kota Agung
+1604040015,Sukarame
+1604040016,Karang Agung
+1604040017,Sukaraja
+1604040018,Gedung Agung
+1604040019,Muara Gula
+1604040020,Tanjung Bulan
+1604040037,Tanjung Beringin
+1604040039,Pagar Ruyung
 1604041,Mulak Ulu
-1604041011,Tanjung Sakti Pumi
-1604041012,Tanjung Sakti Pumu
-1604041040,Kota Agung
-1604041041,Mulak Ulu
-1604041042,Tanjung Tebat
-1604041043,Mulak Sebingkai
-1604041050,Pulau Pinang
-1604041051,Pagar Gunung
-1604041052,Gumay Ulu
-1604041060,Jarai
-1604041061,Pajar Bulan
-1604041062,Muara Payang
-1604041063,Sukamerindu
-1604041111,Kikim Barat
-1604041112,Kikim Timur
-1604041113,Kikim Selatan
-1604041114,Kikim Tengah
-1604041120,Lahat
-1604041121,Gumay Talang
-1604041122,Pseksu
-1604041123,Lahat Selatan
-1604041131,Merapi Barat
-1604041132,Merapi Timur
-1604041133,Merapi Selatan
+1604041001,Karang Lebak
+1604041002,Sukananti
+1604041003,Babatan
+1604041004,Sengkuang
+1604041005,Padang Masat
+1604041006,Penindaian
+1604041007,Muara Tiga
+1604041008,Tebing Tinggi
+1604041009,Datar Balam
+1604041010,Pengentaan
+1604041011,Lesung Batu
+1604041012,Air Puar
+1604041013,Pajar Bulan
+1604041014,Mengkenang
+1604041015,Lawang Agung Mulak
+1604041020,Geramat
 1604042,Tanjung Tebat
-1604042011,Tanjung Sakti Pumi
-1604042012,Tanjung Sakti Pumu
-1604042040,Kota Agung
-1604042041,Mulak Ulu
-1604042042,Tanjung Tebat
-1604042043,Mulak Sebingkai
-1604042050,Pulau Pinang
-1604042051,Pagar Gunung
-1604042052,Gumay Ulu
-1604042060,Jarai
-1604042061,Pajar Bulan
-1604042062,Muara Payang
-1604042063,Sukamerindu
-1604042111,Kikim Barat
-1604042112,Kikim Timur
-1604042113,Kikim Selatan
-1604042114,Kikim Tengah
-1604042120,Lahat
-1604042121,Gumay Talang
-1604042122,Pseksu
-1604042123,Lahat Selatan
-1604042131,Merapi Barat
-1604042132,Merapi Timur
-1604042133,Merapi Selatan
+1604042001,Tanjung Nibung
+1604042002,Tanjung Bai
+1604042003,Tanjung Baru
+1604042004,Tanjung Kurung Ulu
+1604042005,Tanjung Kurung Ilir
+1604042006,Padang Perigi
+1604042007,Air Dingin Lama
+1604042008,Air Dingin Baru
+1604042009,Tanjung Tebat
+1604042010,Pandan Arang Ilir
+1604042011,Muara Danau
+1604042012,Talang Jawa
+1604042013,Tanjung Raya
+1604042014,Tanjung Menang
 1604043,Mulak Sebingkai
-1604043011,Tanjung Sakti Pumi
-1604043012,Tanjung Sakti Pumu
-1604043040,Kota Agung
-1604043041,Mulak Ulu
-1604043042,Tanjung Tebat
-1604043043,Mulak Sebingkai
-1604043050,Pulau Pinang
-1604043051,Pagar Gunung
-1604043052,Gumay Ulu
-1604043060,Jarai
-1604043061,Pajar Bulan
-1604043062,Muara Payang
-1604043063,Sukamerindu
-1604043111,Kikim Barat
-1604043112,Kikim Timur
-1604043113,Kikim Selatan
-1604043114,Kikim Tengah
-1604043120,Lahat
-1604043121,Gumay Talang
-1604043122,Pseksu
-1604043123,Lahat Selatan
-1604043131,Merapi Barat
-1604043132,Merapi Timur
-1604043133,Merapi Selatan
+1604043001,Durian Dangkal
+1604043002,Penandingan
+1604043003,Talang Padang
+1604043004,Lubuk Dendan
+1604043005,Jadian Baru
+1604043006,Jadian Lama
+1604043007,Talang Berangin
+1604043008,Padang Bindu
+1604043009,Keban Agung
+1604043010,Danau Belidang
 1604050,Pulau Pinang
-1604050011,Tanjung Sakti Pumi
-1604050012,Tanjung Sakti Pumu
-1604050040,Kota Agung
-1604050041,Mulak Ulu
-1604050042,Tanjung Tebat
-1604050043,Mulak Sebingkai
-1604050050,Pulau Pinang
-1604050051,Pagar Gunung
-1604050052,Gumay Ulu
-1604050060,Jarai
-1604050061,Pajar Bulan
-1604050062,Muara Payang
-1604050063,Sukamerindu
-1604050111,Kikim Barat
-1604050112,Kikim Timur
-1604050113,Kikim Selatan
-1604050114,Kikim Tengah
-1604050120,Lahat
-1604050121,Gumay Talang
-1604050122,Pseksu
-1604050123,Lahat Selatan
-1604050131,Merapi Barat
-1604050132,Merapi Timur
-1604050133,Merapi Selatan
+1604050031,Tanjung Mulak
+1604050032,Pulau Pinang
+1604050033,Lubuk Sepang
+1604050034,Tanjung Sirih
+1604050039,Perigi
+1604050040,Karang Dalam
+1604050041,Pagar Batu
+1604050042,Kuba
+1604050043,Jati
+1604050044,Muara Siban
 1604051,Pagar Gunung
-1604051011,Tanjung Sakti Pumi
-1604051012,Tanjung Sakti Pumu
-1604051040,Kota Agung
-1604051041,Mulak Ulu
-1604051042,Tanjung Tebat
-1604051043,Mulak Sebingkai
-1604051050,Pulau Pinang
-1604051051,Pagar Gunung
-1604051052,Gumay Ulu
-1604051060,Jarai
-1604051061,Pajar Bulan
-1604051062,Muara Payang
-1604051063,Sukamerindu
-1604051111,Kikim Barat
-1604051112,Kikim Timur
-1604051113,Kikim Selatan
-1604051114,Kikim Tengah
-1604051120,Lahat
-1604051121,Gumay Talang
-1604051122,Pseksu
-1604051123,Lahat Selatan
-1604051131,Merapi Barat
-1604051132,Merapi Timur
-1604051133,Merapi Selatan
+1604051001,Kedaton
+1604051002,Tanjung Agung
+1604051003,Pagar Agung
+1604051004,Muara Dua
+1604051005,Penantian
+1604051006,Merindu
+1604051007,Germidar Ulu
+1604051008,Germidar Ilir
+1604051009,Rimba Sujud
+1604051010,Pagar Alam
+1604051011,Padang Pagun
+1604051012,Kupang
+1604051013,Danau
+1604051014,Siring Agung
+1604051015,Batu Rusa
+1604051016,Karang Agung
+1604051017,Sawah Darat
+1604051018,Air Lingkar
+1604051019,Lesung Batu
+1604051020,Bandung Agung
 1604052,Gumay Ulu
-1604052011,Tanjung Sakti Pumi
-1604052012,Tanjung Sakti Pumu
-1604052040,Kota Agung
-1604052041,Mulak Ulu
-1604052042,Tanjung Tebat
-1604052043,Mulak Sebingkai
-1604052050,Pulau Pinang
-1604052051,Pagar Gunung
-1604052052,Gumay Ulu
-1604052060,Jarai
-1604052061,Pajar Bulan
-1604052062,Muara Payang
-1604052063,Sukamerindu
-1604052111,Kikim Barat
-1604052112,Kikim Timur
-1604052113,Kikim Selatan
-1604052114,Kikim Tengah
-1604052120,Lahat
-1604052121,Gumay Talang
-1604052122,Pseksu
-1604052123,Lahat Selatan
-1604052131,Merapi Barat
-1604052132,Merapi Timur
-1604052133,Merapi Selatan
+1604052001,Padang Muara Dua
+1604052002,Rindu Hati
+1604052003,Lubuk Selo
+1604052004,Sumber Karya
+1604052005,Sinjar Bulan
+1604052006,Padang Gumay
+1604052007,Tanjung Aur
+1604052008,Tanjung Raja
+1604052009,Tinggi Hari
+1604052010,Simpur
 1604060,Jarai
-1604060011,Tanjung Sakti Pumi
-1604060012,Tanjung Sakti Pumu
-1604060040,Kota Agung
-1604060041,Mulak Ulu
-1604060042,Tanjung Tebat
-1604060043,Mulak Sebingkai
-1604060050,Pulau Pinang
-1604060051,Pagar Gunung
-1604060052,Gumay Ulu
-1604060060,Jarai
-1604060061,Pajar Bulan
-1604060062,Muara Payang
-1604060063,Sukamerindu
-1604060111,Kikim Barat
-1604060112,Kikim Timur
-1604060113,Kikim Selatan
-1604060114,Kikim Tengah
-1604060120,Lahat
-1604060121,Gumay Talang
-1604060122,Pseksu
-1604060123,Lahat Selatan
-1604060131,Merapi Barat
-1604060132,Merapi Timur
-1604060133,Merapi Selatan
+1604060001,Mangun Sari
+1604060002,Pagar Dewa
+1604060003,Serambi
+1604060004,Sukananti
+1604060005,Tanjung Menang
+1604060006,Lubuk Saung
+1604060007,Gunung Kaya
+1604060038,Gunung Megang
+1604060039,Karang Tanding
+1604060040,Jarai
+1604060041,Muara Tawi
+1604060042,Aromantai
+1604060043,Jemaring
+1604060044,Pamah Salak
+1604060045,Pelajaran
+1604060046,Nantigiri
+1604060047,Kedaton
+1604060048,Bandaraji
+1604060049,Tertap
+1604060050,Penantian
+1604060051,Sadan
 1604061,Pajar Bulan
-1604061011,Tanjung Sakti Pumi
-1604061012,Tanjung Sakti Pumu
-1604061040,Kota Agung
-1604061041,Mulak Ulu
-1604061042,Tanjung Tebat
-1604061043,Mulak Sebingkai
-1604061050,Pulau Pinang
-1604061051,Pagar Gunung
-1604061052,Gumay Ulu
-1604061060,Jarai
-1604061061,Pajar Bulan
-1604061062,Muara Payang
-1604061063,Sukamerindu
-1604061111,Kikim Barat
-1604061112,Kikim Timur
-1604061113,Kikim Selatan
-1604061114,Kikim Tengah
-1604061120,Lahat
-1604061121,Gumay Talang
-1604061122,Pseksu
-1604061123,Lahat Selatan
-1604061131,Merapi Barat
-1604061132,Merapi Timur
-1604061133,Merapi Selatan
+1604061007,Aceh
+1604061008,Kota Raya Darat
+1604061009,Pajar Tinggi
+1604061010,Talang Padang Tinggi
+1604061011,Talang Pagar Agung
+1604061012,Talang Baru
+1604061013,Talang Tangsi
+1604061014,Talang Mengkenang
+1604061015,Kota Raya Lembak
+1604061016,Sumur
+1604061017,Pajar Bulan
+1604061018,Pulau Panggung
+1604061019,Bantunan
+1604061020,Sukabumi
+1604061021,Ulak Bandung
+1604061022,Pulau
+1604061023,Benua Raja
+1604061024,Tongkok
+1604061025,Gelung Sakti
+1604061026,Jentian
 1604062,Muara Payang
-1604062011,Tanjung Sakti Pumi
-1604062012,Tanjung Sakti Pumu
-1604062040,Kota Agung
-1604062041,Mulak Ulu
-1604062042,Tanjung Tebat
-1604062043,Mulak Sebingkai
-1604062050,Pulau Pinang
-1604062051,Pagar Gunung
-1604062052,Gumay Ulu
-1604062060,Jarai
-1604062061,Pajar Bulan
-1604062062,Muara Payang
-1604062063,Sukamerindu
-1604062111,Kikim Barat
-1604062112,Kikim Timur
-1604062113,Kikim Selatan
-1604062114,Kikim Tengah
-1604062120,Lahat
-1604062121,Gumay Talang
-1604062122,Pseksu
-1604062123,Lahat Selatan
-1604062131,Merapi Barat
-1604062132,Merapi Timur
-1604062133,Merapi Selatan
+1604062001,Muara Payang
+1604062002,Muara Gelumpai
+1604062003,Talang Tinggi
+1604062004,Lawang Agung Lama
+1604062005,Lawang Agung Baru
+1604062006,Muara Jauh
+1604062007,Bandu Agung
 1604063,Sukamerindu
-1604063011,Tanjung Sakti Pumi
-1604063012,Tanjung Sakti Pumu
-1604063040,Kota Agung
-1604063041,Mulak Ulu
-1604063042,Tanjung Tebat
-1604063043,Mulak Sebingkai
-1604063050,Pulau Pinang
-1604063051,Pagar Gunung
-1604063052,Gumay Ulu
-1604063060,Jarai
-1604063061,Pajar Bulan
-1604063062,Muara Payang
-1604063063,Sukamerindu
-1604063111,Kikim Barat
-1604063112,Kikim Timur
-1604063113,Kikim Selatan
-1604063114,Kikim Tengah
-1604063120,Lahat
-1604063121,Gumay Talang
-1604063122,Pseksu
-1604063123,Lahat Selatan
-1604063131,Merapi Barat
-1604063132,Merapi Timur
-1604063133,Merapi Selatan
+1604063001,Rambai Kaca
+1604063002,Kapitan
+1604063003,Sukamerindu
+1604063004,Gunung Liwat
+1604063005,Karang Caya
+1604063006,Guru Agung
+1604063007,Tanjung Agung
+1604063008,Sukaraja
+1604063009,Tanjung Raya
+1604063010,Pagar Kaya
 1604111,Kikim Barat
-1604111011,Tanjung Sakti Pumi
-1604111012,Tanjung Sakti Pumu
-1604111040,Kota Agung
-1604111041,Mulak Ulu
-1604111042,Tanjung Tebat
-1604111043,Mulak Sebingkai
-1604111050,Pulau Pinang
-1604111051,Pagar Gunung
-1604111052,Gumay Ulu
-1604111060,Jarai
-1604111061,Pajar Bulan
-1604111062,Muara Payang
-1604111063,Sukamerindu
-1604111111,Kikim Barat
-1604111112,Kikim Timur
-1604111113,Kikim Selatan
-1604111114,Kikim Tengah
-1604111120,Lahat
-1604111121,Gumay Talang
-1604111122,Pseksu
-1604111123,Lahat Selatan
-1604111131,Merapi Barat
-1604111132,Merapi Timur
-1604111133,Merapi Selatan
+1604111001,Darma Raharja
+1604111002,Suka Bakti
+1604111003,Sidomakmur
+1604111004,Saung Naga
+1604111005,Penantian
+1604111006,Singapura
+1604111007,Babat Baru
+1604111008,Ulak Bandung
+1604111009,Jajaran Baru
+1604111010,Wonorejo
+1604111011,Suka Merindu
+1604111012,Jajaran Lama
+1604111013,Lubuk Seketi
+1604111014,Sukarami
+1604111015,Purworejo
+1604111016,Bandarjaya
+1604111017,Wanaraya
+1604111018,Purnamasari
+1604111019,Mekar Jaya
 1604112,Kikim Timur
-1604112011,Tanjung Sakti Pumi
-1604112012,Tanjung Sakti Pumu
-1604112040,Kota Agung
-1604112041,Mulak Ulu
-1604112042,Tanjung Tebat
-1604112043,Mulak Sebingkai
-1604112050,Pulau Pinang
-1604112051,Pagar Gunung
-1604112052,Gumay Ulu
-1604112060,Jarai
-1604112061,Pajar Bulan
-1604112062,Muara Payang
-1604112063,Sukamerindu
-1604112111,Kikim Barat
-1604112112,Kikim Timur
-1604112113,Kikim Selatan
-1604112114,Kikim Tengah
-1604112120,Lahat
-1604112121,Gumay Talang
-1604112122,Pseksu
-1604112123,Lahat Selatan
-1604112131,Merapi Barat
-1604112132,Merapi Timur
-1604112133,Merapi Selatan
+1604112001,Lubuk Nambulan
+1604112002,Gelumbang
+1604112003,Gunung Aji
+1604112004,Binjai
+1604112005,Sendawar
+1604112006,Gunung Kembang
+1604112007,Bunga Mas
+1604112008,Lubuk Layang Ilir
+1604112009,Lubuk Layang Ulu
+1604112010,Muara Danau
+1604112011,Padu Raksa
+1604112012,Gunung Karto
+1604112013,Karang Endah
+1604112014,Patikal Baru
+1604112015,Tanda Raja
+1604112016,Patikal Lama
+1604112017,Muara Empayang
+1604112018,Lubuk Kuta
+1604112019,Seronggo
+1604112020,Gedung Agung
+1604112021,Lubuk Tampang
+1604112022,Cecar
+1604112023,Datar Serdang
+1604112024,Batu Urip
+1604112025,Tanjung Bindu
+1604112026,Babat Lama
+1604112027,Linggar Jaya
+1604112028,Marga Mulya
+1604112029,Kencana Sari
+1604112030,Purwaraja
+1604112031,Cempaka Sakti
+1604112032,Suko Harjo
 1604113,Kikim Selatan
-1604113011,Tanjung Sakti Pumi
-1604113012,Tanjung Sakti Pumu
-1604113040,Kota Agung
-1604113041,Mulak Ulu
-1604113042,Tanjung Tebat
-1604113043,Mulak Sebingkai
-1604113050,Pulau Pinang
-1604113051,Pagar Gunung
-1604113052,Gumay Ulu
-1604113060,Jarai
-1604113061,Pajar Bulan
-1604113062,Muara Payang
-1604113063,Sukamerindu
-1604113111,Kikim Barat
-1604113112,Kikim Timur
-1604113113,Kikim Selatan
-1604113114,Kikim Tengah
-1604113120,Lahat
-1604113121,Gumay Talang
-1604113122,Pseksu
-1604113123,Lahat Selatan
-1604113131,Merapi Barat
-1604113132,Merapi Timur
-1604113133,Merapi Selatan
+1604113001,Keban Jaya
+1604113002,Pandan Arang
+1604113003,Keban Agung
+1604113004,Tanjung Kurung
+1604113005,Nanjungan
+1604113006,Pulau Beringin
+1604113007,Tanjung Beringin
+1604113008,Pagar Jati
+1604113009,Jaga Baya
+1604113010,Sirah Pulau
+1604113011,Tanjung Alam
+1604113012,Karang Cahaya
+1604113013,Pagardin
+1604113014,Banu Ayu
+1604113015,Beringin Jaya
+1604113016,Padang Bindu
+1604113017,Lubuk Lungkang
+1604113018,Beringin Janggut
 1604114,Kikim Tengah
-1604114011,Tanjung Sakti Pumi
-1604114012,Tanjung Sakti Pumu
-1604114040,Kota Agung
-1604114041,Mulak Ulu
-1604114042,Tanjung Tebat
-1604114043,Mulak Sebingkai
-1604114050,Pulau Pinang
-1604114051,Pagar Gunung
-1604114052,Gumay Ulu
-1604114060,Jarai
-1604114061,Pajar Bulan
-1604114062,Muara Payang
-1604114063,Sukamerindu
-1604114111,Kikim Barat
-1604114112,Kikim Timur
-1604114113,Kikim Selatan
-1604114114,Kikim Tengah
-1604114120,Lahat
-1604114121,Gumay Talang
-1604114122,Pseksu
-1604114123,Lahat Selatan
-1604114131,Merapi Barat
-1604114132,Merapi Timur
-1604114133,Merapi Selatan
+1604114001,Tanjung Aur
+1604114002,Sukaraja
+1604114003,Maspura
+1604114004,Sungai Laru
+1604114005,Tanjung Baru
+1604114006,Muara Lingsing
+1604114007,Kepala Siring
+1604114008,Banyumas
+1604114009,Purbamas
 1604120,Lahat
-1604120011,Tanjung Sakti Pumi
-1604120012,Tanjung Sakti Pumu
-1604120040,Kota Agung
-1604120041,Mulak Ulu
-1604120042,Tanjung Tebat
-1604120043,Mulak Sebingkai
-1604120050,Pulau Pinang
-1604120051,Pagar Gunung
-1604120052,Gumay Ulu
-1604120060,Jarai
-1604120061,Pajar Bulan
-1604120062,Muara Payang
-1604120063,Sukamerindu
-1604120111,Kikim Barat
-1604120112,Kikim Timur
-1604120113,Kikim Selatan
-1604120114,Kikim Tengah
-1604120120,Lahat
-1604120121,Gumay Talang
-1604120122,Pseksu
-1604120123,Lahat Selatan
-1604120131,Merapi Barat
-1604120132,Merapi Timur
-1604120133,Merapi Selatan
+1604120026,Pagar Agung
+1604120027,Pagar Sari
+1604120028,Pagar Negara
+1604120029,Kota Baru
+1604120030,Bandar Agung
+1604120031,Pasar Lama
+1604120033,Rd. Pjka Lahat
+1604120034,Gunung Gajah
+1604120035,Lahat Tengah
+1604120036,Sukanegara
+1604120037,Selawi
+1604120039,Pasar Baru
+1604120040,Pasar Bawah
+1604120043,Kota Jaya
+1604120044,Kota Negara
+1604120045,Rd. Pjka Bandar Agung
+1604120049,Manggul
+1604120050,Ulak Lebar
+1604120051,Padang Lengkuas
+1604120052,Kota Raya
+1604120053,Keban
+1604120054,Senabing
+1604120055,Makartitama
+1604120056,Ulak Mas
+1604120057,Sari Bunga Mas
+1604120058,Giri Mulya
+1604120059,Bandar Jaya
+1604120060,Talang Jawa Selatan
+1604120061,Talang Jawa Utara
 1604121,Gumay Talang
-1604121011,Tanjung Sakti Pumi
-1604121012,Tanjung Sakti Pumu
-1604121040,Kota Agung
-1604121041,Mulak Ulu
-1604121042,Tanjung Tebat
-1604121043,Mulak Sebingkai
-1604121050,Pulau Pinang
-1604121051,Pagar Gunung
-1604121052,Gumay Ulu
-1604121060,Jarai
-1604121061,Pajar Bulan
-1604121062,Muara Payang
-1604121063,Sukamerindu
-1604121111,Kikim Barat
-1604121112,Kikim Timur
-1604121113,Kikim Selatan
-1604121114,Kikim Tengah
-1604121120,Lahat
-1604121121,Gumay Talang
-1604121122,Pseksu
-1604121123,Lahat Selatan
-1604121131,Merapi Barat
-1604121132,Merapi Timur
-1604121133,Merapi Selatan
+1604121001,Sugi Waras
+1604121002,Tanjung Periuk
+1604121003,Tanjung Karangan
+1604121004,Muara Tandi
+1604121005,Darmo
+1604121006,Endikat Ilir
+1604121007,Tanjung Baru
+1604121008,Ngalam Baru
+1604121009,Mandi Angin
+1604121010,Tanjung Dalam
+1604121011,Tanah Pilih
+1604121012,Tanjung Beringin
+1604121013,Batay
+1604121014,Sukarami
+1604121015,Suka Makmur
 1604122,Pseksu
-1604122011,Tanjung Sakti Pumi
-1604122012,Tanjung Sakti Pumu
-1604122040,Kota Agung
-1604122041,Mulak Ulu
-1604122042,Tanjung Tebat
-1604122043,Mulak Sebingkai
-1604122050,Pulau Pinang
-1604122051,Pagar Gunung
-1604122052,Gumay Ulu
-1604122060,Jarai
-1604122061,Pajar Bulan
-1604122062,Muara Payang
-1604122063,Sukamerindu
-1604122111,Kikim Barat
-1604122112,Kikim Timur
-1604122113,Kikim Selatan
-1604122114,Kikim Tengah
-1604122120,Lahat
-1604122121,Gumay Talang
-1604122122,Pseksu
-1604122123,Lahat Selatan
-1604122131,Merapi Barat
-1604122132,Merapi Timur
-1604122133,Merapi Selatan
+1604122001,Sukajadi
+1604122002,Penandingan
+1604122003,Tanjung Agung
+1604122004,Talang Tinggi
+1604122005,Batu Niding
+1604122006,Tanjung Raya
+1604122007,Lubuk Mabar
+1604122008,Pagar Agung
+1604122009,Lubuk Tuba
+1604122010,Lubuk Atung
+1604122011,Muara Cawang
 1604123,Lahat Selatan
-1604123011,Tanjung Sakti Pumi
-1604123012,Tanjung Sakti Pumu
-1604123040,Kota Agung
-1604123041,Mulak Ulu
-1604123042,Tanjung Tebat
-1604123043,Mulak Sebingkai
-1604123050,Pulau Pinang
-1604123051,Pagar Gunung
-1604123052,Gumay Ulu
-1604123060,Jarai
-1604123061,Pajar Bulan
-1604123062,Muara Payang
-1604123063,Sukamerindu
-1604123111,Kikim Barat
-1604123112,Kikim Timur
-1604123113,Kikim Selatan
-1604123114,Kikim Tengah
-1604123120,Lahat
-1604123121,Gumay Talang
-1604123122,Pseksu
-1604123123,Lahat Selatan
-1604123131,Merapi Barat
-1604123132,Merapi Timur
-1604123133,Merapi Selatan
+1604123001,Tanjung Payang
+1604123002,Banjar Negara
+1604123003,Tanjung Tebat
+1604123004,Karang Anyar
+1604123005,Nantal
+1604123006,Karang Baru
+1604123007,Talang Sejemput
+1604123008,Muara Cawang
+1604123009,Talang Sawah
+1604123010,Kerung
 1604131,Merapi Barat
-1604131011,Tanjung Sakti Pumi
-1604131012,Tanjung Sakti Pumu
-1604131040,Kota Agung
-1604131041,Mulak Ulu
-1604131042,Tanjung Tebat
-1604131043,Mulak Sebingkai
-1604131050,Pulau Pinang
-1604131051,Pagar Gunung
-1604131052,Gumay Ulu
-1604131060,Jarai
-1604131061,Pajar Bulan
-1604131062,Muara Payang
-1604131063,Sukamerindu
-1604131111,Kikim Barat
-1604131112,Kikim Timur
-1604131113,Kikim Selatan
-1604131114,Kikim Tengah
-1604131120,Lahat
-1604131121,Gumay Talang
-1604131122,Pseksu
-1604131123,Lahat Selatan
-1604131131,Merapi Barat
-1604131132,Merapi Timur
-1604131133,Merapi Selatan
+1604131010,Ulak Pandan
+1604131011,Negeri Agung
+1604131012,Lebak Budi
+1604131013,Suka Cinta
+1604131014,Gunung Agung
+1604131015,Tanjung Pinang
+1604131016,Suka Marga
+1604131017,Payo
+1604131018,Karang Endah
+1604131019,Muara Temiang
+1604131020,Lubuk Kepayang
+1604131021,Tanjung Telang
+1604131022,Kebur
+1604131023,Tanjung Baru
+1604131024,Muara Maung
+1604131025,Telatang
+1604131026,Merapi
+1604131027,Purwosari
+1604131028,Karang Rejo
 1604132,Merapi Timur
-1604132011,Tanjung Sakti Pumi
-1604132012,Tanjung Sakti Pumu
-1604132040,Kota Agung
-1604132041,Mulak Ulu
-1604132042,Tanjung Tebat
-1604132043,Mulak Sebingkai
-1604132050,Pulau Pinang
-1604132051,Pagar Gunung
-1604132052,Gumay Ulu
-1604132060,Jarai
-1604132061,Pajar Bulan
-1604132062,Muara Payang
-1604132063,Sukamerindu
-1604132111,Kikim Barat
-1604132112,Kikim Timur
-1604132113,Kikim Selatan
-1604132114,Kikim Tengah
-1604132120,Lahat
-1604132121,Gumay Talang
-1604132122,Pseksu
-1604132123,Lahat Selatan
-1604132131,Merapi Barat
-1604132132,Merapi Timur
-1604132133,Merapi Selatan
+1604132001,Sirah Pulau
+1604132002,Prabu Menang
+1604132003,Gunung Kembang
+1604132004,Arahan
+1604132005,Banjar Sari
+1604132006,Tanjung Jambu
+1604132007,Muara Lawai
+1604132008,Lebuay Bandung
+1604132009,Nanjungan
+1604132010,Gedung Agung
+1604132011,Tanjung Lontar
+1604132012,Sengkuang
+1604132013,Cempaka Wangi
+1604132014,Lematang Jaya
 1604133,Merapi Selatan
-1604133011,Tanjung Sakti Pumi
-1604133012,Tanjung Sakti Pumu
-1604133040,Kota Agung
-1604133041,Mulak Ulu
-1604133042,Tanjung Tebat
-1604133043,Mulak Sebingkai
-1604133050,Pulau Pinang
-1604133051,Pagar Gunung
-1604133052,Gumay Ulu
-1604133060,Jarai
-1604133061,Pajar Bulan
-1604133062,Muara Payang
-1604133063,Sukamerindu
-1604133111,Kikim Barat
-1604133112,Kikim Timur
-1604133113,Kikim Selatan
-1604133114,Kikim Tengah
-1604133120,Lahat
-1604133121,Gumay Talang
-1604133122,Pseksu
-1604133123,Lahat Selatan
-1604133131,Merapi Barat
-1604133132,Merapi Timur
-1604133133,Merapi Selatan
+1604133001,Geramat
+1604133002,Lubuk Betung
+1604133003,Perangai
+1604133004,Tanjung Beringin
+1604133005,Suka Merindu
+1604133006,Talang Akar
+1604133007,Lubuk Pedaro
+1604133008,Tanjung Menang
+1604133009,Padang
 1605,Musi Rawas
 1605030,Suku Tengah Lakitan Ulu
-1605030030,Suku Tengah Lakitan Ulu
-1605030031,Selangit
-1605030032,Sumber Harta
-1605030040,Tugumulyo
-1605030041,Purwodadi
-1605030050,Muara Beliti
-1605030051,Tiang Pumpung Kepungut
-1605030060,Jayaloka
-1605030061,Suka Karya
-1605030070,Muara Kelingi
-1605030071,Bulang Tengah Suku Ulu
-1605030072,Tuah Negeri
-1605030080,Muara Lakitan
-1605030090,Megang Sakti
+1605030003,Pasenan
+1605030015,Sukaraya
+1605030016,Terawas
+1605030018,Babat
+1605030019,Suka Mana
+1605030020,Padu Raksa
+1605030021,Sumber Karya
+1605030022,Sri Mulyo
+1605030023,Sukakarya
+1605030024,Sukarejo
+1605030027,Sukamerindu
+1605030035,Kosgoro
+1605030036,Sukaraya Baru
 1605031,Selangit
-1605031030,Suku Tengah Lakitan Ulu
-1605031031,Selangit
-1605031032,Sumber Harta
-1605031040,Tugumulyo
-1605031041,Purwodadi
-1605031050,Muara Beliti
-1605031051,Tiang Pumpung Kepungut
-1605031060,Jayaloka
-1605031061,Suka Karya
-1605031070,Muara Kelingi
-1605031071,Bulang Tengah Suku Ulu
-1605031072,Tuah Negeri
-1605031080,Muara Lakitan
-1605031090,Megang Sakti
+1605031001,Selangit
+1605031002,Taba Remanik
+1605031003,Taba Tengah
+1605031004,Taba Renah
+1605031005,Prabu Menang
+1605031006,Taba Gindo
+1605031007,Muara Nilau
+1605031008,Karang Panggung
+1605031009,Batu Gane
+1605031010,Napal Melintang
+1605031011,Lubuk Ngin
+1605031012,Lubuk Ngin Baru
 1605032,Sumber Harta
-1605032030,Suku Tengah Lakitan Ulu
-1605032031,Selangit
-1605032032,Sumber Harta
-1605032040,Tugumulyo
-1605032041,Purwodadi
-1605032050,Muara Beliti
-1605032051,Tiang Pumpung Kepungut
-1605032060,Jayaloka
-1605032061,Suka Karya
-1605032070,Muara Kelingi
-1605032071,Bulang Tengah Suku Ulu
-1605032072,Tuah Negeri
-1605032080,Muara Lakitan
-1605032090,Megang Sakti
+1605032001,Sumber Jaya
+1605032002,Sumber Harta
+1605032003,Jambu Rejo
+1605032004,Suka Maju
+1605032005,Sumber Sari
+1605032006,Suka Mulya
+1605032007,Suka Jaya
+1605032008,Sukarami
+1605032009,Madang
+1605032010,Sumber Asri
 1605040,Tugumulyo
-1605040030,Suku Tengah Lakitan Ulu
-1605040031,Selangit
-1605040032,Sumber Harta
-1605040040,Tugumulyo
-1605040041,Purwodadi
-1605040050,Muara Beliti
-1605040051,Tiang Pumpung Kepungut
-1605040060,Jayaloka
-1605040061,Suka Karya
-1605040070,Muara Kelingi
-1605040071,Bulang Tengah Suku Ulu
-1605040072,Tuah Negeri
-1605040080,Muara Lakitan
-1605040090,Megang Sakti
+1605040001,Tegal Rejo
+1605040002,Widodo
+1605040003,Surodadi
+1605040004,Srikaton
+1605040005,Kali Bening
+1605040006,Trikoyo
+1605040007,Nawangsasi
+1605040008,Sukomulio
+1605040009,Wonokerto
+1605040010,Wukir Sari
+1605040011,Mataram
+1605040012,Ngadirejo
+1605040013,Sidoharjo
+1605040014,Tambah Asri
+1605040015,Wonorejo
+1605040016,Dwijaya
+1605040017,Siti Harjo
+1605040018,Triwikaton
 1605041,Purwodadi
-1605041030,Suku Tengah Lakitan Ulu
-1605041031,Selangit
-1605041032,Sumber Harta
-1605041040,Tugumulyo
-1605041041,Purwodadi
-1605041050,Muara Beliti
-1605041051,Tiang Pumpung Kepungut
-1605041060,Jayaloka
-1605041061,Suka Karya
-1605041070,Muara Kelingi
-1605041071,Bulang Tengah Suku Ulu
-1605041072,Tuah Negeri
-1605041080,Muara Lakitan
-1605041090,Megang Sakti
+1605041001,Mangun Harjo
+1605041002,Mardiharjo
+1605041003,Rejosari
+1605041004,Kertosari
+1605041005,Bangun Sari
+1605041006,Pagarsari
+1605041007,Purwodadi
+1605041008,Purwa Karya
+1605041009,Karyadadi
+1605041010,Sadar Karya
+1605041011,Trikarya
 1605050,Muara Beliti
-1605050030,Suku Tengah Lakitan Ulu
-1605050031,Selangit
-1605050032,Sumber Harta
-1605050040,Tugumulyo
-1605050041,Purwodadi
-1605050050,Muara Beliti
-1605050051,Tiang Pumpung Kepungut
-1605050060,Jayaloka
-1605050061,Suka Karya
-1605050070,Muara Kelingi
-1605050071,Bulang Tengah Suku Ulu
-1605050072,Tuah Negeri
-1605050080,Muara Lakitan
-1605050090,Megang Sakti
+1605050014,Pedang
+1605050015,Muara Beliti Baru
+1605050017,Pasar Muara Beliti
+1605050018,Suro
+1605050019,Bumi Agung
+1605050020,Mana Resmi
+1605050025,Tanah Periuk I
+1605050026,Ketuan Jaya
+1605050027,Air Satan
+1605050028,Durian Remuk
+1605050029,Satan Indah Jaya
+1605050030,Air Lesing
 1605051,Tiang Pumpung Kepungut
-1605051030,Suku Tengah Lakitan Ulu
-1605051031,Selangit
-1605051032,Sumber Harta
-1605051040,Tugumulyo
-1605051041,Purwodadi
-1605051050,Muara Beliti
-1605051051,Tiang Pumpung Kepungut
-1605051060,Jayaloka
-1605051061,Suka Karya
-1605051070,Muara Kelingi
-1605051071,Bulang Tengah Suku Ulu
-1605051072,Tuah Negeri
-1605051080,Muara Lakitan
-1605051090,Megang Sakti
+1605051001,Rantau Serik
+1605051002,Kebur
+1605051003,Lubuk Besar
+1605051004,Batu Bandung
+1605051005,Muara Kati Baru I
+1605051006,Muara Kati Baru Ii
+1605051007,Muara Kati Lama
+1605051008,Rantau Bingin
+1605051009,Simpang Gegas Temuan
+1605051010,Kebur Jaya
 1605060,Jayaloka
-1605060030,Suku Tengah Lakitan Ulu
-1605060031,Selangit
-1605060032,Sumber Harta
-1605060040,Tugumulyo
-1605060041,Purwodadi
-1605060050,Muara Beliti
-1605060051,Tiang Pumpung Kepungut
-1605060060,Jayaloka
-1605060061,Suka Karya
-1605060070,Muara Kelingi
-1605060071,Bulang Tengah Suku Ulu
-1605060072,Tuah Negeri
-1605060080,Muara Lakitan
-1605060090,Megang Sakti
+1605060001,Margatunggal
+1605060002,Sidodadi
+1605060003,Sukowono
+1605060004,Bumi Rejo
+1605060005,Margoyoso
+1605060006,Giriyoso
+1605060007,Ngestiboga Ii
+1605060008,Kertosono
+1605060009,Purwodadi
+1605060010,Donorojo
+1605060011,Ngestiboga I
+1605060012,Margatani
+1605060013,Ngestikarya
 1605061,Suka Karya
-1605061030,Suku Tengah Lakitan Ulu
-1605061031,Selangit
-1605061032,Sumber Harta
-1605061040,Tugumulyo
-1605061041,Purwodadi
-1605061050,Muara Beliti
-1605061051,Tiang Pumpung Kepungut
-1605061060,Jayaloka
-1605061061,Suka Karya
-1605061070,Muara Kelingi
-1605061071,Bulang Tengah Suku Ulu
-1605061072,Tuah Negeri
-1605061080,Muara Lakitan
-1605061090,Megang Sakti
+1605061001,Rantau Alih
+1605061002,Ciptodadi
+1605061003,Sugi Waras
+1605061004,Sukowarno
+1605061005,Bangun Rejo
+1605061006,Yudha Karya
+1605061007,Sukarena
+1605061008,Ciptodadi Ii
 1605070,Muara Kelingi
-1605070030,Suku Tengah Lakitan Ulu
-1605070031,Selangit
-1605070032,Sumber Harta
-1605070040,Tugumulyo
-1605070041,Purwodadi
-1605070050,Muara Beliti
-1605070051,Tiang Pumpung Kepungut
-1605070060,Jayaloka
-1605070061,Suka Karya
-1605070070,Muara Kelingi
-1605070071,Bulang Tengah Suku Ulu
-1605070072,Tuah Negeri
-1605070080,Muara Lakitan
-1605070090,Megang Sakti
+1605070019,Binjai
+1605070020,Pulau Panggung
+1605070031,Mandi Aur
+1605070032,Tanjung Lama
+1605070033,Muara Kelingi
+1605070034,Lubuk Tua
+1605070035,Mambang
+1605070036,Bingin
+1605070037,Marga Sakti
+1605070038,Tugu Sempurna
+1605070039,Beliti Jaya
+1605070040,Karya Sakti
+1605070041,Petrans Jaya
+1605070042,Karya Mukti
+1605070044,Karya Teladan
+1605070045,Temuan Sari
+1605070046,Temuan Jaya
+1605070047,Mekarsari
+1605070048,Mangan Jaya
+1605070049,Lubuk Muda
+1605070050,Sukamenang
 1605071,Bulang Tengah Suku Ulu
-1605071030,Suku Tengah Lakitan Ulu
-1605071031,Selangit
-1605071032,Sumber Harta
-1605071040,Tugumulyo
-1605071041,Purwodadi
-1605071050,Muara Beliti
-1605071051,Tiang Pumpung Kepungut
-1605071060,Jayaloka
-1605071061,Suka Karya
-1605071070,Muara Kelingi
-1605071071,Bulang Tengah Suku Ulu
-1605071072,Tuah Negeri
-1605071080,Muara Lakitan
-1605071090,Megang Sakti
+1605071001,Kembang Tanjung
+1605071002,G Kembang Baru
+1605071003,G Kembang Lama
+1605071004,Sungai Bunut
+1605071005,Mekar Jaya
+1605071006,Sungai Naik
+1605071007,Mulyo Harjo
+1605071008,Trimukti
+1605071009,Suka Makmur
+1605071010,Raksa Budi
+1605071011,Kota Baru
+1605071012,Pangkalan Tarum Lama
+1605071013,Trijaya
+1605071014,Sadu
+1605071015,Bangun Jaya
+1605071016,Tambangan
+1605071017,Pelawe
+1605071018,Lubuk Pauh
+1605071019,Sembatu Jaya Spi
 1605072,Tuah Negeri
-1605072030,Suku Tengah Lakitan Ulu
-1605072031,Selangit
-1605072032,Sumber Harta
-1605072040,Tugumulyo
-1605072041,Purwodadi
-1605072050,Muara Beliti
-1605072051,Tiang Pumpung Kepungut
-1605072060,Jayaloka
-1605072061,Suka Karya
-1605072070,Muara Kelingi
-1605072071,Bulang Tengah Suku Ulu
-1605072072,Tuah Negeri
-1605072080,Muara Lakitan
-1605072090,Megang Sakti
+1605072001,Air Beliti
+1605072002,Suka Mulya
+1605072003,Jaya Tunggal
+1605072004,Remayu
+1605072005,Petunang
+1605072006,Jaya Bakti
+1605072007,Dharma Sakti
+1605072008,Banpres
+1605072009,Bamasko
+1605072010,Lubuk Rumbai
+1605072011,Leban Jaya
 1605080,Muara Lakitan
-1605080030,Suku Tengah Lakitan Ulu
-1605080031,Selangit
-1605080032,Sumber Harta
-1605080040,Tugumulyo
-1605080041,Purwodadi
-1605080050,Muara Beliti
-1605080051,Tiang Pumpung Kepungut
-1605080060,Jayaloka
-1605080061,Suka Karya
-1605080070,Muara Kelingi
-1605080071,Bulang Tengah Suku Ulu
-1605080072,Tuah Negeri
-1605080080,Muara Lakitan
-1605080090,Megang Sakti
+1605080001,Pian Raya
+1605080002,Bumi Makmur
+1605080003,Sp V Tri Anggunjaya
+1605080004,Harapan Makmur
+1605080005,Mukti Karya
+1605080006,Sindang Laya
+1605080007,Semangus
+1605080008,Pendingan
+1605080009,Anyar
+1605080010,Muara Rengas
+1605080011,Sungai Pinang
+1605080012,Semeteh
+1605080013,Lubuk Pandan
+1605080014,Muara Lakitan
+1605080015,Prabumulih I
+1605080016,Prabumulih Ii
+1605080017,Pelita Jaya
+1605080018,Sido Mulyo
+1605080019,Marga Baru
+1605080020,Semangus Baru
 1605090,Megang Sakti
-1605090030,Suku Tengah Lakitan Ulu
-1605090031,Selangit
-1605090032,Sumber Harta
-1605090040,Tugumulyo
-1605090041,Purwodadi
-1605090050,Muara Beliti
-1605090051,Tiang Pumpung Kepungut
-1605090060,Jayaloka
-1605090061,Suka Karya
-1605090070,Muara Kelingi
-1605090071,Bulang Tengah Suku Ulu
-1605090072,Tuah Negeri
-1605090080,Muara Lakitan
-1605090090,Megang Sakti
+1605090001,Wonosari
+1605090002,Megang Sakti Ii
+1605090003,Megang Sakti Iv
+1605090004,Megang Sakti Iii
+1605090005,Pagar Ayu
+1605090006,Megang Sakti I
+1605090007,Sumber Rejo
+1605090008,Megang Sakti V
+1605090009,Jajaran Baru Ii
+1605090010,Muara Megang
+1605090011,Marga Puspita
+1605090012,Tegal Sari
+1605090013,Campur Sari
+1605090014,Mekarsari
+1605090015,Karya Mulya
+1605090016,Rejosari
+1605090017,Trisakti
+1605090018,Jajaran Baru I
+1605090020,Mulyo Sari
+1605090021,Muara Megang I
+1605090022,Talang Ubi
 1606,Musi Banyuasin
 1606010,Sanga Desa
-1606010010,Sanga Desa
-1606010020,Babat Toman
-1606010021,Batanghari Leko
-1606010022,Plakat Tinggi
-1606010023,Lawang Wetan
-1606010030,Sungai Keruh
-1606010031,Jirak Jaya
-1606010040,Sekayu
-1606010041,Lais
-1606010090,Sungai Lilin
-1606010091,Keluang
-1606010092,Babat Supat
-1606010100,Bayung Lencir
-1606010101,Lalan
-1606010102,Tungkal Jaya
+1606010001,Air Balui
+1606010002,Nganti
+1606010003,Jud Ii
+1606010004,Jud I
+1606010005,Penggage
+1606010006,Ngulak Iii
+1606010007,Ngunang
+1606010008,Ulak  Embacang
+1606010009,Ngulak I
+1606010010,Ngulak Ii
+1606010011,Terusan
+1606010012,Kemang
+1606010013,Tanjung Raya
+1606010014,Air Itam
+1606010015,Keban Ii
+1606010016,Keban I
+1606010017,Panai
+1606010018,Macang Sakti
+1606010019,Ngulak
 1606020,Babat Toman
-1606020010,Sanga Desa
-1606020020,Babat Toman
-1606020021,Batanghari Leko
-1606020022,Plakat Tinggi
-1606020023,Lawang Wetan
-1606020030,Sungai Keruh
-1606020031,Jirak Jaya
-1606020040,Sekayu
-1606020041,Lais
-1606020090,Sungai Lilin
-1606020091,Keluang
-1606020092,Babat Supat
-1606020100,Bayung Lencir
-1606020101,Lalan
-1606020102,Tungkal Jaya
+1606020026,Kasmaran
+1606020027,Toman
+1606020028,Babat
+1606020029,Mangun Jaya
+1606020030,Muara Punjung
+1606020031,Beruga
+1606020032,Sugiwaras
+1606020033,Sugi Raya
+1606020034,Sereka
+1606020035,Sri Mulyo
+1606020036,Sungai Angit
+1606020037,Bangun Sari
+1606020038,Pangkalan Jaya
+1606020039,Toman Baru
 1606021,Batanghari Leko
-1606021010,Sanga Desa
-1606021020,Babat Toman
-1606021021,Batanghari Leko
-1606021022,Plakat Tinggi
-1606021023,Lawang Wetan
-1606021030,Sungai Keruh
-1606021031,Jirak Jaya
-1606021040,Sekayu
-1606021041,Lais
-1606021090,Sungai Lilin
-1606021091,Keluang
-1606021092,Babat Supat
-1606021100,Bayung Lencir
-1606021101,Lalan
-1606021102,Tungkal Jaya
+1606021001,Pengaturan
+1606021002,Pinggap
+1606021003,Tanah Abang
+1606021004,Talang Leban
+1606021005,Saud
+1606021006,Bukit Sejahtera
+1606021007,Bukit Selabu
+1606021008,Tanjung Bali
+1606021009,Lubuk Buah
+1606021010,Bukit Pangkuasan
+1606021011,Talang Buluh
+1606021012,Sungai Napal
+1606021013,Pangkalan Bulian
+1606021014,Lubuk Bintialo
+1606021015,Sako Suban
+1606021016,Ulak Kembang
 1606022,Plakat Tinggi
-1606022010,Sanga Desa
-1606022020,Babat Toman
-1606022021,Batanghari Leko
-1606022022,Plakat Tinggi
-1606022023,Lawang Wetan
-1606022030,Sungai Keruh
-1606022031,Jirak Jaya
-1606022040,Sekayu
-1606022041,Lais
-1606022090,Sungai Lilin
-1606022091,Keluang
-1606022092,Babat Supat
-1606022100,Bayung Lencir
-1606022101,Lalan
-1606022102,Tungkal Jaya
+1606022001,Bangun Harjo
+1606022002,Sukamaju
+1606022003,Suka Makmur
+1606022004,Suka Damai
+1606022005,Sido Mukti
+1606022006,Sukajaya
+1606022007,Sidorahayu
+1606022008,Bukit Indah
+1606022009,Air Putih Ulu
+1606022010,Cinta Karya
+1606022011,Sialang Agung
+1606022012,Warga Mulya
+1606022013,Tanjung Kaputran
+1606022014,Air Putih Ilir
+1606022015,Sumber Rezeki
 1606023,Lawang Wetan
-1606023010,Sanga Desa
-1606023020,Babat Toman
-1606023021,Batanghari Leko
-1606023022,Plakat Tinggi
-1606023023,Lawang Wetan
-1606023030,Sungai Keruh
-1606023031,Jirak Jaya
-1606023040,Sekayu
-1606023041,Lais
-1606023090,Sungai Lilin
-1606023091,Keluang
-1606023092,Babat Supat
-1606023100,Bayung Lencir
-1606023101,Lalan
-1606023102,Tungkal Jaya
+1606023001,Rantau Panjang
+1606023002,Karang Anyar
+1606023003,Karang Waru
+1606023004,Bumi Ayu
+1606023005,Ulak Paceh
+1606023006,Tanjung Durian
+1606023007,Napal
+1606023008,Rantau Kasih
+1606023009,Karang Ringin Ii
+1606023010,Karang Ringin I
+1606023011,Ulak Teberau
+1606023012,Simpang Sari
+1606023013,Ulak Paceh Jaya
+1606023014,Talang Piase
+1606023015,Pandan Dulang
 1606030,Sungai Keruh
-1606030010,Sanga Desa
-1606030020,Babat Toman
-1606030021,Batanghari Leko
-1606030022,Plakat Tinggi
-1606030023,Lawang Wetan
-1606030030,Sungai Keruh
-1606030031,Jirak Jaya
-1606030040,Sekayu
-1606030041,Lais
-1606030090,Sungai Lilin
-1606030091,Keluang
-1606030092,Babat Supat
-1606030100,Bayung Lencir
-1606030101,Lalan
-1606030102,Tungkal Jaya
+1606030003,Sungai Dua
+1606030005,Pagar Kaya
+1606030006,Suka Lali
+1606030007,Kertayu
+1606030008,Sindang Marga
+1606030009,Tebing Bulang
+1606030010,Gajah Mati
+1606030011,Rantau Sialang
+1606030012,Kerta Jaya
+1606030019,Keramat Jaya
+1606030020,Tebing Bulang Timur
 1606031,Jirak Jaya
-1606031010,Sanga Desa
-1606031020,Babat Toman
-1606031021,Batanghari Leko
-1606031022,Plakat Tinggi
-1606031023,Lawang Wetan
-1606031030,Sungai Keruh
-1606031031,Jirak Jaya
-1606031040,Sekayu
-1606031041,Lais
-1606031090,Sungai Lilin
-1606031091,Keluang
-1606031092,Babat Supat
-1606031100,Bayung Lencir
-1606031101,Lalan
-1606031102,Tungkal Jaya
+1606031001,Talang Mandung
+1606031002,Sinar Jaya
+1606031003,Setia Jaya
+1606031004,Bangkit Raya
+1606031005,Baru Jaya
+1606031006,Talang Simpang
+1606031007,Jirak
+1606031008,Rejo Sari
+1606031009,Jembatan Gantung
+1606031010,Layan
+1606031011,Mekarjaya
+1606031012,Rukun Rahayu
 1606040,Sekayu
-1606040010,Sanga Desa
-1606040020,Babat Toman
-1606040021,Batanghari Leko
-1606040022,Plakat Tinggi
-1606040023,Lawang Wetan
-1606040030,Sungai Keruh
-1606040031,Jirak Jaya
-1606040040,Sekayu
-1606040041,Lais
-1606040090,Sungai Lilin
-1606040091,Keluang
-1606040092,Babat Supat
-1606040100,Bayung Lencir
-1606040101,Lalan
-1606040102,Tungkal Jaya
+1606040001,Rimbah Ukur
+1606040002,Sungai Medak
+1606040003,Sungai Batang
+1606040004,Sukarami
+1606040005,Soak Baru
+1606040006,Balai Agung
+1606040007,Serasan Jaya
+1606040008,Kayuara
+1606040009,Lumpatan
+1606040010,Bailangu
+1606040022,Muara Teladan
+1606040023,Bandar Jaya
+1606040024,Lumpatan Ii
+1606040025,Bailangu Timur
 1606041,Lais
-1606041010,Sanga Desa
-1606041020,Babat Toman
-1606041021,Batanghari Leko
-1606041022,Plakat Tinggi
-1606041023,Lawang Wetan
-1606041030,Sungai Keruh
-1606041031,Jirak Jaya
-1606041040,Sekayu
-1606041041,Lais
-1606041090,Sungai Lilin
-1606041091,Keluang
-1606041092,Babat Supat
-1606041100,Bayung Lencir
-1606041101,Lalan
-1606041102,Tungkal Jaya
+1606041001,Danau Cala
+1606041002,Rantau Keroya
+1606041003,Teluk Kijing I
+1606041004,Tanjung Agung Barat
+1606041005,Tanjung Agung Timur
+1606041006,Tanjung Agung Utara
+1606041007,Purwosari
+1606041008,Teluk Kijing Iii
+1606041009,Teluk Kijing Ii
+1606041010,Petaling
+1606041011,Lais
+1606041012,Teluk
+1606041013,Epil
+1606041014,Tanjung Agung Selatan
+1606041015,Lais Utara
+1606041016,Epil Barat
 1606090,Sungai Lilin
-1606090010,Sanga Desa
-1606090020,Babat Toman
-1606090021,Batanghari Leko
-1606090022,Plakat Tinggi
-1606090023,Lawang Wetan
-1606090030,Sungai Keruh
-1606090031,Jirak Jaya
-1606090040,Sekayu
-1606090041,Lais
-1606090090,Sungai Lilin
-1606090091,Keluang
-1606090092,Babat Supat
-1606090100,Bayung Lencir
-1606090101,Lalan
-1606090102,Tungkal Jaya
+1606090007,Sungai Lilin
+1606090018,Sumber Rejeki
+1606090019,Sukadamai Baru
+1606090020,Cinta Damai
+1606090021,Berlian Makmur
+1606090022,Srigunung
+1606090023,Bumi Kencana
+1606090024,Panca Tunggal
+1606090025,Mulyorejo
+1606090026,Linggo Sari
+1606090027,Nusa Serasan
+1606090028,Pinang Banjar
+1606090029,Mekar Jadi
+1606090035,Bukit Jaya
+1606090036,Sungai Lilin Jaya
 1606091,Keluang
-1606091010,Sanga Desa
-1606091020,Babat Toman
-1606091021,Batanghari Leko
-1606091022,Plakat Tinggi
-1606091023,Lawang Wetan
-1606091030,Sungai Keruh
-1606091031,Jirak Jaya
-1606091040,Sekayu
-1606091041,Lais
-1606091090,Sungai Lilin
-1606091091,Keluang
-1606091092,Babat Supat
-1606091100,Bayung Lencir
-1606091101,Lalan
-1606091102,Tungkal Jaya
+1606091001,Tenggaro
+1606091002,Keluang
+1606091003,Sumber Agung
+1606091004,Karya Maju
+1606091005,Tegal Mulya
+1606091006,Mekar Jaya
+1606091007,Loka Jaya
+1606091008,Dawas
+1606091009,Tanjung Dalam
+1606091010,Cipta Praja
+1606091011,Mekarsari
+1606091012,Mulyo Asih
+1606091013,Sido Rejo
+1606091014,Sridamai
 1606092,Babat Supat
-1606092010,Sanga Desa
-1606092020,Babat Toman
-1606092021,Batanghari Leko
-1606092022,Plakat Tinggi
-1606092023,Lawang Wetan
-1606092030,Sungai Keruh
-1606092031,Jirak Jaya
-1606092040,Sekayu
-1606092041,Lais
-1606092090,Sungai Lilin
-1606092091,Keluang
-1606092092,Babat Supat
-1606092100,Bayung Lencir
-1606092101,Lalan
-1606092102,Tungkal Jaya
+1606092001,Gajah Mati
+1606092002,Tanjung Kerang
+1606092003,Babat Banyuasin
+1606092004,Supat
+1606092005,Letang
+1606092006,Suka Maju
+1606092007,Langkap
+1606092008,Tenggulang Jaya
+1606092009,Bandar Tenggulang
+1606092010,Sumber Jaya
+1606092011,Tenggulang Baru
+1606092012,Seratus Lapan
+1606092013,Babat Ramba Jaya
+1606092014,Supat Barat
+1606092015,Supat Timur
+1606092016,Gajah Muda
 1606100,Bayung Lencir
-1606100010,Sanga Desa
-1606100020,Babat Toman
-1606100021,Batanghari Leko
-1606100022,Plakat Tinggi
-1606100023,Lawang Wetan
-1606100030,Sungai Keruh
-1606100031,Jirak Jaya
-1606100040,Sekayu
-1606100041,Lais
-1606100090,Sungai Lilin
-1606100091,Keluang
-1606100092,Babat Supat
-1606100100,Bayung Lencir
-1606100101,Lalan
-1606100102,Tungkal Jaya
+1606100027,Muara Merang
+1606100028,Mangsang
+1606100040,Tampang Baru
+1606100041,Pulai Gading
+1606100042,Muara Medak
+1606100043,Kali Berau
+1606100047,Sindang Marga
+1606100048,Telang
+1606100049,Mendis
+1606100050,Simpang Bayat
+1606100051,Pangkalan Bayat
+1606100052,Pagar Desa
+1606100053,Bayat Ilir
+1606100054,Bayung Lencir
+1606100055,Senawar Jaya
+1606100056,Sukajaya
+1606100057,Muara Bahar
+1606100058,Mekar Jaya
+1606100059,Kepayang
+1606100060,Mendis Jaya
+1606100061,Lubuk Harjo
+1606100062,Bayung Lencir Indah
+1606100063,Wonorejo
 1606101,Lalan
-1606101010,Sanga Desa
-1606101020,Babat Toman
-1606101021,Batanghari Leko
-1606101022,Plakat Tinggi
-1606101023,Lawang Wetan
-1606101030,Sungai Keruh
-1606101031,Jirak Jaya
-1606101040,Sekayu
-1606101041,Lais
-1606101090,Sungai Lilin
-1606101091,Keluang
-1606101092,Babat Supat
-1606101100,Bayung Lencir
-1606101101,Lalan
-1606101102,Tungkal Jaya
+1606101001,Karang Agung
+1606101002,Gali Sari
+1606101003,Perumpung Raya
+1606101004,Karang Makmur
+1606101005,Karang Rejo
+1606101006,Karya Mukti
+1606101007,Mulya Agung
+1606101008,Madya Mulya
+1606101009,Karang Tirta
+1606101010,Purwa Agung
+1606101011,Tri Mulya Agung
+1606101012,Ringin Agung
+1606101013,Mekar Sari
+1606101014,Sri Karang Rejo
+1606101015,Karang Mukti
+1606101016,Karang Sari
+1606101017,Mulya Jaya
+1606101018,Sari Agung
+1606101019,Sukajadi
+1606101020,Bandar Agung
+1606101021,Mandala Sari
+1606101022,Sri Gading
+1606101023,Bumi Agung
+1606101024,Agung Jaya
+1606101025,Jaya Agung
+1606101026,Suka Makmur
+1606101027,Mekar Jaya
 1606102,Tungkal Jaya
-1606102010,Sanga Desa
-1606102020,Babat Toman
-1606102021,Batanghari Leko
-1606102022,Plakat Tinggi
-1606102023,Lawang Wetan
-1606102030,Sungai Keruh
-1606102031,Jirak Jaya
-1606102040,Sekayu
-1606102041,Lais
-1606102090,Sungai Lilin
-1606102091,Keluang
-1606102092,Babat Supat
-1606102100,Bayung Lencir
-1606102101,Lalan
-1606102102,Tungkal Jaya
+1606102001,Berojaya Timur
+1606102002,Beji Mulyo
+1606102003,Margo Mulyo
+1606102004,Pandan Sari
+1606102005,Simpang Tungkal
+1606102006,Suka Damai
+1606102007,Peninggalan
+1606102008,Pangkalan Tungkal
+1606102009,Berlian Jaya
+1606102010,Sumber Harum
+1606102011,Sumber Sari
+1606102012,Srimulyo
+1606102013,Banjar Jaya
+1606102014,Sinar Harapan
+1606102015,Sinar Tungkal
+1606102016,Sido Mulyo
 1607,Banyu Asin
 1607010,Rantau Bayur
-1607010010,Rantau Bayur
-1607010020,Betung
-1607010021,Suak Tapeh
-1607010030,Pulau Rimau
-1607010031,Tungkal Ilir
-1607010032,Selat Penuguan
-1607010040,Banyuasin Iii
-1607010041,Sembawa
-1607010050,Talang Kelapa
-1607010051,Tanjung Lago
-1607010060,Banyuasin I
-1607010061,Air Kumbang
-1607010070,Rambutan
-1607010080,Muara Padang
-1607010081,Muara Sugihan
-1607010090,Makarti Jaya
-1607010091,Air Salek
-1607010100,Banyuasin Ii
-1607010101,Karang Agung Ilir
-1607010110,Muara Telang
-1607010111,Sumber Marga Telang
+1607010001,Muara Abab
+1607010002,Paldas
+1607010003,Tanjung Pasir
+1607010004,Tanjung Tiga
+1607010005,Rantau Bayur
+1607010006,Tebing Abang
+1607010007,Pagar Bulan
+1607010008,Lubuk Rengas
+1607010009,Lebung
+1607010010,Kemang Bejalu
+1607010011,Tanjung Menang
+1607010012,Sri Jaya
+1607010013,Sejagung
+1607010014,Sungai Pinang
+1607010015,Semuntul
+1607010016,Talang Kemang
+1607010017,Rantau Harapan
+1607010018,Sungai Lilin
+1607010019,Suka Rela
+1607010020,Penandingan
+1607010021,Sungai Naik
 1607020,Betung
-1607020010,Rantau Bayur
-1607020020,Betung
-1607020021,Suak Tapeh
-1607020030,Pulau Rimau
-1607020031,Tungkal Ilir
-1607020032,Selat Penuguan
-1607020040,Banyuasin Iii
-1607020041,Sembawa
-1607020050,Talang Kelapa
-1607020051,Tanjung Lago
-1607020060,Banyuasin I
-1607020061,Air Kumbang
-1607020070,Rambutan
-1607020080,Muara Padang
-1607020081,Muara Sugihan
-1607020090,Makarti Jaya
-1607020091,Air Salek
-1607020100,Banyuasin Ii
-1607020101,Karang Agung Ilir
-1607020110,Muara Telang
-1607020111,Sumber Marga Telang
+1607020001,Taja Indah
+1607020002,Taja Mulya
+1607020003,Taja Raya I
+1607020004,Pulau Rajak
+1607020014,Lubuk Karet
+1607020015,Betung
+1607020016,Bukit
+1607020017,Sri Kembang
+1607020018,Taja Raya Ii
+1607020020,Suka Mulya
+1607020021,Rimba Asam
 1607021,Suak Tapeh
-1607021010,Rantau Bayur
-1607021020,Betung
-1607021021,Suak Tapeh
-1607021030,Pulau Rimau
-1607021031,Tungkal Ilir
-1607021032,Selat Penuguan
-1607021040,Banyuasin Iii
-1607021041,Sembawa
-1607021050,Talang Kelapa
-1607021051,Tanjung Lago
-1607021060,Banyuasin I
-1607021061,Air Kumbang
-1607021070,Rambutan
-1607021080,Muara Padang
-1607021081,Muara Sugihan
-1607021090,Makarti Jaya
-1607021091,Air Salek
-1607021100,Banyuasin Ii
-1607021101,Karang Agung Ilir
-1607021110,Muara Telang
-1607021111,Sumber Marga Telang
+1607021001,Talang Ipuh
+1607021002,Air Senggeris
+1607021003,Lubuk Lancang
+1607021004,Biyuku
+1607021005,Rimba Terap
+1607021006,Sedang
+1607021007,Tanjung Laut
+1607021008,Bengkuang
+1607021009,Durian Daun
+1607021010,Meranti
+1607021011,Suka Raja
 1607030,Pulau Rimau
-1607030010,Rantau Bayur
-1607030020,Betung
-1607030021,Suak Tapeh
-1607030030,Pulau Rimau
-1607030031,Tungkal Ilir
-1607030032,Selat Penuguan
-1607030040,Banyuasin Iii
-1607030041,Sembawa
-1607030050,Talang Kelapa
-1607030051,Tanjung Lago
-1607030060,Banyuasin I
-1607030061,Air Kumbang
-1607030070,Rambutan
-1607030080,Muara Padang
-1607030081,Muara Sugihan
-1607030090,Makarti Jaya
-1607030091,Air Salek
-1607030100,Banyuasin Ii
-1607030101,Karang Agung Ilir
-1607030110,Muara Telang
-1607030111,Sumber Marga Telang
+1607030001,Tabuan Asri
+1607030002,Teluk Betung
+1607030003,Banjar Sari
+1607030004,Buana Mukti
+1607030005,Tirta Mulya
+1607030006,Senda Mukti
+1607030007,Budi Asih
+1607030008,Wonosari
+1607030009,Majatra
+1607030015,Rukun Makmur
+1607030016,Wana Mukti
+1607030017,Sumber Mulya
+1607030018,Rawa Banda
+1607030022,Nunggal Sari
+1607030023,Dana Mulya
+1607030024,Sumber Rejeki
+1607030029,Mukut
 1607031,Tungkal Ilir
-1607031010,Rantau Bayur
-1607031020,Betung
-1607031021,Suak Tapeh
-1607031030,Pulau Rimau
-1607031031,Tungkal Ilir
-1607031032,Selat Penuguan
-1607031040,Banyuasin Iii
-1607031041,Sembawa
-1607031050,Talang Kelapa
-1607031051,Tanjung Lago
-1607031060,Banyuasin I
-1607031061,Air Kumbang
-1607031070,Rambutan
-1607031080,Muara Padang
-1607031081,Muara Sugihan
-1607031090,Makarti Jaya
-1607031091,Air Salek
-1607031100,Banyuasin Ii
-1607031101,Karang Agung Ilir
-1607031110,Muara Telang
-1607031111,Sumber Marga Telang
+1607031001,Teluk Tenggulang
+1607031002,Suka Mulya
+1607031003,Suka Raja
+1607031004,Karang Anyar
+1607031005,Karang Mulya
+1607031006,Karang Asem
+1607031007,Marga Rahayu
+1607031008,Bumi Serdang
+1607031009,Sido Mulyo
+1607031010,Keluang
+1607031011,Bentayan
+1607031012,Panca Mulya
+1607031013,Suka Jaya
+1607031014,Suka Karya
 1607032,Selat Penuguan
-1607032010,Rantau Bayur
-1607032020,Betung
-1607032021,Suak Tapeh
-1607032030,Pulau Rimau
-1607032031,Tungkal Ilir
-1607032032,Selat Penuguan
-1607032040,Banyuasin Iii
-1607032041,Sembawa
-1607032050,Talang Kelapa
-1607032051,Tanjung Lago
-1607032060,Banyuasin I
-1607032061,Air Kumbang
-1607032070,Rambutan
-1607032080,Muara Padang
-1607032081,Muara Sugihan
-1607032090,Makarti Jaya
-1607032091,Air Salek
-1607032100,Banyuasin Ii
-1607032101,Karang Agung Ilir
-1607032110,Muara Telang
-1607032111,Sumber Marga Telang
+1607032001,Sumber Rejo
+1607032002,Sumber Agung
+1607032003,Wonodadi
+1607032004,Songo Makmur
+1607032005,Bumi Rejo
+1607032006,Mekar Sari
+1607032007,Sumber Mukti
+1607032008,Kelapa Dua
+1607032009,Penuguan
+1607032010,Ringin Harjo
+1607032011,Karang Manunggal
+1607032012,Purwodadi
 1607040,Banyuasin Iii
-1607040010,Rantau Bayur
-1607040020,Betung
-1607040021,Suak Tapeh
-1607040030,Pulau Rimau
-1607040031,Tungkal Ilir
-1607040032,Selat Penuguan
-1607040040,Banyuasin Iii
-1607040041,Sembawa
-1607040050,Talang Kelapa
-1607040051,Tanjung Lago
-1607040060,Banyuasin I
-1607040061,Air Kumbang
-1607040070,Rambutan
-1607040080,Muara Padang
-1607040081,Muara Sugihan
-1607040090,Makarti Jaya
-1607040091,Air Salek
-1607040100,Banyuasin Ii
-1607040101,Karang Agung Ilir
-1607040110,Muara Telang
-1607040111,Sumber Marga Telang
+1607040001,Galang Tinggi
+1607040002,Petaling
+1607040003,Sidang Mas
+1607040004,Ujung Tanjung
+1607040005,Rimba Alai
+1607040006,Terentang
+1607040007,Tanjung Beringin
+1607040008,Pelajau
+1607040010,Regan Agung
+1607040011,Pelajau Ilir
+1607040012,Lubuk Saung
+1607040013,Mulya Agung
+1607040014,Pangkalan Balai
+1607040015,Seterio
+1607040016,Sri Bandung
+1607040017,Tanjung Menang
+1607040018,Suka Mulya
+1607040019,Kayuara Kuning
+1607040020,Tanjung Agung
+1607040021,Pangkalan Panji
+1607040022,Langkan
+1607040029,Tanjung Kepayang
+1607040033,Kedondong Raye
+1607040034,Suka Raja Baru
+1607040037,Terlangu
+1607040038,Rimba Balai
 1607041,Sembawa
-1607041010,Rantau Bayur
-1607041020,Betung
-1607041021,Suak Tapeh
-1607041030,Pulau Rimau
-1607041031,Tungkal Ilir
-1607041032,Selat Penuguan
-1607041040,Banyuasin Iii
-1607041041,Sembawa
-1607041050,Talang Kelapa
-1607041051,Tanjung Lago
-1607041060,Banyuasin I
-1607041061,Air Kumbang
-1607041070,Rambutan
-1607041080,Muara Padang
-1607041081,Muara Sugihan
-1607041090,Makarti Jaya
-1607041091,Air Salek
-1607041100,Banyuasin Ii
-1607041101,Karang Agung Ilir
-1607041110,Muara Telang
-1607041111,Sumber Marga Telang
+1607041001,Pulau Harapan
+1607041002,Lalang Sembawa
+1607041003,Rejodadi
+1607041004,Mainan
+1607041005,Limau
+1607041006,Purwosari
+1607041007,Limbang Mulya
+1607041008,Sako Makmur
+1607041009,Pulau Muning
+1607041010,Muara Damai
+1607041011,Santan Sari
 1607050,Talang Kelapa
-1607050010,Rantau Bayur
-1607050020,Betung
-1607050021,Suak Tapeh
-1607050030,Pulau Rimau
-1607050031,Tungkal Ilir
-1607050032,Selat Penuguan
-1607050040,Banyuasin Iii
-1607050041,Sembawa
-1607050050,Talang Kelapa
-1607050051,Tanjung Lago
-1607050060,Banyuasin I
-1607050061,Air Kumbang
-1607050070,Rambutan
-1607050080,Muara Padang
-1607050081,Muara Sugihan
-1607050090,Makarti Jaya
-1607050091,Air Salek
-1607050100,Banyuasin Ii
-1607050101,Karang Agung Ilir
-1607050110,Muara Telang
-1607050111,Sumber Marga Telang
+1607050001,Air Batu
+1607050002,Sukamoro
+1607050003,Sukajadi
+1607050004,Pangkalan Benteng
+1607050005,Gasing
+1607050006,Kenten
+1607050009,Sungai Rengit
+1607050019,Talang Buluh
+1607050020,Tanah Mas
+1607050021,Kenten Laut
+1607050022,Talang Keramat
+1607050023,Sungai Rengit Murni
 1607051,Tanjung Lago
-1607051010,Rantau Bayur
-1607051020,Betung
-1607051021,Suak Tapeh
-1607051030,Pulau Rimau
-1607051031,Tungkal Ilir
-1607051032,Selat Penuguan
-1607051040,Banyuasin Iii
-1607051041,Sembawa
-1607051050,Talang Kelapa
-1607051051,Tanjung Lago
-1607051060,Banyuasin I
-1607051061,Air Kumbang
-1607051070,Rambutan
-1607051080,Muara Padang
-1607051081,Muara Sugihan
-1607051090,Makarti Jaya
-1607051091,Air Salek
-1607051100,Banyuasin Ii
-1607051101,Karang Agung Ilir
-1607051110,Muara Telang
-1607051111,Sumber Marga Telang
+1607051001,Sebalik
+1607051002,Tanjung Lago
+1607051003,Manggar Raya
+1607051004,Banyu Urip
+1607051005,Suka Damai
+1607051006,Muara Sugih
+1607051007,Suka Tani
+1607051008,Sri Menanti
+1607051009,Bangun Sari
+1607051010,Sumber Mekar Mukti
+1607051011,Kuala Puntian
+1607051012,Telang Sari
+1607051013,Mulya Sari
+1607051014,Purwosari
+1607051015,Bunga Karang
 1607060,Banyuasin I
-1607060010,Rantau Bayur
-1607060020,Betung
-1607060021,Suak Tapeh
-1607060030,Pulau Rimau
-1607060031,Tungkal Ilir
-1607060032,Selat Penuguan
-1607060040,Banyuasin Iii
-1607060041,Sembawa
-1607060050,Talang Kelapa
-1607060051,Tanjung Lago
-1607060060,Banyuasin I
-1607060061,Air Kumbang
-1607060070,Rambutan
-1607060080,Muara Padang
-1607060081,Muara Sugihan
-1607060090,Makarti Jaya
-1607060091,Air Salek
-1607060100,Banyuasin Ii
-1607060101,Karang Agung Ilir
-1607060110,Muara Telang
-1607060111,Sumber Marga Telang
+1607060017,Sungai Rebo
+1607060018,Sungai Gerong
+1607060019,Mariana
+1607060026,Tirto Sari
+1607060027,Pematang Palas
+1607060028,Perajen
+1607060029,Pulau Borang
+1607060030,Merah Mata
+1607060031,Cinta Manis Lama
+1607060032,Perambahan
+1607060044,Mariana Ilir
+1607060045,Duren Ijo
+1607060051,Perambahan Baru
 1607061,Air Kumbang
-1607061010,Rantau Bayur
-1607061020,Betung
-1607061021,Suak Tapeh
-1607061030,Pulau Rimau
-1607061031,Tungkal Ilir
-1607061032,Selat Penuguan
-1607061040,Banyuasin Iii
-1607061041,Sembawa
-1607061050,Talang Kelapa
-1607061051,Tanjung Lago
-1607061060,Banyuasin I
-1607061061,Air Kumbang
-1607061070,Rambutan
-1607061080,Muara Padang
-1607061081,Muara Sugihan
-1607061090,Makarti Jaya
-1607061091,Air Salek
-1607061100,Banyuasin Ii
-1607061101,Karang Agung Ilir
-1607061110,Muara Telang
-1607061111,Sumber Marga Telang
+1607061001,Sido Mulyo
+1607061002,Cinta Manis Baru
+1607061003,Nusa Makmur
+1607061004,Sebokor
+1607061005,Rimba Jaya
+1607061006,Panca Desa
+1607061007,Teluk Tenggirik
+1607061008,Padang Rejo
+1607061009,Budi Mulya
+1607061010,Sido Makmur
+1607061011,Kumbang Padang Permata
+1607061012,Tirta Makmur
+1607061013,Panca Mulya
+1607061014,Muara Baru
+1607061015,Air Kumbang Bakti
+1607061016,Sebubus
 1607070,Rambutan
-1607070010,Rantau Bayur
-1607070020,Betung
-1607070021,Suak Tapeh
-1607070030,Pulau Rimau
-1607070031,Tungkal Ilir
-1607070032,Selat Penuguan
-1607070040,Banyuasin Iii
-1607070041,Sembawa
-1607070050,Talang Kelapa
-1607070051,Tanjung Lago
-1607070060,Banyuasin I
-1607070061,Air Kumbang
-1607070070,Rambutan
-1607070080,Muara Padang
-1607070081,Muara Sugihan
-1607070090,Makarti Jaya
-1607070091,Air Salek
-1607070100,Banyuasin Ii
-1607070101,Karang Agung Ilir
-1607070110,Muara Telang
-1607070111,Sumber Marga Telang
+1607070001,Rambutan
+1607070002,Kebon Sahang
+1607070003,Pulau Parang
+1607070004,Siju
+1607070005,Tanah Lembak
+1607070006,Parit
+1607070007,Pelajau
+1607070008,Suka Pindah
+1607070009,Durian Gadis
+1607070010,Tanjung Kerang
+1607070011,Tanjung Merbu
+1607070012,Gelebak Dalam
+1607070013,Sako
+1607070014,Pangkalan Gelebak
+1607070015,Sungai Pinang
+1607070016,Sungai Kedukan
+1607070017,Sungai Dua
+1607070018,Menten
+1607070019,Baru
+1607070020,Jakabaring Selatan
 1607080,Muara Padang
-1607080010,Rantau Bayur
-1607080020,Betung
-1607080021,Suak Tapeh
-1607080030,Pulau Rimau
-1607080031,Tungkal Ilir
-1607080032,Selat Penuguan
-1607080040,Banyuasin Iii
-1607080041,Sembawa
-1607080050,Talang Kelapa
-1607080051,Tanjung Lago
-1607080060,Banyuasin I
-1607080061,Air Kumbang
-1607080070,Rambutan
-1607080080,Muara Padang
-1607080081,Muara Sugihan
-1607080090,Makarti Jaya
-1607080091,Air Salek
-1607080100,Banyuasin Ii
-1607080101,Karang Agung Ilir
-1607080110,Muara Telang
-1607080111,Sumber Marga Telang
+1607080003,Muara Padang
+1607080009,Karang Anyar
+1607080010,Tanjung Baru
+1607080011,Margo Mulyo 20
+1607080012,Purwodadi
+1607080013,Sumber Makmur
+1607080014,Sido Mulyo 18
+1607080015,Air Gading
+1607080016,Tirto Raharjo
+1607080017,Marga Sugihan
+1607080018,Sidorejo
+1607080019,Sidomulyo 20
+1607080020,Daya Makmur
+1607080021,Daya Utama
+1607080022,Tirta Jaya
 1607081,Muara Sugihan
-1607081010,Rantau Bayur
-1607081020,Betung
-1607081021,Suak Tapeh
-1607081030,Pulau Rimau
-1607081031,Tungkal Ilir
-1607081032,Selat Penuguan
-1607081040,Banyuasin Iii
-1607081041,Sembawa
-1607081050,Talang Kelapa
-1607081051,Tanjung Lago
-1607081060,Banyuasin I
-1607081061,Air Kumbang
-1607081070,Rambutan
-1607081080,Muara Padang
-1607081081,Muara Sugihan
-1607081090,Makarti Jaya
-1607081091,Air Salek
-1607081100,Banyuasin Ii
-1607081101,Karang Agung Ilir
-1607081110,Muara Telang
-1607081111,Sumber Marga Telang
+1607081001,Daya Murni
+1607081002,Daya Bangun Harjo
+1607081003,Sumber Mulyo
+1607081004,Margo Mulyo 16
+1607081005,Sugih Waras
+1607081006,Indrapura
+1607081007,Cendana
+1607081008,Argo Mulyo
+1607081009,Rejo Sari
+1607081010,Tirto Harjo
+1607081011,Daya Kesuma
+1607081012,Margo Rukun
+1607081013,Ganesha Mukti
+1607081014,Gilirang
+1607081015,Tirta Mulyo
+1607081016,Beringin Agung
+1607081017,Jalur Mulya
+1607081018,Timbul Jaya
+1607081019,Juru Taro
+1607081020,Kuala Sugihan
+1607081021,Sido Makmur
+1607081022,Mekar Jaya
 1607090,Makarti Jaya
-1607090010,Rantau Bayur
-1607090020,Betung
-1607090021,Suak Tapeh
-1607090030,Pulau Rimau
-1607090031,Tungkal Ilir
-1607090032,Selat Penuguan
-1607090040,Banyuasin Iii
-1607090041,Sembawa
-1607090050,Talang Kelapa
-1607090051,Tanjung Lago
-1607090060,Banyuasin I
-1607090061,Air Kumbang
-1607090070,Rambutan
-1607090080,Muara Padang
-1607090081,Muara Sugihan
-1607090090,Makarti Jaya
-1607090091,Air Salek
-1607090100,Banyuasin Ii
-1607090101,Karang Agung Ilir
-1607090110,Muara Telang
-1607090111,Sumber Marga Telang
+1607090007,Upang Makmur
+1607090008,Pangestu
+1607090009,Makarti Jaya
+1607090010,Tirta Kencana
+1607090011,Delta Upang
+1607090012,Pendowo Harjo
+1607090013,Upang Mulya
+1607090017,Purwosari
+1607090019,Muara Baru
+1607090020,Sungai Semut
+1607090021,Tanjung Baru
+1607090022,Tanjung Mas
 1607091,Air Salek
-1607091010,Rantau Bayur
-1607091020,Betung
-1607091021,Suak Tapeh
-1607091030,Pulau Rimau
-1607091031,Tungkal Ilir
-1607091032,Selat Penuguan
-1607091040,Banyuasin Iii
-1607091041,Sembawa
-1607091050,Talang Kelapa
-1607091051,Tanjung Lago
-1607091060,Banyuasin I
-1607091061,Air Kumbang
-1607091070,Rambutan
-1607091080,Muara Padang
-1607091081,Muara Sugihan
-1607091090,Makarti Jaya
-1607091091,Air Salek
-1607091100,Banyuasin Ii
-1607091101,Karang Agung Ilir
-1607091110,Muara Telang
-1607091111,Sumber Marga Telang
+1607091001,Sri Mulyo
+1607091002,Sri Katon
+1607091003,Sido Harjo
+1607091004,Bintaran
+1607091005,Damar Wulan
+1607091006,Enggal Rejo
+1607091007,Air Solok Batu
+1607091008,Saleh Agung
+1607091009,Saleh Mukti
+1607091010,Saleh Jaya
+1607091011,Saleh Mulya
+1607091012,Saleh Makmur
+1607091013,Upang
+1607091014,Upang Marga
 1607100,Banyuasin Ii
-1607100010,Rantau Bayur
-1607100020,Betung
-1607100021,Suak Tapeh
-1607100030,Pulau Rimau
-1607100031,Tungkal Ilir
-1607100032,Selat Penuguan
-1607100040,Banyuasin Iii
-1607100041,Sembawa
-1607100050,Talang Kelapa
-1607100051,Tanjung Lago
-1607100060,Banyuasin I
-1607100061,Air Kumbang
-1607100070,Rambutan
-1607100080,Muara Padang
-1607100081,Muara Sugihan
-1607100090,Makarti Jaya
-1607100091,Air Salek
-1607100100,Banyuasin Ii
-1607100101,Karang Agung Ilir
-1607100110,Muara Telang
-1607100111,Sumber Marga Telang
+1607100016,Teluk Payo
+1607100022,Sungsang Iii
+1607100023,Sungsang I
+1607100024,Sungsang Ii
+1607100030,Sungsang Iv
+1607100031,Tanah Pilih
+1607100033,Perajen Jaya
+1607100034,Rimau Sungsang
+1607100037,Muara Sungsang
+1607100038,Marga Sungsang
 1607101,Karang Agung Ilir
-1607101010,Rantau Bayur
-1607101020,Betung
-1607101021,Suak Tapeh
-1607101030,Pulau Rimau
-1607101031,Tungkal Ilir
-1607101032,Selat Penuguan
-1607101040,Banyuasin Iii
-1607101041,Sembawa
-1607101050,Talang Kelapa
-1607101051,Tanjung Lago
-1607101060,Banyuasin I
-1607101061,Air Kumbang
-1607101070,Rambutan
-1607101080,Muara Padang
-1607101081,Muara Sugihan
-1607101090,Makarti Jaya
-1607101091,Air Salek
-1607101100,Banyuasin Ii
-1607101101,Karang Agung Ilir
-1607101110,Muara Telang
-1607101111,Sumber Marga Telang
+1607101001,Sumber Rejeki
+1607101002,Sri Agung
+1607101003,Mekar Sari
+1607101004,Karang Sari
+1607101005,Majuria
+1607101006,Jati Sari
+1607101007,Tabala Jaya
 1607110,Muara Telang
-1607110010,Rantau Bayur
-1607110020,Betung
-1607110021,Suak Tapeh
-1607110030,Pulau Rimau
-1607110031,Tungkal Ilir
-1607110032,Selat Penuguan
-1607110040,Banyuasin Iii
-1607110041,Sembawa
-1607110050,Talang Kelapa
-1607110051,Tanjung Lago
-1607110060,Banyuasin I
-1607110061,Air Kumbang
-1607110070,Rambutan
-1607110080,Muara Padang
-1607110081,Muara Sugihan
-1607110090,Makarti Jaya
-1607110091,Air Salek
-1607110100,Banyuasin Ii
-1607110101,Karang Agung Ilir
-1607110110,Muara Telang
-1607110111,Sumber Marga Telang
+1607110001,Mukti Jaya
+1607110002,Mekar Sari
+1607110003,Telang Jaya
+1607110004,Telang Makmur
+1607110005,Sumber Hidup
+1607110006,Telang Rejo
+1607110007,Telang Karya
+1607110012,Sumber Mulya
+1607110013,Marga Rahayu
+1607110018,Panca Mukti
+1607110023,Mekar Mukti
+1607110024,Talang Indah
+1607110025,Upang Jaya
+1607110026,Upang Ceria
+1607110027,Upang Cemara
+1607110028,Upang Karya
 1607111,Sumber Marga Telang
-1607111010,Rantau Bayur
-1607111020,Betung
-1607111021,Suak Tapeh
-1607111030,Pulau Rimau
-1607111031,Tungkal Ilir
-1607111032,Selat Penuguan
-1607111040,Banyuasin Iii
-1607111041,Sembawa
-1607111050,Talang Kelapa
-1607111051,Tanjung Lago
-1607111060,Banyuasin I
-1607111061,Air Kumbang
-1607111070,Rambutan
-1607111080,Muara Padang
-1607111081,Muara Sugihan
-1607111090,Makarti Jaya
-1607111091,Air Salek
-1607111100,Banyuasin Ii
-1607111101,Karang Agung Ilir
-1607111110,Muara Telang
-1607111111,Sumber Marga Telang
+1607111001,Karang Baru
+1607111002,Karang Anyar
+1607111003,Muara Telang Marga
+1607111004,Sri Tiga
+1607111005,Muara Telang
+1607111006,Sumber Jaya
+1607111007,Terusan Muara
+1607111008,Terusan Tengah
+1607111009,Terusan Dalam
+1607111010,Talang Lubuk
 1608,Ogan Komering Ulu Selatan
 1608010,Mekakau Ilir
-1608010010,Mekakau Ilir
-1608010020,Banding Agung
-1608010021,Warkuk Ranau Selatan
-1608010022,Buay Pematang Ribu Ranau Tengah
-1608010030,Buay Pemaca
-1608010040,Simpang
-1608010041,Buana Pemaca
-1608010050,Muaradua
-1608010051,Buay Rawan
-1608010060,Buay Sandang Aji
-1608010061,Tiga Dihaji
-1608010070,Buay Runjung
-1608010071,Runjung Agung
-1608010080,Kisam Tinggi
-1608010090,Muaradua Kisam
-1608010091,Kisam Ilir
-1608010100,Pulau Beringin
-1608010101,Sindang Danau
-1608010102,Sungai Are
+1608010001,Kota Dalam
+1608010002,Teluk Agung
+1608010003,Tanjung Besar
+1608010004,Pulau Duku
+1608010005,Sinar Marga
+1608010006,Kota Baru
+1608010007,Galang Tinggi
+1608010008,Sukaraja
+1608010009,Srimenanti
+1608010010,Kepayang
+1608010011,Kemang Bandung
+1608010012,Selabung Belimbing Jaya
+1608010013,Air Baru
+1608010014,Bunut
+1608010015,Perean
 1608020,Banding Agung
-1608020010,Mekakau Ilir
-1608020020,Banding Agung
-1608020021,Warkuk Ranau Selatan
-1608020022,Buay Pematang Ribu Ranau Tengah
-1608020030,Buay Pemaca
-1608020040,Simpang
-1608020041,Buana Pemaca
-1608020050,Muaradua
-1608020051,Buay Rawan
-1608020060,Buay Sandang Aji
-1608020061,Tiga Dihaji
-1608020070,Buay Runjung
-1608020071,Runjung Agung
-1608020080,Kisam Tinggi
-1608020090,Muaradua Kisam
-1608020091,Kisam Ilir
-1608020100,Pulau Beringin
-1608020101,Sindang Danau
-1608020102,Sungai Are
+1608020020,Way Timah
+1608020021,Sipatuhu
+1608020022,Air Rupik
+1608020023,Banding Agung
+1608020024,Surabaya
+1608020025,Bandar Agung Ranau
+1608020026,Sugih Waras
+1608020027,Suka Negeri
+1608020028,Rantau Nipis
+1608020033,Merbau
+1608020034,Tanjung Agung
+1608020035,Telanai
+1608020036,Tanjung Harapan
+1608020037,Sidodadi
+1608020038,Sipatuhu Dua
+1608020039,Penantian
+1608020040,Sukamaju
+1608020041,Tangsi Agung
+1608020042,Sumber Makmur
+1608020043,Karang Indah
+1608020044,Terap Mulia
+1608020045,Surabaya Timur
 1608021,Warkuk Ranau Selatan
-1608021010,Mekakau Ilir
-1608021020,Banding Agung
-1608021021,Warkuk Ranau Selatan
-1608021022,Buay Pematang Ribu Ranau Tengah
-1608021030,Buay Pemaca
-1608021040,Simpang
-1608021041,Buana Pemaca
-1608021050,Muaradua
-1608021051,Buay Rawan
-1608021060,Buay Sandang Aji
-1608021061,Tiga Dihaji
-1608021070,Buay Runjung
-1608021071,Runjung Agung
-1608021080,Kisam Tinggi
-1608021090,Muaradua Kisam
-1608021091,Kisam Ilir
-1608021100,Pulau Beringin
-1608021101,Sindang Danau
-1608021102,Sungai Are
+1608021001,Sukajaya
+1608021002,Kota Batu
+1608021003,Pagar Dewa
+1608021004,Tanjung Jati
+1608021005,Gunung Aji
+1608021006,Pilla
+1608021007,Gunung Raya
+1608021008,Remanam Jaya
+1608021009,Way Wangi Seminung
+1608021010,Tanjung Baru
+1608021011,Mekar Sari
+1608021012,Bumi Agung
+1608021013,Kiwis Raya
+1608021014,Sigigok Raya
+1608021015,Gedung Ranau
+1608021016,Bedeng Tiga
 1608022,Buay Pematang Ribu Ranau Tengah
-1608022010,Mekakau Ilir
-1608022020,Banding Agung
-1608022021,Warkuk Ranau Selatan
-1608022022,Buay Pematang Ribu Ranau Tengah
-1608022030,Buay Pemaca
-1608022040,Simpang
-1608022041,Buana Pemaca
-1608022050,Muaradua
-1608022051,Buay Rawan
-1608022060,Buay Sandang Aji
-1608022061,Tiga Dihaji
-1608022070,Buay Runjung
-1608022071,Runjung Agung
-1608022080,Kisam Tinggi
-1608022090,Muaradua Kisam
-1608022091,Kisam Ilir
-1608022100,Pulau Beringin
-1608022101,Sindang Danau
-1608022102,Sungai Are
+1608022001,Tanjung Kemala
+1608022002,Sukamarga
+1608022003,Subik
+1608022004,Jepara
+1608022005,Hangkusa
+1608022006,Sukarami
+1608022007,Simpang Sender
+1608022008,Sumber Mulia
+1608022009,Tanjung Setia
+1608022010,Gedung Baru
+1608022011,Padang Ratu
+1608022012,Tanjung Sari
+1608022013,Sukabumi
+1608022014,Way Relai
+1608022015,Tanjung Baru Ranau
+1608022016,Simpang Sender Utara
+1608022017,Simpang Sender Selatan
+1608022018,Simpang Sender Timur
+1608022019,Simpang Sender Tengah
+1608022020,Sumber Jaya
+1608022021,Pakhda Suka
+1608022022,Serumpun Jaya
 1608030,Buay Pemaca
-1608030010,Mekakau Ilir
-1608030020,Banding Agung
-1608030021,Warkuk Ranau Selatan
-1608030022,Buay Pematang Ribu Ranau Tengah
-1608030030,Buay Pemaca
-1608030040,Simpang
-1608030041,Buana Pemaca
-1608030050,Muaradua
-1608030051,Buay Rawan
-1608030060,Buay Sandang Aji
-1608030061,Tiga Dihaji
-1608030070,Buay Runjung
-1608030071,Runjung Agung
-1608030080,Kisam Tinggi
-1608030090,Muaradua Kisam
-1608030091,Kisam Ilir
-1608030100,Pulau Beringin
-1608030101,Sindang Danau
-1608030102,Sungai Are
+1608030001,Sipin
+1608030002,Tanjung Durian
+1608030003,Kota Way
+1608030004,Karet Jaya
+1608030005,Sri Menanti
+1608030006,Talang Padang
+1608030007,Serakat Jaya
+1608030008,Durian Sembilan
+1608030010,Sumber Ringin
+1608030011,Kembang Tinggi
+1608030012,Danau Jaya
+1608030013,Sido Rahayu
+1608030014,Sidodadi
+1608030020,Sumber Raya
+1608030021,Sinar Napalan
+1608030022,Tanjung Jaya
+1608030023,Sinar Baru
+1608030024,Mekar Jaya
+1608030025,Air Kelian
+1608030026,Tanjung Sari
+1608030027,Tanjung Baru
+1608030028,Tanjung Menang
 1608040,Simpang
-1608040010,Mekakau Ilir
-1608040020,Banding Agung
-1608040021,Warkuk Ranau Selatan
-1608040022,Buay Pematang Ribu Ranau Tengah
-1608040030,Buay Pemaca
-1608040040,Simpang
-1608040041,Buana Pemaca
-1608040050,Muaradua
-1608040051,Buay Rawan
-1608040060,Buay Sandang Aji
-1608040061,Tiga Dihaji
-1608040070,Buay Runjung
-1608040071,Runjung Agung
-1608040080,Kisam Tinggi
-1608040090,Muaradua Kisam
-1608040091,Kisam Ilir
-1608040100,Pulau Beringin
-1608040101,Sindang Danau
-1608040102,Sungai Are
+1608040012,Tanjung Sari
+1608040014,Lubar
+1608040015,Karang Agung
+1608040016,Simpangan
+1608040017,Bungin Campang
+1608040020,Simpang Agung
+1608040021,Sinar Mulyo
 1608041,Buana Pemaca
-1608041010,Mekakau Ilir
-1608041020,Banding Agung
-1608041021,Warkuk Ranau Selatan
-1608041022,Buay Pematang Ribu Ranau Tengah
-1608041030,Buay Pemaca
-1608041040,Simpang
-1608041041,Buana Pemaca
-1608041050,Muaradua
-1608041051,Buay Rawan
-1608041060,Buay Sandang Aji
-1608041061,Tiga Dihaji
-1608041070,Buay Runjung
-1608041071,Runjung Agung
-1608041080,Kisam Tinggi
-1608041090,Muaradua Kisam
-1608041091,Kisam Ilir
-1608041100,Pulau Beringin
-1608041101,Sindang Danau
-1608041102,Sungai Are
+1608041001,Tanjung Beringin
+1608041002,Bandar
+1608041003,Jagaraga
+1608041004,Damarpura
+1608041005,Tekana
+1608041006,Sinar Danau
+1608041007,Tunas Jaya
+1608041008,Gemiung
 1608050,Muaradua
-1608050010,Mekakau Ilir
-1608050020,Banding Agung
-1608050021,Warkuk Ranau Selatan
-1608050022,Buay Pematang Ribu Ranau Tengah
-1608050030,Buay Pemaca
-1608050040,Simpang
-1608050041,Buana Pemaca
-1608050050,Muaradua
-1608050051,Buay Rawan
-1608050060,Buay Sandang Aji
-1608050061,Tiga Dihaji
-1608050070,Buay Runjung
-1608050071,Runjung Agung
-1608050080,Kisam Tinggi
-1608050090,Muaradua Kisam
-1608050091,Kisam Ilir
-1608050100,Pulau Beringin
-1608050101,Sindang Danau
-1608050102,Sungai Are
+1608050013,Sukabanjar
+1608050014,Sukaraja Ii
+1608050017,Bumi Agung
+1608050018,Batu Belang Jaya
+1608050019,Kisau
+1608050020,Pancur Pungah
+1608050021,Pasar Muaradua
+1608050022,Gunung Tiga
+1608050023,Gedung Lepihan
+1608050058,Pendagan
+1608050059,Mehanggin
+1608050064,Batu Belang 2
+1608050065,Pelangki
+1608050066,Datar
 1608051,Buay Rawan
-1608051010,Mekakau Ilir
-1608051020,Banding Agung
-1608051021,Warkuk Ranau Selatan
-1608051022,Buay Pematang Ribu Ranau Tengah
-1608051030,Buay Pemaca
-1608051040,Simpang
-1608051041,Buana Pemaca
-1608051050,Muaradua
-1608051051,Buay Rawan
-1608051060,Buay Sandang Aji
-1608051061,Tiga Dihaji
-1608051070,Buay Runjung
-1608051071,Runjung Agung
-1608051080,Kisam Tinggi
-1608051090,Muaradua Kisam
-1608051091,Kisam Ilir
-1608051100,Pulau Beringin
-1608051101,Sindang Danau
-1608051102,Sungai Are
+1608051002,Pelawi
+1608051003,Bendi
+1608051004,Gunung Cahya
+1608051005,Ruos
+1608051006,Bumi Jaya
+1608051007,Banjar Agung
+1608051008,Sukajaya
+1608051009,Rantau Panjang
+1608051010,Pekuwolan
+1608051011,Majar
+1608051012,Bumi Agung Jaya
 1608060,Buay Sandang Aji
-1608060010,Mekakau Ilir
-1608060020,Banding Agung
-1608060021,Warkuk Ranau Selatan
-1608060022,Buay Pematang Ribu Ranau Tengah
-1608060030,Buay Pemaca
-1608060040,Simpang
-1608060041,Buana Pemaca
-1608060050,Muaradua
-1608060051,Buay Rawan
-1608060060,Buay Sandang Aji
-1608060061,Tiga Dihaji
-1608060070,Buay Runjung
-1608060071,Runjung Agung
-1608060080,Kisam Tinggi
-1608060090,Muaradua Kisam
-1608060091,Kisam Ilir
-1608060100,Pulau Beringin
-1608060101,Sindang Danau
-1608060102,Sungai Are
+1608060008,Tanjung Raya
+1608060009,Sukarami
+1608060010,Gunung Terang
+1608060011,Negeri Agung
+1608060012,Madura
+1608060013,Negeri Batin
+1608060014,Kota Karang
+1608060015,Tanjung Menang Ilir
+1608060016,Tanjung Menang Ulu
+1608060017,Kenali
+1608060018,Negeri Cahya
+1608060019,Sukaraja I
+1608060020,Tanjung Iman
+1608060021,Talang Baru
+1608060022,Bunga Mas
+1608060023,Lubuk Liku
 1608061,Tiga Dihaji
-1608061010,Mekakau Ilir
-1608061020,Banding Agung
-1608061021,Warkuk Ranau Selatan
-1608061022,Buay Pematang Ribu Ranau Tengah
-1608061030,Buay Pemaca
-1608061040,Simpang
-1608061041,Buana Pemaca
-1608061050,Muaradua
-1608061051,Buay Rawan
-1608061060,Buay Sandang Aji
-1608061061,Tiga Dihaji
-1608061070,Buay Runjung
-1608061071,Runjung Agung
-1608061080,Kisam Tinggi
-1608061090,Muaradua Kisam
-1608061091,Kisam Ilir
-1608061100,Pulau Beringin
-1608061101,Sindang Danau
-1608061102,Sungai Are
+1608061001,Sukabumi
+1608061002,Kota Agung
+1608061003,Karang Pendeta
+1608061004,Sukarena
+1608061005,Surabaya
+1608061006,Kuripan
+1608061007,Peninggiran
+1608061008,Kuripan 2
 1608070,Buay Runjung
-1608070010,Mekakau Ilir
-1608070020,Banding Agung
-1608070021,Warkuk Ranau Selatan
-1608070022,Buay Pematang Ribu Ranau Tengah
-1608070030,Buay Pemaca
-1608070040,Simpang
-1608070041,Buana Pemaca
-1608070050,Muaradua
-1608070051,Buay Rawan
-1608070060,Buay Sandang Aji
-1608070061,Tiga Dihaji
-1608070070,Buay Runjung
-1608070071,Runjung Agung
-1608070080,Kisam Tinggi
-1608070090,Muaradua Kisam
-1608070091,Kisam Ilir
-1608070100,Pulau Beringin
-1608070101,Sindang Danau
-1608070102,Sungai Are
+1608070001,Sugih Waras
+1608070002,Padang Sari
+1608070003,Padang Bindu
+1608070004,Nagar Agung
+1608070005,Saung Naga
+1608070006,Negeri Batin Baru
+1608070007,Kota Aman
+1608070008,Peninjauan
+1608070013,Blambangan
+1608070014,Simpang Saga
+1608070015,Perupus Blambangan
+1608070016,Kagelang Blambangan
+1608070017,Sukajadi Blambangan
+1608070018,Bedeng Blambangan
 1608071,Runjung Agung
-1608071010,Mekakau Ilir
-1608071020,Banding Agung
-1608071021,Warkuk Ranau Selatan
-1608071022,Buay Pematang Ribu Ranau Tengah
-1608071030,Buay Pemaca
-1608071040,Simpang
-1608071041,Buana Pemaca
-1608071050,Muaradua
-1608071051,Buay Rawan
-1608071060,Buay Sandang Aji
-1608071061,Tiga Dihaji
-1608071070,Buay Runjung
-1608071071,Runjung Agung
-1608071080,Kisam Tinggi
-1608071090,Muaradua Kisam
-1608071091,Kisam Ilir
-1608071100,Pulau Beringin
-1608071101,Sindang Danau
-1608071102,Sungai Are
+1608071001,Penanggungan
+1608071002,Tanjung Kurung
+1608071003,Bumi Genap
+1608071004,Gedung Nyawa
+1608071005,Gedung Wani
+1608071006,Sura
+1608071007,Merpang
+1608071008,Karang Endah
+1608071009,Air Baru
 1608080,Kisam Tinggi
-1608080010,Mekakau Ilir
-1608080020,Banding Agung
-1608080021,Warkuk Ranau Selatan
-1608080022,Buay Pematang Ribu Ranau Tengah
-1608080030,Buay Pemaca
-1608080040,Simpang
-1608080041,Buana Pemaca
-1608080050,Muaradua
-1608080051,Buay Rawan
-1608080060,Buay Sandang Aji
-1608080061,Tiga Dihaji
-1608080070,Buay Runjung
-1608080071,Runjung Agung
-1608080080,Kisam Tinggi
-1608080090,Muaradua Kisam
-1608080091,Kisam Ilir
-1608080100,Pulau Beringin
-1608080101,Sindang Danau
-1608080102,Sungai Are
+1608080001,Balaian
+1608080002,Berasang
+1608080003,Tebat Gabus
+1608080004,Padang Lay
+1608080005,Danau Rata
+1608080006,Pulau Panggung
+1608080007,Ulak Pandan
+1608080008,Gunung Megang
+1608080009,Tenang
+1608080010,Padang Bindu
+1608080011,Kota Padang
+1608080012,Muara Payang
+1608080013,Siring Agung
+1608080014,Pajar Bulan
+1608080015,Bandar Alam Lama
+1608080016,Simpang Empat
+1608080017,Simpang Tiga
+1608080018,Singa Laga
+1608080019,Air Alun
 1608090,Muaradua Kisam
-1608090010,Mekakau Ilir
-1608090020,Banding Agung
-1608090021,Warkuk Ranau Selatan
-1608090022,Buay Pematang Ribu Ranau Tengah
-1608090030,Buay Pemaca
-1608090040,Simpang
-1608090041,Buana Pemaca
-1608090050,Muaradua
-1608090051,Buay Rawan
-1608090060,Buay Sandang Aji
-1608090061,Tiga Dihaji
-1608090070,Buay Runjung
-1608090071,Runjung Agung
-1608090080,Kisam Tinggi
-1608090090,Muaradua Kisam
-1608090091,Kisam Ilir
-1608090100,Pulau Beringin
-1608090101,Sindang Danau
-1608090102,Sungai Are
+1608090001,Gunung Gare
+1608090009,Tanjung Beringin
+1608090010,Simpang Lubuk Dalam
+1608090011,Ulak Agung Ulu
+1608090012,Bandar Alam Baru
+1608090013,Ulak Agung Ilir
+1608090014,Alundua
+1608090015,Penyandingan
+1608090016,Dusun Tengah
+1608090017,Penantian
+1608090021,Sukaraja
+1608090022,Muaradua Kisam
+1608090023,Pagar Dewa
+1608090024,Sukananti
+1608090037,Tanjung Tebat
+1608090038,Lawang Agung
+1608090039,Bayur Tengah
+1608090040,Sugihan
 1608091,Kisam Ilir
-1608091010,Mekakau Ilir
-1608091020,Banding Agung
-1608091021,Warkuk Ranau Selatan
-1608091022,Buay Pematang Ribu Ranau Tengah
-1608091030,Buay Pemaca
-1608091040,Simpang
-1608091041,Buana Pemaca
-1608091050,Muaradua
-1608091051,Buay Rawan
-1608091060,Buay Sandang Aji
-1608091061,Tiga Dihaji
-1608091070,Buay Runjung
-1608091071,Runjung Agung
-1608091080,Kisam Tinggi
-1608091090,Muaradua Kisam
-1608091091,Kisam Ilir
-1608091100,Pulau Beringin
-1608091101,Sindang Danau
-1608091102,Sungai Are
+1608091001,Pulau Kemiling
+1608091002,Siring Alam
+1608091003,Simpang Campang
+1608091004,Pangandonan
+1608091005,Keban Agung
+1608091006,Pius
+1608091007,Muara Sindang
+1608091008,Tanjung Jati
+1608091009,Campang Jaya
 1608100,Pulau Beringin
-1608100010,Mekakau Ilir
-1608100020,Banding Agung
-1608100021,Warkuk Ranau Selatan
-1608100022,Buay Pematang Ribu Ranau Tengah
-1608100030,Buay Pemaca
-1608100040,Simpang
-1608100041,Buana Pemaca
-1608100050,Muaradua
-1608100051,Buay Rawan
-1608100060,Buay Sandang Aji
-1608100061,Tiga Dihaji
-1608100070,Buay Runjung
-1608100071,Runjung Agung
-1608100080,Kisam Tinggi
-1608100090,Muaradua Kisam
-1608100091,Kisam Ilir
-1608100100,Pulau Beringin
-1608100101,Sindang Danau
-1608100102,Sungai Are
+1608100001,Gunung Batu
+1608100002,Kemu
+1608100003,Simpang Pancur
+1608100004,Pagar Agung
+1608100005,Tanjung Kari
+1608100006,Aromantai
+1608100007,Pulau Beringin
+1608100008,Tanjung Bulan
+1608100026,Pematang Obar
+1608100027,Anugerah Kemu
+1608100028,Kemu Ulu
+1608100029,Pulau Beringin Utara
+1608100030,Tanjung Bulan Ulu
 1608101,Sindang Danau
-1608101010,Mekakau Ilir
-1608101020,Banding Agung
-1608101021,Warkuk Ranau Selatan
-1608101022,Buay Pematang Ribu Ranau Tengah
-1608101030,Buay Pemaca
-1608101040,Simpang
-1608101041,Buana Pemaca
-1608101050,Muaradua
-1608101051,Buay Rawan
-1608101060,Buay Sandang Aji
-1608101061,Tiga Dihaji
-1608101070,Buay Runjung
-1608101071,Runjung Agung
-1608101080,Kisam Tinggi
-1608101090,Muaradua Kisam
-1608101091,Kisam Ilir
-1608101100,Pulau Beringin
-1608101101,Sindang Danau
-1608101102,Sungai Are
+1608101001,Tanjung Harapan
+1608101002,Muara Sindang Ilir
+1608101003,Muara Sindang Tengah
+1608101004,Pematang Danau
+1608101005,Ulu Danau
+1608101006,Watas
+1608101007,Tebat Layang
 1608102,Sungai Are
-1608102010,Mekakau Ilir
-1608102020,Banding Agung
-1608102021,Warkuk Ranau Selatan
-1608102022,Buay Pematang Ribu Ranau Tengah
-1608102030,Buay Pemaca
-1608102040,Simpang
-1608102041,Buana Pemaca
-1608102050,Muaradua
-1608102051,Buay Rawan
-1608102060,Buay Sandang Aji
-1608102061,Tiga Dihaji
-1608102070,Buay Runjung
-1608102071,Runjung Agung
-1608102080,Kisam Tinggi
-1608102090,Muaradua Kisam
-1608102091,Kisam Ilir
-1608102100,Pulau Beringin
-1608102101,Sindang Danau
-1608102102,Sungai Are
+1608102001,Cukoh Nau
+1608102002,Pecah Pinggan
+1608102003,Ujan Mas
+1608102004,Pulau Kemuning
+1608102005,Tanah Pilih
+1608102006,Guntung Jaya
+1608102007,Simpang Luas
+1608102008,Sebaja
+1608102009,Sadau Jaya
 1609,Ogan Komering Ulu Timur
 1609010,Martapura
-1609010010,Martapura
-1609010011,Bunga Mayang
-1609010012,Jaya Pura
-1609010020,Buay Pemuka Peliung
-1609010030,Buay Madang
-1609010031,Buay Madang Timur
-1609010032,Buay Pemuka Bangsa Raja
-1609010040,Madang Suku Ii
-1609010041,Madang Suku Iii
-1609010050,Madang Suku I
-1609010051,Belitang Madang Raya
-1609010060,Belitang
-1609010061,Belitang Jaya
-1609010070,Belitang Iii
-1609010080,Belitang Ii
-1609010081,Belitang Mulya
-1609010090,Semendawai Suku Iii
-1609010091,Semendawai Timur
-1609010100,Cempaka
-1609010101,Semendawai Barat
+1609010008,Tanjung Kemala
+1609010009,Kota Baru
+1609010010,Pasar Martapura
+1609010011,Paku Sengkunyit
+1609010012,Dusun Martapura
+1609010013,Keromongan
+1609010014,Perjaya
+1609010021,Kotabaru Barat
+1609010022,Sukomulyo
+1609010023,Kotabaru Selatan
+1609010024,Sungai Tuha Jaya
+1609010025,Terukis Rahayu
+1609010026,Bukit Sari
+1609010027,Veteran Jaya
+1609010028,Perjaya Barat
+1609010029,Tanjung Kemala Barat
 1609011,Bunga Mayang
-1609011010,Martapura
-1609011011,Bunga Mayang
-1609011012,Jaya Pura
-1609011020,Buay Pemuka Peliung
-1609011030,Buay Madang
-1609011031,Buay Madang Timur
-1609011032,Buay Pemuka Bangsa Raja
-1609011040,Madang Suku Ii
-1609011041,Madang Suku Iii
-1609011050,Madang Suku I
-1609011051,Belitang Madang Raya
-1609011060,Belitang
-1609011061,Belitang Jaya
-1609011070,Belitang Iii
-1609011080,Belitang Ii
-1609011081,Belitang Mulya
-1609011090,Semendawai Suku Iii
-1609011091,Semendawai Timur
-1609011100,Cempaka
-1609011101,Semendawai Barat
+1609011001,Baturaja Bungin
+1609011002,Tulang Bawang
+1609011003,Sabah Lioh
+1609011004,Negeri Ratu
+1609011005,Negeri Ratu Baru
+1609011006,Peracak
+1609011007,Tunas Peracak
+1609011008,Suka Baru
 1609012,Jaya Pura
-1609012010,Martapura
-1609012011,Bunga Mayang
-1609012012,Jaya Pura
-1609012020,Buay Pemuka Peliung
-1609012030,Buay Madang
-1609012031,Buay Madang Timur
-1609012032,Buay Pemuka Bangsa Raja
-1609012040,Madang Suku Ii
-1609012041,Madang Suku Iii
-1609012050,Madang Suku I
-1609012051,Belitang Madang Raya
-1609012060,Belitang
-1609012061,Belitang Jaya
-1609012070,Belitang Iii
-1609012080,Belitang Ii
-1609012081,Belitang Mulya
-1609012090,Semendawai Suku Iii
-1609012091,Semendawai Timur
-1609012100,Cempaka
-1609012101,Semendawai Barat
+1609012001,Mendah
+1609012002,Bunga Mayang
+1609012003,Tumijaya
+1609012004,Condong
+1609012005,Waysalak
+1609012006,Jayapura
+1609012007,Peracak Jaya
+1609012008,Kambang
 1609020,Buay Pemuka Peliung
-1609020010,Martapura
-1609020011,Bunga Mayang
-1609020012,Jaya Pura
-1609020020,Buay Pemuka Peliung
-1609020030,Buay Madang
-1609020031,Buay Madang Timur
-1609020032,Buay Pemuka Bangsa Raja
-1609020040,Madang Suku Ii
-1609020041,Madang Suku Iii
-1609020050,Madang Suku I
-1609020051,Belitang Madang Raya
-1609020060,Belitang
-1609020061,Belitang Jaya
-1609020070,Belitang Iii
-1609020080,Belitang Ii
-1609020081,Belitang Mulya
-1609020090,Semendawai Suku Iii
-1609020091,Semendawai Timur
-1609020100,Cempaka
-1609020101,Semendawai Barat
+1609020001,Negeri Agung
+1609020002,Banumas
+1609020003,Banuayu
+1609020004,Pulau Negara
+1609020005,Bantan
+1609020006,Negeri Pakuan
+1609020007,Bandar Jaya
+1609020008,Pahang Asri
+1609020009,Pemetung Basuki
+1609020010,Saung Dadi
+1609020011,Terantang Sakti
+1609020012,Negeri Agung Jaya
+1609020013,Bantan Pelita
 1609030,Buay Madang
-1609030010,Martapura
-1609030011,Bunga Mayang
-1609030012,Jaya Pura
-1609030020,Buay Pemuka Peliung
-1609030030,Buay Madang
-1609030031,Buay Madang Timur
-1609030032,Buay Pemuka Bangsa Raja
-1609030040,Madang Suku Ii
-1609030041,Madang Suku Iii
-1609030050,Madang Suku I
-1609030051,Belitang Madang Raya
-1609030060,Belitang
-1609030061,Belitang Jaya
-1609030070,Belitang Iii
-1609030080,Belitang Ii
-1609030081,Belitang Mulya
-1609030090,Semendawai Suku Iii
-1609030091,Semendawai Timur
-1609030100,Cempaka
-1609030101,Semendawai Barat
+1609030001,Sukaraja
+1609030002,Pisang Jaya
+1609030003,Kurungan Nyawa
+1609030004,Way Halom
+1609030005,Tebat Jaya
+1609030006,Sumber Agung
+1609030007,Sridadi
+1609030016,Tanjung Bulan
+1609030041,Kurungan Nyawa I
+1609030042,Kurungan Nyawa Ii
+1609030043,Kurungan Nyawa Iii
+1609030044,Cipta Muda
+1609030045,Aman Jaya
+1609030046,Sukaraja Tuha
+1609030047,Mulyo Agung
+1609030048,Ganjar Agung
+1609030049,Muda Sentosa
 1609031,Buay Madang Timur
-1609031010,Martapura
-1609031011,Bunga Mayang
-1609031012,Jaya Pura
-1609031020,Buay Pemuka Peliung
-1609031030,Buay Madang
-1609031031,Buay Madang Timur
-1609031032,Buay Pemuka Bangsa Raja
-1609031040,Madang Suku Ii
-1609031041,Madang Suku Iii
-1609031050,Madang Suku I
-1609031051,Belitang Madang Raya
-1609031060,Belitang
-1609031061,Belitang Jaya
-1609031070,Belitang Iii
-1609031080,Belitang Ii
-1609031081,Belitang Mulya
-1609031090,Semendawai Suku Iii
-1609031091,Semendawai Timur
-1609031100,Cempaka
-1609031101,Semendawai Barat
+1609031001,Tanjung Mas
+1609031002,Limansari
+1609031003,Sumber Harjo
+1609031004,Sumber Mulyo
+1609031005,Bangun Harjo
+1609031006,Karang Tengah
+1609031007,Sri Katon
+1609031008,Tanjung Sari
+1609031009,Sumber Asri
+1609031010,Suka Maju
+1609031011,Sukoharjo
+1609031012,Tekorejo
+1609031013,Pengandonan
+1609031014,Tambak Boyo
+1609031015,Rejodadi
+1609031017,Rowodadi
+1609031018,Sukodadi
+1609031019,Sumedang Sari
+1609031020,Kumpul Rejo
+1609031021,Metro Rejo
+1609031022,Kedu
+1609031023,Kedung Rejo
+1609031024,Banyumas Asri
+1609031025,Tanjung Agung
+1609031026,Tanjung Mulya
+1609031027,Raman Agung
+1609031028,Bukit Mas
+1609031029,Berasan Mulya
+1609031030,Gumuk Rejo
+1609031031,Sumber Tani
+1609031032,Wonodadi Asri
+1609031033,Suka Jaya
+1609031034,Bumi Rahayu Mukti
 1609032,Buay Pemuka Bangsa Raja
-1609032010,Martapura
-1609032011,Bunga Mayang
-1609032012,Jaya Pura
-1609032020,Buay Pemuka Peliung
-1609032030,Buay Madang
-1609032031,Buay Madang Timur
-1609032032,Buay Pemuka Bangsa Raja
-1609032040,Madang Suku Ii
-1609032041,Madang Suku Iii
-1609032050,Madang Suku I
-1609032051,Belitang Madang Raya
-1609032060,Belitang
-1609032061,Belitang Jaya
-1609032070,Belitang Iii
-1609032080,Belitang Ii
-1609032081,Belitang Mulya
-1609032090,Semendawai Suku Iii
-1609032091,Semendawai Timur
-1609032100,Cempaka
-1609032101,Semendawai Barat
+1609032001,Sri Bunga
+1609032002,Anyar
+1609032003,Pandan Sari Ii
+1609032004,Rawa Sari
+1609032005,Surya Menang
+1609032006,Muncak Kabau
+1609032007,Sri Bulan
 1609040,Madang Suku Ii
-1609040010,Martapura
-1609040011,Bunga Mayang
-1609040012,Jaya Pura
-1609040020,Buay Pemuka Peliung
-1609040030,Buay Madang
-1609040031,Buay Madang Timur
-1609040032,Buay Pemuka Bangsa Raja
-1609040040,Madang Suku Ii
-1609040041,Madang Suku Iii
-1609040050,Madang Suku I
-1609040051,Belitang Madang Raya
-1609040060,Belitang
-1609040061,Belitang Jaya
-1609040070,Belitang Iii
-1609040080,Belitang Ii
-1609040081,Belitang Mulya
-1609040090,Semendawai Suku Iii
-1609040091,Semendawai Timur
-1609040100,Cempaka
-1609040101,Semendawai Barat
+1609040001,Pandan Jaya
+1609040002,Riang Bandung
+1609040003,Karang Negara
+1609040012,Sukanegara
+1609040013,Jati Mulyo Ii
+1609040014,Sri Mulyo
+1609040015,Rasuan Baru
+1609040016,Kertanegara
+1609040018,Kota Negara
+1609040019,Pandan Agung
+1609040020,Margo Tani
+1609040021,Banban Rejo
+1609040022,Riang Bandung Ilir
+1609040023,Dadi Mulyo
+1609040024,Sri Kencana
+1609040025,Margotani Ii
+1609040026,Kotanegara Timur
+1609040027,Talang Giring
+1609040028,Kalirejo
 1609041,Madang Suku Iii
-1609041010,Martapura
-1609041011,Bunga Mayang
-1609041012,Jaya Pura
-1609041020,Buay Pemuka Peliung
-1609041030,Buay Madang
-1609041031,Buay Madang Timur
-1609041032,Buay Pemuka Bangsa Raja
-1609041040,Madang Suku Ii
-1609041041,Madang Suku Iii
-1609041050,Madang Suku I
-1609041051,Belitang Madang Raya
-1609041060,Belitang
-1609041061,Belitang Jaya
-1609041070,Belitang Iii
-1609041080,Belitang Ii
-1609041081,Belitang Mulya
-1609041090,Semendawai Suku Iii
-1609041091,Semendawai Timur
-1609041100,Cempaka
-1609041101,Semendawai Barat
+1609041001,Batu Marta X
+1609041002,Bina Amarta
+1609041003,Batu Marta Vi
+1609041004,Banding Agung
+1609041005,Nikan
+1609041006,Karya Makmur Viii
+1609041007,Wana Bakti
+1609041008,Suka Damai
+1609041009,Surabaya
+1609041010,Marta V Jaya
+1609041011,Marta Mulya
+1609041012,Tri Marta Jaya
+1609041013,Suka Damai Timur
+1609041014,Sido Mulyo
+1609041015,Banjar Agung
 1609050,Madang Suku I
-1609050010,Martapura
-1609050011,Bunga Mayang
-1609050012,Jaya Pura
-1609050020,Buay Pemuka Peliung
-1609050030,Buay Madang
-1609050031,Buay Madang Timur
-1609050032,Buay Pemuka Bangsa Raja
-1609050040,Madang Suku Ii
-1609050041,Madang Suku Iii
-1609050050,Madang Suku I
-1609050051,Belitang Madang Raya
-1609050060,Belitang
-1609050061,Belitang Jaya
-1609050070,Belitang Iii
-1609050080,Belitang Ii
-1609050081,Belitang Mulya
-1609050090,Semendawai Suku Iii
-1609050091,Semendawai Timur
-1609050100,Cempaka
-1609050101,Semendawai Barat
+1609050011,Jaya Bakti
+1609050012,Harjo Mulyo
+1609050013,Jatisari
+1609050014,Mendayun
+1609050015,Gunung Terang
+1609050016,Rasuan
+1609050017,Mengulak
+1609050018,Sp Karta Mulya
+1609050019,Karta Mulya
+1609050021,Agung Jati
+1609050022,Tridadi
+1609050023,Rasuan Darat
+1609050024,Harjomulyo Jaya
 1609051,Belitang Madang Raya
-1609051010,Martapura
-1609051011,Bunga Mayang
-1609051012,Jaya Pura
-1609051020,Buay Pemuka Peliung
-1609051030,Buay Madang
-1609051031,Buay Madang Timur
-1609051032,Buay Pemuka Bangsa Raja
-1609051040,Madang Suku Ii
-1609051041,Madang Suku Iii
-1609051050,Madang Suku I
-1609051051,Belitang Madang Raya
-1609051060,Belitang
-1609051061,Belitang Jaya
-1609051070,Belitang Iii
-1609051080,Belitang Ii
-1609051081,Belitang Mulya
-1609051090,Semendawai Suku Iii
-1609051091,Semendawai Timur
-1609051100,Cempaka
-1609051101,Semendawai Barat
+1609051001,Tugumulyo
+1609051002,Bangsa Negara
+1609051003,Tugu Harum
+1609051004,Tulus Ayu
+1609051005,Karang Binangun
+1609051006,Jati Mulyo 1
+1609051007,Pandan Sari 1
+1609051008,Pelita Jaya
+1609051009,Mekar Jaya
+1609051010,Lubuk Harjo
+1609051011,Tanah Merah
+1609051012,Joso Winangun
+1609051013,Rantau Jaya
+1609051014,Tebing Sari Mulya
+1609051015,Marga Cinta
+1609051016,Karang Binangun Ii
+1609051017,Burnai Sari Mulya
 1609060,Belitang
-1609060010,Martapura
-1609060011,Bunga Mayang
-1609060012,Jaya Pura
-1609060020,Buay Pemuka Peliung
-1609060030,Buay Madang
-1609060031,Buay Madang Timur
-1609060032,Buay Pemuka Bangsa Raja
-1609060040,Madang Suku Ii
-1609060041,Madang Suku Iii
-1609060050,Madang Suku I
-1609060051,Belitang Madang Raya
-1609060060,Belitang
-1609060061,Belitang Jaya
-1609060070,Belitang Iii
-1609060080,Belitang Ii
-1609060081,Belitang Mulya
-1609060090,Semendawai Suku Iii
-1609060091,Semendawai Timur
-1609060100,Cempaka
-1609060101,Semendawai Barat
+1609060001,Sido Rahayu
+1609060002,Sukarami
+1609060003,Tawang Rejo
+1609060012,Triyoso
+1609060013,Serbaguna
+1609060014,Sumber Suko
+1609060015,Sukajadi
+1609060016,Sukosari
+1609060017,Pujorahayu
+1609060018,Sidomulyo
+1609060022,Tanjung Raya
+1609060023,Harjo Winangun
+1609060024,Tegal Rejo
+1609060025,Gumawang
+1609060026,Bedilan
+1609060027,Sidogede
+1609060028,Sido Makmur
+1609060029,Gunung Mas
+1609060030,Karang Kemiri
+1609060031,Sidodadi
+1609060032,Sumber Suko Jaya
+1609060033,Gedung Rejo
+1609060034,Mojosari
+1609060035,Ketapang
 1609061,Belitang Jaya
-1609061010,Martapura
-1609061011,Bunga Mayang
-1609061012,Jaya Pura
-1609061020,Buay Pemuka Peliung
-1609061030,Buay Madang
-1609061031,Buay Madang Timur
-1609061032,Buay Pemuka Bangsa Raja
-1609061040,Madang Suku Ii
-1609061041,Madang Suku Iii
-1609061050,Madang Suku I
-1609061051,Belitang Madang Raya
-1609061060,Belitang
-1609061061,Belitang Jaya
-1609061070,Belitang Iii
-1609061080,Belitang Ii
-1609061081,Belitang Mulya
-1609061090,Semendawai Suku Iii
-1609061091,Semendawai Timur
-1609061100,Cempaka
-1609061101,Semendawai Barat
+1609061001,Rejosari
+1609061002,Rejosari Jaya
+1609061003,Sumber Agung
+1609061004,Banjar Rejo
+1609061005,Panca Tunggal
+1609061006,Sidorejo
+1609061007,Margo Koyo
+1609061008,Karsa Jaya
+1609061009,Windu Sari
+1609061010,Karya Makmur
+1609061011,Giri Mulyo
+1609061012,Madugondo
+1609061013,Argo Mulyo
+1609061014,Tunggal Jaya
+1609061015,Panca Jaya
+1609061016,Sumber Makmur
+1609061017,Sumber Jaya
 1609070,Belitang Iii
-1609070010,Martapura
-1609070011,Bunga Mayang
-1609070012,Jaya Pura
-1609070020,Buay Pemuka Peliung
-1609070030,Buay Madang
-1609070031,Buay Madang Timur
-1609070032,Buay Pemuka Bangsa Raja
-1609070040,Madang Suku Ii
-1609070041,Madang Suku Iii
-1609070050,Madang Suku I
-1609070051,Belitang Madang Raya
-1609070060,Belitang
-1609070061,Belitang Jaya
-1609070070,Belitang Iii
-1609070080,Belitang Ii
-1609070081,Belitang Mulya
-1609070090,Semendawai Suku Iii
-1609070091,Semendawai Timur
-1609070100,Cempaka
-1609070101,Semendawai Barat
+1609070004,Tri Karya
+1609070005,Nusa Tunggal
+1609070006,Kutosari
+1609070007,Nusaraya
+1609070008,Nusa Bali
+1609070009,Nusa Bakti
+1609070010,Senu Marga
+1609070011,Karang Sari
+1609070012,Sukanegara
+1609070013,Nusa Maju
+1609070014,Nusa Agung
+1609070015,Nusa Jaya
+1609070016,Nusa Tenggara
+1609070017,Sumber Rejo
+1609070018,Sinar Bali
+1609070019,Karang Jadi
+1609070020,Ringin Sari
+1609070021,Ganti Warno
+1609070022,Dadi Rejo
+1609070023,Karya Maju
 1609080,Belitang Ii
-1609080010,Martapura
-1609080011,Bunga Mayang
-1609080012,Jaya Pura
-1609080020,Buay Pemuka Peliung
-1609080030,Buay Madang
-1609080031,Buay Madang Timur
-1609080032,Buay Pemuka Bangsa Raja
-1609080040,Madang Suku Ii
-1609080041,Madang Suku Iii
-1609080050,Madang Suku I
-1609080051,Belitang Madang Raya
-1609080060,Belitang
-1609080061,Belitang Jaya
-1609080070,Belitang Iii
-1609080080,Belitang Ii
-1609080081,Belitang Mulya
-1609080090,Semendawai Suku Iii
-1609080091,Semendawai Timur
-1609080100,Cempaka
-1609080101,Semendawai Barat
+1609080001,Sumber Rahayu
+1609080002,Sri Bantolo
+1609080003,Purwosari
+1609080008,Tanjung Kemuning
+1609080010,Margo Mulyo
+1609080011,Karang Manik
+1609080012,Raman Jaya
+1609080013,Tegal Sari
+1609080014,Sumber Jaya
+1609080015,Sumber Sari
+1609080016,Sumber Harapan
+1609080017,Keli Rejo
+1609080018,Sumber Rejo
+1609080019,Toto Rejo
+1609080020,Kemuning Jaya
+1609080021,Bangun Rejo
+1609080022,Srijaya
+1609080023,Batu Mas
+1609080024,Suka Jaya
+1609080025,Karang Jaya
+1609080026,Darma Buana
+1609080027,Tegal Besar
+1609080028,Rejo Mulyo
+1609080029,Purworejo
+1609080030,Sumber Makmur
+1609080031,Budi Luhur
+1609080032,Margo Mulyo Makmur
 1609081,Belitang Mulya
-1609081010,Martapura
-1609081011,Bunga Mayang
-1609081012,Jaya Pura
-1609081020,Buay Pemuka Peliung
-1609081030,Buay Madang
-1609081031,Buay Madang Timur
-1609081032,Buay Pemuka Bangsa Raja
-1609081040,Madang Suku Ii
-1609081041,Madang Suku Iii
-1609081050,Madang Suku I
-1609081051,Belitang Madang Raya
-1609081060,Belitang
-1609081061,Belitang Jaya
-1609081070,Belitang Iii
-1609081080,Belitang Ii
-1609081081,Belitang Mulya
-1609081090,Semendawai Suku Iii
-1609081091,Semendawai Timur
-1609081100,Cempaka
-1609081101,Semendawai Barat
+1609081001,Sukoharjo
+1609081002,Sribudaya
+1609081003,Sri Mulyo
+1609081004,Purwodadi
+1609081005,Ulak Buntar
+1609081006,Sari Guna
+1609081007,Sido Waluyo
+1609081008,Sugih Waras
+1609081009,Rejosari
+1609081010,Tulung Sari
+1609081011,Petanggan
+1609081012,Mulya Sari
 1609090,Semendawai Suku Iii
-1609090010,Martapura
-1609090011,Bunga Mayang
-1609090012,Jaya Pura
-1609090020,Buay Pemuka Peliung
-1609090030,Buay Madang
-1609090031,Buay Madang Timur
-1609090032,Buay Pemuka Bangsa Raja
-1609090040,Madang Suku Ii
-1609090041,Madang Suku Iii
-1609090050,Madang Suku I
-1609090051,Belitang Madang Raya
-1609090060,Belitang
-1609090061,Belitang Jaya
-1609090070,Belitang Iii
-1609090080,Belitang Ii
-1609090081,Belitang Mulya
-1609090090,Semendawai Suku Iii
-1609090091,Semendawai Timur
-1609090100,Cempaka
-1609090101,Semendawai Barat
+1609090002,Jaya Mulia
+1609090007,Gunung Sugih
+1609090008,Taman Agung
+1609090009,Trimo Harjo
+1609090011,Suka Mulya
+1609090018,Taraman
+1609090019,Karang Endah
+1609090020,Sri Wangi
+1609090021,Krujon
+1609090022,Margorejo
+1609090023,Cahaya Negeri
+1609090024,Taman Mulyo
+1609090025,Mujo Rahayu
+1609090026,Taman Harjo
+1609090027,Trimo Rejo
+1609090028,Karang Marga
+1609090029,Taraman Jaya
+1609090030,Sri Wangi Ulu
+1609090031,Margo Dadi
 1609091,Semendawai Timur
-1609091010,Martapura
-1609091011,Bunga Mayang
-1609091012,Jaya Pura
-1609091020,Buay Pemuka Peliung
-1609091030,Buay Madang
-1609091031,Buay Madang Timur
-1609091032,Buay Pemuka Bangsa Raja
-1609091040,Madang Suku Ii
-1609091041,Madang Suku Iii
-1609091050,Madang Suku I
-1609091051,Belitang Madang Raya
-1609091060,Belitang
-1609091061,Belitang Jaya
-1609091070,Belitang Iii
-1609091080,Belitang Ii
-1609091081,Belitang Mulya
-1609091090,Semendawai Suku Iii
-1609091091,Semendawai Timur
-1609091100,Cempaka
-1609091101,Semendawai Barat
+1609091001,Karang Menjangan
+1609091002,Karang Melati
+1609091003,Karang Anyar
+1609091004,Tulung Harapan
+1609091005,Nirwana
+1609091006,Burnai Mulya
+1609091007,Kota Tanah
+1609091008,Melati Jaya
+1609091009,Karang Mulya
+1609091010,Harapan Jaya
+1609091011,Wana Sari
+1609091012,Burnai Jaya
+1609091013,Mulya Jaya
+1609091014,Kota Mulya
+1609091015,Bungin Jaya
+1609091016,Melati Agung
+1609091017,Wana Makmur
+1609091018,Bawang Tikar
+1609091019,Karya Bakti
+1609091020,Harapan Makmur
+1609091021,Wana Jaya
 1609100,Cempaka
-1609100010,Martapura
-1609100011,Bunga Mayang
-1609100012,Jaya Pura
-1609100020,Buay Pemuka Peliung
-1609100030,Buay Madang
-1609100031,Buay Madang Timur
-1609100032,Buay Pemuka Bangsa Raja
-1609100040,Madang Suku Ii
-1609100041,Madang Suku Iii
-1609100050,Madang Suku I
-1609100051,Belitang Madang Raya
-1609100060,Belitang
-1609100061,Belitang Jaya
-1609100070,Belitang Iii
-1609100080,Belitang Ii
-1609100081,Belitang Mulya
-1609100090,Semendawai Suku Iii
-1609100091,Semendawai Timur
-1609100100,Cempaka
-1609100101,Semendawai Barat
+1609100033,Ulak Baru
+1609100034,Kuripan
+1609100035,Gunung Jati
+1609100036,Negeri Sakti
+1609100037,Campang Tiga Ulu
+1609100038,Campang Tiga Ilir
+1609100039,Sukaraja
+1609100040,Cempaka
+1609100041,Sukabumi
+1609100042,Gunung Batu
+1609100043,Maluai Indah
+1609100044,Harisan Jaya
+1609100045,Campang Tiga Jaya
 1609101,Semendawai Barat
-1609101010,Martapura
-1609101011,Bunga Mayang
-1609101012,Jaya Pura
-1609101020,Buay Pemuka Peliung
-1609101030,Buay Madang
-1609101031,Buay Madang Timur
-1609101032,Buay Pemuka Bangsa Raja
-1609101040,Madang Suku Ii
-1609101041,Madang Suku Iii
-1609101050,Madang Suku I
-1609101051,Belitang Madang Raya
-1609101060,Belitang
-1609101061,Belitang Jaya
-1609101070,Belitang Iii
-1609101080,Belitang Ii
-1609101081,Belitang Mulya
-1609101090,Semendawai Suku Iii
-1609101091,Semendawai Timur
-1609101100,Cempaka
-1609101101,Semendawai Barat
+1609101001,Tanjung Kukuh
+1609101002,Betung
+1609101003,Tanjung Mas
+1609101004,Menanga Besar
+1609101005,Menanga Tengah
+1609101006,Kangkung
+1609101007,Adu Manis
+1609101008,Suka Negeri
+1609101009,Sri Tanjung
+1609101010,Kangkung Ilir
+1609101011,Betung Timur
+1609101012,Menanga Sari
+1609101013,Tanjung Jaya
 1610,Ogan Ilir
 1610010,Muara Kuang
-1610010010,Muara Kuang
-1610010011,Rambang Kuang
-1610010012,Lubuk Keliat
-1610010020,Tanjung Batu
-1610010021,Payaraman
-1610010030,Rantau Alai
-1610010031,Kandis
-1610010040,Tanjung Raja
-1610010041,Rantau Panjang
-1610010042,Sungai Pinang
-1610010050,Pemulutan
-1610010051,Pemulutan Selatan
-1610010052,Pemulutan Barat
-1610010060,Indralaya
-1610010061,Indralaya Utara
-1610010062,Indralaya Selatan
+1610010004,Munggu
+1610010005,Seri Menanti
+1610010006,Rantau Sialang
+1610010007,Kuang Anyar
+1610010009,Kasah
+1610010011,Muara Kuang
+1610010012,Tanabang Ilir
+1610010013,Seri Kembang
+1610010014,Naga Sari
+1610010015,Suka Cinta
+1610010016,Kelampadu
+1610010017,Sukajadi
+1610010018,Rama Kasih
+1610010019,Tanabang Ulu
 1610011,Rambang Kuang
-1610011010,Muara Kuang
-1610011011,Rambang Kuang
-1610011012,Lubuk Keliat
-1610011020,Tanjung Batu
-1610011021,Payaraman
-1610011030,Rantau Alai
-1610011031,Kandis
-1610011040,Tanjung Raja
-1610011041,Rantau Panjang
-1610011042,Sungai Pinang
-1610011050,Pemulutan
-1610011051,Pemulutan Selatan
-1610011052,Pemulutan Barat
-1610011060,Indralaya
-1610011061,Indralaya Utara
-1610011062,Indralaya Selatan
+1610011001,Ibul Dalam
+1610011002,Beringin Dalam
+1610011003,Kuang Dalam Barat
+1610011004,Lubuk Tunggal
+1610011005,Ulak Segara
+1610011006,Tambang Rambang
+1610011007,Tangai
+1610011008,Tanjung Miring
+1610011009,Kayu Ara
+1610011010,Tanjung Bulan
+1610011011,Sunur
+1610011012,Kuang Dalam Timur
+1610011013,Sukananti
 1610012,Lubuk Keliat
-1610012010,Muara Kuang
-1610012011,Rambang Kuang
-1610012012,Lubuk Keliat
-1610012020,Tanjung Batu
-1610012021,Payaraman
-1610012030,Rantau Alai
-1610012031,Kandis
-1610012040,Tanjung Raja
-1610012041,Rantau Panjang
-1610012042,Sungai Pinang
-1610012050,Pemulutan
-1610012051,Pemulutan Selatan
-1610012052,Pemulutan Barat
-1610012060,Indralaya
-1610012061,Indralaya Utara
-1610012062,Indralaya Selatan
+1610012001,Ulak Kembahang
+1610012002,Lubuk Keliat
+1610012003,Embacang
+1610012004,Betung I
+1610012005,Kasih Raja
+1610012006,Talang Tengah
+1610012007,Ketiau
+1610012008,Betung Ii
+1610012009,Payalingkung
+1610012010,Talang Tengah Laut
 1610020,Tanjung Batu
-1610020010,Muara Kuang
-1610020011,Rambang Kuang
-1610020012,Lubuk Keliat
-1610020020,Tanjung Batu
-1610020021,Payaraman
-1610020030,Rantau Alai
-1610020031,Kandis
-1610020040,Tanjung Raja
-1610020041,Rantau Panjang
-1610020042,Sungai Pinang
-1610020050,Pemulutan
-1610020051,Pemulutan Selatan
-1610020052,Pemulutan Barat
-1610020060,Indralaya
-1610020061,Indralaya Utara
-1610020062,Indralaya Selatan
+1610020008,Seri Bandung
+1610020012,Seri Tanjung
+1610020013,Bangun Jaya
+1610020014,Tanjung Tambak
+1610020015,Tanjung Baru Petai
+1610020016,Tanjung Batu Seberang
+1610020017,Tanjung Atap
+1610020018,Limbang Jaya I
+1610020024,Tanjung Laut
+1610020025,Tanjung Pinang I
+1610020026,Tanjung Batu
+1610020027,Pajar Bulan
+1610020028,Senuro Timur
+1610020029,Sentul
+1610020030,Burai
+1610020031,Tanjung Batu Timur
+1610020032,Tanjung Tambak Baru
+1610020033,Limbang Jaya Ii
+1610020034,Senuro Barat
+1610020035,Tanjung Pinang Ii
+1610020036,Tanjung Atap Barat
 1610021,Payaraman
-1610021010,Muara Kuang
-1610021011,Rambang Kuang
-1610021012,Lubuk Keliat
-1610021020,Tanjung Batu
-1610021021,Payaraman
-1610021030,Rantau Alai
-1610021031,Kandis
-1610021040,Tanjung Raja
-1610021041,Rantau Panjang
-1610021042,Sungai Pinang
-1610021050,Pemulutan
-1610021051,Pemulutan Selatan
-1610021052,Pemulutan Barat
-1610021060,Indralaya
-1610021061,Indralaya Utara
-1610021062,Indralaya Selatan
+1610021001,Tebedak I
+1610021002,Lubuk Bandung
+1610021003,Rengas I
+1610021004,Paya Besar
+1610021005,Talang Seleman
+1610021006,Payaraman Timur
+1610021007,Seri Kembang I
+1610021008,Tanjung Lalang
+1610021009,Seri Kembang Ii
+1610021010,Seri Kembang Iii
+1610021011,Tebedak Ii
+1610021012,Rengas Ii
+1610021013,Payaraman Barat
 1610030,Rantau Alai
-1610030010,Muara Kuang
-1610030011,Rambang Kuang
-1610030012,Lubuk Keliat
-1610030020,Tanjung Batu
-1610030021,Payaraman
-1610030030,Rantau Alai
-1610030031,Kandis
-1610030040,Tanjung Raja
-1610030041,Rantau Panjang
-1610030042,Sungai Pinang
-1610030050,Pemulutan
-1610030051,Pemulutan Selatan
-1610030052,Pemulutan Barat
-1610030060,Indralaya
-1610030061,Indralaya Utara
-1610030062,Indralaya Selatan
+1610030001,Kelampaian
+1610030002,Suka Nanti
+1610030003,Rantau Alai
+1610030004,Kertabayang
+1610030005,Suka Maju
+1610030006,Sukamarga
+1610030007,Sanding Marga
+1610030011,Tanjung Mas
+1610030012,Lebung Bandung
+1610030013,Talang Sari
+1610030019,Sirah Pulau Kilip
+1610030020,Mekar Sari
+1610030021,Sukananti  Baru
 1610031,Kandis
-1610031010,Muara Kuang
-1610031011,Rambang Kuang
-1610031012,Lubuk Keliat
-1610031020,Tanjung Batu
-1610031021,Payaraman
-1610031030,Rantau Alai
-1610031031,Kandis
-1610031040,Tanjung Raja
-1610031041,Rantau Panjang
-1610031042,Sungai Pinang
-1610031050,Pemulutan
-1610031051,Pemulutan Selatan
-1610031052,Pemulutan Barat
-1610031060,Indralaya
-1610031061,Indralaya Utara
-1610031062,Indralaya Selatan
+1610031001,Kumbang Ulu
+1610031002,Kumbang Ilir
+1610031003,Tanjung Alai
+1610031004,Muara Kumbang
+1610031005,Lubuk Rukam
+1610031006,Pandan Arang
+1610031007,Kandis I
+1610031008,Santapan Barat
+1610031009,Miji
+1610031010,Santapan Timur
+1610031011,Kandis Ii
+1610031012,Lubuk Segonang
 1610040,Tanjung Raja
-1610040010,Muara Kuang
-1610040011,Rambang Kuang
-1610040012,Lubuk Keliat
-1610040020,Tanjung Batu
-1610040021,Payaraman
-1610040030,Rantau Alai
-1610040031,Kandis
-1610040040,Tanjung Raja
-1610040041,Rantau Panjang
-1610040042,Sungai Pinang
-1610040050,Pemulutan
-1610040051,Pemulutan Selatan
-1610040052,Pemulutan Barat
-1610040060,Indralaya
-1610040061,Indralaya Utara
-1610040062,Indralaya Selatan
+1610040024,Tanjung Temiang
+1610040028,Seridalam
+1610040030,Tanjung Raja
+1610040031,Tanjung Raja Barat
+1610040032,Tanjung Raja Utara
+1610040035,Talang Balai Baru I
+1610040036,Siring Alam
+1610040037,Tanjung Agas
+1610040038,Talang Balai Lama
+1610040045,Suka Pindah
+1610040046,Ulak Kerbau Lama
+1610040047,Ulak Kerbau Baru
+1610040048,Kerinjing
+1610040049,Tanjung Raja Timur
+1610040050,Belanti
+1610040051,Tanjung Raja Selatan
+1610040052,Talang Balai Baru Ii
+1610040053,Skonjing
+1610040054,Tanjung Harapan
 1610041,Rantau Panjang
-1610041010,Muara Kuang
-1610041011,Rambang Kuang
-1610041012,Lubuk Keliat
-1610041020,Tanjung Batu
-1610041021,Payaraman
-1610041030,Rantau Alai
-1610041031,Kandis
-1610041040,Tanjung Raja
-1610041041,Rantau Panjang
-1610041042,Sungai Pinang
-1610041050,Pemulutan
-1610041051,Pemulutan Selatan
-1610041052,Pemulutan Barat
-1610041060,Indralaya
-1610041061,Indralaya Utara
-1610041062,Indralaya Selatan
+1610041001,Ketapang I
+1610041002,Jagalana
+1610041003,Kota Daro I
+1610041004,Kota Daro Ii
+1610041005,Rantau Panjang Ilir
+1610041006,Jagaraja
+1610041007,Sejangko I
+1610041008,Sungai Rotan
+1610041009,Sejangko Ii
+1610041010,Rantau Panjang Ulu
+1610041011,Ketapang Ii
+1610041012,Arisan Deras
 1610042,Sungai Pinang
-1610042010,Muara Kuang
-1610042011,Rambang Kuang
-1610042012,Lubuk Keliat
-1610042020,Tanjung Batu
-1610042021,Payaraman
-1610042030,Rantau Alai
-1610042031,Kandis
-1610042040,Tanjung Raja
-1610042041,Rantau Panjang
-1610042042,Sungai Pinang
-1610042050,Pemulutan
-1610042051,Pemulutan Selatan
-1610042052,Pemulutan Barat
-1610042060,Indralaya
-1610042061,Indralaya Utara
-1610042062,Indralaya Selatan
+1610042001,Tanjung Serian
+1610042002,Talang Dukun
+1610042003,Sungai Pinang Iii
+1610042004,Sungai Pinang
+1610042005,Sungai Pinang Ii
+1610042006,Serijabo
+1610042007,Penyandingan
+1610042008,Pinang Jaya
+1610042009,Sungai Pinang I
+1610042010,Pinang Mas
+1610042011,Sungai Pinang Lagati
+1610042012,Sungai Pinang Nibung
+1610042013,Serijabo Baru
 1610050,Pemulutan
-1610050010,Muara Kuang
-1610050011,Rambang Kuang
-1610050012,Lubuk Keliat
-1610050020,Tanjung Batu
-1610050021,Payaraman
-1610050030,Rantau Alai
-1610050031,Kandis
-1610050040,Tanjung Raja
-1610050041,Rantau Panjang
-1610050042,Sungai Pinang
-1610050050,Pemulutan
-1610050051,Pemulutan Selatan
-1610050052,Pemulutan Barat
-1610050060,Indralaya
-1610050061,Indralaya Utara
-1610050062,Indralaya Selatan
+1610050016,Aurstanding
+1610050019,Suka Rami
+1610050020,Palu
+1610050021,Muara Dua
+1610050022,Teluk Kecapi
+1610050023,Pelabuhan Dalam
+1610050024,Pemulutan Ulu
+1610050025,Pemulutan Ilir
+1610050026,Sungai Rasau
+1610050027,Pegayut
+1610050028,Ibul Besar I
+1610050029,Ibul Besar Ii
+1610050030,Ibul Besar Iii
+1610050031,Mekar Jaya
+1610050032,Lebung Jangkar
+1610050033,Kedukan Bujang
+1610050034,Rawa Jaya
+1610050035,Babatan Saudagar
+1610050036,Tanjung Pasir
+1610050037,Harapan
+1610050038,Pipa Putih
+1610050039,Sungai Buaya
+1610050040,Muara Baru
+1610050041,Sembadak
+1610050042,Simpang Pelabuhan Dalam
 1610051,Pemulutan Selatan
-1610051010,Muara Kuang
-1610051011,Rambang Kuang
-1610051012,Lubuk Keliat
-1610051020,Tanjung Batu
-1610051021,Payaraman
-1610051030,Rantau Alai
-1610051031,Kandis
-1610051040,Tanjung Raja
-1610051041,Rantau Panjang
-1610051042,Sungai Pinang
-1610051050,Pemulutan
-1610051051,Pemulutan Selatan
-1610051052,Pemulutan Barat
-1610051060,Indralaya
-1610051061,Indralaya Utara
-1610051062,Indralaya Selatan
+1610051001,Maju Jaya
+1610051002,Naikan Tembakang
+1610051003,Pematang Bangsal
+1610051004,Sungai Lebung
+1610051005,Cahaya Marga
+1610051006,Mayapati
+1610051007,Kapuk
+1610051008,Segayam
+1610051009,Ulak Aurstanding
+1610051010,Harimau Tandang
+1610051011,Sungai Keli
+1610051012,Sungai Lebung Ulu
+1610051013,Lebak Pering
+1610051014,Sungai Ondok
+1610051015,Pematang Bungur
 1610052,Pemulutan Barat
-1610052010,Muara Kuang
-1610052011,Rambang Kuang
-1610052012,Lubuk Keliat
-1610052020,Tanjung Batu
-1610052021,Payaraman
-1610052030,Rantau Alai
-1610052031,Kandis
-1610052040,Tanjung Raja
-1610052041,Rantau Panjang
-1610052042,Sungai Pinang
-1610052050,Pemulutan
-1610052051,Pemulutan Selatan
-1610052052,Pemulutan Barat
-1610052060,Indralaya
-1610052061,Indralaya Utara
-1610052062,Indralaya Selatan
+1610052001,Suka Merindu
+1610052002,Saranglang
+1610052003,Kamal
+1610052004,Pulau Negara
+1610052005,Seribanding
+1610052006,Talang Pangeran Ulu
+1610052007,Ulak Kembahang I
+1610052008,Ulak Petangisan
+1610052009,Talang Pangeran Ilir
+1610052010,Ulak Kembahang Ii
+1610052011,Arisan Jaya
 1610060,Indralaya
-1610060010,Muara Kuang
-1610060011,Rambang Kuang
-1610060012,Lubuk Keliat
-1610060020,Tanjung Batu
-1610060021,Payaraman
-1610060030,Rantau Alai
-1610060031,Kandis
-1610060040,Tanjung Raja
-1610060041,Rantau Panjang
-1610060042,Sungai Pinang
-1610060050,Pemulutan
-1610060051,Pemulutan Selatan
-1610060052,Pemulutan Barat
-1610060060,Indralaya
-1610060061,Indralaya Utara
-1610060062,Indralaya Selatan
+1610060005,Lubuk Sakti
+1610060006,Tanjung Gelam
+1610060007,Tanjung Agung
+1610060008,Ulak Bedil
+1610060010,Sudi Mampir
+1610060011,Penyandingan
+1610060012,Talang Aur
+1610060013,Ulak Banding
+1610060014,Muara Penimbung Ulu
+1610060015,Sakatiga
+1610060016,Tanjung Sejaro
+1610060017,Sakatiga Seberang
+1610060019,Tanjung Seteko
+1610060027,Ulak Segelung
+1610060028,Indralaya Mulya
+1610060029,Indralaya Raya
+1610060030,Indralaya Indah
+1610060031,Muara Penimbung Ilir
+1610060032,Tunas Aur
+1610060033,Sejaro Sakti
 1610061,Indralaya Utara
-1610061010,Muara Kuang
-1610061011,Rambang Kuang
-1610061012,Lubuk Keliat
-1610061020,Tanjung Batu
-1610061021,Payaraman
-1610061030,Rantau Alai
-1610061031,Kandis
-1610061040,Tanjung Raja
-1610061041,Rantau Panjang
-1610061042,Sungai Pinang
-1610061050,Pemulutan
-1610061051,Pemulutan Selatan
-1610061052,Pemulutan Barat
-1610061060,Indralaya
-1610061061,Indralaya Utara
-1610061062,Indralaya Selatan
+1610061001,Bakung
+1610061002,Lorok
+1610061003,Parit
+1610061004,Purnajaya
+1610061005,Payakabung
+1610061006,Tanjung Baru
+1610061007,Tanjung Pering
+1610061008,Sungai Rambutan
+1610061009,Suak Batok
+1610061010,Timbangan
+1610061011,Suka Mulia
+1610061012,Pulau Kabal
+1610061013,Tanjung Pule
+1610061014,Permata Baru
+1610061015,Palem Raya
+1610061016,Pulau Semambu
 1610062,Indralaya Selatan
-1610062010,Muara Kuang
-1610062011,Rambang Kuang
-1610062012,Lubuk Keliat
-1610062020,Tanjung Batu
-1610062021,Payaraman
-1610062030,Rantau Alai
-1610062031,Kandis
-1610062040,Tanjung Raja
-1610062041,Rantau Panjang
-1610062042,Sungai Pinang
-1610062050,Pemulutan
-1610062051,Pemulutan Selatan
-1610062052,Pemulutan Barat
-1610062060,Indralaya
-1610062061,Indralaya Utara
-1610062062,Indralaya Selatan
+1610062001,Tanjung Dayang Selatan
+1610062002,Mandi  Angin
+1610062003,Sukaraja Baru
+1610062004,Sukaraja Lama
+1610062005,Tanjung Lubuk
+1610062006,Beti
+1610062007,Meranjat Ilir
+1610062008,Meranjat Ii
+1610062009,Meranjat I
+1610062010,Tebing Gerinting Selatan
+1610062011,Arisan Gading
+1610062012,Meranjat Iii
+1610062013,Tebing Gerinting Utara
+1610062014,Tanjung Dayang Utara
 1611,Empat Lawang
 1611010,Muara Pinang
-1611010010,Muara Pinang
-1611010020,Lintang Kanan
-1611010030,Pendopo
-1611010031,Pendopo Barat
-1611010040,Pasemah Air Keruh
-1611010050,Ulu Musi
-1611010051,Sikap Dalam
-1611010060,Talang Padang
-1611010070,Tebing Tinggi
-1611010071,Saling
+1611010006,Sawah
+1611010007,Seleman Ulu
+1611010008,Seleman Ilir
+1611010009,Muara Timbuk
+1611010010,Batu Galang
+1611010011,Lubuk Ulak
+1611010012,Talang Benteng
+1611010013,Muara Semah
+1611010014,Niur
+1611010015,Fajar Menang
+1611010016,Gedung Agung
+1611010017,Tanjung Tawang
+1611010018,Muara Pinang Lama
+1611010019,Sapapanjang
+1611010020,Talang Baru
+1611010021,Muara Pinang Baru
+1611010022,Lubuk Tanjung
+1611010034,Padang Burnai
+1611010035,Tanjung Kurung
+1611010036,Belimbing
+1611010037,Suka Dana
+1611010038,Batu Jungul
 1611020,Lintang Kanan
-1611020010,Muara Pinang
-1611020020,Lintang Kanan
-1611020030,Pendopo
-1611020031,Pendopo Barat
-1611020040,Pasemah Air Keruh
-1611020050,Ulu Musi
-1611020051,Sikap Dalam
-1611020060,Talang Padang
-1611020070,Tebing Tinggi
-1611020071,Saling
+1611020001,Tanjung Alam
+1611020002,Lesung Batu
+1611020003,Babatan
+1611020004,Rantaualih
+1611020005,Sukarami
+1611020006,Rantau Kasai
+1611020007,Lubuk Cik
+1611020008,Karang Tanding
+1611020009,Batu Ampar
+1611020010,Nibung
+1611020011,Pagar Jati
+1611020012,Tanjung Jati
+1611020013,Umojati
+1611020014,Muara Danau
+1611020015,Lubuk Tapang
+1611020016,Endalo
 1611030,Pendopo
-1611030010,Muara Pinang
-1611030020,Lintang Kanan
-1611030030,Pendopo
-1611030031,Pendopo Barat
-1611030040,Pasemah Air Keruh
-1611030050,Ulu Musi
-1611030051,Sikap Dalam
-1611030060,Talang Padang
-1611030070,Tebing Tinggi
-1611030071,Saling
+1611030001,Lubuk Layang
+1611030002,Bandar Agung
+1611030003,Jarakan
+1611030004,Lubuk Sepang
+1611030005,Nanjungan
+1611030006,Tanjung Eran
+1611030007,Tanjung Raman
+1611030008,Pendopo
+1611030010,Gunung Meraksabaru
+1611030011,Sarang Bulan
+1611030012,Bayau
+1611030013,Tanjung Baru
+1611030014,Muara Karang
+1611030015,Landur
+1611030016,Gunung Meraksa Lama
+1611030017,Manggilan
+1611030018,Batu Cawang
+1611030021,Beruge Ilir
+1611030031,Pagar Tengah
 1611031,Pendopo Barat
-1611031010,Muara Pinang
-1611031020,Lintang Kanan
-1611031030,Pendopo
-1611031031,Pendopo Barat
-1611031040,Pasemah Air Keruh
-1611031050,Ulu Musi
-1611031051,Sikap Dalam
-1611031060,Talang Padang
-1611031070,Tebing Tinggi
-1611031071,Saling
+1611031001,Muara Lintang Lama
+1611031002,Muara Lintang Baru
+1611031003,Tebat Payang
+1611031004,Karang Caya
+1611031005,Tanjung Raya
+1611031006,Padang Bindu
+1611031007,Lingge
+1611031008,Rantau Dodor
+1611031009,Kungkilan
+1611031010,Air Kandis
 1611040,Pasemah Air Keruh
-1611040010,Muara Pinang
-1611040020,Lintang Kanan
-1611040030,Pendopo
-1611040031,Pendopo Barat
-1611040040,Pasemah Air Keruh
-1611040050,Ulu Musi
-1611040051,Sikap Dalam
-1611040060,Talang Padang
-1611040070,Tebing Tinggi
-1611040071,Saling
+1611040001,Penantian
+1611040002,Talang Padang
+1611040003,Tanjung Beringin
+1611040004,Lawang Agung
+1611040005,Pagar Jati
+1611040006,Bandar Agung
+1611040007,Keban Jati
+1611040008,Nanjungan
+1611040009,Talang Randai
+1611040010,Air Mayan
+1611040011,Padang Gelai
+1611040012,Muara Rungga
+1611040013,Padang Bindu
+1611040014,Muara Sindang
+1611040015,Muara Aman
 1611050,Ulu Musi
-1611050010,Muara Pinang
-1611050020,Lintang Kanan
-1611050030,Pendopo
-1611050031,Pendopo Barat
-1611050040,Pasemah Air Keruh
-1611050050,Ulu Musi
-1611050051,Sikap Dalam
-1611050060,Talang Padang
-1611050070,Tebing Tinggi
-1611050071,Saling
+1611050016,Air Kelinsar
+1611050017,Talang Bengkulu
+1611050018,Kunduran
+1611050019,Simpang Perigi
+1611050020,Muara Kalangan
+1611050021,Batu Lintang
+1611050022,Galang
+1611050023,Tanjung Agung
+1611050024,Padang Tepong
+1611050025,Muara Betung
+1611050026,Pulau Kemang
+1611050027,Lubuk Puding Baru
+1611050028,Lubuk Puding Lama
+1611050029,Batu Bidung
 1611051,Sikap Dalam
-1611051010,Muara Pinang
-1611051020,Lintang Kanan
-1611051030,Pendopo
-1611051031,Pendopo Barat
-1611051040,Pasemah Air Keruh
-1611051050,Ulu Musi
-1611051051,Sikap Dalam
-1611051060,Talang Padang
-1611051070,Tebing Tinggi
-1611051071,Saling
+1611051001,Puntang
+1611051002,Bandar Aji
+1611051003,Paduraksa
+1611051004,Karang Gede
+1611051005,Karang Dapo Baru
+1611051006,Karang Dapo Lama
+1611051007,Tangga Rasa
+1611051008,Tapa Lama
+1611051009,Tapa Baru
+1611051010,Marta Pura
+1611051011,Karang Anyar
 1611060,Talang Padang
-1611060010,Muara Pinang
-1611060020,Lintang Kanan
-1611060030,Pendopo
-1611060031,Pendopo Barat
-1611060040,Pasemah Air Keruh
-1611060050,Ulu Musi
-1611060051,Sikap Dalam
-1611060060,Talang Padang
-1611060070,Tebing Tinggi
-1611060071,Saling
+1611060001,Karang Are
+1611060002,Kembahang Lama
+1611060003,Padang Titiran
+1611060004,Ps Talang Padang
+1611060005,Macang Manis
+1611060006,Talang Padang
+1611060007,Lampar Baru
+1611060008,Kembahang Baru
+1611060009,Canggu
+1611060010,Remantai
+1611060011,Talang Durian
+1611060012,Lubuk Buntak
+1611060013,Ulak Dabuk
 1611070,Tebing Tinggi
-1611070010,Muara Pinang
-1611070020,Lintang Kanan
-1611070030,Pendopo
-1611070031,Pendopo Barat
-1611070040,Pasemah Air Keruh
-1611070050,Ulu Musi
-1611070051,Sikap Dalam
-1611070060,Talang Padang
-1611070070,Tebing Tinggi
-1611070071,Saling
+1611070014,Ujung Alih
+1611070015,Lubuk Gelanggang
+1611070016,Ulak Mengkudu
+1611070017,Batu Pance
+1611070018,Aur Gading
+1611070019,Terusan Lama
+1611070020,Terusan Baru
+1611070021,Seguring Kecil
+1611070022,Rantau Tenang
+1611070023,Lampar Baru
+1611070024,Kemang Manis
+1611070025,Kupang
+1611070026,Mekar Jaya
+1611070027,Makarti Jaya
+1611070028,Pancurmas Unit Jaya
+1611070029,Tanjung Kupang
+1611070030,Pasar Tebing Tinggi
+1611070031,Tanjung Makmur
+1611070032,Kelumpang Jaya
+1611070033,Pajar Bakti
+1611070034,Sugi Waras
+1611070035,Batu Raja Baru
+1611070036,Batu Raja Lama
+1611070037,Kota Gading
+1611070047,Jaya Loka
+1611070048,Tanjung Kupang Baru
 1611071,Saling
-1611071010,Muara Pinang
-1611071020,Lintang Kanan
-1611071030,Pendopo
-1611071031,Pendopo Barat
-1611071040,Pasemah Air Keruh
-1611071050,Ulu Musi
-1611071051,Sikap Dalam
-1611071060,Talang Padang
-1611071070,Tebing Tinggi
-1611071071,Saling
+1611071001,Lubuk Kelumpang
+1611071002,Sawah
+1611071003,Tanjung Ning Simpang
+1611071004,Tanjung Ning Jaya
+1611071005,Tanjung Ning Lama
+1611071006,Tanjung Ning Tengah
+1611071007,Kebon
+1611071008,Suka Kaya
+1611071009,Taba
+1611071010,Muara Saling
 1612,Penukal Abab Lematang Ilir
 1612010,Talang Ubi
-1612010010,Talang Ubi
-1612010020,Tanah Abang
-1612010030,Abab
-1612010040,Penukal
-1612010050,Penukal Utara
+1612010001,Semangus
+1612010002,Benakat Minyak
+1612010003,Sungai Baung
+1612010004,Talang Ubi Barat
+1612010005,Pasar Bhayangkara
+1612010006,Talang Ubi Selatan
+1612010007,Talang Ubi Timur
+1612010008,Handayani Mulia
+1612010009,Simpang Tais
+1612010010,Talang Bulang
+1612010011,Benuang
+1612010012,Beruge Darat
+1612010013,Kertadewa
+1612010014,Sinar Dewa
+1612010015,Panta Dewa
+1612010016,Sungai Ibul
+1612010017,Sukamaju
+1612010018,Talang Ubi Utara
+1612010019,Suka Damai
+1612010020,Talang Akar
+1612010021,Dewa Sebane
+1612010022,Talang Bulang Selatan
+1612010023,Jerambah Besi
+1612010024,Maju Jaya
+1612010025,Simpang Solar
 1612020,Tanah Abang
-1612020010,Talang Ubi
-1612020020,Tanah Abang
-1612020030,Abab
-1612020040,Penukal
-1612020050,Penukal Utara
+1612020001,Bumiayu
+1612020002,Tanah Abang Selatan
+1612020003,Suka Manis
+1612020004,Muara Dua
+1612020005,Tanah Abang Jaya
+1612020006,Tanah Abang Utara
+1612020007,Muara Sungai
+1612020008,Curup
+1612020009,Raja
+1612020010,Raja Barat
+1612020011,Harapan Jaya
+1612020012,Lunas Jaya
+1612020013,Sukaraja
+1612020014,Sedupi
+1612020015,Tanjung Dalam
+1612020016,Pandan
+1612020017,Modong
+1612020018,Tanah Abang Barat
+1612020019,Pandan Ilir
+1612020020,Raja Selatan
+1612020021,Tanjung Harapan
+1612020022,Tanah Abang Timur
 1612030,Abab
-1612030010,Talang Ubi
-1612030020,Tanah Abang
-1612030030,Abab
-1612030040,Penukal
-1612030050,Penukal Utara
+1612030001,Pengabuan
+1612030002,Pengabuan Timur
+1612030003,Prambatan
+1612030004,Betung
+1612030005,Betung Selatan
+1612030006,Betung Barat
+1612030007,Karang Agung
+1612030008,Tanjung Kurung
+1612030009,Betung Utara
+1612030010,Prambatan Barat
+1612030011,Batu Tugu
+1612030012,Karang Agung Utara
 1612040,Penukal
-1612040010,Talang Ubi
-1612040020,Tanah Abang
-1612040030,Abab
-1612040040,Penukal
-1612040050,Penukal Utara
+1612040001,Purun Timur
+1612040002,Purun
+1612040003,Babat
+1612040004,Sungai Langan
+1612040005,Sepantan Jaya
+1612040006,Gunung Raja
+1612040007,Suka Raja
+1612040008,Gunung Menang
+1612040009,Mangkunegara
+1612040010,Raja Jaya
+1612040011,Mangkunegara Timur
+1612040012,Air Itam
+1612040013,Air Itam Timur
+1612040014,Simpang Tiga Babat
+1612040015,Simpang Babat
+1612040016,Air Itam Selatan
+1612040017,Air Itam Utara
+1612040018,Air Itam Timur Jaya
+1612040019,Gunung Menang Timur
+1612040020,Purun Selatan
+1612040021,Air Itam Bersatu
 1612050,Penukal Utara
-1612050010,Talang Ubi
-1612050020,Tanah Abang
-1612050030,Abab
-1612050040,Penukal
-1612050050,Penukal Utara
+1612050001,Tambak
+1612050002,Suka Rami
+1612050003,Tanjung Baru
+1612050004,Muara Ikan
+1612050005,Kota Baru
+1612050006,Tanding Marga
+1612050007,Karang Tanding
+1612050008,Lubuk Tampui
+1612050009,Prabumenang
+1612050010,Tempirai Selatan
+1612050011,Tempirai Utara
+1612050012,Tempirai Timur
+1612050013,Tempirai
+1612050014,Madu Kincing
+1612050015,Tanding Jaya
+1612050016,Marga Mulya
+1612050017,Tempirai Barat
 1613,Musi Rawas Utara
 1613010,Ulu Rawas
-1613010010,Ulu Rawas
-1613010020,Karang Jaya
-1613010030,Rawas Ulu
-1613010040,Rupit
-1613010050,Karang Dapo
-1613010060,Rawas Ilir
-1613010070,Nibung
+1613010001,Kuto Tanjung
+1613010002,Napal Licin
+1613010003,Sosokan
+1613010004,Muara Kulam
+1613010005,Muara Kuis
+1613010006,Pulau Kidak
+1613010007,Jangkat
 1613020,Karang Jaya
-1613020010,Ulu Rawas
-1613020020,Karang Jaya
-1613020030,Rawas Ulu
-1613020040,Rupit
-1613020050,Karang Dapo
-1613020060,Rawas Ilir
-1613020070,Nibung
+1613020001,Lubuk Kumbung
+1613020002,Bukit Ulu
+1613020003,Bukit Langkap
+1613020004,Rantau Jaya
+1613020005,Sukaraja
+1613020006,Muara Batang Empu
+1613020007,Rantau Telang
+1613020008,Tanjung Agung
+1613020009,Sukamenang
+1613020010,Terusan
+1613020011,Karang Jaya
+1613020012,Embacang Baru
+1613020013,Embacang Baru Ilir
+1613020014,Embacang Lama
+1613020015,Muara Tiku
 1613030,Rawas Ulu
-1613030010,Ulu Rawas
-1613030020,Karang Jaya
-1613030030,Rawas Ulu
-1613030040,Rupit
-1613030050,Karang Dapo
-1613030060,Rawas Ilir
-1613030070,Nibung
+1613030001,Lubuk Mas
+1613030002,Pangkalan
+1613030003,Teladas
+1613030004,Kerta Dewa
+1613030005,Pulau Lebar
+1613030006,Sungai Baung
+1613030007,Surulangun
+1613030008,Sukomoro
+1613030009,Pasar Surulangun
+1613030010,Lesung Batu Muda
+1613030011,Lesung Batu
+1613030012,Lubuk Kemang
+1613030013,Remban
+1613030014,Sungai Kijang
+1613030015,Sungai Jauh
+1613030016,Simpang Nibung Rawas
+1613030017,Sungai Lanang
 1613040,Rupit
-1613040010,Ulu Rawas
-1613040020,Karang Jaya
-1613040030,Rawas Ulu
-1613040040,Rupit
-1613040050,Karang Dapo
-1613040060,Rawas Ilir
-1613040070,Nibung
+1613040001,Batu Gajah
+1613040002,Tanjung Beringin
+1613040003,Noman
+1613040004,Noman Baru
+1613040005,Batu Gajah Baru
+1613040006,Maur Baru
+1613040007,Maur Lama
+1613040008,Bingin Rupit
+1613040009,Beringin Jaya
+1613040010,Muara Rupit
+1613040011,Karang Anyar
+1613040012,Karang Waru
+1613040013,Lawang Agung
+1613040014,Lubuk Rumbai
+1613040015,Lubuk Rumbai Baru
+1613040016,Sungai Jernih
+1613040017,Pantai
 1613050,Karang Dapo
-1613050010,Ulu Rawas
-1613050020,Karang Jaya
-1613050030,Rawas Ulu
-1613050040,Rupit
-1613050050,Karang Dapo
-1613050060,Rawas Ilir
-1613050070,Nibung
+1613050001,Kertasari
+1613050002,Rantau Kadam
+1613050003,Karang Dapo I
+1613050004,Karang Dapo
+1613050005,Setia Marga
+1613050006,Biaro Baru
+1613050007,Biaro Lama
+1613050008,Aringin
+1613050009,Bina Karya
 1613060,Rawas Ilir
-1613060010,Ulu Rawas
-1613060020,Karang Jaya
-1613060030,Rawas Ulu
-1613060040,Rupit
-1613060050,Karang Dapo
-1613060060,Rawas Ilir
-1613060070,Nibung
+1613060001,Mandi Angin
+1613060002,Beringin Makmur I
+1613060003,Batu Kucing
+1613060004,Pauh
+1613060005,Mekarsari
+1613060006,Ketapat Bening
+1613060007,Air Bening
+1613060008,Pauh I
+1613060009,Belani
+1613060010,Tanjung Raja
+1613060011,Beringin Makmur Ii
+1613060012,Bingin Teluk
+1613060013,Beringin Sakti
 1613070,Nibung
-1613070010,Ulu Rawas
-1613070020,Karang Jaya
-1613070030,Rawas Ulu
-1613070040,Rupit
-1613070050,Karang Dapo
-1613070060,Rawas Ilir
-1613070070,Nibung
+1613070001,Jadi Mulya I
+1613070002,Kerani Jaya
+1613070003,Jadi Mulya
+1613070004,Sumber Makmur
+1613070005,Mulya Jaya
+1613070006,Kelumpang Jaya
+1613070007,Srijaya Makmur
+1613070008,Karya Makmur
+1613070009,Bumi Makmur
+1613070010,Sumber Sari
+1613070011,Tebing Tinggi
 1671,Palembang
 1671010,Ilir Barat Dua
-1671010010,Ilir Barat Dua
-1671010011,Gandus
-1671010020,Seberang Ulu Satu
-1671010021,Kertapati
-1671010022,Jakabaring
-1671010030,Seberang Ulu Dua
-1671010031,Plaju
-1671010040,Ilir Barat Satu
-1671010041,Bukitkecil
-1671010050,Ilir Timur Satu
-1671010051,Kemuning
-1671010060,Ilir Timur Dua
-1671010061,Kalidoni
-1671010062,Ilir Timur Tiga
-1671010070,Sako
-1671010071,Sematangborang
-1671010080,Sukarami
-1671010081,Alang-alang Lebar
+1671010006,Tiga-puluh-lima Ilir
+1671010007,Tiga-puluh-dua Ilir
+1671010008,Tiga-puluh Ilir
+1671010009,Kemangmanis
+1671010010,Dua-puluh-sembilan Ilir
+1671010011,Dua-puluh-delapan Ilir
+1671010012,Dua-puluh-tujuh Ilir
 1671011,Gandus
-1671011010,Ilir Barat Dua
-1671011011,Gandus
-1671011020,Seberang Ulu Satu
-1671011021,Kertapati
-1671011022,Jakabaring
-1671011030,Seberang Ulu Dua
-1671011031,Plaju
-1671011040,Ilir Barat Satu
-1671011041,Bukitkecil
-1671011050,Ilir Timur Satu
-1671011051,Kemuning
-1671011060,Ilir Timur Dua
-1671011061,Kalidoni
-1671011062,Ilir Timur Tiga
-1671011070,Sako
-1671011071,Sematangborang
-1671011080,Sukarami
-1671011081,Alang-alang Lebar
+1671011001,Pulokerto
+1671011002,Gandus
+1671011003,Karangjaya
+1671011004,Karanganyar
+1671011005,Tiga-puluh-enam Ilir
 1671020,Seberang Ulu Satu
-1671020010,Ilir Barat Dua
-1671020011,Gandus
-1671020020,Seberang Ulu Satu
-1671020021,Kertapati
-1671020022,Jakabaring
-1671020030,Seberang Ulu Dua
-1671020031,Plaju
-1671020040,Ilir Barat Satu
-1671020041,Bukitkecil
-1671020050,Ilir Timur Satu
-1671020051,Kemuning
-1671020060,Ilir Timur Dua
-1671020061,Kalidoni
-1671020062,Ilir Timur Tiga
-1671020070,Sako
-1671020071,Sematangborang
-1671020080,Sukarami
-1671020081,Alang-alang Lebar
+1671020008,Satu Ulu
+1671020010,Dua Ulu
+1671020011,Tiga Empat Ulu
+1671020012,Lima Ulu
+1671020013,Tujuh Ulu
 1671021,Kertapati
-1671021010,Ilir Barat Dua
-1671021011,Gandus
-1671021020,Seberang Ulu Satu
-1671021021,Kertapati
-1671021022,Jakabaring
-1671021030,Seberang Ulu Dua
-1671021031,Plaju
-1671021040,Ilir Barat Satu
-1671021041,Bukitkecil
-1671021050,Ilir Timur Satu
-1671021051,Kemuning
-1671021060,Ilir Timur Dua
-1671021061,Kalidoni
-1671021062,Ilir Timur Tiga
-1671021070,Sako
-1671021071,Sematangborang
-1671021080,Sukarami
-1671021081,Alang-alang Lebar
+1671021001,Karyajaya
+1671021002,Keramasan
+1671021003,Kemangagung
+1671021004,Kemasrindo
+1671021005,Oganbaru
+1671021006,Kertapati
 1671022,Jakabaring
-1671022010,Ilir Barat Dua
-1671022011,Gandus
-1671022020,Seberang Ulu Satu
-1671022021,Kertapati
-1671022022,Jakabaring
-1671022030,Seberang Ulu Dua
-1671022031,Plaju
-1671022040,Ilir Barat Satu
-1671022041,Bukitkecil
-1671022050,Ilir Timur Satu
-1671022051,Kemuning
-1671022060,Ilir Timur Dua
-1671022061,Kalidoni
-1671022062,Ilir Timur Tiga
-1671022070,Sako
-1671022071,Sematangborang
-1671022080,Sukarami
-1671022081,Alang-alang Lebar
+1671022001,Lima-belas Ulu
+1671022002,Tuankentang
+1671022003,Delapan Ulu
+1671022004,Silaberanti
+1671022005,Sembilan Sepuluh Ulu
 1671030,Seberang Ulu Dua
-1671030010,Ilir Barat Dua
-1671030011,Gandus
-1671030020,Seberang Ulu Satu
-1671030021,Kertapati
-1671030022,Jakabaring
-1671030030,Seberang Ulu Dua
-1671030031,Plaju
-1671030040,Ilir Barat Satu
-1671030041,Bukitkecil
-1671030050,Ilir Timur Satu
-1671030051,Kemuning
-1671030060,Ilir Timur Dua
-1671030061,Kalidoni
-1671030062,Ilir Timur Tiga
-1671030070,Sako
-1671030071,Sematangborang
-1671030080,Sukarami
-1671030081,Alang-alang Lebar
+1671030007,Sentosa
+1671030008,Enam-belas Ulu
+1671030010,Tanggatakat
+1671030011,Empat-belas Ulu
+1671030012,Tiga-belas Ulu
+1671030013,Dua-belas Ulu
+1671030014,Sebelas Ulu
 1671031,Plaju
-1671031010,Ilir Barat Dua
-1671031011,Gandus
-1671031020,Seberang Ulu Satu
-1671031021,Kertapati
-1671031022,Jakabaring
-1671031030,Seberang Ulu Dua
-1671031031,Plaju
-1671031040,Ilir Barat Satu
-1671031041,Bukitkecil
-1671031050,Ilir Timur Satu
-1671031051,Kemuning
-1671031060,Ilir Timur Dua
-1671031061,Kalidoni
-1671031062,Ilir Timur Tiga
-1671031070,Sako
-1671031071,Sematangborang
-1671031080,Sukarami
-1671031081,Alang-alang Lebar
+1671031001,Plaju Darat
+1671031002,Talangputri
+1671031003,Komperta
+1671031004,Plaju Ilir
+1671031005,Talangbubuk
+1671031006,Plaju Ulu
+1671031007,Baguskuning
 1671040,Ilir Barat Satu
-1671040010,Ilir Barat Dua
-1671040011,Gandus
-1671040020,Seberang Ulu Satu
-1671040021,Kertapati
-1671040022,Jakabaring
-1671040030,Seberang Ulu Dua
-1671040031,Plaju
-1671040040,Ilir Barat Satu
-1671040041,Bukitkecil
-1671040050,Ilir Timur Satu
-1671040051,Kemuning
-1671040060,Ilir Timur Dua
-1671040061,Kalidoni
-1671040062,Ilir Timur Tiga
-1671040070,Sako
-1671040071,Sematangborang
-1671040080,Sukarami
-1671040081,Alang-alang Lebar
+1671040001,Bukitlama
+1671040002,Dua-puluh-enam Ilir Satu
+1671040009,Lorokpakjo
+1671040010,Demang-lebardaun
+1671040011,Bukitbaru
+1671040012,Siringagung
 1671041,Bukitkecil
-1671041010,Ilir Barat Dua
-1671041011,Gandus
-1671041020,Seberang Ulu Satu
-1671041021,Kertapati
-1671041022,Jakabaring
-1671041030,Seberang Ulu Dua
-1671041031,Plaju
-1671041040,Ilir Barat Satu
-1671041041,Bukitkecil
-1671041050,Ilir Timur Satu
-1671041051,Kemuning
-1671041060,Ilir Timur Dua
-1671041061,Kalidoni
-1671041062,Ilir Timur Tiga
-1671041070,Sako
-1671041071,Sematangborang
-1671041080,Sukarami
-1671041081,Alang-alang Lebar
+1671041001,Talangsemut
+1671041002,Dua-puluh-dua Ilir
+1671041003,Sembilan-belas Ilir
+1671041004,Dua-puluh-tiga Ilir
+1671041005,Dua-puluh-enam Ilir
+1671041006,Dua-puluh-empat Ilir
 1671050,Ilir Timur Satu
-1671050010,Ilir Barat Dua
-1671050011,Gandus
-1671050020,Seberang Ulu Satu
-1671050021,Kertapati
-1671050022,Jakabaring
-1671050030,Seberang Ulu Dua
-1671050031,Plaju
-1671050040,Ilir Barat Satu
-1671050041,Bukitkecil
-1671050050,Ilir Timur Satu
-1671050051,Kemuning
-1671050060,Ilir Timur Dua
-1671050061,Kalidoni
-1671050062,Ilir Timur Tiga
-1671050070,Sako
-1671050071,Sematangborang
-1671050080,Sukarami
-1671050081,Alang-alang Lebar
+1671050001,Delapan-belas Ilir
+1671050002,Enam-belas Ilir
+1671050003,Tiga-belas Ilir
+1671050004,Empat-belas Ilir
+1671050005,Lima-belas Ilir
+1671050006,Tujuh-belas Ilir
+1671050007,Kepandean-baru
+1671050008,Dua-puluh Ilir Satu
+1671050009,Sungaipangeran
+1671050011,Dua-puluh Ilir Tiga
+1671050017,Dua-puluh Ilir Empat
 1671051,Kemuning
-1671051010,Ilir Barat Dua
-1671051011,Gandus
-1671051020,Seberang Ulu Satu
-1671051021,Kertapati
-1671051022,Jakabaring
-1671051030,Seberang Ulu Dua
-1671051031,Plaju
-1671051040,Ilir Barat Satu
-1671051041,Bukitkecil
-1671051050,Ilir Timur Satu
-1671051051,Kemuning
-1671051060,Ilir Timur Dua
-1671051061,Kalidoni
-1671051062,Ilir Timur Tiga
-1671051070,Sako
-1671051071,Sematangborang
-1671051080,Sukarami
-1671051081,Alang-alang Lebar
+1671051001,Sekipjaya
+1671051002,Pahlawan
+1671051003,Dua-puluh Ilir Dua
+1671051004,Pipareja
+1671051005,Talangaman
+1671051006,Ario Kemuning
 1671060,Ilir Timur Dua
-1671060010,Ilir Barat Dua
-1671060011,Gandus
-1671060020,Seberang Ulu Satu
-1671060021,Kertapati
-1671060022,Jakabaring
-1671060030,Seberang Ulu Dua
-1671060031,Plaju
-1671060040,Ilir Barat Satu
-1671060041,Bukitkecil
-1671060050,Ilir Timur Satu
-1671060051,Kemuning
-1671060060,Ilir Timur Dua
-1671060061,Kalidoni
-1671060062,Ilir Timur Tiga
-1671060070,Sako
-1671060071,Sematangborang
-1671060080,Sukarami
-1671060081,Alang-alang Lebar
+1671060004,Lawangkidul
+1671060005,Tiga Ilir
+1671060006,Satu Ilir
+1671060007,Sungaibuah
+1671060008,Dua Ilir
+1671060009,Lima Ilir
 1671061,Kalidoni
-1671061010,Ilir Barat Dua
-1671061011,Gandus
-1671061020,Seberang Ulu Satu
-1671061021,Kertapati
-1671061022,Jakabaring
-1671061030,Seberang Ulu Dua
-1671061031,Plaju
-1671061040,Ilir Barat Satu
-1671061041,Bukitkecil
-1671061050,Ilir Timur Satu
-1671061051,Kemuning
-1671061060,Ilir Timur Dua
-1671061061,Kalidoni
-1671061062,Ilir Timur Tiga
-1671061070,Sako
-1671061071,Sematangborang
-1671061080,Sukarami
-1671061081,Alang-alang Lebar
+1671061001,Sungailais
+1671061002,Sungaiselincah
+1671061003,Sungaiselayur
+1671061004,Kalidoni
+1671061005,Bukitsangkal
 1671062,Ilir Timur Tiga
-1671062010,Ilir Barat Dua
-1671062011,Gandus
-1671062020,Seberang Ulu Satu
-1671062021,Kertapati
-1671062022,Jakabaring
-1671062030,Seberang Ulu Dua
-1671062031,Plaju
-1671062040,Ilir Barat Satu
-1671062041,Bukitkecil
-1671062050,Ilir Timur Satu
-1671062051,Kemuning
-1671062060,Ilir Timur Dua
-1671062061,Kalidoni
-1671062062,Ilir Timur Tiga
-1671062070,Sako
-1671062071,Sematangborang
-1671062080,Sukarami
-1671062081,Alang-alang Lebar
+1671062001,Sepuluh Ilir
+1671062002,Sebelas Ilir
+1671062003,Kutobatu
+1671062004,Duku
+1671062005,Sembilan Ilir
+1671062006,Delapan Ilir
 1671070,Sako
-1671070010,Ilir Barat Dua
-1671070011,Gandus
-1671070020,Seberang Ulu Satu
-1671070021,Kertapati
-1671070022,Jakabaring
-1671070030,Seberang Ulu Dua
-1671070031,Plaju
-1671070040,Ilir Barat Satu
-1671070041,Bukitkecil
-1671070050,Ilir Timur Satu
-1671070051,Kemuning
-1671070060,Ilir Timur Dua
-1671070061,Kalidoni
-1671070062,Ilir Timur Tiga
-1671070070,Sako
-1671070071,Sematangborang
-1671070080,Sukarami
-1671070081,Alang-alang Lebar
+1671070001,Sukamaju
+1671070002,Sialang
+1671070003,Sako
+1671070007,Sako Baru
 1671071,Sematangborang
-1671071010,Ilir Barat Dua
-1671071011,Gandus
-1671071020,Seberang Ulu Satu
-1671071021,Kertapati
-1671071022,Jakabaring
-1671071030,Seberang Ulu Dua
-1671071031,Plaju
-1671071040,Ilir Barat Satu
-1671071041,Bukitkecil
-1671071050,Ilir Timur Satu
-1671071051,Kemuning
-1671071060,Ilir Timur Dua
-1671071061,Kalidoni
-1671071062,Ilir Timur Tiga
-1671071070,Sako
-1671071071,Sematangborang
-1671071080,Sukarami
-1671071081,Alang-alang Lebar
+1671071001,Lebung-gajah
+1671071002,Srimulya
+1671071003,Sukamulya
+1671071004,Karyamulya
 1671080,Sukarami
-1671080010,Ilir Barat Dua
-1671080011,Gandus
-1671080020,Seberang Ulu Satu
-1671080021,Kertapati
-1671080022,Jakabaring
-1671080030,Seberang Ulu Dua
-1671080031,Plaju
-1671080040,Ilir Barat Satu
-1671080041,Bukitkecil
-1671080050,Ilir Timur Satu
-1671080051,Kemuning
-1671080060,Ilir Timur Dua
-1671080061,Kalidoni
-1671080062,Ilir Timur Tiga
-1671080070,Sako
-1671080071,Sematangborang
-1671080080,Sukarami
-1671080081,Alang-alang Lebar
+1671080002,Sukabangun
+1671080003,Sukajaya
+1671080004,Sukarami
+1671080008,Kebunbunga
+1671080009,Talangbetutu
+1671080010,Sukodadi
+1671080011,Talangjambe
 1671081,Alang-alang Lebar
-1671081010,Ilir Barat Dua
-1671081011,Gandus
-1671081020,Seberang Ulu Satu
-1671081021,Kertapati
-1671081022,Jakabaring
-1671081030,Seberang Ulu Dua
-1671081031,Plaju
-1671081040,Ilir Barat Satu
-1671081041,Bukitkecil
-1671081050,Ilir Timur Satu
-1671081051,Kemuning
-1671081060,Ilir Timur Dua
-1671081061,Kalidoni
-1671081062,Ilir Timur Tiga
-1671081070,Sako
-1671081071,Sematangborang
-1671081080,Sukarami
-1671081081,Alang-alang Lebar
+1671081001,Srijaya
+1671081002,Karyabaru
+1671081003,Talangkelapa
+1671081004,Alang-alang Lebar
 1672,Prabumulih
 1672010,Rambang Kapak Tengah
-1672010010,Rambang Kapak Tengah
-1672010020,Prabumulih Timur
-1672010021,Prabumulih Selatan
-1672010030,Prabumulih Barat
-1672010031,Prabumulih Utara
-1672010040,Cambai
+1672010001,Rambang Senuling
+1672010002,Tanjung Rambang
+1672010003,Karang Bindu
+1672010005,Karya Mulya
+1672010006,Sinar Rambang
+1672010007,Jungai
+1672010008,Talang Batu
+1672010009,Karangan
+1672010010,Kemang Tanduk
 1672020,Prabumulih Timur
-1672020010,Rambang Kapak Tengah
-1672020020,Prabumulih Timur
-1672020021,Prabumulih Selatan
-1672020030,Prabumulih Barat
-1672020031,Prabumulih Utara
-1672020040,Cambai
+1672020003,Karang Raja
+1672020004,Muara Dua
+1672020005,Gunung Ibul Barat
+1672020006,Gunung Ibul
+1672020007,Karang Jaya
+1672020008,Tugu Kecil
+1672020009,Prabu Jaya
+1672020010,Sukajadi
 1672021,Prabumulih Selatan
-1672021010,Rambang Kapak Tengah
-1672021020,Prabumulih Timur
-1672021021,Prabumulih Selatan
-1672021030,Prabumulih Barat
-1672021031,Prabumulih Utara
-1672021040,Cambai
+1672021001,Tanjung Menang
+1672021002,Tanjung Raman
+1672021003,Sukaraja
+1672021004,Majasari
 1672030,Prabumulih Barat
-1672030010,Rambang Kapak Tengah
-1672030020,Prabumulih Timur
-1672030021,Prabumulih Selatan
-1672030030,Prabumulih Barat
-1672030031,Prabumulih Utara
-1672030040,Cambai
+1672030001,Gunung Kemala
+1672030002,Patih Galung
+1672030003,Prabumulih
+1672030008,Muntang Tapus
+1672030011,Payuputat
+1672030012,Tanjung Telang
 1672031,Prabumulih Utara
-1672031010,Rambang Kapak Tengah
-1672031020,Prabumulih Timur
-1672031021,Prabumulih Selatan
-1672031030,Prabumulih Barat
-1672031031,Prabumulih Utara
-1672031040,Cambai
+1672031001,Wonosari
+1672031002,Pasar Prabumulih
+1672031003,Mangga Besar
+1672031004,Anak Petai
+1672031005,Pasar Ii Prabumulih
 1672040,Cambai
-1672040010,Rambang Kapak Tengah
-1672040020,Prabumulih Timur
-1672040021,Prabumulih Selatan
-1672040030,Prabumulih Barat
-1672040031,Prabumulih Utara
-1672040040,Cambai
+1672040003,Sungai Medang
+1672040004,Muara Sungai
+1672040005,Cambai
+1672040006,Sindur
+1672040007,Pangkul
 1673,Pagar Alam
 1673010,Dempo Selatan
-1673010010,Dempo Selatan
-1673010011,Dempo Tengah
-1673010020,Dempo Utara
-1673010030,Pagar Alam Selatan
-1673010040,Pagar Alam Utara
+1673010001,Penjalang
+1673010002,Lubuk Buntak
+1673010003,Perahu Dipo
+1673010004,Kance Diwe
+1673010005,Atung Bungsu
 1673011,Dempo Tengah
-1673011010,Dempo Selatan
-1673011011,Dempo Tengah
-1673011020,Dempo Utara
-1673011030,Pagar Alam Selatan
-1673011040,Pagar Alam Utara
+1673011001,Candi Jaya
+1673011002,Jokoh
+1673011003,Pelang Kenidai
+1673011004,Padang Temu
+1673011005,Karang Dalo
 1673020,Dempo Utara
-1673020010,Dempo Selatan
-1673020011,Dempo Tengah
-1673020020,Dempo Utara
-1673020030,Pagar Alam Selatan
-1673020040,Pagar Alam Utara
+1673020001,Burung Dinang
+1673020002,Muara Siban
+1673020003,Reba Tinggi
+1673020004,Jangkar Mas
+1673020005,Pagar Wangi
+1673020006,Bumi Agung
+1673020007,Agung Lawangan
 1673030,Pagar Alam Selatan
-1673030010,Dempo Selatan
-1673030011,Dempo Tengah
-1673030020,Dempo Utara
-1673030030,Pagar Alam Selatan
-1673030040,Pagar Alam Utara
+1673030001,Tanjung Agung
+1673030002,Ulu Rurah
+1673030003,Tumbak Ulas
+1673030004,Basemah Serasan
+1673030005,Tebat Giri Indah
+1673030006,Sidorejo
+1673030007,Nendagung
+1673030008,Gunung Dempo
 1673040,Pagar Alam Utara
-1673040010,Dempo Selatan
-1673040011,Dempo Tengah
-1673040020,Dempo Utara
-1673040030,Pagar Alam Selatan
-1673040040,Pagar Alam Utara
+1673040001,Dempo Makmur
+1673040002,Bangun Rejo
+1673040003,Curup Jare
+1673040004,Pagar Alam
+1673040005,Sukorejo
+1673040006,Bangun Jaya
+1673040007,Beringin Jaya
+1673040008,Alun Dua
+1673040009,Kuripan Babas
+1673040010,Selibar
 1674,Lubuklinggau
 1674011,Lubuk Linggau Barat I
-1674011011,Lubuk Linggau Barat I
-1674011012,Lubuk Linggau Barat Ii
-1674011021,Lubuk Linggau Selatan I
-1674011022,Lubuk Linggau Selatan Ii
-1674011031,Lubuk Linggau Timur I
-1674011032,Lubuk Linggau Timur Ii
-1674011041,Lubuk Linggau Utara I
-1674011042,Lubuk Linggau Utara Ii
+1674011001,Kayu Ara
+1674011002,Watas Lubuk Durian
+1674011003,Lubuk Tanjung
+1674011004,Tanjung Indah
+1674011005,Tanjung Aman
+1674011006,Lubuk Aman
+1674011007,Pelita Jaya
+1674011008,Bandung Ujung
+1674011009,Bandung Kiri
+1674011010,Sukajadi
+1674011011,Muara Enim
 1674012,Lubuk Linggau Barat Ii
-1674012011,Lubuk Linggau Barat I
-1674012012,Lubuk Linggau Barat Ii
-1674012021,Lubuk Linggau Selatan I
-1674012022,Lubuk Linggau Selatan Ii
-1674012031,Lubuk Linggau Timur I
-1674012032,Lubuk Linggau Timur Ii
-1674012041,Lubuk Linggau Utara I
-1674012042,Lubuk Linggau Utara Ii
+1674012001,Sidorejo
+1674012002,Tapak Lebar
+1674012003,Ulak Lebar
+1674012004,Bandung Kanan
+1674012005,Keputeraan
+1674012006,Lubuk Linggau Ulu
+1674012007,Lubuk Linggau Ilir
+1674012008,Pasar Permiri
 1674021,Lubuk Linggau Selatan I
-1674021011,Lubuk Linggau Barat I
-1674021012,Lubuk Linggau Barat Ii
-1674021021,Lubuk Linggau Selatan I
-1674021022,Lubuk Linggau Selatan Ii
-1674021031,Lubuk Linggau Timur I
-1674021032,Lubuk Linggau Timur Ii
-1674021041,Lubuk Linggau Utara I
-1674021042,Lubuk Linggau Utara Ii
+1674021001,Rahma
+1674021002,Perumnas Rahma
+1674021003,Jukung
+1674021004,Air Kati
+1674021005,Lubuk Binjai
+1674021006,Lubuk Kupang
+1674021007,Air Temam
 1674022,Lubuk Linggau Selatan Ii
-1674022011,Lubuk Linggau Barat I
-1674022012,Lubuk Linggau Barat Ii
-1674022021,Lubuk Linggau Selatan I
-1674022022,Lubuk Linggau Selatan Ii
-1674022031,Lubuk Linggau Timur I
-1674022032,Lubuk Linggau Timur Ii
-1674022041,Lubuk Linggau Utara I
-1674022042,Lubuk Linggau Utara Ii
+1674022001,Taba Pingin
+1674022002,Moneng Sepati
+1674022003,Marga Mulya
+1674022004,Marga Rahayu
+1674022005,Tanah Periuk
+1674022006,Simpang Periuk
+1674022007,Karang Ketuan
+1674022008,Eka Marga
+1674022009,Siring Agung
 1674031,Lubuk Linggau Timur I
-1674031011,Lubuk Linggau Barat I
-1674031012,Lubuk Linggau Barat Ii
-1674031021,Lubuk Linggau Selatan I
-1674031022,Lubuk Linggau Selatan Ii
-1674031031,Lubuk Linggau Timur I
-1674031032,Lubuk Linggau Timur Ii
-1674031041,Lubuk Linggau Utara I
-1674031042,Lubuk Linggau Utara Ii
+1674031001,Taba Jemekeh
+1674031002,Taba Koji
+1674031003,Batu Urip Taba
+1674031004,Watervang
+1674031005,Majapahit
+1674031006,Air Kuti
+1674031007,Nikan Jaya
+1674031008,Taba Lestari
 1674032,Lubuk Linggau Timur Ii
-1674032011,Lubuk Linggau Barat I
-1674032012,Lubuk Linggau Barat Ii
-1674032021,Lubuk Linggau Selatan I
-1674032022,Lubuk Linggau Selatan Ii
-1674032031,Lubuk Linggau Timur I
-1674032032,Lubuk Linggau Timur Ii
-1674032041,Lubuk Linggau Utara I
-1674032042,Lubuk Linggau Utara Ii
+1674032001,Mesat Jaya
+1674032002,Mesat Seni
+1674032003,Jawa Kanan
+1674032004,Jawa Kanan Ss
+1674032005,Jawa Kiri
+1674032006,Wira Karya
+1674032007,Dempo
+1674032008,Karya Bhakti
+1674032009,Cereme Taba
 1674041,Lubuk Linggau Utara I
-1674041011,Lubuk Linggau Barat I
-1674041012,Lubuk Linggau Barat Ii
-1674041021,Lubuk Linggau Selatan I
-1674041022,Lubuk Linggau Selatan Ii
-1674041031,Lubuk Linggau Timur I
-1674041032,Lubuk Linggau Timur Ii
-1674041041,Lubuk Linggau Utara I
-1674041042,Lubuk Linggau Utara Ii
+1674041001,Sumber Agung
+1674041002,Petanang Ulu
+1674041003,Petanang Ilir
+1674041004,Belalau I
+1674041005,Belalau Ii
+1674041006,Taba Baru
+1674041007,Margo Rejo
+1674041008,Marga Bakti
+1674041009,Durian Rampak
+1674041010,Tanjung Raya
 1674042,Lubuk Linggau Utara Ii
-1674042011,Lubuk Linggau Barat I
-1674042012,Lubuk Linggau Barat Ii
-1674042021,Lubuk Linggau Selatan I
-1674042022,Lubuk Linggau Selatan Ii
-1674042031,Lubuk Linggau Timur I
-1674042032,Lubuk Linggau Timur Ii
-1674042041,Lubuk Linggau Utara I
-1674042042,Lubuk Linggau Utara Ii
+1674042001,Ulak Surung
+1674042002,Pasar Satelit
+1674042003,Kenanga
+1674042004,Senalang
+1674042005,Batu Urip
+1674042006,Megang
+1674042007,Ponorogo
+1674042008,Jogoboyo
+1674042009,Puncak Kemuning
+1674042010,Kali Serayu
