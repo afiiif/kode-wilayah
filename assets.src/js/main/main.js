@@ -1,13 +1,12 @@
-$(() => {
+document.addEventListener('DOMContentLoaded', function () {
 
-	const $el = {
-		body: $('body'),
-		search: $('#search'),
-		result: $('#result'),
-		result_loading: $('#result-loading'),
-		result_summary: $('#result-summary'),
-		result_table: $('#result-table'),
-		result_table_body: $('#result-table-body'),
+	const ELM = {
+		body: document.getElementsByTagName('body')[0],
+		search: document.getElementById('search'),
+		result_loading: document.getElementById('result-loading'),
+		result_summary: document.getElementById('result-summary'),
+		result_table: document.getElementById('result-table'),
+		result_table_body: document.getElementById('result-table-body'),
 	}
 
 	var mfd = [],
@@ -15,168 +14,137 @@ $(() => {
 		setting = {
 			level: [0, 1, 2, 3],
 			prov: null,
-		};
+		},
+		mrk = new Mark(ELM.result_table_body);
 
-	$.ajax({
-		url: 'assets/csv/mfd.csv',
-		success: res => {
-			dbg('Response:', 2);
-			console.info(res);
-			if (res.startsWith('11,')) {
+	{
+		let request = new XMLHttpRequest();
+		request.open('GET', 'assets/csv/mfd.csv', true);
+		request.onload = function () {
+			let { response: res, status } = this;
+			if (status >= 200 && status < 400 && res.startsWith('11,')) {
 				res.split('\n').forEach(a => {
 					let [full_id, name] = a.split(','),
 						id = '',
 						parent_id = '';
-					if (full_id.length === 2) {
-						id = full_id;
-						parent_id = '';
-					}
-					else if (full_id.length === 4) {
-						id = full_id.substr(2, 2);
-						parent_id = full_id.substr(0, 2);
-					}
-					else if (full_id.length === 7) {
-						id = full_id.substr(4, 3);
-						parent_id = full_id.substr(0, 4);
-					}
-					else if (full_id.length === 10) {
-						id = full_id.substr(7, 3);
-						parent_id = full_id.substr(0, 7);
-					}
+					if (full_id.length === 2) { id = full_id; parent_id = ''; }
+					else if (full_id.length === 4) { id = full_id.substr(2, 2); parent_id = full_id.substr(0, 2); }
+					else if (full_id.length === 7) { id = full_id.substr(4, 3); parent_id = full_id.substr(0, 4); }
+					else if (full_id.length === 10) { id = full_id.substr(7, 3); parent_id = full_id.substr(0, 7); }
 					else return false;
 					mfd.push({ id, parent_id, name });
+					document.getElementById('loading').style.display = 'none';
+					document.getElementById('search-form-wrapper-outer').className = 'search-form-wrapper-outer animated animated-1s bounceIn';
+					document.getElementById('explore-wrapper').className = 'explore-wrapper animated animated-1s bounceInUp';
+					ELM.search.focus();
 				});
-				console.info({ mfd });
-				$('#loading').hide();
-				$('#search-form-wrapper-outer').toggleClass('d-none animated animated-1s bounceIn');
-				$('#explore-wrapper').toggleClass('d-none animated animated-1s bounceInUp');
-				$('#search').focus();
+			} else {
+				document.getElementById('loading').innerHTML = '<div class="animated animated-1s swing delay-1s"><i class="icon-exclamation mr-35"></i>Terjadi kesalahan :(</div>';
+				setTimeout(() => { document.getElementsByTagName('header')[0].className = 'bg-danger-gradient pb-6'; }, 1000);
+			}
+		};
+		request.onerror = function () {
+			document.getElementById('loading').innerHTML = '<div class="animated animated-1s swing delay-1s"><i class="icon-exclamation mr-35"></i>Terjadi kesalahan :(</div>';
+			setTimeout(() => { document.getElementsByTagName('header')[0].className = 'bg-danger-gradient pb-6'; }, 1000);
+		};
+		request.send();
+	}
+
+	// Search
+	ELM.search.addEventListener('keypress', function (e) { if (e.which === 13) search(ELM.search.value); }, false);
+	document.getElementById('search-btn').addEventListener('click', function () { search(ELM.search.value); }, false);
+	const search = keyword => {
+		let keys = [...new Set(keyword.trim().toLowerCase().split(/[\s,]+/))].filter(a => a.length);
+		dbg('Search: ' + keyword);
+		console.info(keys);
+		if (keys.filter(a => a.length > 2).length || keys.filter(a => a.length > 1).length > 1 || keys.length > 3) {
+			dbg('Keyword valid :)', 1);
+			let findById = keys.length === 1 && /^\d{4,10}$/.test(keys[0]);
+			if (slided) {
+				ELM.result_table.style.display = 'none';
+				ELM.result_loading.style.display = '';
+				mrk.unmark();
+				setTimeout(() => {
+					mfd.forEach((a, i) => {
+						let nameLowerCase = a.name.toLocaleLowerCase();
+						if (keys.every(k => nameLowerCase.includes(k))) {
+							ELM.result_table_body.children[i].classList.remove('d-none');
+							ELM.result_table_body.children[i].style.display = '';
+						}
+						else if (findById && keys[0] === a.id) {
+							ELM.result_table_body.children[i].classList.remove('d-none');
+							ELM.result_table_body.children[i].style.display = '';
+						}
+						else {
+							ELM.result_table_body.children[i].classList.add('d-none');
+						}
+					});
+					ELM.result_loading.style.display = 'none';
+					ELM.result_table.style.display = '';
+				}, 100);
 			}
 			else {
-				console.error('Invalid response :(');
-				$('#loading').html('<div class="animated animated-1s swing delay-1s"><i class="icon-exclamation mr-35"></i>Terjadi kesalahan :(</div>');
-				setTimeout(() => { $('header').toggleClass('bg-primary-gradient bg-danger-gradient'); }, 1000);
+				// Generate DOM: all but not all displayed
 			}
-		},
-		error: e => {
-			console.warn(e.status, e.statusText);
-			if (DEV) console.error({ responseText: e.responseText });
-			console.error('Invalid response :(');
-			$('#loading').html('<div class="animated animated-1s swing delay-1s"><i class="icon-exclamation mr-35"></i>Terjadi kesalahan :(</div>');
-			setTimeout(() => { $('header').toggleClass('bg-primary-gradient bg-danger-gradient'); }, 1000);
-		}
-	});
-
-	{
-		$el.search.keypress(function (e) {
-			if (e.which === 13) search($el.search.val());
-		});
-
-		$('#search-btn').click(function () {
-			search($el.search.val());
-		});
-
-		$('#explore-btn').click(function () {
-			dbg('Explore...');
-			$el.search.val('');
-			loading();
-			setTimeout(() => {
-				generateResult({ mfd, expand: false });
-			}, slided ? 100 : 500);
-		});
-
-		$el.result_table_body.on('click', 'td', function () {
-			let id = $(this).parent().data('id'),
-				collapsed = !$(this).parent().toggleClass('toggle-expanded').hasClass('toggle-expanded');
-			if (collapsed) $(`[data-parent-id^="${id}"]`).removeClass('toggle-expanded').hide();
-			else $(`[data-parent-id="${id}"]`).show();
-		});
-	}
-
-	const search = keyword => {
-
-		dbg('Search: ' + keyword);
-
-		// TODO: Sanitize keyword
-		keyword = keyword.toLocaleLowerCase();
-
-
-
-		// TODO: Check if keyword valid
-
-
-
-		if (true) { // if valid
-			loading();
-			setTimeout(() => {
-				let mfd_filtered = mfd.filter(a => a.name.toLocaleLowerCase().includes(keyword));
-				generateResult({ mfd: mfd_filtered, highlight: [keyword] });
-				// $('.lv-1,.lv-2,.lv-3').hide();
-				$el.result_summary.html(`<div>Menemukan ... hasil</div>`).show();
-			}, slided ? 100 : 500);
-		}
-		else { // if invalid
-		}
-
-	}
-
-	const loading = (a = true) => {
-		if (a) {
-			$el.result_loading.show();
-			$el.result_summary.hide();
-			$el.result_table.hide();
-			$el.body.addClass('search-active');
-			$el.result.slideDown();
+			keys.forEach(a => mrk.mark(a));
 		}
 		else {
-			$el.result_loading.hide();
-			$el.result_table.show();
-			slided = true;
+			//
+			// Error message
+			//
 		}
 	}
 
-	const generateResult = ({ mfd, highlight = [], expand = true }) => {
-		let collapsed = [],
-			getProps = expand ?
-				(lv, { expand = true, show = true }) => (lv < 3 ? `class="lv-${lv} toggle${expand ? ' toggle-expanded' : ''}"${show ? '' : ' style="display:none"'}` : `class="lv-3"${show ? '' : ' style="display:none"'}`) :
-				lv => (lv ? (lv < 3 ? `class="lv-${lv} toggle" style="display: none"` : 'class="lv-3" style="display: none"') : `class="lv-0 toggle"`),
-			html = mfd.map(a => /*html*/`
-				<tr ${getProps(({ 0: 0, 2: 1, 4: 2, 7: 3 })[a.parent_id.length], { expand: a.expand, show: a.show })} data-id="${a.parent_id + a.id}" data-parent-id="${a.parent_id}">
-					<td>${a.parent_id}<b>${a.id}</b></td>
-					<td>${a.name}</td>
-				</tr>
-			`).join('');
-		$el.result_table_body.html(html);
-		highlight.forEach(a => { $el.result_table_body.mark(a); });
-		loading(false);
-	}
-
-	{
-		$('#setting-btn').click(function () {
-
-			dbg('Setting button clicked!');
-
-			// TODO: Open setting popup
-
-
-
-		});
-
-		const updateSetting = (newSetting = false) => {
-			if (newSetting) {
-
-				// TODO: Update setting
-
-
-
-			}
-			else {
-				setting = {
-					level: [0, 1, 2, 3],
-					prov: null,
+	// Explore
+	document.getElementById('explore-btn').addEventListener('click', function () {
+		ELM.search.value = '';
+		if (slided) {
+			ELM.result_table.style.display = 'none';
+			ELM.result_loading.style.display = '';
+			mrk.unmark();
+			setTimeout(() => {
+				for (let a of ELM.result_table_body.children) {
+					if (a.classList.contains('lv-0')) {
+						a.classList.remove('toggle-expanded', 'd-none');
+						a.style.display = '';
+					}
+					else {
+						a.classList.remove('toggle-expanded', 'd-none');
+						a.style.display = 'none';
+					}
 				}
+				ELM.result_loading.style.display = 'none';
+				ELM.result_table.style.display = '';
+			}, 100);
+		}
+		else {
+			ELM.body.classList.add('search-active');
+			$('#result').slideDown();
+			slided = true;
+			setTimeout(() => {
+				let html_tr = ({ id, parent_id, name }, lv) => `
+					<tr ${lv === 0 ? 'class="lv-0 toggle"' : (lv === 3 ? 'class="lv-3" style="display:none"' : `class="lv-${lv} toggle" style="display:none"`)} data-id="${parent_id + id}" data-parent-id="${parent_id}">
+						<td>${parent_id}<b>${id}</b></td>
+						<td>${name}</td>
+					</tr>`;
+				ELM.result_table_body.innerHTML = mfd.map(a => html_tr(a, ({ 0: 0, 2: 1, 4: 2, 7: 3 })[a.parent_id.length])).join('');
+				ELM.result_loading.style.display = 'none';
+				ELM.result_table.style.display = '';
+			}, 500);
+		}
+	}, false);
+
+	// Toggle
+	ELM.result_table_body.addEventListener('click', function (e) {
+		for (var target = e.target; target && target != this; target = target.parentNode) {
+			if (target.matches('tr')) {
+				let id = target.dataset.id;
+				target.classList.toggle('toggle-expanded');
+				if (target.classList.contains('toggle-expanded')) document.querySelectorAll(`[data-parent-id="${id}"]`).forEach(a => { a.style.display = ''; });
+				else document.querySelectorAll(`[data-parent-id^="${id}"]`).forEach(a => { a.classList.remove('toggle-expanded'); a.style.display = 'none'; });
+				break;
 			}
 		}
-	}
+	}, false);
 
 });
