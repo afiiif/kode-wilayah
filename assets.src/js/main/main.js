@@ -10,12 +10,11 @@ document.addEventListener('DOMContentLoaded', function () {
 	}
 
 	var mfd = [],
-		slided = false,
 		setting = {
 			level: [0, 1, 2, 3],
 			prov: null,
 		},
-		mrk = new Mark(ELM.result_table_body);
+		markInstance = new Mark(ELM.result_table_body);
 
 	{
 		let request = new XMLHttpRequest();
@@ -23,21 +22,37 @@ document.addEventListener('DOMContentLoaded', function () {
 		request.onload = function () {
 			let { response: res, status } = this;
 			if (status >= 200 && status < 400 && res.startsWith('11,')) {
+
+				let i = -1, j = -1, k = -1;
 				res.split('\n').forEach(a => {
 					let [full_id, name] = a.split(','),
 						id = '',
 						parent_id = '';
-					if (full_id.length === 2) { id = full_id; parent_id = ''; }
-					else if (full_id.length === 4) { id = full_id.substr(2, 2); parent_id = full_id.substr(0, 2); }
-					else if (full_id.length === 7) { id = full_id.substr(4, 3); parent_id = full_id.substr(0, 4); }
-					else if (full_id.length === 10) { id = full_id.substr(7, 3); parent_id = full_id.substr(0, 7); }
-					else return false;
-					mfd.push({ id, parent_id, name });
-					document.getElementById('loading').style.display = 'none';
-					document.getElementById('search-form-wrapper-outer').className = 'search-form-wrapper-outer animated animated-1s bounceIn';
-					document.getElementById('explore-wrapper').className = 'explore-wrapper animated animated-1s bounceInUp';
-					ELM.search.focus();
+
+					if (full_id.length === 2) { // Provinsi
+						mfd.push({ id: full_id, parent_id: 0, full_id, name, name_lc: name.toLowerCase(), lv: 0, ch: [] });
+						i++; j = -1; k = -1;
+					}
+					else if (full_id.length === 4) { // Kabupaten/kota
+						mfd[i].ch.push({ id: full_id.substr(2, 2), parent_id: full_id.substr(0, 2), full_id, name, name_lc: name.toLowerCase(), lv: 1, ch: [] });
+						j++; k = -1;
+					}
+					else if (full_id.length === 7) { // Kecamatan
+						mfd[i].ch[j].ch.push({ id: full_id.substr(4, 3), parent_id: full_id.substr(0, 4), full_id, name, name_lc: name.toLowerCase(), lv: 2, ch: [] });
+						k++;
+					}
+					else if (full_id.length === 10) { // Desa/Keluarahan
+						mfd[i].ch[j].ch[k].ch.push({ id: full_id.substr(7, 3), parent_id: full_id.substr(0, 7), full_id, name, name_lc: name.toLowerCase(), lv: 3 });
+					}
+
 				});
+
+				console.info(mfd);
+				document.getElementById('loading').style.display = 'none';
+				document.getElementById('search-form-wrapper-outer').className = 'search-form-wrapper-outer animated animated-1s bounceIn';
+				document.getElementById('explore-wrapper').className = 'explore-wrapper animated animated-1s bounceInUp';
+				ELM.search.focus();
+
 			} else {
 				document.getElementById('loading').innerHTML = '<div class="animated animated-1s swing delay-1s"><i class="icon-exclamation mr-35"></i>Terjadi kesalahan :(</div>';
 				setTimeout(() => { document.getElementsByTagName('header')[0].className = 'bg-danger-gradient pb-6'; }, 1000);
@@ -54,43 +69,74 @@ document.addEventListener('DOMContentLoaded', function () {
 	ELM.search.addEventListener('keypress', function (e) { if (e.which === 13) search(ELM.search.value); }, false);
 	document.getElementById('search-btn').addEventListener('click', function () { search(ELM.search.value); }, false);
 	const search = keyword => {
+
 		let keys = [...new Set(keyword.trim().toLowerCase().split(/[\s,]+/))].filter(a => a.length);
 		dbg('Search: ' + keyword);
 		console.info(keys);
+
 		if (keys.filter(a => a.length > 2).length || keys.filter(a => a.length > 1).length > 1 || keys.length > 3) {
-			dbg('Keyword valid :)', 1);
-			let findById = keys.length === 1 && /^\d{4,10}$/.test(keys[0]);
-			if (slided) {
-				ELM.result_table.style.display = 'none';
-				ELM.result_loading.style.display = '';
-				mrk.unmark();
-				setTimeout(() => {
-					mfd.forEach((a, i) => {
-						let nameLowerCase = a.name.toLocaleLowerCase();
-						if (keys.every(k => nameLowerCase.includes(k))) {
-							ELM.result_table_body.children[i].classList.remove('d-none');
-							ELM.result_table_body.children[i].style.display = '';
+			dbg('Good keyword :)', 1);
+			let findById = keys.length === 1 && /^\d{4,10}$/.test(keys[0]),
+				tree = $.extend(true, [], mfd);
+			tree.forEach(a => {
+				if (keys.every(key => a.name_lc.includes(key))) {
+					a.display = 0;
+				}
+				a.ch.forEach(b => {
+					if (keys.every(key => b.name_lc.includes(key))) {
+						b.display = 0;
+						a.display = 1;
+					}
+					b.ch.forEach(c => {
+						if (keys.every(key => c.name_lc.includes(key))) {
+							c.display = 0;
+							b.display = 1;
+							a.display = 1;
 						}
-						else if (findById && keys[0] === a.id) {
-							ELM.result_table_body.children[i].classList.remove('d-none');
-							ELM.result_table_body.children[i].style.display = '';
-						}
-						else {
-							ELM.result_table_body.children[i].classList.add('d-none');
-						}
+						c.ch.forEach(d => {
+							if (keys.every(key => d.name_lc.includes(key))) {
+								d.display = 0;
+								c.display = 1;
+								b.display = 1;
+								a.display = 1;
+							};
+						});
 					});
-					ELM.result_loading.style.display = 'none';
-					ELM.result_table.style.display = '';
-				}, 100);
-			}
-			else {
-				// Generate DOM: all but not all displayed
-			}
-			keys.forEach(a => mrk.mark(a));
+				});
+			});
+			ELM.result_table.style.display = 'none';
+			ELM.result_loading.style.display = '';
+			setTimeout(() => {
+				let html = '';
+				const getTr = ({ display, full_id, parent_id, id, name, lv }) => {
+					if (display === 0) return `<tr class="lv-${lv}" data-fid="${full_id}" data-parent="${parent_id}"><td>${parent_id}<b>${id}</b></td><td>${name}</td></tr>`;
+					if (display === 1) return `<tr class="lv-${lv} toggle toggle-expanded" data-fid="${full_id}" data-parent="${parent_id}"><td>${parent_id}<b>${id}</b></td><td>${name}</td></tr>`;
+					return ``;
+				}
+				tree.forEach(a => {
+					html += getTr(a);
+					a.ch.forEach(b => {
+						html += getTr(b);
+						b.ch.forEach(c => {
+							html += getTr(c);
+							c.ch.forEach(d => {
+								html += getTr(d);
+							});
+						});
+					});
+				});
+				ELM.result_table_body.innerHTML = html;
+				ELM.result_loading.style.display = 'none';
+				ELM.result_table.style.display = '';
+				keys.forEach(a => markInstance.mark(a));
+			}, ELM.body.classList.contains('search-active') ? 200 : 500);
+			ELM.body.classList.add('search-active');
+			$('#result').slideDown();
 		}
 		else {
+			dbg('Bad keyword :(', 1);
 			//
-			// Error message
+			// TODO: Error message
 			//
 		}
 	}
@@ -98,50 +144,37 @@ document.addEventListener('DOMContentLoaded', function () {
 	// Explore
 	document.getElementById('explore-btn').addEventListener('click', function () {
 		ELM.search.value = '';
-		if (slided) {
-			ELM.result_table.style.display = 'none';
-			ELM.result_loading.style.display = '';
-			mrk.unmark();
-			setTimeout(() => {
-				for (let a of ELM.result_table_body.children) {
-					if (a.classList.contains('lv-0')) {
-						a.classList.remove('toggle-expanded', 'd-none');
-						a.style.display = '';
-					}
-					else {
-						a.classList.remove('toggle-expanded', 'd-none');
-						a.style.display = 'none';
-					}
-				}
-				ELM.result_loading.style.display = 'none';
-				ELM.result_table.style.display = '';
-			}, 100);
-		}
-		else {
-			ELM.body.classList.add('search-active');
-			$('#result').slideDown();
-			slided = true;
-			setTimeout(() => {
-				let html_tr = ({ id, parent_id, name }, lv) => `
-					<tr ${lv === 0 ? 'class="lv-0 toggle"' : (lv === 3 ? 'class="lv-3" style="display:none"' : `class="lv-${lv} toggle" style="display:none"`)} data-id="${parent_id + id}" data-parent-id="${parent_id}">
-						<td>${parent_id}<b>${id}</b></td>
-						<td>${name}</td>
-					</tr>`;
-				ELM.result_table_body.innerHTML = mfd.map(a => html_tr(a, ({ 0: 0, 2: 1, 4: 2, 7: 3 })[a.parent_id.length])).join('');
-				ELM.result_loading.style.display = 'none';
-				ELM.result_table.style.display = '';
-			}, 500);
-		}
+		ELM.result_table.style.display = 'none';
+		ELM.result_loading.style.display = '';
+		setTimeout(() => {
+			ELM.result_table_body.innerHTML = mfd.map((a, i) => `<tr class="lv-0 toggle toggle-explore" data-i="${i}" data-j="" data-k="" data-fid="${a.full_id}"><td><b>${a.id}</b></td><td>${a.name}</td></tr>`).join('');
+			ELM.result_loading.style.display = 'none';
+			ELM.result_table.style.display = '';
+		}, ELM.body.classList.contains('search-active') ? 200 : 500);
+		ELM.body.classList.add('search-active');
+		$('#result').slideDown();
 	}, false);
 
 	// Toggle
 	ELM.result_table_body.addEventListener('click', function (e) {
 		for (var target = e.target; target && target != this; target = target.parentNode) {
 			if (target.matches('tr')) {
-				let id = target.dataset.id;
+				let d = target.dataset;
+				console.info(d);
+				if (target.classList.contains('toggle-expanded')) document.querySelectorAll(`[data-parent^="${d.fid}"]`).forEach(a => { a.classList.remove('toggle-expanded'); a.style.display = 'none'; });
+				else if (target.classList.contains('toggle-explore')) {
+					target.classList.remove('toggle-explore');
+					target.classList.add('toggle-expanded');
+					let ch = [];
+					if (d.k.length) ch = mfd[d.i].ch[d.j].ch[d.k].ch;
+					else if (d.j.length) ch = mfd[d.i].ch[d.j].ch;
+					else ch = mfd[d.i].ch;
+					const getTr = ({ full_id, parent_id, id, name, lv }, { i, j, k }) => `<tr class="lv-${lv}${lv === 3 ? '' : ` toggle toggle-explore" data-i="${i}" data-j="${j}" data-k="${k}`}" data-fid="${full_id}" data-parent="${parent_id}"><td>${parent_id}<b>${id}</b></td><td>${name}</td></tr>`;
+					target.outerHTML += ch.map((a, i) => getTr(a, d.j ? { ...d, k: i } : { ...d, j: i })).join('');
+					break;
+				}
+				else document.querySelectorAll(`[data-parent="${d.fid}"]`).forEach(a => { a.style.display = ''; });
 				target.classList.toggle('toggle-expanded');
-				if (target.classList.contains('toggle-expanded')) document.querySelectorAll(`[data-parent-id="${id}"]`).forEach(a => { a.style.display = ''; });
-				else document.querySelectorAll(`[data-parent-id^="${id}"]`).forEach(a => { a.classList.remove('toggle-expanded'); a.style.display = 'none'; });
 				break;
 			}
 		}
