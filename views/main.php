@@ -22,6 +22,8 @@
 
 <body>
 
+<?php include 'views/partials/modal.php'; ?>
+
 	<header class="bg-primary-gradient pb-6">
 		<nav class="p-a p-md-3">
 			<a id="nav-brand" href="" class="d-block lh-120 animated animated-1s bounceInDown">
@@ -32,6 +34,7 @@
 		</nav>
 		<div id="search-form-wrapper-outer" class="search-form-wrapper-outer d-none"><!-- animated animated-1s bounceIn -->
 			<div class="search-form-wrapper">
+				<div id="search-form-tooltip" class="search-form-tooltip"></div>
 				<input id="search" type="search" class="search-form-input" placeholder="Cari kode atau nama wilayah">
 				<button id="search-btn" type="button" class="search-form-btn"><i class="icon-magnifier"></i></button>
 				<div class="search-form-setting-wrapper">
