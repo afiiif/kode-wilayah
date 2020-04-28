@@ -48,7 +48,7 @@
 	</header>
 
 	<main>
-		<div id="result" class="px-a pl-md-0 pr-md-6 pr-lg-7 py-4 py-md-45" style="display: none;">
+		<div id="result" class="py-4 py-md-45" style="display: none;">
 			<section id="result-loading">
 				<div class="fz-20 mt-4 mt-md-5 text-center"><i class="icon-refresh mr-35 fas fa-counter-spin"></i>Memuat...</div>
 			</section>

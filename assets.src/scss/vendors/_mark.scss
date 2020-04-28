@@ -2,3 +2,7 @@ mark[data-markjs] {
 	padding: 0;
 	background: yellow;
 }
+
+.unmark mark[data-markjs] {
+	background: transparent;
+}

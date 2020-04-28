@@ -23,16 +23,14 @@
                 margin: 0 auto;
             }
         }
-
-        @media (min-width: $breakpoint-lg) {
-            .table-tree {
-                min-width: 560px;
-            }
-        }
     }
 
     thead {
         vertical-align: top;
+        font-size: 13px;
+        @media (min-width: $breakpoint-sm) {
+            font-size: 14px;
+        }
 
         th {
             padding: 6px 18px;
@@ -58,14 +56,24 @@
             }
 
             &:nth-child(2) {
+                position: relative;
                 padding-left: 8px;
+                padding-right: 85px;
+
+                @media (min-width: $breakpoint-sm) {
+                    padding-right: 100px;
+                }
             }
         }
 
-        @mixin tr($x, $font-size, $color, $top, $font-weight: null) {
+        @mixin tr($x, $font-size, $font-size-sm, $color, $top, $content, $font-weight: null) {
             &.lv-#{$x} {
-                font-size: $font-size;
                 color: $color;
+                font-size: $font-size;
+
+                @media (min-width: $breakpoint-sm) {
+                    font-size: $font-size-sm;
+                }
 
                 @if ($font-weight) {
                     font-weight: $font-weight;
@@ -92,12 +100,19 @@
                     }
                 }
 
+                >td:nth-child(2)::after {
+                    content: '';
+                    font-weight: 300;
+                    position: absolute;
+                    right: 16px;
+                }
+
                 &.toggle>td:first-child {
                     &::before {
                         @include font-awesome("\f054");
                         font-size: 12px;
                         top: $top;
-                        left: 18px * $x;
+                        left: 18px * $x + 2px;
                         transform: rotate(0);
                         transition: transform .15s ease-in-out;
                     }
@@ -111,6 +126,10 @@
 
                 &:hover {
                     background: rgba($color, .05);
+
+                    >td:nth-child(2)::after {
+                        content: $content;
+                    }
                 }
             }
         }
@@ -120,10 +139,18 @@
                 background: rgba(80, 80, 80, 0.05);
             }
 
-            @include tr(0, 18px, #f25961, 27px, 600);
-            @include tr(1, 16px, #6861ce, 12px);
-            @include tr(2, 14px, #23903c, 11px);
-            @include tr(3, 12px, #777, 9px);
+            @include tr(0, 14px, 18px, #f25961, 27px, '(Provinsi)', 600);
+            @include tr(1, 13px, 16px, #6861ce, 12px, '(Kabupaten)');
+            @include tr(2, 12px, 14px, #23903c, 11px, '(Kecamatan)');
+            @include tr(3, 11px, 12px, #777, 9px, '(Desa)');
+        }
+
+        tr[data-kota].lv-1:hover>td:nth-child(2)::after {
+            content: '(Kota)';
+        }
+
+        tr[data-kota].lv-3:hover>td:nth-child(2)::after {
+            content: '(Kelurahan)';
         }
 
     }
