@@ -7,4 +7,4 @@
 	<meta name="theme-color" content="#1572e8">
 	<link rel="shortcut icon" href="https://www.bps.go.id/images/bps.ico" type="image/x-icon">
 	<meta property="og:site_name" content="Kode Wilayah">
-	<!-- <meta property="og:image" content="<?= SITE ?>/kode-wilayah/assets/img/bps-kode-wilayah-og-img.png"> -->
+	<meta property="og:image" content="<?= SITE ?>/kode-wilayah/assets/img/bps-kode-wilayah-og-img.png">

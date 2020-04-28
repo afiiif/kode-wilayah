@@ -65,7 +65,7 @@
 		</div>
 	</main>
 
-	<footer class="footer px-md-3 py-25 d-flex justify-content-end">
+	<footer class="footer">
 		<a id="about-btn" class="p-2 px-md-3 text-reset" href="javascript:void(0)"><i class="fas fa-lightbulb mr-2" style="color: #ffc107;"></i>Tentang<b class="fw-8 text-primary ml-1">KODE</b><span class="fw-3 text-primary">WILAYAH</span></a>
 	</footer>
 
