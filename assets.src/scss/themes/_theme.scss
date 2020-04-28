@@ -5,6 +5,10 @@ body {
 	min-height: 100vh;
 }
 
+.btn-light {
+	background: #f8f8f8 !important;
+}
+
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
 	color: #fff;
 	opacity: .5;

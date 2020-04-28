@@ -66,7 +66,16 @@ document.addEventListener('DOMContentLoaded', function () {
 
 	// Search
 	{
-		var setting = { lv: '3', pr: [] };
+		var setting = { lv: '3', pr: [], dark: false };
+
+		if (typeof (Storage) !== 'undefined') {
+			if (localStorage.getItem('dark')) {
+				ELM.body.classList.add('dark-mode');
+				document.querySelector('meta[name="theme-color"]').setAttribute('content', '#202124');
+				setting.dark = true;
+			}
+		}
+	
 		const markInstance = new Mark(ELM.result_table_body);
 
 		ELM.search.addEventListener('keypress', function (e) {
@@ -173,14 +182,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
 		const updateSetting = (newSetting = false) => {
 			if (newSetting) setting = newSetting;
-			else setting = { lv: '3', pr: [] };
+			else setting = { lv: '3', pr: [], dark: false };
 			document.getElementById('setting-btn').classList[setting.lv === '3' && setting.pr.length === 0 || setting.pr.length === 34 ? 'remove' : 'add']('text-success');
 		}
 		document.getElementById('setting-btn').addEventListener('click', function () {
 			ELM.search_tooltip.tooltip('hide');
-			let { lv, pr } = setting;
+			let { lv, pr, dark } = setting;
 			utils.modal.init({
-				title: 'Pengaturan Pencarian',
+				title: 'Pengaturan',
 				body: /*html*/`
 					<div class="fw-6 mb-2">Cari sampai tingkat:</div>
 					<div>
@@ -201,15 +210,44 @@ document.addEventListener('DOMContentLoaded', function () {
 					<div>
 						<select id="setting-pr" class="selectpicker" title="Semua Provinsi" data-width="100%" data-live-search="true" multiple>${mfd.map(a => `<option value="${a.id}" data-subtext="(${a.id})"${pr.includes(a.id) ? ' selected' : ''}>${a.name}</option>`).join('')}</select>
 					</div>
+					<div class="mx--3 mt-3 mb--3 py-3 border-top" id="dark-mode-wrapper">
+						<div class="px-3">
+							<div class="fw-6 mb-2">Tampilan:</div>
+							<div class="custom-control custom-switch">
+								<input type="checkbox" class="custom-control-input" id="dark-mode-toggle"${dark ? ' checked' : ''}>
+								<label class="custom-control-label cur-p d-block" for="dark-mode-toggle">Mode gelap</label>
+							</div>
+						</div>
+					</div>
 				`,
 				btnLabel: 'Simpan',
+				show: () => {
+					document.getElementById('dark-mode-toggle').addEventListener('change', function (e) {
+						if (this.checked) {
+							ELM.body.classList.add('dark-mode');
+							document.querySelector('meta[name="theme-color"]').setAttribute('content', '#202124');
+						} else {
+							ELM.body.classList.remove('dark-mode');
+							document.querySelector('meta[name="theme-color"]').setAttribute('content', '#1572e8');
+						}
+					}, false);
+				},
 				action: () => {
-					updateSetting({ lv: $('[name="setting-lv"]:checked').val(), pr: $('#setting-pr').val() });
+					updateSetting({ lv: $('[name="setting-lv"]:checked').val(), pr: $('#setting-pr').val(), dark: document.getElementById('dark-mode-toggle').checked });
 					utils.modal.hide();
 					dbg(setting);
 				},
-				hidden: () => {
+				hide: () => {
 					if (ELM.result_summary.style.display === '') search(ELM.search.value);
+					if (setting.dark) {
+						ELM.body.classList.add('dark-mode');
+						document.querySelector('meta[name="theme-color"]').setAttribute('content', '#202124');
+						if (typeof (Storage) !== 'undefined') localStorage.setItem('dark', 1);
+					} else {
+						ELM.body.classList.remove('dark-mode');
+						document.querySelector('meta[name="theme-color"]').setAttribute('content', '#1572e8');
+						if (typeof (Storage) !== 'undefined') localStorage.removeItem('dark');
+					}
 				},
 			});
 		}, false);
@@ -236,7 +274,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		for (var target = e.target; target && target != this; target = target.parentNode) {
 			if (target.matches('tr')) {
 				let d = target.dataset;
-				console.info(d);
+				dbg(d);
 				if (target.classList.contains('toggle-expanded')) document.querySelectorAll(`[data-parent^="${d.fid}"]`).forEach(a => { a.classList.remove('toggle-expanded'); a.style.display = 'none'; });
 				else if (target.classList.contains('toggle-explore')) {
 					target.classList.remove('toggle-explore');

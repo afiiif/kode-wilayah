@@ -12,6 +12,7 @@ const utils = (function () {
 		action: () => { },
 		show: () => { },
 		shown: () => { },
+		hide: () => { },
 		hidden: () => { },
 		loading: (a = '<i class="fas fa-sync fa-spin mr-2"></i>Memproses...', unsetError = true) => {
 			if (a === false) {
@@ -33,13 +34,14 @@ const utils = (function () {
 		},
 	};
 
-	const modalInit = ({ title = '', body, btnLabel = 'Ok', btnClass = 'btn-primary', btnDisabled = false, btnCloseLabel = 'Batal', btnCloseClass = 'btn-primary btn-border', data = {}, dialogClass = '', backdrop = true, action = null, show = null, shown = null, hidden = null }) => {
+	const modalInit = ({ title = '', body, btnLabel = 'Ok', btnClass = 'btn-primary', btnDisabled = false, btnCloseLabel = 'Batal', btnCloseClass = 'btn-primary btn-border', data = {}, dialogClass = '', backdrop = true, action = null, show = null, shown = null, hide = null, hidden = null }) => {
 
 		$modal.data = data;
 		$modal.btn = btnLabel;
 		$modal.action = typeof action === 'function' ? action : (() => { });
 		$modal.show = typeof show === 'function' ? show : (() => { });
 		$modal.shown = typeof shown === 'function' ? shown : (() => { });
+		$modal.hide = typeof hide === 'function' ? hide : (() => { });
 		$modal.hidden = typeof hidden === 'function' ? hidden : (() => { });
 
 		let onclick = 'data-dismiss="modal"';
@@ -72,6 +74,9 @@ const utils = (function () {
 		})
 		.on('shown.bs.modal', e => {
 			$modal.shown();
+		})
+		.on('hide.bs.modal', e => {
+			$modal.hide();
 		})
 		.on('hidden.bs.modal', e => {
 			$modal.hidden();
