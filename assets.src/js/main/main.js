@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	const ELM = {
 		body: document.getElementsByTagName('body')[0],
 		search: document.getElementById('search'),
+		search_tooltip: $('#search-form-tooltip'),
 		result_loading: document.getElementById('result-loading'),
 		result_summary: document.getElementById('result-summary'),
 		result_table: document.getElementById('result-table'),
@@ -68,8 +69,11 @@ document.addEventListener('DOMContentLoaded', function () {
 		var setting = { lv: '3', pr: [] };
 		const markInstance = new Mark(ELM.result_table_body);
 
-		ELM.search.addEventListener('keypress', function (e) { if (e.which === 13) search(ELM.search.value); }, false);
-		ELM.search.addEventListener('blur', function () { $('#search-form-tooltip').tooltip('hide'); }, false);
+		ELM.search.addEventListener('keypress', function (e) {
+			ELM.search_tooltip.tooltip('hide');
+			if (e.which === 13) search(ELM.search.value);
+		}, false);
+		ELM.search.addEventListener('blur', function () { ELM.search_tooltip.tooltip('hide'); }, false);
 		document.getElementById('search-btn').addEventListener('click', function () { search(ELM.search.value); }, false);
 		const search = keyword => {
 
@@ -158,11 +162,12 @@ document.addEventListener('DOMContentLoaded', function () {
 				ELM.result_loading.style.display = '';
 				ELM.body.classList.add('search-active');
 				$('#result').slideDown();
-				$('#search-form-tooltip').tooltip('hide');
+				ELM.search_tooltip.tooltip('hide');
 			}
 			else {
 				dbg('Bad keyword :(', 1);
-				$('#search-form-tooltip').tooltip('show');
+				ELM.search_tooltip.tooltip('show');
+				ELM.search.focus();
 			}
 		}
 
@@ -172,6 +177,7 @@ document.addEventListener('DOMContentLoaded', function () {
 			document.getElementById('setting-btn').classList[setting.lv === '3' && setting.pr.length === 0 || setting.pr.length === 34 ? 'remove' : 'add']('text-success');
 		}
 		document.getElementById('setting-btn').addEventListener('click', function () {
+			ELM.search_tooltip.tooltip('hide');
 			let { lv, pr } = setting;
 			utils.modal.init({
 				title: 'Pengaturan Pencarian',
@@ -215,7 +221,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		ELM.result_summary.style.display = 'none';
 		ELM.result_table.style.display = 'none';
 		ELM.result_loading.style.display = '';
-		$('#search-form-tooltip').tooltip('hide');
+		ELM.search_tooltip.tooltip('hide');
 		setTimeout(() => {
 			ELM.result_table_body.innerHTML = mfd.map((a, i) => `<tr class="lv-0 toggle toggle-explore" data-i="${i}" data-j="" data-k="" data-fid="${a.full_id}"><td><b>${a.id}</b></td><td>${a.name}</td></tr>`).join('');
 			ELM.result_loading.style.display = 'none';
@@ -251,11 +257,24 @@ document.addEventListener('DOMContentLoaded', function () {
 	}, false);
 
 	// Tooltip
-	$('#search-form-tooltip').tooltip({
+	ELM.search_tooltip.tooltip({
 		title: 'Gunakan kata kunci yang lebih spesifik',
 		trigger: 'manual',
 		placement: 'bottom',
 	});
+
+	// About
+	document.getElementById('about-btn').addEventListener('click', function () {
+		utils.modal.init({
+			dialogClass: 'modal-sm',
+			title: 'Tentang',
+			body: /*html*/`
+				<div class="mb-3"><b class="fw-8 text-primary">KODE</b><span class="fw-3 text-primary mr-15">WILAYAH</span>merupakan hasil renovasi <i>unofficial</i> dari website MFD Online BPS (<span class="text-primary">mfdonline.bps.go.id</span>) yang dikembangkan oleh <span class="fw-6">Muhammad Afifudin</span> (Staf IPDS BPS Kabupaten Kayong Utara). 😎</div>
+				<div><b class="fw-8 text-primary">KODE</b><span class="fw-3 text-primary mr-15">WILAYAH</span>menghadirkan fitur pencarian kode atau nama wilayah kerja statistik BPS sampai tingkat desa/kelurahan. Terdapat juga fitur eksplorasi yang memungkinkan pengguna melihat hierarki wilayah dari tingkat provinsi sampai tingkat desa/kelurahan.</div>`,
+			btnCloseLabel: 'Tutup',
+			btnClass: 'd-none',
+		});
+	}, false);
 
 	// Shortcut
 	document.addEventListener('keypress', function (e) {

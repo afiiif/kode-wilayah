@@ -27,9 +27,7 @@
 	<header class="bg-primary-gradient pb-6">
 		<nav class="p-a p-md-3">
 			<a id="nav-brand" href="" class="d-block lh-120 animated animated-1s bounceInDown">
-				<i class="icon-location-pin mr-1"></i>
-				<span class="fw-8">KODE</span>
-				<span class="fw-3">WILAYAH</span>
+				<i class="icon-location-pin mr-1"></i><span class="fw-8">KODE</span><span class="fw-3">WILAYAH</span>
 			</a>
 		</nav>
 		<div id="search-form-wrapper-outer" class="search-form-wrapper-outer d-none"><!-- animated animated-1s bounceIn -->
@@ -51,7 +49,7 @@
 	</header>
 
 	<main>
-		<div id="result" class="py-4 py-md-45" style="display: none;">
+		<div id="result" class="pt-4 pb-3" style="display: none;">
 			<section id="result-loading">
 				<div class="fz-20 mt-4 mt-md-5 text-center"><i class="icon-refresh mr-35 fas fa-counter-spin"></i>Memuat...</div>
 			</section>
@@ -66,6 +64,10 @@
 			</section>
 		</div>
 	</main>
+
+	<footer class="footer px-md-3 py-25 d-flex justify-content-end">
+		<a id="about-btn" class="p-2 px-md-3 text-reset" href="javascript:void(0)"><i class="fas fa-lightbulb mr-2" style="color: #ffc107;"></i>Tentang<b class="fw-8 text-primary ml-1">KODE</b><span class="fw-3 text-primary">WILAYAH</span></a>
+	</footer>
 
 	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
