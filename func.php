@@ -54,15 +54,15 @@ function updateMfd($pr_id = null)
 				}
 			}
 		}
-		writeFile('assets/csv/' . $pr_id . '.csv', $mfd);
+		writeFile('assets/csv/mfd/' . $pr_id . '.csv', $mfd);
 		return $mfd;
 	}
 	else {
 		$pr = getMfd();
 		foreach ($pr as $id => $name) {
 			$mfd .= "$id,$name\n";
-			if (file_exists('assets/csv/' . $id . '.csv')) {
-				$mfd_pr = file_get_contents('assets/csv/' . $id . '.csv');
+			if (file_exists('assets/csv/mfd/' . $id . '.csv')) {
+				$mfd_pr = file_get_contents('assets/csv/mfd/' . $id . '.csv');
 				$mfd .= $mfd_pr;
 			}
 		}
