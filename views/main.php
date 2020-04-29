@@ -75,7 +75,10 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"></script>
 	<script src="lib/atlantis-lite/mod/atlantis.mod.js?v=<?php include 'views/partials/_version.php'; ?>"></script>
 	<script src="assets/js/main.js?v=<?php include 'views/partials/_version.php'; ?>"></script>
-	<script>const DEV = <?= json_encode(SITE === 'http://localhost') ?>;</script>
+	<script>
+		const DEV = <?= json_encode(SITE === 'http://localhost' || $_GET['debug'] == 1) ?>,
+			mfdUrl = ['https://docs.google.com/spreadsheets/d/e/2PACX-1vTMQBPE5fuSn_QsCm4VURF7UzEU29PeTmwSqiycT6au2mX6lKokcLccHJxEKmr8nu_DOfXWlv3hrrIL/pub?gid=1196175698&single=true&output=csv', 'assets/csv/mfd-20200429.csv'];
+		</script>
 
 </body>
 

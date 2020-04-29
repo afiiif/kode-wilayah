@@ -13,61 +13,67 @@ document.addEventListener('DOMContentLoaded', function () {
 	var mfd = [];
 
 	{
-		let xhr = new XMLHttpRequest();
-		// xhr.open('GET', '404', true);
-		// xhr.open('GET', 'assets/csv/mfd.csv', true);
-		xhr.open('GET', 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTMQBPE5fuSn_QsCm4VURF7UzEU29PeTmwSqiycT6au2mX6lKokcLccHJxEKmr8nu_DOfXWlv3hrrIL/pub?gid=1196175698&single=true&output=csv', true);
-		xhr.setRequestHeader('cache-control', 'public, max-age=30672000');
-		xhr.onload = function () {
-			let { response: res, status } = this;
-			if (status >= 200 && status < 400 && res.startsWith('11,')) {
+		const getMfd = (url, onerror) => {
+			dbg('Requesting MFD...\n' + url, 2);
+			let xhr = new XMLHttpRequest();
+			xhr.open('GET', url, true);
+			xhr.setRequestHeader('cache-control', 'public, max-age=30672000');
+			xhr.onload = function () {
+				let { response: res, status } = this;
+				if (status >= 200 && status < 400 && res.startsWith('11,')) {
 
-				let i = -1, j = -1, k = -1;
-				const getName = (a, b) => b[0] ? [a].concat(b).join(',').replace(/"/g, '') : a;
-				res.split('\n').forEach(a => {
-					let [full_id, name, ...name_contains_comma] = a.split(','),
-						id = '',
-						parent_id = '';
+					let i = -1, j = -1, k = -1;
+					const getName = (a, b) => b[0] ? [a].concat(b).join(',').replace(/"/g, '') : a;
+					res.split('\n').forEach(a => {
+						let [full_id, name, ...name_contains_comma] = a.split(',');
 
-					if (full_id.length === 2) { // Provinsi
-						mfd.push({ id: full_id, parent_id: '', full_id, name: name.replace('Dki J', 'DKI J').replace('Di Y', 'DI Y'), name_lc: name.toLowerCase(), lv: 0, ch: [] });
-						i++; j = -1; k = -1;
+						if (full_id.length === 2) { // Provinsi
+							mfd.push({ id: full_id, parent_id: '', full_id, name: name.replace('Dki J', 'DKI J').replace('Di Y', 'DI Y'), name_lc: name.toLowerCase(), lv: 0, ch: [] });
+							i++; j = -1; k = -1;
+						}
+						else if (full_id.length === 4) { // Kabupaten/kota
+							name = getName(name, name_contains_comma);
+							let id = full_id.substr(2, 2);
+							mfd[i].ch.push({ kota: id > 70, id, parent_id: full_id.substr(0, 2), full_id, name, name_lc: name.toLowerCase(), lv: 1, ch: [] });
+							j++; k = -1;
+						}
+						else if (full_id.length === 7) { // Kecamatan
+							name = getName(name, name_contains_comma);
+							mfd[i].ch[j].ch.push({ id: full_id.substr(4, 3), parent_id: full_id.substr(0, 4), full_id, name, name_lc: name.toLowerCase(), lv: 2, ch: [] });
+							k++;
+						}
+						else if (full_id.length === 10) { // Desa/Keluarahan
+							name = getName(name, name_contains_comma);
+							let id = full_id.substr(2, 2);
+							mfd[i].ch[j].ch[k].ch.push({ kota: id > 70, id: full_id.substr(7, 3), parent_id: full_id.substr(0, 7), full_id, name, name_lc: name.toLowerCase(), lv: 3 });
+						}
+
+					});
+
+					dbg(mfd);
+					document.getElementById('loading').style.display = 'none';
+					document.getElementById('search-form-wrapper-outer').className = 'search-form-wrapper-outer animated animated-1s bounceIn';
+					document.getElementById('explore-wrapper').className = 'explore-wrapper animated animated-1s bounceInUp';
+					
+					let q = (new URL(location.href)).searchParams.get('q');
+					if (q) {
+						ELM.search.value = q;
+						document.getElementById('search-btn').click();
 					}
-					else if (full_id.length === 4) { // Kabupaten/kota
-						name = getName(name, name_contains_comma);
-						let id = full_id.substr(2, 2);
-						mfd[i].ch.push({ kota: id > 70, id, parent_id: full_id.substr(0, 2), full_id, name, name_lc: name.toLowerCase(), lv: 1, ch: [] });
-						j++; k = -1;
-					}
-					else if (full_id.length === 7) { // Kecamatan
-						name = getName(name, name_contains_comma);
-						mfd[i].ch[j].ch.push({ id: full_id.substr(4, 3), parent_id: full_id.substr(0, 4), full_id, name, name_lc: name.toLowerCase(), lv: 2, ch: [] });
-						k++;
-					}
-					else if (full_id.length === 10) { // Desa/Keluarahan
-						name = getName(name, name_contains_comma);
-						let id = full_id.substr(2, 2);
-						mfd[i].ch[j].ch[k].ch.push({ kota: id > 70, id: full_id.substr(7, 3), parent_id: full_id.substr(0, 7), full_id, name, name_lc: name.toLowerCase(), lv: 3 });
-					}
+					else ELM.search.focus();
 
-				});
+				} else onerror();
+			};
+			xhr.onerror = onerror;
+			xhr.send();
+		}
 
-				dbg(mfd);
-				document.getElementById('loading').style.display = 'none';
-				document.getElementById('search-form-wrapper-outer').className = 'search-form-wrapper-outer animated animated-1s bounceIn';
-				document.getElementById('explore-wrapper').className = 'explore-wrapper animated animated-1s bounceInUp';
-				ELM.search.focus();
-
-			} else {
-				document.getElementById('loading').innerHTML = '<div class="animated animated-1s swing delay-1s"><i class="icon-exclamation mr-35"></i>Terjadi kesalahan :(</div><div class="animated fast fadeInUp delay-2s fz-14 fw-4 mt-45 px-a"><div class="fz-20">Silakan coba refresh halaman ini.</div>Jika masih terjadi masalah, hubungi Admin (muhammad.afifudin@bps.go.id)</div>';
-				setTimeout(() => { document.getElementsByTagName('header')[0].className = 'bg-danger-gradient pb-6'; }, 1000);
-			}
-		};
-		xhr.onerror = function () {
-			document.getElementById('loading').innerHTML = '<div class="animated animated-1s swing delay-1s"><i class="icon-exclamation mr-35"></i>Terjadi kesalahan :(</div><div class="animated fast fadeInUp delay-2s fz-14 fw-4 mt-45 px-a"><div class="fz-20">Silakan coba refresh halaman ini.</div>Jika masih terjadi masalah, hubungi Admin (muhammad.afifudin@bps.go.id)</div>';
-			setTimeout(() => { document.getElementsByTagName('header')[0].className = 'bg-danger-gradient pb-6'; }, 1000);
-		};
-		xhr.send();
+		getMfd(mfdUrl[0], () => {
+			getMfd(mfdUrl[1], () => {
+				document.getElementById('loading').innerHTML = '<div class="animated animated-1s swing"><i class="icon-exclamation mr-35"></i>Terjadi kesalahan :(</div><div class="animated fast fadeInUp delay-1s fz-14 fw-4 mt-45 px-a"><div class="fz-20">Silakan coba refresh halaman ini.</div>Jika masih terjadi masalah, hubungi Admin (<span class="text-warning">muhammad.afifudin@bps.go.id</span>)</div>';
+				document.getElementsByTagName('header')[0].className = 'bg-danger-gradient pb-6';
+			});
+		});
 	}
 
 	// Search
@@ -85,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function () {
 				setting.prefix = true;
 			}
 		}
-	
+
 		const markInstance = new Mark(ELM.result_table_body);
 
 		ELM.search.addEventListener('keypress', function (e) {
