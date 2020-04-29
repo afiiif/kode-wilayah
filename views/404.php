@@ -2,9 +2,9 @@
 <html lang="en" class="h-100">
 
 <head>
-	<?php include 'views/partials/meta.php'; ?>
+<?php include 'views/partials/meta.php'; ?>
 	<meta property="og:title" content="Halaman Tidak Ditemukan">
-	<meta property="og:url" content="<?= SITE . PATH ?>">
+	<meta property="og:url" content="<?= SITE . PATH ?>/">
 	<base href="<?= SITE ?>/kode-wilayah/">
 	<title>Halaman Tidak Ditemukan</title>
 
@@ -17,13 +17,13 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
 </head>
 
-<body class="h-100">
+<body class="h-100 bg-primary-gradient text-white">
 
 	<div class="d-flex align-items-center justify-content-center h-100 text-center">
 		<div class="mb-4">
 			<h1 style="color: #cacedb; font-weight: 600; font-size: 6rem; margin-bottom: 0;">404</h1>
 			<h1>Halaman Tidak Ditemukan :(</h1>
-			<a href=""><button type="button" class="btn btn-danger btn-shadow mt-4 mb-5"><i class="fas fa-arrow-left mr-2"></i>Kembali ke Beranda</button></a>
+			<a href="" class="btn btn-light btn-border btn-shadow mt-4 mb-5"><i class="fas fa-arrow-left mr-2"></i>Kembali ke Beranda</a>
 		</div>
 	</div>
 

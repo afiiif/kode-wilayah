@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 	{
 		let xhr = new XMLHttpRequest();
+		// xhr.open('GET', '404', true);
 		// xhr.open('GET', 'assets/csv/mfd.csv', true);
 		xhr.open('GET', 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTMQBPE5fuSn_QsCm4VURF7UzEU29PeTmwSqiycT6au2mX6lKokcLccHJxEKmr8nu_DOfXWlv3hrrIL/pub?gid=1196175698&single=true&output=csv', true);
 		xhr.setRequestHeader('cache-control', 'public, max-age=30672000');
@@ -58,12 +59,12 @@ document.addEventListener('DOMContentLoaded', function () {
 				ELM.search.focus();
 
 			} else {
-				document.getElementById('loading').innerHTML = '<div class="animated animated-1s swing delay-1s"><i class="icon-exclamation mr-35"></i>Terjadi kesalahan :(</div>';
+				document.getElementById('loading').innerHTML = '<div class="animated animated-1s swing delay-1s"><i class="icon-exclamation mr-35"></i>Terjadi kesalahan :(</div><div class="animated fast fadeInUp delay-2s fz-14 fw-4 mt-45 px-a"><div class="fz-20">Silakan coba refresh halaman ini.</div>Jika masih terjadi masalah, hubungi Admin (muhammad.afifudin@bps.go.id)</div>';
 				setTimeout(() => { document.getElementsByTagName('header')[0].className = 'bg-danger-gradient pb-6'; }, 1000);
 			}
 		};
 		xhr.onerror = function () {
-			document.getElementById('loading').innerHTML = '<div class="animated animated-1s swing delay-1s"><i class="icon-exclamation mr-35"></i>Terjadi kesalahan :(</div>';
+			document.getElementById('loading').innerHTML = '<div class="animated animated-1s swing delay-1s"><i class="icon-exclamation mr-35"></i>Terjadi kesalahan :(</div><div class="animated fast fadeInUp delay-2s fz-14 fw-4 mt-45 px-a"><div class="fz-20">Silakan coba refresh halaman ini.</div>Jika masih terjadi masalah, hubungi Admin (muhammad.afifudin@bps.go.id)</div>';
 			setTimeout(() => { document.getElementsByTagName('header')[0].className = 'bg-danger-gradient pb-6'; }, 1000);
 		};
 		xhr.send();
@@ -228,7 +229,7 @@ document.addEventListener('DOMContentLoaded', function () {
 							</div>
 							<div class="custom-control custom-switch">
 								<input type="checkbox" class="custom-control-input" id="prefix-toggle"${prefix ? ' checked' : ''}>
-								<label class="custom-control-label cur-p d-block" for="prefix-toggle">Tampilkan prefix<div class="fw-3 op-7">(Tampilkan "Kayong Utara" sebagai "<span class="fw-6">Kabupaten</span> Kayong Utara")</div></label>
+								<label class="custom-control-label cur-p d-block" for="prefix-toggle">Tampilkan prefix<div class="fz-12 fw-3">(Misal: "Kayong Utara" ditampilkan dengan "<span class="fw-4">Kabupaten</span> Kayong Utara")</div></label>
 							</div>
 						</div>
 					</div>

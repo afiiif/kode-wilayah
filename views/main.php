@@ -2,9 +2,9 @@
 <html lang="en" class="h-100">
 
 <head>
-	<?php include 'views/partials/meta.php'; ?>
-	<meta property="og:title" content="Kode Wilayah · Cari Kode Wilayah Lebih Mudah">
-	<meta property="og:url" content="<?= SITE . PATH ?>">
+<?php include 'views/partials/meta.php'; ?>
+	<meta property="og:title" content="Kode Wilayah · Cari Nama atau Kode Wilayah Lebih Mudah!">
+	<meta property="og:url" content="<?= SITE . PATH ?>/">
 	<base href="<?= SITE ?>/kode-wilayah/">
 	<title>Kode Wilayah · Cari kode atau nama wilayah dengan lebih mudah!</title>
 
@@ -43,7 +43,7 @@
 		<div id="explore-wrapper" class="explore-wrapper d-none"><!-- animated animated-1s bounceInUp delay-1s -->
 			<button type="button" id="explore-btn" class="btn p-2 text-white"><i class="icon-map"></i><span>Eksplor</span></button>
 		</div>
-		<div id="loading" class="text-white fz-32 fw-3 animated animated-1s fadeIn"><i class="icon-refresh mr-35 fas fa-counter-spin"></i>
+		<div id="loading" class="text-white text-center fz-32 fw-3 animated animated-1s fadeIn"><i class="icon-refresh mr-35 fas fa-counter-spin"></i>
 			<div class="d-inline-block dotty" style="width: 141px;">Memuat</div>
 		</div>
 	</header>
@@ -75,9 +75,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"></script>
 	<script src="lib/atlantis-lite/mod/atlantis.mod.js?v=<?php include 'views/partials/_version.php'; ?>"></script>
 	<script src="assets/js/main.js?v=<?php include 'views/partials/_version.php'; ?>"></script>
-	<script>
-		const DEV = <?= json_encode(SITE === 'http://localhost') ?>;
-	</script>
+	<script>const DEV = <?= json_encode(SITE === 'http://localhost') ?>;</script>
 
 </body>
 
