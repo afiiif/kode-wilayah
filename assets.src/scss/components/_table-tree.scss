@@ -28,6 +28,7 @@
     thead {
         vertical-align: top;
         font-size: 13px;
+
         @media (min-width: $breakpoint-sm) {
             font-size: 14px;
         }
@@ -88,7 +89,7 @@
                 }
 
                 >td:first-child {
-                    padding-left: 18px * ($x+1);
+                    padding-left: 10px * ($x+1) + 6px;
 
                     >b {
                         font-weight: 700;
@@ -112,7 +113,7 @@
                         @include font-awesome("\f054");
                         font-size: 12px;
                         top: $top;
-                        left: 18px * $x + 2px;
+                        left: 10px * $x + 2px;
                         transform: rotate(0);
                         transition: transform .15s ease-in-out;
                     }
@@ -139,10 +140,10 @@
                 background: rgba(80, 80, 80, 0.05);
             }
 
-            @include tr(0, 14px, 18px, #f25961, 27px, '(Provinsi)', 600);
-            @include tr(1, 13px, 16px, #6861ce, 12px, '(Kabupaten)');
-            @include tr(2, 12px, 14px, #23903c, 11px, '(Kecamatan)');
-            @include tr(3, 11px, 12px, #777, 9px, '(Desa)');
+            @include tr(0, 14px, 18px, #f25961, 25px, '(Provinsi)', 600);
+            @include tr(1, 13px, 16px, #6861ce, 10px, '(Kabupaten)');
+            @include tr(2, 12px, 14px, #23903c, 9px, '(Kecamatan)');
+            @include tr(3, 11px, 12px, #777, 8px, '(Desa)');
         }
 
         tr[data-kota].lv-1:hover>td:nth-child(2)::after {
@@ -151,6 +152,82 @@
 
         tr[data-kota].lv-3:hover>td:nth-child(2)::after {
             content: '(Kelurahan)';
+        }
+
+        @media (min-width: $breakpoint-sm) {
+
+            @each $x,$top in (0:27px, 1:12px, 2:11px, 3:9px) {
+                tr.lv-#{$x} {
+                    >td:first-child {
+                        padding-left: 15px * ($x+1) + 3px;
+                    }
+
+                    &.toggle>td:first-child::before {
+                        top: $top;
+                        left: 15px * $x + 2px;
+                    }
+                }
+            }
+        }
+
+        @media (min-width: $breakpoint-md) {
+
+            @each $x,$top in (0:27px, 1:12px, 2:11px, 3:9px) {
+                tr.lv-#{$x} {
+                    >td:first-child {
+                        padding-left: 18px * ($x+1);
+                    }
+
+                    &.toggle>td:first-child::before {
+                        left: 18px * $x + 2px;
+                    }
+                }
+            }
+        }
+
+    }
+
+    .with-prefix {
+
+        tr td:nth-child(2) {
+            padding-right: 8px;
+
+            @media (min-width: $breakpoint-sm) {
+                padding-right: 8px;
+            }
+
+            &::before {
+                font-weight: 300;
+                margin-right: 4px;
+            }
+
+            &::after {
+                display: none;
+            }
+        }
+
+        .lv-0 td:nth-child(2)::before {
+            content: 'Provinsi';
+        }
+
+        .lv-1 td:nth-child(2)::before {
+            content: 'Kabupaten';
+        }
+
+        [data-kota].lv-1 td:nth-child(2)::before {
+            content: 'Kota';
+        }
+
+        .lv-2 td:nth-child(2)::before {
+            content: 'Kecamatan';
+        }
+
+        .lv-3 td:nth-child(2)::before {
+            content: 'Desa';
+        }
+
+        [data-kota].lv-3 td:nth-child(2)::before {
+            content: 'Kelurahan';
         }
 
     }

@@ -13,33 +13,38 @@ document.addEventListener('DOMContentLoaded', function () {
 	var mfd = [];
 
 	{
-		let request = new XMLHttpRequest();
-		// request.open('GET', 'assets/csv/mfd.csv', true);
-		request.open('GET', 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQwXLdW5F4y8GGO0TnSllZ98GRPkMvN7NDlknzwKMPfJpD1zZsQehqovZ2vQdQaV6v-X45-ntlyav5u/pub?gid=1196175698&single=true&output=csv', true);
-		request.onload = function () {
+		let xhr = new XMLHttpRequest();
+		// xhr.open('GET', 'assets/csv/mfd.csv', true);
+		xhr.open('GET', 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTMQBPE5fuSn_QsCm4VURF7UzEU29PeTmwSqiycT6au2mX6lKokcLccHJxEKmr8nu_DOfXWlv3hrrIL/pub?gid=1196175698&single=true&output=csv', true);
+		xhr.setRequestHeader('cache-control', 'public, max-age=30672000');
+		xhr.onload = function () {
 			let { response: res, status } = this;
 			if (status >= 200 && status < 400 && res.startsWith('11,')) {
 
 				let i = -1, j = -1, k = -1;
+				const getName = (a, b) => b[0] ? [a].concat(b).join(',').replace(/"/g, '') : a;
 				res.split('\n').forEach(a => {
-					let [full_id, name] = a.split(','),
+					let [full_id, name, ...name_contains_comma] = a.split(','),
 						id = '',
 						parent_id = '';
 
 					if (full_id.length === 2) { // Provinsi
-						mfd.push({ id: full_id, parent_id: 0, full_id, name: name.replace('Dki J', 'DKI J').replace('Di Y', 'DI Y'), name_lc: name.toLowerCase(), lv: 0, ch: [] });
+						mfd.push({ id: full_id, parent_id: '', full_id, name: name.replace('Dki J', 'DKI J').replace('Di Y', 'DI Y'), name_lc: name.toLowerCase(), lv: 0, ch: [] });
 						i++; j = -1; k = -1;
 					}
 					else if (full_id.length === 4) { // Kabupaten/kota
+						name = getName(name, name_contains_comma);
 						let id = full_id.substr(2, 2);
 						mfd[i].ch.push({ kota: id > 70, id, parent_id: full_id.substr(0, 2), full_id, name, name_lc: name.toLowerCase(), lv: 1, ch: [] });
 						j++; k = -1;
 					}
 					else if (full_id.length === 7) { // Kecamatan
+						name = getName(name, name_contains_comma);
 						mfd[i].ch[j].ch.push({ id: full_id.substr(4, 3), parent_id: full_id.substr(0, 4), full_id, name, name_lc: name.toLowerCase(), lv: 2, ch: [] });
 						k++;
 					}
 					else if (full_id.length === 10) { // Desa/Keluarahan
+						name = getName(name, name_contains_comma);
 						let id = full_id.substr(2, 2);
 						mfd[i].ch[j].ch[k].ch.push({ kota: id > 70, id: full_id.substr(7, 3), parent_id: full_id.substr(0, 7), full_id, name, name_lc: name.toLowerCase(), lv: 3 });
 					}
@@ -57,22 +62,26 @@ document.addEventListener('DOMContentLoaded', function () {
 				setTimeout(() => { document.getElementsByTagName('header')[0].className = 'bg-danger-gradient pb-6'; }, 1000);
 			}
 		};
-		request.onerror = function () {
+		xhr.onerror = function () {
 			document.getElementById('loading').innerHTML = '<div class="animated animated-1s swing delay-1s"><i class="icon-exclamation mr-35"></i>Terjadi kesalahan :(</div>';
 			setTimeout(() => { document.getElementsByTagName('header')[0].className = 'bg-danger-gradient pb-6'; }, 1000);
 		};
-		request.send();
+		xhr.send();
 	}
 
 	// Search
 	{
-		var setting = { lv: '3', pr: [], dark: false };
+		var setting = { lv: '3', pr: [], dark: false, prefix: false };
 
 		if (typeof (Storage) !== 'undefined') {
 			if (localStorage.getItem('dark')) {
 				ELM.body.classList.add('dark-mode');
 				document.querySelector('meta[name="theme-color"]').setAttribute('content', '#202124');
 				setting.dark = true;
+			}
+			if (localStorage.getItem('prefix')) {
+				ELM.result_table_body.classList.add('with-prefix');
+				setting.prefix = true;
 			}
 		}
 	
@@ -158,7 +167,7 @@ document.addEventListener('DOMContentLoaded', function () {
 						if (!findById) keys.forEach(a => markInstance.mark(a));
 					}
 					else {
-						ELM.result_summary.innerHTML = `<div class="text-danger text-center pt-5 pl-md-55"><div class="mb-4 fz-80"><span class="fa-stack animated animated-1s swing"><i class="fas icon-ban fa-stack-2x op-3"></i><i class="fas fa-map-marker-alt fa-stack-1x fz-96"></i></span></div>Tidak ada hasil untuk pencarian ${b(keyword)}</div>`;
+						ELM.result_summary.innerHTML = `<div class="text-danger text-center pt-45 pt-sm-5 pl-md-55"><div class="mb-4 fz-72 fz-sm-80"><span class="fa-stack animated animated-1s swing"><i class="fas icon-ban fa-stack-2x op-3"></i><i class="fas fa-map-marker-alt fa-stack-1x fz-80 fz-sm-96"></i></span></div>Tidak ada hasil untuk pencarian ${b(keyword)}</div>`;
 					}
 
 					ELM.result_loading.style.display = 'none';
@@ -182,12 +191,12 @@ document.addEventListener('DOMContentLoaded', function () {
 
 		const updateSetting = (newSetting = false) => {
 			if (newSetting) setting = newSetting;
-			else setting = { lv: '3', pr: [], dark: false };
+			else setting = { lv: '3', pr: [], dark: false, prefix: false };
 			document.getElementById('setting-btn').classList[setting.lv === '3' && setting.pr.length === 0 || setting.pr.length === 34 ? 'remove' : 'add']('text-success');
 		}
 		document.getElementById('setting-btn').addEventListener('click', function () {
 			ELM.search_tooltip.tooltip('hide');
-			let { lv, pr, dark } = setting;
+			let { lv, pr, dark, prefix } = setting;
 			utils.modal.init({
 				title: 'Pengaturan',
 				body: /*html*/`
@@ -217,6 +226,10 @@ document.addEventListener('DOMContentLoaded', function () {
 								<input type="checkbox" class="custom-control-input" id="dark-mode-toggle"${dark ? ' checked' : ''}>
 								<label class="custom-control-label cur-p d-block" for="dark-mode-toggle">Mode gelap</label>
 							</div>
+							<div class="custom-control custom-switch">
+								<input type="checkbox" class="custom-control-input" id="prefix-toggle"${prefix ? ' checked' : ''}>
+								<label class="custom-control-label cur-p d-block" for="prefix-toggle">Tampilkan prefix<div class="fw-3 op-7">(Tampilkan "Kayong Utara" sebagai "<span class="fw-6">Kabupaten</span> Kayong Utara")</div></label>
+							</div>
 						</div>
 					</div>
 				`,
@@ -233,7 +246,12 @@ document.addEventListener('DOMContentLoaded', function () {
 					}, false);
 				},
 				action: () => {
-					updateSetting({ lv: $('[name="setting-lv"]:checked').val(), pr: $('#setting-pr').val(), dark: document.getElementById('dark-mode-toggle').checked });
+					updateSetting({
+						lv: $('[name="setting-lv"]:checked').val(),
+						pr: $('#setting-pr').val(),
+						dark: document.getElementById('dark-mode-toggle').checked,
+						prefix: document.getElementById('prefix-toggle').checked,
+					});
 					utils.modal.hide();
 					dbg(setting);
 				},
@@ -247,6 +265,13 @@ document.addEventListener('DOMContentLoaded', function () {
 						ELM.body.classList.remove('dark-mode');
 						document.querySelector('meta[name="theme-color"]').setAttribute('content', '#1572e8');
 						if (typeof (Storage) !== 'undefined') localStorage.removeItem('dark');
+					}
+					if (setting.prefix) {
+						ELM.result_table_body.classList.add('with-prefix');
+						if (typeof (Storage) !== 'undefined') localStorage.setItem('prefix', 1);
+					} else {
+						ELM.result_table_body.classList.remove('with-prefix');
+						if (typeof (Storage) !== 'undefined') localStorage.removeItem('prefix');
 					}
 				},
 			});
