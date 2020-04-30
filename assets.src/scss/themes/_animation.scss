@@ -59,10 +59,13 @@
     }
 }
 
-.dotty:after {
-    display: inline-block;
-    animation: dotty steps(1, end) 2s infinite;
-    content: '';
+.dotty {
+    text-align: left !important;
+    &::after {
+        display: inline-block;
+        animation: dotty steps(1, end) 2s infinite;
+        content: '';
+    }
 }
 
 @keyframes dotty {

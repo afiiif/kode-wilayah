@@ -3,10 +3,10 @@
 
 <head>
 <?php include 'views/partials/meta.php'; ?>
-	<meta property="og:title" content="Kode Wilayah · Cari Nama atau Kode Wilayah Lebih Mudah!">
+	<meta property="og:title" content="Kode Wilayah · Cari nama atau kode wilayah dengan lebih mudah!">
 	<meta property="og:url" content="<?= SITE . PATH ?>/">
 	<base href="<?= SITE ?>/kode-wilayah/">
-	<title>Kode Wilayah · Cari kode atau nama wilayah dengan lebih mudah!</title>
+	<title>Kode Wilayah · Cari nama atau kode wilayah dengan lebih mudah!</title>
 
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css">
