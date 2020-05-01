@@ -122,7 +122,7 @@
 
 	// Display
 	@each $a in (block, inline-block, flex, inline-flex) {
-		.d--#{$x}-#{a} { display: none !important; }
+		.d--#{$x}-#{$a} { display: none !important; }
 	}
 
 	@media (min-width: $bp) {

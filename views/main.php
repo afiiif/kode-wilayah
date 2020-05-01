@@ -24,7 +24,7 @@
 
 <?php include 'views/partials/modal.php'; ?>
 
-	<header class="bg-primary-gradient pb-6">
+	<header class="header bg-primary-gradient pb-6">
 		<nav class="p-a p-md-3">
 			<a id="nav-brand" href="" class="d-block lh-120 animated animated-1s bounceInDown">
 				<i class="icon-location-pin mr-1"></i><span class="fw-8">KODE</span><span class="fw-3">WILAYAH</span>
@@ -43,8 +43,8 @@
 		<div id="explore-wrapper" class="explore-wrapper d-none"><!-- animated animated-1s bounceInUp delay-1s -->
 			<button type="button" id="explore-btn" class="btn p-2 text-white"><i class="icon-map"></i><span>Eksplor</span></button>
 		</div>
-		<div id="loading" class="text-white text-center fz-32 fw-3 animated animated-1s fadeIn"><i class="icon-refresh mr-35 fas fa-counter-spin"></i>
-			<div class="d-inline-block dotty" style="width: 141px;">Memuat</div>
+		<div id="loading" class="text-white text-center fz-32 fw-3 animated animated-1s fadeIn">
+			<i class="icon-refresh mr-35 fas fa-counter-spin"></i><div class="d-inline-block dotty" style="width: 141px;">Memuat</div>
 		</div>
 	</header>
 
@@ -73,12 +73,12 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.2/js/bootstrap-select.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"></script>
-	<script src="lib/atlantis-lite/mod/atlantis.mod.js?v=<?php include 'views/partials/_version.php'; ?>"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.3.0/jszip.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip-utils/0.1.0/jszip-utils.min.js"></script>
 	<script src="assets/js/main.js?v=<?php include 'views/partials/_version.php'; ?>"></script>
 	<script>
-		const DEV = <?= json_encode(SITE === 'http://localhost' || $_GET['debug'] == 1) ?>,
-			mfdUrl = ['https://docs.google.com/spreadsheets/d/e/2PACX-1vTMQBPE5fuSn_QsCm4VURF7UzEU29PeTmwSqiycT6au2mX6lKokcLccHJxEKmr8nu_DOfXWlv3hrrIL/pub?gid=1196175698&single=true&output=csv', 'assets/csv/mfd-20200429.csv'];
-		</script>
+		const DEV = <?= json_encode(SITE === 'http://localhost' || $_GET['debug'] == 1) ?>, FILE = 'mfd-20200429';
+	</script>
 
 </body>
 

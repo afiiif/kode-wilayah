@@ -1,4 +1,4 @@
-header {
+.header {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -71,7 +71,7 @@ header {
     }
 }
 
-.search-active header {
+.search-active .header {
     height: 97px;
 
     #nav-brand {
