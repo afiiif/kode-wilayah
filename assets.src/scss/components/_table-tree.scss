@@ -29,16 +29,20 @@
         vertical-align: top;
         font-size: 13px;
 
-        @media (min-width: $breakpoint-sm) {
-            font-size: 14px;
-        }
-
         th {
-            padding: 6px 18px;
+            padding: 6px 8px 6px 18px;
             border-bottom: 2px solid #dee2e6;
 
             &:nth-child(2) {
-                padding-left: 8px;
+                padding: 6px 18px 6px 8px;
+            }
+        }
+
+        @media (min-width: $breakpoint-sm) {
+            font-size: 14px;
+
+            th:first-child {
+                padding-right: 18px;
             }
         }
     }
@@ -48,8 +52,8 @@
 
         td {
             cursor: pointer;
-            border-bottom: 1px solid #dee2e6;
-            padding: 6px 18px;
+            border-top: 1px solid #dee2e6;
+            padding: 6px 8px 6px 18px;
             position: relative;
 
             &:first-child {
@@ -59,9 +63,16 @@
             &:nth-child(2) {
                 position: relative;
                 padding-left: 8px;
-                padding-right: 85px;
+                padding-right: 77px;
 
-                @media (min-width: $breakpoint-sm) {
+            }
+
+            @media (min-width: $breakpoint-sm) {
+                &:first-child {
+                    padding-right: 18px;
+                }
+
+                &:nth-child(2) {
                     padding-right: 100px;
                 }
             }
@@ -101,13 +112,6 @@
                     }
                 }
 
-                >td:nth-child(2)::after {
-                    content: '';
-                    font-weight: 300;
-                    position: absolute;
-                    right: 16px;
-                }
-
                 &.toggle>td:first-child {
                     &::before {
                         @include font-awesome("\f054");
@@ -140,10 +144,31 @@
                 background: rgba(80, 80, 80, 0.05);
             }
 
-            @include tr(0, 14px, 18px, #f25961, 25px, '(Provinsi)', 600);
+            >td:nth-child(2)::after {
+                content: '';
+                font-weight: 300;
+                position: absolute;
+                right: 8px;
+            }
+
+            @include tr(0, 13px, 18px, #f25961, 23px, '(Provinsi)', 600);
             @include tr(1, 13px, 16px, #6861ce, 10px, '(Kabupaten)');
             @include tr(2, 12px, 14px, #23903c, 9px, '(Kecamatan)');
             @include tr(3, 11px, 12px, #777, 8px, '(Desa)');
+        }
+
+        tr.lv-0 {
+            td {
+                border-top: 2px solid #ddd;
+
+                &:nth-child(2) {
+                    padding-right: 8px;
+
+                    &::after {
+                        display: none;
+                    }
+                }
+            }
         }
 
         tr[data-kota].lv-1:hover>td:nth-child(2)::after {
@@ -156,7 +181,22 @@
 
         @media (min-width: $breakpoint-sm) {
 
-            @each $x,$top in (0:27px, 1:12px, 2:11px, 3:9px) {
+            tr>td:nth-child(2)::after {
+                right: 16px;
+            }
+
+            tr.lv-0 {
+                td:nth-child(2) {
+                    padding-right: 100px;
+
+                    &::after {
+                        display: unset;
+                    }
+                }
+            }
+
+            @each $x,
+            $top in (0:27px, 1:12px, 2:11px, 3:9px) {
                 tr.lv-#{$x} {
                     >td:first-child {
                         padding-left: 15px * ($x+1) + 3px;
@@ -172,7 +212,8 @@
 
         @media (min-width: $breakpoint-md) {
 
-            @each $x,$top in (0:27px, 1:12px, 2:11px, 3:9px) {
+            @each $x,
+            $top in (0:27px, 1:12px, 2:11px, 3:9px) {
                 tr.lv-#{$x} {
                     >td:first-child {
                         padding-left: 18px * ($x+1);

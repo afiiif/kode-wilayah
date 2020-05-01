@@ -94,10 +94,16 @@ document.addEventListener('DOMContentLoaded', function () {
 
 		ELM.search.addEventListener('keypress', function (e) {
 			ELM.search_tooltip.tooltip('hide');
-			if (e.which === 13) search(ELM.search.value);
+			if (e.which === 13) {
+				window.scrollTo(0, 0);
+				search(ELM.search.value);
+			}
 		}, false);
 		ELM.search.addEventListener('blur', function () { ELM.search_tooltip.tooltip('hide'); }, false);
-		document.getElementById('search-btn').addEventListener('click', function () { search(ELM.search.value); }, false);
+		document.getElementById('search-btn').addEventListener('click', function () {
+			window.scrollTo(0, 0);
+			search(ELM.search.value);
+		}, false);
 		const search = keyword => {
 
 			let keys = [...new Set(keyword.trim().toLowerCase().split(/[\s,]+/))].filter(a => a.length),
@@ -285,6 +291,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 	// Explore
 	document.getElementById('explore-btn').addEventListener('click', function () {
+		window.scrollTo(0, 0);
 		ELM.search.value = '';
 		ELM.result_summary.style.display = 'none';
 		ELM.result_table.style.display = 'none';
