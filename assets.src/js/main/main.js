@@ -177,7 +177,7 @@ document.addEventListener('DOMContentLoaded', function () {
 							counter_ds = setting.lv > 2 ? `, <span class="${ds ? 'text-info' : ''}">${b(ds)} desa/kelurahan</span>` : '';
 						ELM.search.blur();
 						ELM.result_summary.innerHTML = findById ?
-							`<div>Menampilkan hasil pencarian wilayah dengan kode ${b(keyword)}</div>` :
+							`<div>Menampilkan hasil pencarian wilayah dengan kode <span class="text-info">${b(keyword)}</span></div>` :
 							`<div class="text-muted">Menemukan <span class="${pr ? 'text-info' : ''}">${b(pr)} provinsi</span>, <span class="${kb ? 'text-info' : ''}">${b(kb)} kabupaten/kota</span>${counter_kc}${counter_ds}.</div>`;
 						ELM.result_table_body.innerHTML = html;
 						ELM.result_table.style.display = '';
@@ -350,7 +350,7 @@ document.addEventListener('DOMContentLoaded', function () {
 			dialogClass: 'modal-sm',
 			title: 'Tentang',
 			body: /*html*/`
-				<div class="mb-3"><b class="fw-8">KODE</b><span class="fw-3 mr-15">WILAYAH</span>merupakan hasil renovasi <i>unofficial</i> dari website MFD Online BPS (<a href="https://mfdonline.bps.go.id/" target="_blank" class="text-primary">mfdonline.bps.go.id</a>). WebApp ini dikembangkan oleh <span class="fw-6">Muhammad Afifudin</span> — Staf IPDS BPS Kabupaten Kayong Utara. 😎</div>
+				<div class="mb-3"><b class="fw-8">KODE</b><span class="fw-3 mr-15">WILAYAH</span>merupakan hasil renovasi <i>unofficial</i> dari website MFD Online BPS (<a href="https://mfdonline.bps.go.id/" target="_blank" class="text-primary">mfdonline.bps.go.id</a>). WebApp ini dikembangkan oleh <span class="fw-6">Muhammad Afifudin</span> — Staf IPDS BPS Kabupaten Kayong Utara.</div>
 				<div><b class="fw-8">KODE</b><span class="fw-3 mr-15">WILAYAH</span>menghadirkan fitur pencarian kode atau nama wilayah kerja statistik BPS sampai tingkat desa/kelurahan. Terdapat juga fitur eksplorasi yang memungkinkan pengguna melihat hierarki wilayah dari tingkat provinsi sampai tingkat desa/kelurahan.</div>`,
 			btnCloseLabel: 'Tutup',
 			btnClass: 'd-none',
