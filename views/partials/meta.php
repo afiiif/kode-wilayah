@@ -9,4 +9,4 @@
 	<meta property="og:site_name" content="Kode Wilayah Kerja Statistik BPS">
 	<meta property="og:type" content="website">
 	<meta property="og:description" content="Sistem Pencarian Kode atau Nama Wilayah Kerja Statistik BPS">
-	<meta property="og:image" content="<?= SITE ?>/kode-wilayah/assets/img/bps-kode-wilayah-og-img.png">
+	<meta property="og:image" content="<?= SITE ?>/kode-wilayah/assets/img/bps-kode-wilayah-og-img-v2.png">
