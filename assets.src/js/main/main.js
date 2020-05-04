@@ -347,11 +347,8 @@ document.addEventListener('DOMContentLoaded', function () {
 	// About
 	document.getElementById('about-btn').addEventListener('click', function () {
 		utils.modal.init({
-			dialogClass: 'modal-sm',
 			title: 'Tentang',
-			body: /*html*/`
-				<div class="mb-3"><b class="fw-8">KODE</b><span class="fw-3 mr-15">WILAYAH</span>merupakan hasil renovasi <i>unofficial</i> dari website MFD Online BPS (<a href="https://mfdonline.bps.go.id/" target="_blank" class="text-primary">mfdonline.bps.go.id</a>). WebApp ini dikembangkan oleh <span class="fw-6">Muhammad Afifudin</span> — Staf IPDS BPS Kabupaten Kayong Utara.</div>
-				<div><b class="fw-8">KODE</b><span class="fw-3 mr-15">WILAYAH</span>menghadirkan fitur pencarian kode atau nama wilayah kerja statistik BPS sampai tingkat desa/kelurahan. Terdapat juga fitur eksplorasi yang memungkinkan pengguna melihat hierarki wilayah dari tingkat provinsi sampai tingkat desa/kelurahan.</div>`,
+			body: document.getElementById('about').innerHTML,
 			btnCloseLabel: 'Tutup',
 			btnClass: 'd-none',
 		});

@@ -65,8 +65,13 @@
 		</div>
 	</main>
 
+	<section id="about" class="d-none">
+		<div class="mb-3"><b class="fw-8">KODE</b><span class="fw-3 mr-15">WILAYAH</span>merupakan aplikasi berbasis website (WebApp) hasil desain ulang <i>unofficial</i> dari website MFD Online BPS (<a href="https://mfdonline.bps.go.id/" target="_blank" class="text-primary">mfdonline.bps.go.id</a>). WebApp ini menghadirkan fitur pencarian kode atau nama wilayah kerja statistik BPS sampai tingkat desa/kelurahan. Terdapat juga fitur eksplorasi yang memungkinkan pengguna melihat hierarki wilayah dari tingkat provinsi sampai tingkat desa/kelurahan.</div>
+		<div>WebApp ini dikembangkan oleh <span class="fw-6">Muhammad Afifudin</span> — Staf IPDS BPS Kabupaten Kayong Utara. Masukan terkait fitur, atau pelaporan <i>bug</i> pada WebApp ini dapat disampaikan melalui email ke <span class="fw-7 text-info">muhammad.afifudin@bps.go.id</span></div>
+	</section>
+
 	<footer class="footer">
-		<a id="about-btn" class="p-2 px-md-3 text-reset" href="javascript:void(0)"><i class="fas fa-lightbulb mr-2" style="color: #ffc107;"></i>Tentang<b class="fw-8 text-primary ml-1">KODE</b><span class="fw-3 text-primary">WILAYAH</span></a>
+		<a id="about-btn" class="p-2 px-md-3 text-reset ml-auto" href="javascript:void(0)"><i class="fas fa-lightbulb mr-2" style="color: #ffc107;"></i>Tentang<b class="fw-8 text-primary ml-1">KODE</b><span class="fw-3 text-primary">WILAYAH</span></a>
 	</footer>
 
 	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
