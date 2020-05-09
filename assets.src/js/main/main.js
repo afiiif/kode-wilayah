@@ -200,8 +200,10 @@ document.addEventListener('DOMContentLoaded', function () {
 				ELM.search_tooltip.tooltip('hide');
 			}
 			else {
-				dbg('Bad keyword :(', 1);
-				ELM.search_tooltip.tooltip('show');
+				if (keyword) {
+					dbg('Bad keyword :(', 1);
+					ELM.search_tooltip.tooltip('show');
+				}
 				ELM.search.focus();
 			}
 		}
