@@ -14,6 +14,12 @@ function css_main() {
 		.pipe(sourcemaps.write('.'))
 		.pipe(gulp.dest('assets/css'));
 }
+function css_main_min() {
+	return gulp
+		.src('assets.src/scss/main.min.scss')
+		.pipe(sass({ outputStyle: 'compressed', includePaths: ['./assets.src/scss'] }).on('error', sass.logError))
+		.pipe(gulp.dest('assets/css'));
+}
 
 // Concat & minify JS
 function js_main() {
@@ -24,6 +30,14 @@ function js_main() {
 		.pipe(babel({ presets: ['@babel/env'] }).on('error', function (e) { console.log(e) }))
 		.pipe(uglify())
 		.pipe(sourcemaps.write('.'))
+		.pipe(gulp.dest('assets/js'));
+}
+function js_main_min() {
+	return gulp
+		.src(['assets.src/js/utilities.js', 'assets.src/js/main/**/*.js'])
+		.pipe(concat('main.min.js'))
+		.pipe(babel({ presets: ['@babel/env'] }).on('error', function (e) { console.log(e) }))
+		.pipe(uglify())
 		.pipe(gulp.dest('assets/js'));
 }
 
@@ -39,4 +53,5 @@ function watchFiles() {
 exports.css_main = css_main;
 exports.js_main = js_main;
 exports.watch = watchFiles;
+exports.build = gulp.series(css_main_min, js_main_min);
 exports.default = gulp.series(css_main, js_main);

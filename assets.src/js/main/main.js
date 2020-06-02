@@ -1,7 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
 
-	const ELM = {
-		body: document.getElementsByTagName('body')[0],
+	const $$ = {
 		search: document.getElementById('search'),
 		search_tooltip: $('#search-form-tooltip'),
 		result_loading: document.getElementById('result-loading'),
@@ -49,13 +48,13 @@ document.addEventListener('DOMContentLoaded', function () {
 
 			let params = (new URL(location.href)).searchParams;
 			if (params.get('q')) {
-				ELM.search.value = params.get('q');
+				$$.search.value = params.get('q');
 				document.getElementById('search-btn').click();
 			}
 			else if (params.get('explore')) {
 				document.getElementById('explore-btn').click();
 			}
-			else ELM.search.focus();
+			else $$.search.focus();
 		}
 
 		const error = err => {
@@ -86,29 +85,29 @@ document.addEventListener('DOMContentLoaded', function () {
 
 		if (typeof (Storage) !== 'undefined') {
 			if (localStorage.getItem('dark')) {
-				ELM.body.classList.add('dark-mode');
+				document.body.classList.add('dark-mode');
 				document.querySelector('meta[name="theme-color"]').setAttribute('content', '#202124');
 				setting.dark = true;
 			}
 			if (localStorage.getItem('prefix')) {
-				ELM.result_table_body.classList.add('with-prefix');
+				$$.result_table_body.classList.add('with-prefix');
 				setting.prefix = true;
 			}
 		}
 
-		const markInstance = new Mark(ELM.result_table_body);
+		const markInstance = new Mark($$.result_table_body);
 
-		ELM.search.addEventListener('keypress', function (e) {
-			ELM.search_tooltip.tooltip('hide');
+		$$.search.addEventListener('keypress', function (e) {
+			$$.search_tooltip.tooltip('hide');
 			if (e.which === 13) {
 				window.scrollTo(0, 0);
-				search(ELM.search.value);
+				search($$.search.value);
 			}
 		}, false);
-		ELM.search.addEventListener('blur', function () { ELM.search_tooltip.tooltip('hide'); }, false);
+		$$.search.addEventListener('blur', function () { $$.search_tooltip.tooltip('hide'); }, false);
 		document.getElementById('search-btn').addEventListener('click', function () {
 			window.scrollTo(0, 0);
-			search(ELM.search.value);
+			search($$.search.value);
 		}, false);
 		const search = keyword => {
 
@@ -175,36 +174,36 @@ document.addEventListener('DOMContentLoaded', function () {
 					if (pr + kb + kc + ds) {
 						let counter_kc = setting.lv > 1 ? `, <span class="${kc ? 'text-info' : ''}">${b(kc)} kecamatan</span>` : '',
 							counter_ds = setting.lv > 2 ? `, <span class="${ds ? 'text-info' : ''}">${b(ds)} desa/kelurahan</span>` : '';
-						ELM.search.blur();
-						ELM.result_summary.innerHTML = findById ?
+						$$.search.blur();
+						$$.result_summary.innerHTML = findById ?
 							`<div>Menampilkan hasil pencarian wilayah dengan kode <span class="text-info">${b(keyword)}</span></div>` :
 							`<div class="text-muted">Menemukan <span class="${pr ? 'text-info' : ''}">${b(pr)} provinsi</span>, <span class="${kb ? 'text-info' : ''}">${b(kb)} kabupaten/kota</span>${counter_kc}${counter_ds}.</div>`;
-						ELM.result_table_body.innerHTML = html;
-						ELM.result_table.style.display = '';
+						$$.result_table_body.innerHTML = html;
+						$$.result_table.style.display = '';
 						if (!findById) keys.forEach(a => markInstance.mark(a));
 					}
 					else {
-						ELM.result_summary.innerHTML = `<div class="text-danger text-center pt-45 pt-sm-5 pl-md-55"><div class="mb-4 fz-72 fz-sm-80"><span class="fa-stack animated animated-1s swing"><i class="fas icon-ban fa-stack-2x op-3"></i><i class="fas fa-map-marker-alt fa-stack-1x fz-80 fz-sm-96"></i></span></div>Tidak ada hasil untuk pencarian ${b(keyword)}</div>`;
+						$$.result_summary.innerHTML = `<div class="text-danger text-center pt-45 pt-sm-5 pl-md-55"><div class="mb-4 fz-72 fz-sm-80"><span class="fa-stack animated animated-1s swing"><i class="fas icon-ban fa-stack-2x op-3"></i><i class="fas fa-map-marker-alt fa-stack-1x fz-80 fz-sm-96"></i></span></div>Tidak ada hasil untuk pencarian ${b(keyword)}</div>`;
 					}
 
-					ELM.result_loading.style.display = 'none';
-					ELM.result_summary.style.display = '';
+					$$.result_loading.style.display = 'none';
+					$$.result_summary.style.display = '';
 
-				}, ELM.body.classList.contains('search-active') ? 200 : 600);
+				}, document.body.classList.contains('search-active') ? 200 : 600);
 
-				ELM.result_table.style.display = 'none';
-				ELM.result_summary.style.display = 'none';
-				ELM.result_loading.style.display = '';
-				ELM.body.classList.add('search-active');
+				$$.result_table.style.display = 'none';
+				$$.result_summary.style.display = 'none';
+				$$.result_loading.style.display = '';
+				document.body.classList.add('search-active');
 				$('#result').slideDown();
-				ELM.search_tooltip.tooltip('hide');
+				$$.search_tooltip.tooltip('hide');
 			}
 			else {
 				if (keyword) {
 					dbg('Bad keyword :(', 1);
-					ELM.search_tooltip.tooltip('show');
+					$$.search_tooltip.tooltip('show');
 				}
-				ELM.search.focus();
+				$$.search.focus();
 			}
 		}
 
@@ -214,7 +213,7 @@ document.addEventListener('DOMContentLoaded', function () {
 			document.getElementById('setting-btn').classList[setting.lv === '3' && setting.pr.length === 0 || setting.pr.length === 34 ? 'remove' : 'add']('text-success');
 		}
 		document.getElementById('setting-btn').addEventListener('click', function () {
-			ELM.search_tooltip.tooltip('hide');
+			$$.search_tooltip.tooltip('hide');
 			let { lv, pr, dark, prefix } = setting;
 			utils.modal.init({
 				title: 'Pengaturan',
@@ -256,10 +255,10 @@ document.addEventListener('DOMContentLoaded', function () {
 				show: () => {
 					document.getElementById('dark-mode-toggle').addEventListener('change', function (e) {
 						if (this.checked) {
-							ELM.body.classList.add('dark-mode');
+							document.body.classList.add('dark-mode');
 							document.querySelector('meta[name="theme-color"]').setAttribute('content', '#202124');
 						} else {
-							ELM.body.classList.remove('dark-mode');
+							document.body.classList.remove('dark-mode');
 							document.querySelector('meta[name="theme-color"]').setAttribute('content', '#1572e8');
 						}
 					}, false);
@@ -275,21 +274,21 @@ document.addEventListener('DOMContentLoaded', function () {
 					dbg(setting);
 				},
 				hide: () => {
-					if (ELM.result_summary.style.display === '') search(ELM.search.value);
+					if ($$.result_summary.style.display === '') search($$.search.value);
 					if (setting.dark) {
-						ELM.body.classList.add('dark-mode');
+						document.body.classList.add('dark-mode');
 						document.querySelector('meta[name="theme-color"]').setAttribute('content', '#202124');
 						if (typeof (Storage) !== 'undefined') localStorage.setItem('dark', 1);
 					} else {
-						ELM.body.classList.remove('dark-mode');
+						document.body.classList.remove('dark-mode');
 						document.querySelector('meta[name="theme-color"]').setAttribute('content', '#1572e8');
 						if (typeof (Storage) !== 'undefined') localStorage.removeItem('dark');
 					}
 					if (setting.prefix) {
-						ELM.result_table_body.classList.add('with-prefix');
+						$$.result_table_body.classList.add('with-prefix');
 						if (typeof (Storage) !== 'undefined') localStorage.setItem('prefix', 1);
 					} else {
-						ELM.result_table_body.classList.remove('with-prefix');
+						$$.result_table_body.classList.remove('with-prefix');
 						if (typeof (Storage) !== 'undefined') localStorage.removeItem('prefix');
 					}
 				},
@@ -300,22 +299,22 @@ document.addEventListener('DOMContentLoaded', function () {
 	// Explore
 	document.getElementById('explore-btn').addEventListener('click', function () {
 		window.scrollTo(0, 0);
-		ELM.search.value = '';
-		ELM.result_summary.style.display = 'none';
-		ELM.result_table.style.display = 'none';
-		ELM.result_loading.style.display = '';
-		ELM.search_tooltip.tooltip('hide');
+		$$.search.value = '';
+		$$.result_summary.style.display = 'none';
+		$$.result_table.style.display = 'none';
+		$$.result_loading.style.display = '';
+		$$.search_tooltip.tooltip('hide');
 		setTimeout(() => {
-			ELM.result_table_body.innerHTML = mfd.map((a, i) => `<tr class="lv-0 toggle toggle-explore" data-i="${i}" data-j="" data-k="" data-fid="${a.full_id}"><td><b>${a.id}</b></td><td>${a.name}</td></tr>`).join('');
-			ELM.result_loading.style.display = 'none';
-			ELM.result_table.style.display = '';
-		}, ELM.body.classList.contains('search-active') ? 200 : 600);
-		ELM.body.classList.add('search-active');
+			$$.result_table_body.innerHTML = mfd.map((a, i) => `<tr class="lv-0 toggle toggle-explore" data-i="${i}" data-j="" data-k="" data-fid="${a.full_id}"><td><b>${a.id}</b></td><td>${a.name}</td></tr>`).join('');
+			$$.result_loading.style.display = 'none';
+			$$.result_table.style.display = '';
+		}, document.body.classList.contains('search-active') ? 200 : 600);
+		document.body.classList.add('search-active');
 		$('#result').slideDown();
 	}, false);
 
 	// Toggle
-	ELM.result_table_body.addEventListener('click', function (e) {
+	$$.result_table_body.addEventListener('click', function (e) {
 		for (var target = e.target; target && target != this; target = target.parentNode) {
 			if (target.matches('tr')) {
 				let d = target.dataset;
@@ -340,7 +339,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	}, false);
 
 	// Tooltip
-	ELM.search_tooltip.tooltip({
+	$$.search_tooltip.tooltip({
 		title: 'Gunakan kata kunci yang lebih spesifik',
 		trigger: 'manual',
 		placement: 'bottom',
@@ -358,7 +357,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 	// Shortcut
 	document.addEventListener('keypress', function (e) {
-		if (e.target !== ELM.search && e.key.toLocaleLowerCase() === 'f') ELM.search.select();
+		if (e.target !== $$.search && e.key.toLocaleLowerCase() === 'f') $$.search.select();
 	});
 
 });
