@@ -2,10 +2,21 @@
 <html lang="en" class="h-100">
 
 <head>
-<?php include 'views/partials/meta.php'; ?>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="author" content="Muhammad Afifudin">
+	<meta name="description" content="KodeWilayah merupakan aplikasi berbasis website (WebApp) hasil desain ulang unofficial dari website MFD Online BPS. WebApp ini menghadirkan fitur pencarian kode atau nama wilayah kerja statistik BPS sampai tingkat desa/kelurahan. Terdapat juga fitur eksplorasi yang memungkinkan pengguna melihat hierarki wilayah dari tingkat provinsi sampai tingkat desa/kelurahan.">
+	<meta name="keywords" content="BPS, Badan Pusat Statistik, WebApp, Webapps, MFD, Master File Desa, Online, Redesign, Kode Wilayah, Administrasi, Indonesia, Provinsi, Kecamatan, Desa">
+	<meta name="theme-color" content="#1572e8">
+	<link rel="shortcut icon" href="assets/img/kode-wilayah-icon.png" type="image/x-icon">
+	<meta property="og:site_name" content="Kode Wilayah Kerja Statistik BPS">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="KodeWilayah merupakan aplikasi berbasis website (WebApp) hasil desain ulang unofficial dari website MFD Online BPS. WebApp ini menghadirkan fitur pencarian kode atau nama wilayah kerja statistik BPS sampai tingkat desa/kelurahan. Terdapat juga fitur eksplorasi yang memungkinkan pengguna melihat hierarki wilayah dari tingkat provinsi sampai tingkat desa/kelurahan.">
+	<meta property="og:image" content="https://afiiif.github.io/kode-wilayah/assets/img/bps-kode-wilayah-og-img-v2.png">
 	<meta property="og:title" content="Kode Wilayah · Cari nama atau kode wilayah dengan lebih mudah!">
-	<meta property="og:url" content="<?= SITE . PATH ?>/">
-	<base href="<?= SITE ?>/kode-wilayah/">
+	<meta property="og:url" content="https://afiiif.github.io/kode-wilayah/">
+	<base href="https://afiiif.github.io/kode-wilayah/">
 	<title>Kode Wilayah · Cari nama atau kode wilayah dengan lebih mudah!</title>
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
@@ -14,15 +25,27 @@
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.2/css/bootstrap-select.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
-	<link rel="stylesheet" href="../spk/lib/atlantis-lite/mod-2/atlantis.mod.css">
-	<link rel="stylesheet" href="assets/css/main<?= SITE === 'http://localhost' || $_GET['debug'] == 1 ? '' : '.min' ?>.css?v=<?php include 'views/partials/_version.php'; ?>">
+	<link rel="stylesheet" href="lib/atlantis-lite/mod-2/atlantis.mod.css">
+	<link rel="stylesheet" href="assets/css/main.css?v=1.5.0">
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 
 <body>
 
-<?php include 'views/partials/modal.php'; ?>
+	<div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="modal-title" aria-hidden="true">
+		<div class="modal-dialog" id="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="modal-title"></h5>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Batal"><span aria-hidden="true">&times;</span></button>
+				</div>
+				<div class="modal-body" id="modal-body"></div>
+				<div class="border-top text-danger text-right" id="modal-error" style="display: none;"></div>
+				<div class="modal-footer" id="modal-footer"></div>
+			</div>
+		</div>
+	</div>
 
 	<header class="header bg-primary-gradient pb-6">
 		<nav class="p-a p-md-3">
@@ -80,9 +103,9 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.3.0/jszip.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip-utils/0.1.0/jszip-utils.min.js"></script>
-	<script src="assets/js/main<?= SITE === 'http://localhost' || $_GET['debug'] == 1 ? '' : '.min' ?>.js?v=<?php include 'views/partials/_version.php'; ?>"></script>
+	<script src="assets/js/main.js?v=1.5.0"></script>
 	<script>
-		const DEV = <?= json_encode(SITE === 'http://localhost' || $_GET['debug'] == 1) ?>, FILE = 'mfd-20200429';
+		const DEV = false, FILE = 'mfd-20200429';
 	</script>
 
 </body>
