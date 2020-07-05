@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 		const error = err => {
 			console.error(err);
-			document.getElementById('loading').innerHTML = '<div class="animated animated-1s swing"><i class="icon-exclamation mr-35"></i>Terjadi kesalahan :(</div><div class="animated fast fadeInUp delay-1s fz-14 fw-4 mt-45 px-a"><div class="fz-20">Silakan coba refresh halaman ini.</div>Jika masih terjadi masalah, hubungi Admin (<span class="text-warning">muhammad.afifudin@bps.go.id</span>)</div>';
+			document.getElementById('loading').innerHTML = '<div class="animated animated-1s swing"><i class="icon-exclamation mr-35"></i>Terjadi kesalahan :(</div><div class="animated fast fadeInUp delay-1s fz-14 fw-4 mt-45 px-a"><div class="fz-20">Silakan coba refresh halaman ini.</div>Jika masih terjadi masalah, hubungi developer situs ini melalui <a href="https://github.com/afiiif/kode-wilayah/issues" class="text-warning">GitHub</a>.</div>';
 			document.getElementsByTagName('header')[0].className = 'header bg-danger-gradient pb-6';
 		}
 
