@@ -6,17 +6,16 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="author" content="Muhammad Afifudin">
-	<meta name="description" content="KodeWilayah merupakan aplikasi berbasis website (WebApp) hasil desain ulang unofficial dari website MFD Online BPS. WebApp ini menghadirkan fitur pencarian kode atau nama wilayah kerja statistik BPS sampai tingkat desa/kelurahan. Terdapat juga fitur eksplorasi yang memungkinkan pengguna melihat hierarki wilayah dari tingkat provinsi sampai tingkat desa/kelurahan.">
-	<meta name="keywords" content="BPS, Badan Pusat Statistik, WebApp, Webapps, MFD, Master File Desa, Online, Redesign, Kode Wilayah, Administrasi, Indonesia, Provinsi, Kecamatan, Desa">
+	<meta name="description" content="KodeWilayah merupakan situs pencari nama dan kode wilayah yang bersifat tidak resmi (unofficial), hasil redesain dari situs resmi MFD Online Badan Pusat Statistik (BPS). Data nama dan kode wilayah pada situs ini diambil dari situs resmi MFD Online BPS (mfdonline.bps.go.id) pada bulan April 2020. Situs ini menghadirkan fitur pencarian kode atau nama wilayah kerja statistik BPS sampai tingkat desa/kelurahan. Terdapat juga fitur eksplorasi yang memungkinkan pengguna melihat hierarki wilayah dari tingkat provinsi sampai tingkat desa/kelurahan.">
+	<meta name="keywords" content="Kode Wilayah, Administrasi, Indonesia, Provinsi, Kota, Kabupaten, Kecamatan, Desa, Kelurahan, Wilkerstat, Daftar Kode, BPS, Badan Pusat Statistik, MFD Online, Master File Desa, Redesain">
 	<meta name="theme-color" content="#1572e8">
 	<link rel="shortcut icon" href="assets/img/kode-wilayah-icon.png" type="image/x-icon">
-	<meta property="og:site_name" content="Kode Wilayah Kerja Statistik BPS">
+	<meta property="og:site_name" content="Kode Wilayah BPS (unofficial)">
 	<meta property="og:type" content="website">
-	<meta property="og:description" content="KodeWilayah merupakan aplikasi berbasis website (WebApp) hasil desain ulang unofficial dari website MFD Online BPS. WebApp ini menghadirkan fitur pencarian kode atau nama wilayah kerja statistik BPS sampai tingkat desa/kelurahan. Terdapat juga fitur eksplorasi yang memungkinkan pengguna melihat hierarki wilayah dari tingkat provinsi sampai tingkat desa/kelurahan.">
+	<meta property="og:description" content="KodeWilayah merupakan situs pencari nama dan kode wilayah yang bersifat tidak resmi (unofficial), hasil redesain dari situs resmi MFD Online Badan Pusat Statistik (BPS). Data nama dan kode wilayah pada situs ini diambil dari situs resmi MFD Online BPS (mfdonline.bps.go.id) pada bulan April 2020. Situs ini menghadirkan fitur pencarian kode atau nama wilayah kerja statistik BPS sampai tingkat desa/kelurahan. Terdapat juga fitur eksplorasi yang memungkinkan pengguna melihat hierarki wilayah dari tingkat provinsi sampai tingkat desa/kelurahan.">
 	<meta property="og:image" content="https://afiiif.github.io/kode-wilayah/assets/img/bps-kode-wilayah-og-img-v2.png">
 	<meta property="og:title" content="Kode Wilayah · Cari nama atau kode wilayah dengan lebih mudah!">
 	<meta property="og:url" content="https://afiiif.github.io/kode-wilayah/">
-	<base href="https://afiiif.github.io/kode-wilayah/">
 	<title>Kode Wilayah · Cari nama atau kode wilayah dengan lebih mudah!</title>
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
@@ -26,7 +25,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.2/css/bootstrap-select.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 	<link rel="stylesheet" href="lib/atlantis-lite/mod-2/atlantis.mod.css">
-	<link rel="stylesheet" href="assets/css/main.css?v=1.5.0">
+	<link rel="stylesheet" href="assets/css/main.min.css?v=1.5.1">
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
@@ -66,6 +65,9 @@
 		<div id="explore-wrapper" class="explore-wrapper d-none"><!-- animated animated-1s bounceInUp delay-1s -->
 			<button type="button" id="explore-btn" class="btn p-2 text-white"><i class="icon-map"></i><span>Eksplor</span></button>
 		</div>
+		<div id="about-wrapper" class="about-wrapper d-none"><!-- animated animated-1s bounceInUp delay-1s -->
+			<a href="javascript:void(0)" class="about-btn text-white"><i class="icon-info mr-2"></i>Tentang</a>
+		</div>
 		<div id="loading" class="text-white text-center fz-32 fw-3 animated animated-1s fadeIn">
 			<i class="icon-refresh mr-35 fas fa-counter-spin"></i><div class="d-inline-block dotty" style="width: 141px;">Memuat</div>
 		</div>
@@ -89,12 +91,13 @@
 	</main>
 
 	<section id="about" class="d-none">
-		<div class="mb-3"><b class="fw-8">KODE</b><span class="fw-3 mr-15">WILAYAH</span>merupakan aplikasi berbasis website (WebApp) hasil desain ulang <i>unofficial</i> dari website MFD Online BPS (<a href="https://mfdonline.bps.go.id/" target="_blank" class="text-primary">mfdonline.bps.go.id</a>). WebApp ini menghadirkan fitur pencarian kode atau nama wilayah kerja statistik BPS sampai tingkat desa/kelurahan. Terdapat juga fitur eksplorasi yang memungkinkan pengguna melihat hierarki wilayah dari tingkat provinsi sampai tingkat desa/kelurahan.</div>
-		<div>WebApp ini dikembangkan oleh <span class="fw-6">Muhammad Afifudin</span> — Staf Seksi IPDS BPS Kabupaten Kayong Utara. Masukan terkait fitur, atau pelaporan <i>bug</i> pada WebApp ini dapat disampaikan melalui email ke <span class="fw-7 text-info">muhammad.afifudin@bps.go.id</span></div>
+		<div><b class="fw-8">KODE</b><span class="fw-3 mr-15">WILAYAH</span>merupakan situs pencari nama dan kode wilayah yang bersifat <b class="text-danger">tidak resmi (<i>unofficial</i>)</b>, hasil redesain dari situs resmi MFD Online Badan Pusat Statistik (BPS). Data nama dan kode wilayah pada situs ini diambil dari situs resmi MFD Online BPS pada bulan <span class="fw-6">April 2020</span>. Situs MFD Online BPS dapat diakses oleh publik secara gratis pada alamat <a href="https://mfdonline.bps.go.id/" target="_blank" class="text-primary">mfdonline.bps.go.id</a>.</div>
+		<div class="my-3">Situs ini menghadirkan fitur pencarian kode atau nama wilayah kerja statistik BPS sampai tingkat desa/kelurahan. Terdapat juga fitur eksplorasi yang memungkinkan pengguna melihat hierarki wilayah dari tingkat provinsi sampai tingkat desa/kelurahan.</div>
+		<div>Situs ini dikembangkan oleh <span class="fw-6">Muhammad Afifudin</span> — Mantan ASN BPS. Masukan terkait fitur, atau pelaporan <i>bug</i> pada situs ini dapat disampaikan melalui repositori GitHub pada alamat <a href="https://github.com/afiiif/kode-wilayah/issues" class="text-primary" target="_blank">github.com/afiiif/kode-wilayah</a>.</div>
 	</section>
 
 	<footer class="footer">
-		<a id="about-btn" class="p-2 px-md-3 text-reset ml-auto" href="javascript:void(0)"><i class="fas fa-lightbulb mr-2" style="color: #ffc107;"></i>Tentang<b class="fw-8 text-primary ml-1">KODE</b><span class="fw-3 text-primary">WILAYAH</span></a>
+		<a id="about-btn" class="about-btn p-2 px-md-3 text-reset ml-auto" href="javascript:void(0)"><i class="fas fa-lightbulb mr-2" style="color: #ffc107;"></i>Tentang<b class="fw-8 text-primary ml-1">KODE</b><span class="fw-3 text-primary">WILAYAH</span></a>
 	</footer>
 
 	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
@@ -103,7 +106,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.3.0/jszip.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip-utils/0.1.0/jszip-utils.min.js"></script>
-	<script src="assets/js/main.js?v=1.5.0"></script>
+	<script src="assets/js/main.min.js?v=1.5.1"></script>
 	<script>
 		const DEV = false, FILE = 'mfd-20200429';
 	</script>

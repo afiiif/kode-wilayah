@@ -69,6 +69,36 @@
             }
         }
     }
+
+    .about-wrapper {
+        position: absolute;
+        bottom: 18px;
+        left: 15px;
+        font-size: 18px;
+        transition: left .5s ease-in-out;
+        
+        >a {
+            opacity: .7;
+            text-decoration: none;
+            display: inline-block;
+            padding: 8px 0;
+
+            >i {
+                display: inline-block;
+            }
+
+            &:hover {
+                color: unset;
+                opacity: 1;
+
+                >i {
+                    animation-duration: 1s;
+                    animation-fill-mode: both;
+                    animation-name: rubberBand;
+                }
+            }
+        }
+    }
 }
 
 .search-active .header {
@@ -90,6 +120,10 @@
     .explore-wrapper {
         bottom: 55px;
         font-size: 12px;
+    }
+
+    .about-wrapper {
+        left: -100px;
     }
 
     @media (min-width: $breakpoint-md) {
