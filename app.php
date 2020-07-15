@@ -25,6 +25,11 @@ else if (PATH === '/kode-wilayah/update' && SITE === 'http://localhost') {
 	echo "<pre>$mfd</pre>"; die;
 }
 
+else if (PATH === '/kode-wilayah/generate-json') {
+	generateJson();
+	die;
+}
+
 else {
 	http_response_code(404);
 	include 'views/404.php';
