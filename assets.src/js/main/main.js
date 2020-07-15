@@ -9,35 +9,31 @@ document.addEventListener('DOMContentLoaded', function () {
 		result_table_body: document.getElementById('result-table-body'),
 	}
 
-	var mfd = [];
+	const mfd = [];
 
 	{
 		const success = text => {
-			dbg(`Success read ${FILE}.csv`, 0);
+			dbg(`Success read ${FILE}.txt`, 0);
 			let i = -1, j = -1, k = -1;
-			const getName = (a, b) => b[0] ? [a].concat(b).join(',').replace(/"/g, '') : a;
-			text.split('\n').forEach(a => {
-				let [full_id, name, ...name_contains_comma] = a.split(',');
+			text.split('\n').filter(Boolean).forEach(a => {
+				let [full_id, name] = a.split(' ~ '),
+					name_lc = name.toLowerCase();
 
 				if (full_id.length === 2) { // Provinsi
-					mfd.push({ id: full_id, parent_id: '', full_id, name: name.replace('Dki J', 'DKI J').replace('Di Y', 'DI Y'), name_lc: name.toLowerCase(), lv: 0, ch: [] });
+					mfd.push({ id: full_id, parent_id: '', full_id, name, name_lc, lv: 0, ch: [] });
 					i++; j = -1; k = -1;
 				}
 				else if (full_id.length === 4) { // Kabupaten/kota
-					name = getName(name, name_contains_comma);
 					let id = full_id.substr(2, 2);
-					mfd[i].ch.push({ kota: id > 70, id, parent_id: full_id.substr(0, 2), full_id, name, name_lc: name.toLowerCase(), lv: 1, ch: [] });
+					mfd[i].ch.push({ kota: id > 70, id, parent_id: full_id.substr(0, 2), full_id, name, name_lc, lv: 1, ch: [] });
 					j++; k = -1;
 				}
 				else if (full_id.length === 7) { // Kecamatan
-					name = getName(name, name_contains_comma);
-					mfd[i].ch[j].ch.push({ id: full_id.substr(4, 3), parent_id: full_id.substr(0, 4), full_id, name, name_lc: name.toLowerCase(), lv: 2, ch: [] });
+					mfd[i].ch[j].ch.push({ id: full_id.substr(4, 3), parent_id: full_id.substr(0, 4), full_id, name, name_lc, lv: 2, ch: [] });
 					k++;
 				}
 				else if (full_id.length === 10) { // Desa/Keluarahan
-					name = getName(name, name_contains_comma);
-					let id = full_id.substr(2, 2);
-					mfd[i].ch[j].ch[k].ch.push({ kota: id > 70, id: full_id.substr(7, 3), parent_id: full_id.substr(0, 7), full_id, name, name_lc: name.toLowerCase(), lv: 3 });
+					mfd[i].ch[j].ch[k].ch.push({ kota: full_id.substr(2, 2) > 70, id: full_id.substr(7, 3), parent_id: full_id.substr(0, 7), full_id, name, name_lc, lv: 3 });
 				}
 			});
 
@@ -64,9 +60,9 @@ document.addEventListener('DOMContentLoaded', function () {
 			document.getElementsByTagName('header')[0].className = 'header bg-danger-gradient pb-6';
 		}
 
-		dbg('Requesting zipped CSV...\nassets/csv/' + FILE, 2);
+		dbg('Requesting zip file...\nassets/txt/' + FILE, 2);
 		let promise = new JSZip.external.Promise(function (resolve, reject) {
-			JSZipUtils.getBinaryContent(`assets/csv/${FILE}.zip`, function (err, data) {
+			JSZipUtils.getBinaryContent(`assets/txt/${FILE}.zip`, function (err, data) {
 				if (err) reject(err);
 				else resolve(data);
 			});
@@ -75,14 +71,14 @@ document.addEventListener('DOMContentLoaded', function () {
 		promise.then(JSZip.loadAsync)
 			.then(function (zip) {
 				dbg(zip);
-				return zip.file(`${FILE}.csv`).async('string');
+				return zip.file(`${FILE}.txt`).async('string');
 			})
 			.then(success, error);
 	}
 
 	// Search
 	{
-		var setting = { lv: '3', pr: [], dark: false, prefix: false };
+		let setting = { lv: '3', pr: [], dark: false, prefix: false };
 
 		if (typeof (Storage) !== 'undefined') {
 			if (localStorage.getItem('mfd-dark')) {
@@ -111,6 +107,8 @@ document.addEventListener('DOMContentLoaded', function () {
 			search($$.search.value);
 		}, false);
 		const search = keyword => {
+
+			if (keyword === ':mfd') return console.info(mfd);
 
 			let keys = [...new Set(keyword.trim().toLowerCase().split(/[\s,]+/))].filter(a => a.length),
 				findById = keys.length === 1 && /^\d{2,10}$/.test(keys[0]);
@@ -322,7 +320,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 	// Toggle
 	$$.result_table_body.addEventListener('click', function (e) {
-		for (var target = e.target; target && target != this; target = target.parentNode) {
+		for (let target = e.target; target && target != this; target = target.parentNode) {
 			if (target.matches('tr')) {
 				let d = target.dataset;
 				dbg(d);

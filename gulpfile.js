@@ -5,6 +5,7 @@ const sass = require('gulp-sass');
 const concat = require('gulp-concat');
 const sourcemaps = require('gulp-sourcemaps');
 
+
 // Compile Sass
 function css_main() {
 	return gulp
@@ -40,6 +41,7 @@ function js_main_min() {
 		.pipe(uglify())
 		.pipe(gulp.dest('assets/js'));
 }
+
 
 // Watch files
 function watchFiles() {
