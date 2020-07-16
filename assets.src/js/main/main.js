@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		result_table_body: document.getElementById('result-table-body'),
 	}
 
-	const mfd = [];
+	const mfd = [], mfd_array = [];
 
 	{
 		const success = text => {
@@ -35,6 +35,8 @@ document.addEventListener('DOMContentLoaded', function () {
 				else if (full_id.length === 10) { // Desa/Keluarahan
 					mfd[i].ch[j].ch[k].ch.push({ kota: full_id.substr(2, 2) > 70, id: full_id.substr(7, 3), parent_id: full_id.substr(0, 7), full_id, name, name_lc, lv: 3 });
 				}
+
+				mfd_array.push({ full_id, name });
 			});
 
 			dbg(mfd);
@@ -151,8 +153,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
 					let html = '';
 					const getTr = ({ display, full_id, parent_id, id, name, lv, kota, match }) => {
-						if (display === 0) return `<tr${kota ? ' data-kota="1"' : ''} class="lv-${lv}" data-fid="${full_id}" data-parent="${parent_id}"><td>${parent_id}<b>${id}</b></td><td>${name}</td></tr$>`;
-						if (display === 1) return `<tr${kota ? ' data-kota="1"' : ''} class="lv-${lv} toggle toggle-expanded${match ? '' : ' unmark'}" data-fid="${full_id}" data-parent="${parent_id}"><td>${parent_id}<b>${id}</b></td><td>${name}</td></tr$>`;
+						if (display === 0) return `<tr${kota ? ' data-kota="1"' : ''} class="lv-${lv}" data-fid="${full_id}" data-parent="${parent_id}"><td>${parent_id}<b>${id}</b></td><td>${name}</td><td class="btn-detail"></td></tr>`;
+						if (display === 1) return `<tr${kota ? ' data-kota="1"' : ''} class="lv-${lv} toggle toggle-expanded${match ? '' : ' unmark'}" data-fid="${full_id}" data-parent="${parent_id}"><td>${parent_id}<b>${id}</b></td><td>${name}</td><td class="btn-detail"></td></tr>`;
 						return ``;
 					}
 					tree.forEach(a => {
@@ -310,7 +312,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		$$.result_loading.style.display = '';
 		$$.search_tooltip.tooltip('hide');
 		setTimeout(() => {
-			$$.result_table_body.innerHTML = mfd.map((a, i) => `<tr class="lv-0 toggle toggle-explore" data-i="${i}" data-j="" data-k="" data-fid="${a.full_id}"><td><b>${a.id}</b></td><td>${a.name}</td></tr>`).join('');
+			$$.result_table_body.innerHTML = mfd.map((a, i) => `<tr class="lv-0 toggle toggle-explore" data-i="${i}" data-j="" data-k="" data-fid="${a.full_id}"><td><b>${a.id}</b></td><td>${a.name}</td><td class="btn-detail"></td></tr>`).join('');
 			$$.result_loading.style.display = 'none';
 			$$.result_table.style.display = '';
 		}, document.body.classList.contains('search-active') ? 200 : 600);
@@ -318,9 +320,73 @@ document.addEventListener('DOMContentLoaded', function () {
 		$('#result').slideDown();
 	}, false);
 
-	// Toggle
+	// Popup
+	const openPopup = (fid = '') => {
+		dbg('Popup: ' + fid, 2);
+		const structure = [
+			{ id: fid.substr(0, 2), fid: fid.substr(0, 2), desc: 'Provinsi' },
+			{ id: fid.substr(2, 2), fid: fid.substr(0, 4), desc: fid.substr(2, 2) > 70 ? 'Kota' : 'Kabupaten' },
+			{ id: fid.substr(4, 3), fid: fid.substr(0, 7), desc: 'Kecamatan' },
+			{ id: fid.substr(7, 3), fid: fid.substr(0, 10), desc: 'Kelurahan/Desa' },
+		];
+		const childs = (() => {
+			if (!fid.length) return '...';
+			if (fid.length === 2) {
+				let total = [
+					mfd_array.filter(a => a.full_id.startsWith(fid) && a.full_id.length === 4 && a.full_id.substr(2, 2) < 70).length,
+					mfd_array.filter(a => a.full_id.startsWith(fid) && a.full_id.length === 4 && a.full_id.substr(2, 2) > 70).length,
+					mfd_array.filter(a => a.full_id.startsWith(fid) && a.full_id.length === 7).length,
+					mfd_array.filter(a => a.full_id.startsWith(fid) && a.full_id.length === 10).length,
+				].map(a => `<span class="fw-6">${a}</span>`);
+				return `Memiliki ${total[0]} kabupaten dan ${total[1]} kota, dengan total sebanyak ${total[2]} kecamatan dan ${total[3]} desa/kelurahan.`;
+			}
+			if (fid.length === 4) {
+				let total = [
+					mfd_array.filter(a => a.full_id.startsWith(fid) && a.full_id.length === 7).length,
+					mfd_array.filter(a => a.full_id.startsWith(fid) && a.full_id.length === 10).length,
+				].map(a => `<span class="fw-6">${a}</span>`);
+				return `Memiliki ${total[0]} kecamatan,<br>dengan total sebanyak ${total[1]} desa/kelurahan.`;
+			}
+			let total = mfd_array.filter(a => a.full_id.startsWith(fid) && a.full_id.length === 10).length;
+			return `Memiliki <span class="fw-6">${total}</span> desa/kelurahan.`;
+		})();
+		const nav = (() => {
+			let s = { 2: '', 4: fid.substr(0, 2), 7: fid.substr(0, 4) }[fid.length],
+				siblings = mfd_array.filter(a => a.full_id.startsWith(s) && a.full_id.length === fid.length).map(a => a.full_id),
+				i = siblings.findIndex(a => a === fid),
+				n = siblings.length;
+			return { prev: siblings[(n + i - 1) % n], next: siblings[(n + i + 1) % n] }
+		})();
+		utils.modal.init({
+			title: fid,
+			body: `
+				<div class="row row-5">${
+				structure.filter(a => a.id).map(a => {
+					const mfd_current = mfd_array.find(b => b.full_id === a.fid) || {};
+					return `<div class="col-sm-3 mb-sm-2 text-sm-right fz-12 fz-sm-14 text-gray">${a.desc}:</div><div class="col-sm-9 mb-25 mb-sm-2 fw-6">${mfd_current.full_id ? `<span class="mr-1">[${a.id}]</span> ${mfd_current.name}` : '<span class="text-gray mr-1">[NA]</span>-'}</div>`;
+				}).join('')}
+					<div class="col-sm-9 offset-sm-3">↳ <i class="text-info">${childs}</i></div>
+				</div>
+				<div class="border-top mx--3 mt-35 mb--25 px-3 pt-1 d-flex">
+					<a href="javascript:void(0)" id="mfd-prev" class="d-block w-100 py-2 text-success"><i class="fas fa-arrow-left"></i></a>
+					<a href="javascript:void(0)" id="mfd-next" class="d-block w-100 py-2 text-success text-right"><i class="fas fa-arrow-right"></i></a>
+				</div>`,
+			btnCloseLabel: 'Tutup',
+			btnClass: 'd-none',
+			show: () => {
+				document.getElementById('mfd-prev').addEventListener('click', function () { openPopup(nav.prev) }, false);
+				document.getElementById('mfd-next').addEventListener('click', function () { openPopup(nav.next) }, false);
+			}
+		});
+	}
+
+	// Toggle & Popup
 	$$.result_table_body.addEventListener('click', function (e) {
 		for (let target = e.target; target && target != this; target = target.parentNode) {
+			if (target.matches('.btn-detail')) {
+				openPopup(target.parentNode.dataset.fid);
+				break;
+			}
 			if (target.matches('tr')) {
 				let d = target.dataset;
 				dbg(d);
@@ -332,7 +398,7 @@ document.addEventListener('DOMContentLoaded', function () {
 					if (d.k.length) ch = mfd[d.i].ch[d.j].ch[d.k].ch;
 					else if (d.j.length) ch = mfd[d.i].ch[d.j].ch;
 					else ch = mfd[d.i].ch;
-					const getTr = ({ full_id, parent_id, id, name, lv, kota }, { i, j, k }) => `<tr${kota ? ' data-kota="1"' : ''} class="lv-${lv}${lv === 3 ? '' : ` toggle toggle-explore" data-i="${i}" data-j="${j}" data-k="${k}`}" data-fid="${full_id}" data-parent="${parent_id}"><td>${parent_id}<b>${id}</b></td><td>${name}</td></tr$>`;
+					const getTr = ({ full_id, parent_id, id, name, lv, kota }, { i, j, k }) => `<tr${kota ? ' data-kota="1"' : ''} class="lv-${lv}${lv === 3 ? '' : ` toggle toggle-explore" data-i="${i}" data-j="${j}" data-k="${k}`}" data-fid="${full_id}" data-parent="${parent_id}"><td>${parent_id}<b>${id}</b></td><td>${name}</td><td class="btn-detail"></td></tr>`;
 					target.outerHTML += ch.map((a, i) => getTr(a, d.j ? { ...d, k: i } : { ...d, j: i })).join('');
 					break;
 				}
@@ -364,7 +430,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 	// Shortcut
 	document.addEventListener('keypress', function (e) {
-		if (e.target !== $$.search && e.key.toLocaleLowerCase() === 'f') $$.search.select();
+		if (e.target !== $$.search && e.key.toLowerCase() === 'f') $$.search.select();
 	});
 
 });

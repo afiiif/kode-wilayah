@@ -63,8 +63,17 @@
             &:nth-child(2) {
                 position: relative;
                 padding-left: 8px;
-                padding-right: 77px;
+                padding-right: 82px;
 
+            }
+
+            &:nth-child(3) {
+                padding-left: 0;
+                opacity: .4;
+
+                &:hover {
+                    opacity: 1;
+                }
             }
 
             @media (min-width: $breakpoint-sm) {
@@ -154,7 +163,7 @@
             @include tr(0, 13px, 18px, #f25961, 23px, '(Provinsi)', 600);
             @include tr(1, 13px, 16px, #6861ce, 10px, '(Kabupaten)');
             @include tr(2, 12px, 14px, #23903c, 9px, '(Kecamatan)');
-            @include tr(3, 11px, 12px, #777, 8px, '(Desa)');
+            @include tr(3, 11px, 12px, #777, 8px, '(Desa/Kelurahan)');
         }
 
         tr.lv-0 {
@@ -171,13 +180,17 @@
             }
         }
 
+        tr.lv-3 td:nth-child(2)::after {
+            right: -8px;
+        }
+
         tr[data-kota].lv-1:hover>td:nth-child(2)::after {
             content: '(Kota)';
         }
 
-        tr[data-kota].lv-3:hover>td:nth-child(2)::after {
-            content: '(Kelurahan)';
-        }
+        // tr[data-kota].lv-3:hover>td:nth-child(2)::after {
+        //     content: '(Kelurahan)';
+        // }
 
         @media (min-width: $breakpoint-sm) {
 
@@ -228,6 +241,18 @@
 
     }
 
+    .btn-detail {
+        text-align: center;
+
+        &::before {
+            @include font-awesome("\f05a", relative);
+        }
+    }
+
+    tr.lv-3 .btn-detail::before {
+        display: none;
+    }
+
     .with-prefix {
 
         tr td:nth-child(2) {
@@ -243,7 +268,7 @@
             }
 
             &::after {
-                display: none;
+                display: none !important;
             }
         }
 
@@ -264,12 +289,12 @@
         }
 
         .lv-3 td:nth-child(2)::before {
-            content: 'Desa';
+            content: 'Desa/Kelurahan';
         }
 
-        [data-kota].lv-3 td:nth-child(2)::before {
-            content: 'Kelurahan';
-        }
+        // [data-kota].lv-3 td:nth-child(2)::before {
+        //     content: 'Kelurahan';
+        // }
 
     }
 

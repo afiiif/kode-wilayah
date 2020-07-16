@@ -6,7 +6,7 @@
 
 <h2 align="center">KODEWILAYAH</h2>
 
-**KODE**WILAYAH is an **unofficial** website to search name and code of administrative region for statistical work area (_wilayah kerja statistik_).
+**KODE**WILAYAH is an **unofficial** website to search name and code of administrative region in Indonesia. The name and code was designed by Badan Pusat Statistik (BPS), which is also known as _Master File Desa (MFD)_ or statistical work area (_wilayah kerja statistik_).
 
 ## Desclaimer
 The data provided in this website was obtained from the official website of MFD Online BPS ([mfdonline.bps.go.id](https://mfdonline.bps.go.id/)), which can be accessed by public for free.

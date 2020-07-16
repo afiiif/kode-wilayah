@@ -121,14 +121,14 @@
 @each $x,$bp in $breakpoints {
 
 	// Display
-	@each $a in (block, inline-block, flex, inline-flex) {
+	@each $a in (inline, block, inline-block, flex, inline-flex) {
 		.d--#{$x}-#{$a} { display: none !important; }
 	}
 
 	@media (min-width: $bp) {
 
 		// Display
-		@each $a in (block, inline-block, flex, inline-flex) {
+		@each $a in (inline, block, inline-block, flex, inline-flex) {
 			.d--#{$x}-#{$a} { display: #{$a} !important; }
 		}
 
