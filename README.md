@@ -32,3 +32,18 @@ This project does not provide any guarantee. The owner of this project accepts n
 | Name                                                        | Description               |
 | ----------------------------------------------------------- | ------------------------- |
 | [Atlantis Lite](https://github.com/themekita/Atlantis-Lite) | A free Bootstrap 4 theme. |
+
+## Getting Started
+
+Make sure you have installed [Node.js](https://nodejs.org/en/) and [Gulp.js](https://gulpjs.com/).
+
+Install dependencies:
+```
+npm install
+```
+
+You can start editing scss & js files in `src` folder.  
+To build css & js, run this command:
+```
+gulp build
+```
